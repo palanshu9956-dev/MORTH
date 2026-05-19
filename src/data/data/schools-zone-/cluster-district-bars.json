@@ -1,0 +1,160 @@
+{
+  "default": [
+    {
+      "title": "Cluster Severity Index",
+      "rows": [
+        { "label": "High", "value": 72 },
+        { "label": "Medium", "value": 119 },
+        { "label": "Low", "value": 126 }
+      ]
+    },
+    {
+      "title": "Crashes by Time",
+      "rows": [
+        { "label": "Morning", "value": 421 },
+        { "label": "Afternoon", "value": 469 },
+        { "label": "Evening", "value": 1094 }
+      ]
+    },
+    {
+      "title": "Crashes by Junction Type",
+      "rows": [
+        { "label": "Intersection Cross Road", "value": 458 },
+        { "label": "T-Junction", "value": 403 },
+        { "label": "Mid-Block", "value": 352 },
+        { "label": "Roundabout", "value": 209 }
+      ]
+    },
+    {
+      "title": "Crashes by Vehicle Pair",
+      "rows": [
+        { "label": "Bike + Car", "value": 492 },
+        { "label": "Car + Truck", "value": 386 },
+        { "label": "Bike + Pedestrian", "value": 343 },
+        { "label": "Auto + Bike", "value": 215 }
+      ]
+    }
+  ],
+  "states": {
+    "maharashtra": {
+      "districts": {
+        "mumbai": [
+          {
+            "title": "Cluster Severity Index",
+            "rows": [
+              { "label": "High", "value": 86 },
+              { "label": "Medium", "value": 142 },
+              { "label": "Low", "value": 157 }
+            ]
+          },
+          {
+            "title": "Crashes by Time",
+            "rows": [
+              { "label": "Morning", "value": 538 },
+              { "label": "Afternoon", "value": 571 },
+              { "label": "Evening", "value": 1310 }
+            ]
+          },
+          {
+            "title": "Crashes by Junction Type",
+            "rows": [
+              { "label": "Intersection Cross Road", "value": 564 },
+              { "label": "T-Junction", "value": 493 },
+              { "label": "Mid-Block", "value": 447 },
+              { "label": "Roundabout", "value": 249 }
+            ]
+          },
+          {
+            "title": "Crashes by Vehicle Pair",
+            "rows": [
+              { "label": "Bike + Car", "value": 609 },
+              { "label": "Car + Truck", "value": 471 },
+              { "label": "Bike + Pedestrian", "value": 428 },
+              { "label": "Auto + Bike", "value": 266 }
+            ]
+          }
+        ]
+      }
+    },
+    "uttarpradesh": {
+      "districts": {
+        "lucknow": [
+          {
+            "title": "Cluster Severity Index",
+            "rows": [
+              { "label": "High", "value": 79 },
+              { "label": "Medium", "value": 129 },
+              { "label": "Low", "value": 141 }
+            ]
+          },
+          {
+            "title": "Crashes by Time",
+            "rows": [
+              { "label": "Morning", "value": 486 },
+              { "label": "Afternoon", "value": 545 },
+              { "label": "Evening", "value": 1221 }
+            ]
+          },
+          {
+            "title": "Crashes by Junction Type",
+            "rows": [
+              { "label": "Intersection Cross Road", "value": 518 },
+              { "label": "T-Junction", "value": 468 },
+              { "label": "Mid-Block", "value": 401 },
+              { "label": "Roundabout", "value": 231 }
+            ]
+          },
+          {
+            "title": "Crashes by Vehicle Pair",
+            "rows": [
+              { "label": "Bike + Car", "value": 552 },
+              { "label": "Car + Truck", "value": 441 },
+              { "label": "Bike + Pedestrian", "value": 392 },
+              { "label": "Auto + Bike", "value": 248 }
+            ]
+          }
+        ]
+      }
+    },
+    "tamilnadu": {
+      "districts": {
+        "chennai": [
+          {
+            "title": "Cluster Severity Index",
+            "rows": [
+              { "label": "High", "value": 75 },
+              { "label": "Medium", "value": 121 },
+              { "label": "Low", "value": 134 }
+            ]
+          },
+          {
+            "title": "Crashes by Time",
+            "rows": [
+              { "label": "Morning", "value": 462 },
+              { "label": "Afternoon", "value": 498 },
+              { "label": "Evening", "value": 1150 }
+            ]
+          },
+          {
+            "title": "Crashes by Junction Type",
+            "rows": [
+              { "label": "Intersection Cross Road", "value": 488 },
+              { "label": "T-Junction", "value": 452 },
+              { "label": "Mid-Block", "value": 396 },
+              { "label": "Roundabout", "value": 214 }
+            ]
+          },
+          {
+            "title": "Crashes by Vehicle Pair",
+            "rows": [
+              { "label": "Bike + Car", "value": 528 },
+              { "label": "Car + Truck", "value": 416 },
+              { "label": "Bike + Pedestrian", "value": 384 },
+              { "label": "Auto + Bike", "value": 236 }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "summary": {
+    "total_length_processed": "NA",
+    "fatal_grievous_covered": 6104,
+    "blackspots": "NA",
+    "fg_coverage": 7773,
+    "total_school_zones": 950,
+    "total_accidents": 8862,
+    "accidents_age_6_18": 629,
+    "pedestrian_accidents": 2583
+  },
+  "agencies": [
+    {
+      "name": "Education Dept",
+      "length": "780.0",
+      "corridors": "41",
+      "accidents": "1,440",
+      "fatalities": "380"
+    },
+    {
+      "name": "Traffic Police",
+      "length": "625.0",
+      "corridors": "35",
+      "accidents": "1,215",
+      "fatalities": "292"
+    },
+    {
+      "name": "Urban Local Body",
+      "length": "420.0",
+      "corridors": "27",
+      "accidents": "920",
+      "fatalities": "241"
+    },
+    {
+      "name": "PWD",
+      "length": "320.0",
+      "corridors": "22",
+      "accidents": "655",
+      "fatalities": "154"
+    }
+  ],
+  "rankings": [
+    {
+      "title": "Top School Zones (Accidents)",
+      "rows": [
+        {
+          "name": "green fields public high school",
+          "value": 113
+        },
+        {
+          "name": "r s international school",
+          "value": 91
+        },
+        {
+          "name": "st. anselm's senior secondary school",
+          "value": 90
+        }
+      ]
+    },
+    {
+      "title": "Top Districts (School Zones)",
+      "rows": [
+        {
+          "name": "MUMBAI CITY",
+          "value": 41
+        },
+        {
+          "name": "VELLORE",
+          "value": 35
+        },
+        {
+          "name": "DARRANG",
+          "value": 32
+        },
+        {
+          "name": "JHUNJHUNU",
+          "value": 32
+        },
+        {
+          "name": "AGRA",
+          "value": 31
+        },
+        {
+          "name": "JALGAON",
+          "value": 30
+        },
+        {
+          "name": "PRAYAGRAJ",
+          "value": 29
+        },
+        {
+          "name": "THANE CITY",
+          "value": 27
+        },
+        {
+          "name": "DHULE",
+          "value": 24
+        },
+        {
+          "name": "LAKHIMPUR",
+          "value": 24
+        }
+      ]
+    }
+  ],
+
+  "school_zone_metrics": [
+    {
+      "accidents_per_buffer": [
+        {
+          "label": "0-10",
+          "value": 656
+        },
+        {
+          "label": "11-20",
+          "value": 166
+        },
+        {
+          "label": "21-30",
+          "value": 48
+        },
+        {
+          "label": "31-40",
+          "value": 19
+        },
+        {
+          "label": "41-50",
+          "value": 14
+        },
+        {
+          "label": "51-60",
+          "value": 3
+        },
+        {
+          "label": "61-70",
+          "value": 4
+        },
+        {
+          "label": "71-80",
+          "value": 4
+        },
+        {
+          "label": "81-90",
+          "value": 1
+        },
+        {
+          "label": "91-100+",
+          "value": 2
+        }
+      ]
+    }
+  ],
+  
+  "bars": [
+    {
+      "title": "Accidents (Age 6-18)",
+      "rows": [
+        {
+          "label": "morning star english school",
+          "value": 8
+        },
+        {
+          "label": "shree ram international school",
+          "value": 7
+        },
+        {
+          "label": "cardinal gracias high school",
+          "value": 7
+        },
+        {
+          "label": "gundavali mumbai public school",
+          "value": 6
+        },
+        {
+          "label": "government high school",
+          "value": 6
+        },
+        {
+          "label": "shoolagiri boys school",
+          "value": 6
+        },
+        {
+          "label": "holy angels pre-primary school",
+          "value": 5
+        },
+        {
+          "label": "islamiya school",
+          "value": 5
+        },
+        {
+          "label": "jay ashoka bal vidhya mandir sec school,nayapura",
+          "value": 5
+        },
+        {
+          "label": "perangiyur school",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "title": "Time Window Accidents",
+      "rows": [
+        {
+          "label": "07:00-09:00 (Morning)",
+          "value": 1060
+        },
+        {
+          "label": "10:00-13:00 (Mid-Day)",
+          "value": 1757
+        },
+        {
+          "label": "14:00-16:00 (Afternoon)",
+          "value": 1370
+        },
+        {
+          "label": "Other (Off-Hours)",
+          "value": 4675
+        }
+      ]
+    },
+    {
+      "title": "Pedestrian Accidents",
+      "rows": [
+        {
+          "label": "morning star english school",
+          "value": 35
+        },
+        {
+          "label": "holy angels pre-primary school",
+          "value": 28
+        },
+        {
+          "label": "npr matriculation higher sec school",
+          "value": 27
+        },
+        {
+          "label": "cardinal gracias high school",
+          "value": 25
+        },
+        {
+          "label": "indian academy national public school",
+          "value": 23
+        },
+        {
+          "label": "government school",
+          "value": 20
+        },
+        {
+          "label": "gundavali mumbai public school",
+          "value": 20
+        },
+        {
+          "label": "modern public hr.sec school",
+          "value": 18
+        },
+        {
+          "label": "jay ashoka bal vidhya mandir sec school,nayapura",
+          "value": 17
+        },
+        {
+          "label": "r s international school",
+          "value": 17
+        }
+      ]
+    },
+    {
+      "title": "Time Window Accidents",
+      "rows": [
+        {
+          "label": "Morning",
+          "value": 2120
+        },
+        {
+          "label": "Afternoon",
+          "value": 2262
+        },
+        {
+          "label": "Evening",
+          "value": 4480
+        }
+      ]
+    },
+    {
+      "title": "Crashes by Junction Type",
+      "rows": [
+        {
+          "label": "T – Junction",
+          "value": 16
+        },
+        {
+          "label": "Y – Junction",
+          "value": 13
+        },
+        {
+          "label": "Staggered",
+          "value": 8
+        },
+        {
+          "label": "Four-arm Square Junction",
+          "value": 6
+        },
+        {
+          "label": "Four-arm Cross  Junction",
+          "value": 4
+        },
+        {
+          "label": "Roundabout",
+          "value": 2
+        },
+        {
+          "label": "Elevated Junction (3- arm / 4-arm)",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "title": "Crashes by Vehicle Pair",
+      "rows": [
+        {
+          "label": "Scooter + Side Car",
+          "value": 996
+        },
+        {
+          "label": "Auto Rickshaw + Scooter",
+          "value": 602
+        },
+        {
+          "label": "Goods Carriage + Scooter",
+          "value": 400
+        },
+        {
+          "label": "Auto Rickshaw + Side Car",
+          "value": 282
+        },
+        {
+          "label": "Scooter + Three Wheeler",
+          "value": 185
+        },
+        {
+          "label": "Scooter + Tourist Motor Cab",
+          "value": 115
+        },
+        {
+          "label": "Goods Carriage + Side Car",
+          "value": 91
+        },
+        {
+          "label": "Moped + Scooter",
+          "value": 88
+        },
+        {
+          "label": "Moped + Side Car",
+          "value": 64
+        },
+        {
+          "label": "Auto Rickshaw + Three Wheeler",
+          "value": 56
+        }
+      ]
+    }
+  ]
+}

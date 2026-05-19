@@ -1,0 +1,123 @@
+/* Map Container */
+.map-container {
+  width: 100%;
+  height: 100%;
+  background-color: #e8f4f8;
+  position: relative;
+}
+
+.map-container .leaflet-container {
+  background-color: #e8f4f8;
+}
+
+/* Leaflet customizations */
+.leaflet-control-zoom {
+  margin-right: 15px !important;
+  margin-top: 15px !important;
+}
+
+.leaflet-control-zoom-in,
+.leaflet-control-zoom-out {
+  background-color: white !important;
+  color: #1976d2 !important;
+  border: 1px solid #ddd !important;
+  border-radius: 4px !important;
+  font-weight: bold !important;
+  width: 36px !important;
+  height: 36px !important;
+  line-height: 36px !important;
+  text-align: center !important;
+  font-size: 18px !important;
+}
+
+.leaflet-control-zoom-in:hover,
+.leaflet-control-zoom-out:hover {
+  background-color: #f5f5f5 !important;
+  color: #0d47a1 !important;
+}
+
+/* Map Count Labels */
+.map-count-label {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  padding: 0;
+  font-size: 10px;
+  font-weight: 600;
+  box-shadow: none;
+}
+
+.map-count-label .label-name {
+  color: #000000;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.map-count-label .label-count {
+  color: #000000;
+  font-weight: 700;
+  font-size: 11px;
+}
+
+.map-district-label {
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  padding: 0;
+  box-shadow: none;
+  text-align: center;
+  pointer-events: none;
+}
+
+.map-district-label .district-label-name {
+  display: block;
+  font-size: 10px;
+  font-weight: 700;
+  color: #3c3f49;
+  line-height: 1.2;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  max-width: 108px;
+}
+
+/* State Hover Tooltip */
+.state-hover-tooltip {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.state-hover-card {
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  min-width: 200px;
+}
+
+.state-card-title {
+  font-weight: 700;
+  color: #1a1a2e;
+  margin-bottom: 8px;
+  display: block;
+  font-size: 14px;
+}
+
+.state-card-row {
+  font-size: 12px;
+  color: #555;
+  margin: 4px 0;
+  line-height: 1.4;
+}
+
+@media (max-width: 768px) {
+  .map-container {
+    min-height: 400px;
+  }
+}

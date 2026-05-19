@@ -1,0 +1,559 @@
+{
+  "summary": {
+    "total_length_processed": "NA",
+    "fatal_grievous_covered": 6038,
+    "blackspots": "NA",
+    "fg_coverage": 7773,
+    "total_school_zones": 950,
+    "total_accidents": 8862,
+    "accidents_age_6_18": 629,
+    "pedestrian_accidents": 2583
+  },
+  "agencies": [
+    {
+      "name": "Education Dept",
+      "length": "780.0",
+      "corridors": "41",
+      "accidents": "1,440",
+      "fatalities": "380"
+    },
+    {
+      "name": "Traffic Police",
+      "length": "625.0",
+      "corridors": "35",
+      "accidents": "1,215",
+      "fatalities": "292"
+    },
+    {
+      "name": "Urban Local Body",
+      "length": "420.0",
+      "corridors": "27",
+      "accidents": "920",
+      "fatalities": "241"
+    },
+    {
+      "name": "PWD",
+      "length": "320.0",
+      "corridors": "22",
+      "accidents": "655",
+      "fatalities": "154"
+    }
+  ],
+  "rankings": [
+    {
+      "title": "Top School Zones (Accidents)",
+      "rows": [
+        {
+          "name": "green fields public high school",
+          "value": 113
+        },
+        {
+          "name": "r s international school",
+          "value": 91
+        },
+        {
+          "name": "st. anselm's senior secondary school",
+          "value": 90
+        }
+      ]
+    },
+    {
+      "title": "Top Districts (School Zones)",
+      "rows": [
+        {
+          "name": "MUMBAI CITY",
+          "value": 41
+        },
+        {
+          "name": "VELLORE",
+          "value": 35
+        },
+        {
+          "name": "DARRANG",
+          "value": 32
+        },
+        {
+          "name": "JHUNJHUNU",
+          "value": 32
+        },
+        {
+          "name": "AGRA",
+          "value": 31
+        },
+        {
+          "name": "JALGAON",
+          "value": 30
+        },
+        {
+          "name": "PRAYAGRAJ",
+          "value": 29
+        },
+        {
+          "name": "THANE CITY",
+          "value": 27
+        },
+        {
+          "name": "DHULE",
+          "value": 24
+        },
+        {
+          "name": "LAKHIMPUR",
+          "value": 24
+        }
+      ]
+    }
+  ],
+  "bars": [
+    {
+      "title": "Distribution of accidents mapped to school",
+      "rows": [
+        {
+          "label": "1-10",
+          "value": 656
+        },
+        {
+          "label": "11-20",
+          "value": 166
+        },
+        {
+          "label": "21-30",
+          "value": 48
+        },
+        {
+          "label": "31-40",
+          "value": 19
+        },
+        {
+          "label": "41-50",
+          "value": 14
+        },
+        {
+          "label": "51-60",
+          "value": 3
+        },
+        {
+          "label": "61-70",
+          "value": 4
+        },
+        {
+          "label": "71-80",
+          "value": 4
+        },
+        {
+          "label": "81-90",
+          "value": 1
+        },
+        {
+          "label": "91-100+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "title": "Accidents by Age Group",
+      "rows": [
+        {
+          "label": "0-5 Years",
+          "value": 148
+        },
+        {
+          "label": "6-18 Years",
+          "value": 629
+        },
+        {
+          "label": "19-35 Years",
+          "value": 4428
+        },
+        {
+          "label": "36-60 Years",
+          "value": 4268
+        },
+        {
+          "label": "60+ Years",
+          "value": 797
+        },
+        {
+          "label": "Missing",
+          "value": 80
+        }
+      ]
+    },
+    {
+      "title": "Accidents by Time Window",
+      "rows": [
+        {
+          "label": "Morning 5 am-10 am",
+          "value": 1458
+        },
+        {
+          "label": "Afternoon 10 am-4 pm",
+          "value": 2654
+        },
+        {
+          "label": "Evening 4 pm-8 pm",
+          "value": 2170
+        },
+        {
+          "label": "Night 8 pm-5 am",
+          "value": 2580
+        }
+      ]
+    },
+    {
+      "title": "Distribution of accidents mapped to schools",
+      "rows": [
+        {
+          "label": "0-10",
+          "value": 656
+        },
+        {
+          "label": "11-20",
+          "value": 166
+        },
+        {
+          "label": "21-30",
+          "value": 48
+        },
+        {
+          "label": "31-40",
+          "value": 19
+        },
+        {
+          "label": "41-50",
+          "value": 14
+        },
+        {
+          "label": "51-60",
+          "value": 3
+        },
+        {
+          "label": "61-70",
+          "value": 4
+        },
+        {
+          "label": "71-80",
+          "value": 4
+        },
+        {
+          "label": "81-90",
+          "value": 1
+        },
+        {
+          "label": "91-100+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "title": "Accidents by Junction Type",
+      "rows": [
+        {
+          "label": "T – Junction",
+          "value": 16
+        },
+        {
+          "label": "Y – Junction",
+          "value": 13
+        },
+        {
+          "label": "Staggered",
+          "value": 8
+        },
+        {
+          "label": "Four-arm Square Junction",
+          "value": 6
+        },
+        {
+          "label": "Four-arm Cross  Junction",
+          "value": 4
+        },
+        {
+          "label": "Roundabout",
+          "value": 2
+        },
+        {
+          "label": "Elevated Junction (3- arm / 4-arm)",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "title": "Accidents by Vehicle Pair",
+      "rows": [
+        {
+          "label": "Scooter + Side Car",
+          "value": 996
+        },
+        {
+          "label": "Auto Rickshaw + Scooter",
+          "value": 602
+        },
+        {
+          "label": "Goods Carriage + Scooter",
+          "value": 400
+        },
+        {
+          "label": "Auto Rickshaw + Side Car",
+          "value": 282
+        },
+        {
+          "label": "Scooter + Three Wheeler",
+          "value": 185
+        },
+        {
+          "label": "Scooter + Tourist Motor Cab",
+          "value": 115
+        },
+        {
+          "label": "Goods Carriage + Side Car",
+          "value": 91
+        },
+        {
+          "label": "Moped + Scooter",
+          "value": 88
+        },
+        {
+          "label": "Moped + Side Car",
+          "value": 64
+        },
+        {
+          "label": "Auto Rickshaw + Three Wheeler",
+          "value": 56
+        }
+      ]
+    },
+    {
+      "title": "Accidents by Year",
+      "rows": [
+        {
+          "label": "2023",
+          "value": 2685
+        },
+        {
+          "label": "2024",
+          "value": 2916
+        },
+        {
+          "label": "2025",
+          "value": 3261
+        }
+      ]
+    },
+    {
+      "title": "Accidents by Type",
+      "rows": [
+        {
+          "label": "Vehicle to Vehicle",
+          "value": 4609
+        },
+        {
+          "label": "Vehicle to Pedestrian",
+          "value": 2352
+        },
+        {
+          "label": "Unknown/Missing",
+          "value": 921
+        },
+        {
+          "label": "No Collision",
+          "value": 295
+        },
+        {
+          "label": "Vehicle to Object / Property",
+          "value": 294
+        },
+        {
+          "label": "Vehicle to Bicycle",
+          "value": 289
+        },
+        {
+          "label": "Fallen down while Boarding / Alighting",
+          "value": 125
+        },
+        {
+          "label": "Vehicle to Tricycle",
+          "value": 33
+        },
+        {
+          "label": "Vehicle to Animal Driven Cart",
+          "value": 19
+        },
+        {
+          "label": "Vehicle to Animal",
+          "value": 19
+        }
+      ]
+    },
+    {
+      "title": "Accidents by Nature",
+      "rows": [
+        {
+          "label": "Hit from Back",
+          "value": 3273
+        },
+        {
+          "label": "Hit from Side",
+          "value": 2378
+        },
+        {
+          "label": "Head on Collision",
+          "value": 1751
+        },
+        {
+          "label": "Unknown/Missing",
+          "value": 1065
+        },
+        {
+          "label": "Sideswipe",
+          "value": 218
+        },
+        {
+          "label": "No Collision",
+          "value": 180
+        },
+        {
+          "label": "Run off Road",
+          "value": 131
+        },
+        {
+          "label": "Skidding / Overturn",
+          "value": 113
+        },
+        {
+          "label": "Hit Parked Vehicle",
+          "value": 109
+        },
+        {
+          "label": "Hit Fixed / Stationary Object",
+          "value": 104
+        },
+        {
+          "label": "Overturn",
+          "value": 66
+        },
+        {
+          "label": "Hit tree",
+          "value": 37
+        },
+        {
+          "label": "Vehicle Fell in Gorge/Ditch/Well",
+          "value": 30
+        },
+        {
+          "label": "Landslide",
+          "value": 7
+        },
+        {
+          "label": "Vehicle Fell in River",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "title": "Pedestrian Accidents Involvement by Vehicle Type",
+      "rows": [
+        {
+          "label": "Scooter",
+          "value": 766
+        },
+        {
+          "label": "Side Car",
+          "value": 574
+        },
+        {
+          "label": "Goods Carriage",
+          "value": 410
+        },
+        {
+          "label": "Auto Rickshaw",
+          "value": 302
+        },
+        {
+          "label": "Three Wheeler",
+          "value": 111
+        },
+        {
+          "label": "Moped",
+          "value": 82
+        },
+        {
+          "label": "Tourist Motor Cab",
+          "value": 64
+        },
+        {
+          "label": "Ambulance",
+          "value": 16
+        },
+        {
+          "label": "Car",
+          "value": 9
+        },
+        {
+          "label": "Tourist Maxi Cab",
+          "value": 2
+        },
+        {
+          "label": "All India Tourist Vehicle",
+          "value": 2
+        },
+        {
+          "label": "Taxi",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "title": "Pedestrian Fatalities by Vehicle Type",
+      "rows": [
+        {
+          "label": "Side Car",
+          "value": 247
+        },
+        {
+          "label": "Goods Carriage",
+          "value": 215
+        },
+        {
+          "label": "Scooter",
+          "value": 196
+        },
+        {
+          "label": "Auto Rickshaw",
+          "value": 196
+        },
+        {
+          "label": "Three Wheeler",
+          "value": 43
+        },
+        {
+          "label": "Tourist Motor Cab",
+          "value": 23
+        },
+        {
+          "label": "Moped",
+          "value": 17
+        },
+        {
+          "label": "Ambulance",
+          "value": 10
+        },
+        {
+          "label": "Car",
+          "value": 5
+        },
+        {
+          "label": "All India Tourist Vehicle",
+          "value": 2
+        },
+        {
+          "label": "Tourist Maxi Cab",
+          "value": 1
+        },
+        {
+          "label": "Taxi",
+          "value": 0
+        }
+      ]
+    }
+  ]
+}

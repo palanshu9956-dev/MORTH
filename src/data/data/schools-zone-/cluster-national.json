@@ -1,0 +1,177 @@
+{
+  "summary": {
+    "total_length_processed": "19860.5",
+    "fatal_grievous_covered": "41270",
+    "blackspots": "8290",
+    "fg_coverage": "41270",
+    "total_school_zones": "0",
+    "total_accidents": "41270",
+    "accidents_age_6_18": "0",
+    "pedestrian_accidents": "11426"
+  },
+  "agencies": [
+    {
+      "name": "State Highways",
+      "length": "9150.0",
+      "corridors": "3420",
+      "accidents": "14,830",
+      "fatalities": "5,020"
+    },
+    {
+      "name": "PWD Roads",
+      "length": "6180.0",
+      "corridors": "2410",
+      "accidents": "12,210",
+      "fatalities": "3,911"
+    },
+    {
+      "name": "Urban Roads",
+      "length": "2890.5",
+      "corridors": "1640",
+      "accidents": "8,760",
+      "fatalities": "2,904"
+    },
+    {
+      "name": "Rural MDR",
+      "length": "1640.0",
+      "corridors": "820",
+      "accidents": "5,470",
+      "fatalities": "1,702"
+    }
+  ],
+  "rankings": [
+    {
+      "title": "Top States (DBSCAN Cluster Accidents)",
+      "rows": [
+        {
+          "name": "MAHARASHTRA",
+          "value": "10,942"
+        },
+        {
+          "name": "UTTAR PRADESH",
+          "value": "9,218"
+        },
+        {
+          "name": "TAMIL NADU",
+          "value": "8,731"
+        }
+      ]
+    },
+    {
+      "title": "Top Cluster Severity States",
+      "rows": [
+        {
+          "name": "MAHARASHTRA",
+          "value": "4,632"
+        },
+        {
+          "name": "UTTAR PRADESH",
+          "value": "3,805"
+        },
+        {
+          "name": "GUJARAT",
+          "value": "2,948"
+        }
+      ]
+    }
+  ],
+  "bars": [
+    {
+      "title": "DBSCAN Cluster Severity",
+      "rows": [
+        {
+          "label": "High",
+          "value": 9620
+        },
+        {
+          "label": "Medium",
+          "value": 15330
+        },
+        {
+          "label": "Low",
+          "value": 16320
+        }
+      ]
+    },
+    {
+      "title": "Top Cluster Density Bands",
+      "rows": [
+        {
+          "label": "0-25",
+          "value": 13150
+        },
+        {
+          "label": "25-50",
+          "value": 12140
+        },
+        {
+          "label": "50-100",
+          "value": 9780
+        },
+        {
+          "label": "100+",
+          "value": 6200
+        }
+      ]
+    },
+    {
+      "title": "Crashes by Time",
+      "rows": [
+        {
+          "label": "Morning",
+          "value": 8730
+        },
+        {
+          "label": "Afternoon",
+          "value": 9760
+        },
+        {
+          "label": "Evening",
+          "value": 22780
+        }
+      ]
+    },
+    {
+      "title": "Crashes by Junction Type",
+      "rows": [
+        {
+          "label": "Intersection Cross Road",
+          "value": 10140
+        },
+        {
+          "label": "T-Junction",
+          "value": 8940
+        },
+        {
+          "label": "Mid-Block",
+          "value": 8370
+        },
+        {
+          "label": "Roundabout",
+          "value": 5020
+        }
+      ]
+    },
+    {
+      "title": "Crashes by Vehicle Pair",
+      "rows": [
+        {
+          "label": "Bike + Car",
+          "value": 9640
+        },
+        {
+          "label": "Car + Truck",
+          "value": 7820
+        },
+        {
+          "label": "Bike + Pedestrian",
+          "value": 7240
+        },
+        {
+          "label": "Auto + Bike",
+          "value": 5310
+        }
+      ]
+    }
+  ]
+}

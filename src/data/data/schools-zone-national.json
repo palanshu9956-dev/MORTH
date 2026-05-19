@@ -1,0 +1,959 @@
+{
+  "summary": {
+    "fatal_grievous_covered": 6038,
+    "fg_coverage": 7773,
+    "total_school_zones": 950,
+    "total_accidents": 8862,
+    "accidents_age_6_18": 748,
+    "pedestrian_accidents": 2583
+  },
+  "agencies": [
+    {
+      "name": "Education Dept",
+      "length": "780.0",
+      "corridors": "41",
+      "accidents": "1,440",
+      "fatalities": "380"
+    },
+    {
+      "name": "Traffic Police",
+      "length": "625.0",
+      "corridors": "35",
+      "accidents": "1,215",
+      "fatalities": "292"
+    },
+    {
+      "name": "Urban Local Body",
+      "length": "420.0",
+      "corridors": "27",
+      "accidents": "920",
+      "fatalities": "241"
+    },
+    {
+      "name": "PWD",
+      "length": "320.0",
+      "corridors": "22",
+      "accidents": "655",
+      "fatalities": "154"
+    }
+  ],
+  "rankings": [
+    {
+      "title": "Top School Zones (Accidents)",
+      "rows": [
+        {
+          "name": "green fields public high school",
+          "value": 113
+        },
+        {
+          "name": "r s international school",
+          "value": 91
+        },
+        {
+          "name": "st. anselm's senior secondary school",
+          "value": 90
+        }
+      ]
+    },
+    {
+      "title": "Top Districts (School Zones)",
+      "rows": [
+        {
+          "name": "MUMBAI CITY",
+          "value": 41
+        },
+        {
+          "name": "VELLORE",
+          "value": 35
+        },
+        {
+          "name": "DARRANG",
+          "value": 32
+        },
+        {
+          "name": "JHUNJHUNU",
+          "value": 32
+        },
+        {
+          "name": "AGRA",
+          "value": 31
+        },
+        {
+          "name": "JALGAON",
+          "value": 30
+        },
+        {
+          "name": "PRAYAGRAJ",
+          "value": 29
+        },
+        {
+          "name": "THANE CITY",
+          "value": 27
+        },
+        {
+          "name": "DHULE",
+          "value": 24
+        },
+        {
+          "name": "LAKHIMPUR",
+          "value": 24
+        }
+      ]
+    }
+  ],
+  "bars": [
+    {
+      "school_zone_metrics": {
+        "accidents_per_buffer": [
+          {
+            "label": "1-10",
+            "value": 691
+          },
+          {
+            "label": "11-20",
+            "value": 165
+          },
+          {
+            "label": "21-30",
+            "value": 50
+          },
+          {
+            "label": "31-40",
+            "value": 18
+          },
+          {
+            "label": "41-50",
+            "value": 14
+          },
+          {
+            "label": "51-60",
+            "value": 3
+          },
+          {
+            "label": "61-70",
+            "value": 2
+          },
+          {
+            "label": "71-80",
+            "value": 4
+          },
+          {
+            "label": "81-90",
+            "value": 1
+          },
+          {
+            "label": "91-100+",
+            "value": 2
+          }
+        ]
+      }
+    },
+    {
+      "title": "Accidents by Age Group",
+      "rows": [
+        {
+          "label": "0-5 Years",
+          "value": 169
+        },
+        {
+          "label": "6-18 Years",
+          "value": 748
+        },
+        {
+          "label": "19-35 Years",
+          "value": 6529
+        },
+        {
+          "label": "36-60 Years",
+          "value": 6040
+        },
+        {
+          "label": "60+ Years",
+          "value": 858
+        },
+        {
+          "label": "Missing",
+          "value": 101
+        }
+      ]
+    },
+    {
+      "title": "Accidents by Time Window",
+      "rows": [
+        {
+          "label": "Morning 5 am-10 am",
+          "value": 1458
+        },
+        {
+          "label": "Afternoon 10 am-4 pm",
+          "value": 2654
+        },
+        {
+          "label": "Evening 4 pm-8 pm",
+          "value": 2170
+        },
+        {
+          "label": "Night 8 pm-5 am",
+          "value": 2580
+        }
+      ]
+    },
+    {
+      "title": "Distribution of accidents mapped to schools",
+      "rows": [
+        {
+          "label": "0-10",
+          "value": 656
+        },
+        {
+          "label": "11-20",
+          "value": 166
+        },
+        {
+          "label": "21-30",
+          "value": 48
+        },
+        {
+          "label": "31-40",
+          "value": 19
+        },
+        {
+          "label": "41-50",
+          "value": 14
+        },
+        {
+          "label": "51-60",
+          "value": 3
+        },
+        {
+          "label": "61-70",
+          "value": 4
+        },
+        {
+          "label": "71-80",
+          "value": 4
+        },
+        {
+          "label": "81-90",
+          "value": 1
+        },
+        {
+          "label": "91-100+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "title": "Accidents by Junction Type",
+      "rows": [
+        {
+          "label": "T – Junction",
+          "value": 16
+        },
+        {
+          "label": "Y – Junction",
+          "value": 13
+        },
+        {
+          "label": "Staggered",
+          "value": 8
+        },
+        {
+          "label": "Four-arm Square Junction",
+          "value": 6
+        },
+        {
+          "label": "Four-arm Cross  Junction",
+          "value": 4
+        },
+        {
+          "label": "Roundabout",
+          "value": 2
+        },
+        {
+          "label": "Elevated Junction (3- arm / 4-arm)",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "title": "Accidents by Vehicle Pair",
+      "rows": [
+        {
+          "label": "Scooter + Side Car",
+          "value": 996
+        },
+        {
+          "label": "Auto Rickshaw + Scooter",
+          "value": 602
+        },
+        {
+          "label": "Goods Carriage + Scooter",
+          "value": 400
+        },
+        {
+          "label": "Auto Rickshaw + Side Car",
+          "value": 282
+        },
+        {
+          "label": "Scooter + Three Wheeler",
+          "value": 185
+        },
+        {
+          "label": "Scooter + Tourist Motor Cab",
+          "value": 115
+        },
+        {
+          "label": "Goods Carriage + Side Car",
+          "value": 91
+        },
+        {
+          "label": "Moped + Scooter",
+          "value": 88
+        },
+        {
+          "label": "Moped + Side Car",
+          "value": 64
+        },
+        {
+          "label": "Auto Rickshaw + Three Wheeler",
+          "value": 56
+        },
+        {
+          "label": "Side Car + Three Wheeler",
+          "value": 54
+        },
+        {
+          "label": "Auto Rickshaw + Goods Carriage",
+          "value": 53
+        },
+        {
+          "label": "Side Car + Tourist Motor Cab",
+          "value": 39
+        },
+        {
+          "label": "Scooter + Tourist Maxi Cab",
+          "value": 34
+        },
+        {
+          "label": "Auto Rickshaw + Moped",
+          "value": 27
+        },
+        {
+          "label": "Ambulance + Scooter",
+          "value": 26
+        },
+        {
+          "label": "Auto Rickshaw + Tourist Motor Cab",
+          "value": 20
+        },
+        {
+          "label": "Auto Rickshaw + Tourist Maxi Cab",
+          "value": 18
+        },
+        {
+          "label": "Goods Carriage + Three Wheeler",
+          "value": 17
+        },
+        {
+          "label": "Moped + Three Wheeler",
+          "value": 12
+        },
+        {
+          "label": "Moped + Tourist Motor Cab",
+          "value": 11
+        },
+        {
+          "label": "Side Car + Tourist Maxi Cab",
+          "value": 11
+        },
+        {
+          "label": "Scooter + Side Car + Three Wheeler",
+          "value": 11
+        },
+        {
+          "label": "Goods Carriage + Tourist Motor Cab",
+          "value": 10
+        },
+        {
+          "label": "Goods Carriage + Moped",
+          "value": 10
+        },
+        {
+          "label": "Auto Rickshaw + Scooter + Side Car",
+          "value": 10
+        },
+        {
+          "label": "Car + Scooter",
+          "value": 9
+        },
+        {
+          "label": "Goods Carriage + Tourist Maxi Cab",
+          "value": 8
+        },
+        {
+          "label": "Car + Goods Carriage",
+          "value": 6
+        },
+        {
+          "label": "Ambulance + Side Car",
+          "value": 6
+        },
+        {
+          "label": "Goods Carriage + Scooter + Side Car",
+          "value": 5
+        },
+        {
+          "label": "Car + Side Car",
+          "value": 5
+        },
+        {
+          "label": "Three Wheeler + Tourist Motor Cab",
+          "value": 5
+        },
+        {
+          "label": "Moped + Scooter + Side Car",
+          "value": 5
+        },
+        {
+          "label": "Ambulance + Auto Rickshaw",
+          "value": 4
+        },
+        {
+          "label": "Three Wheeler + Tourist Maxi Cab",
+          "value": 4
+        },
+        {
+          "label": "All India Tourist Vehicle + Side Car",
+          "value": 4
+        },
+        {
+          "label": "Auto Rickshaw + Side Car + Three Wheeler",
+          "value": 3
+        },
+        {
+          "label": "Car + Three Wheeler",
+          "value": 3
+        },
+        {
+          "label": "Auto Rickshaw + Side Car + Tourist Motor Cab",
+          "value": 3
+        },
+        {
+          "label": "All India Tourist Vehicle + Auto Rickshaw",
+          "value": 3
+        },
+        {
+          "label": "Tourist Maxi Cab + Tourist Motor Cab",
+          "value": 2
+        },
+        {
+          "label": "All India Tourist Vehicle + Scooter",
+          "value": 2
+        },
+        {
+          "label": "Ambulance + Goods Carriage",
+          "value": 2
+        },
+        {
+          "label": "Auto Rickshaw + Moped + Scooter + Side Car",
+          "value": 2
+        },
+        {
+          "label": "Auto Rickshaw + Moped + Side Car",
+          "value": 2
+        },
+        {
+          "label": "Auto Rickshaw + Scooter + Three Wheeler",
+          "value": 2
+        },
+        {
+          "label": "Auto Rickshaw + Scooter + Tourist Motor Cab",
+          "value": 2
+        },
+        {
+          "label": "Goods Carriage + Side Car + Tourist Motor Cab",
+          "value": 2
+        },
+        {
+          "label": "Moped + Tourist Maxi Cab",
+          "value": 2
+        },
+        {
+          "label": "Scooter + Side Car + Tourist Motor Cab",
+          "value": 2
+        },
+        {
+          "label": "Goods Carriage + Scooter + Tourist Motor Cab",
+          "value": 1
+        },
+        {
+          "label": "Goods Carriage + Omni Bus",
+          "value": 1
+        },
+        {
+          "label": "Ambulance + Auto Rickshaw + Side Car",
+          "value": 1
+        },
+        {
+          "label": "Goods Carriage + Moped + Side Car",
+          "value": 1
+        },
+        {
+          "label": "Auto Rickshaw + Side Car + Three Wheeler + Tourist Motor Cab",
+          "value": 1
+        },
+        {
+          "label": "Auto Rickshaw + Scooter + Side Car + Three Wheeler + Tourist Motor Cab",
+          "value": 1
+        },
+        {
+          "label": "Auto Rickshaw + Scooter + Side Car + Three Wheeler",
+          "value": 1
+        },
+        {
+          "label": "Auto Rickshaw + Radio Taxi + Scooter + Side Car",
+          "value": 1
+        },
+        {
+          "label": "Moped + Scooter + Side Car + Three Wheeler",
+          "value": 1
+        },
+        {
+          "label": "Moped + Scooter + Three Wheeler",
+          "value": 1
+        },
+        {
+          "label": "Moped + Scooter + Tourist Motor Cab",
+          "value": 1
+        },
+        {
+          "label": "Auto Rickshaw + Radio Taxi",
+          "value": 1
+        },
+        {
+          "label": "Moped + Side Car + Tourist Motor Cab",
+          "value": 1
+        },
+        {
+          "label": "Auto Rickshaw + Moped + Scooter",
+          "value": 1
+        },
+        {
+          "label": "All India Tourist Vehicle + Moped",
+          "value": 1
+        },
+        {
+          "label": "Auto Rickshaw + Goods Carriage + Three Wheeler",
+          "value": 1
+        },
+        {
+          "label": "Omni Bus + Scooter",
+          "value": 1
+        },
+        {
+          "label": "Radio Taxi + Side Car",
+          "value": 1
+        },
+        {
+          "label": "Auto Rickshaw + Goods Carriage + Side Car + Three Wheeler",
+          "value": 1
+        },
+        {
+          "label": "Auto Rickshaw + Goods Carriage + Side Car",
+          "value": 1
+        },
+        {
+          "label": "All India Tourist Vehicle + Goods Carriage",
+          "value": 1
+        },
+        {
+          "label": "Scooter + Taxi",
+          "value": 1
+        },
+        {
+          "label": "Auto Rickshaw + Goods Carriage + Scooter + Side Car",
+          "value": 1
+        },
+        {
+          "label": "Auto Rickshaw + Goods Carriage + Scooter",
+          "value": 1
+        },
+        {
+          "label": "Auto Rickshaw + Car",
+          "value": 1
+        },
+        {
+          "label": "Ambulance + Tourist Motor Cab",
+          "value": 1
+        },
+        {
+          "label": "Side Car + Three Wheeler + Tourist Motor Cab",
+          "value": 1
+        },
+        {
+          "label": "Ambulance + Three Wheeler",
+          "value": 1
+        },
+        {
+          "label": "Ambulance + Scooter + Tourist Motor Cab",
+          "value": 1
+        },
+        {
+          "label": "Goods Carriage + Omni Bus + Tourist Motor Cab",
+          "value": 1
+        },
+        {
+          "label": "Goods Carriage + Scooter + Side Car + Three Wheeler",
+          "value": 1
+        },
+        {
+          "label": "Goods Carriage + Scooter + Three Wheeler",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "title": "Accidents by Year",
+      "rows": [
+        {
+          "label": "2023",
+          "value": 2685
+        },
+        {
+          "label": "2024",
+          "value": 2916
+        },
+        {
+          "label": "2025",
+          "value": 3261
+        }
+      ]
+    },
+    {
+      "title": "Accidents by Type",
+      "rows": [
+        {
+          "label": "Vehicle to Vehicle",
+          "value": 4609
+        },
+        {
+          "label": "Vehicle to Pedestrian",
+          "value": 2352
+        },
+        {
+          "label": "Unknown/Missing",
+          "value": 921
+        },
+        {
+          "label": "No Collision",
+          "value": 295
+        },
+        {
+          "label": "Vehicle to Object / Property",
+          "value": 294
+        },
+        {
+          "label": "Vehicle to Bicycle",
+          "value": 289
+        },
+        {
+          "label": "Fallen down while Boarding / Alighting",
+          "value": 125
+        },
+        {
+          "label": "Vehicle to Tricycle",
+          "value": 33
+        },
+        {
+          "label": "Vehicle to Animal Driven Cart",
+          "value": 19
+        },
+        {
+          "label": "Vehicle to Animal",
+          "value": 19
+        }
+      ]
+    },
+    {
+      "title": "Accidents by Nature",
+      "rows": [
+        {
+          "label": "Hit from Back",
+          "value": 3273
+        },
+        {
+          "label": "Hit from Side",
+          "value": 2378
+        },
+        {
+          "label": "Head on Collision",
+          "value": 1751
+        },
+        {
+          "label": "Unknown/Missing",
+          "value": 1065
+        },
+        {
+          "label": "Sideswipe",
+          "value": 218
+        },
+        {
+          "label": "No Collision",
+          "value": 180
+        },
+        {
+          "label": "Run off Road",
+          "value": 131
+        },
+        {
+          "label": "Skidding / Overturn",
+          "value": 113
+        },
+        {
+          "label": "Hit Parked Vehicle",
+          "value": 109
+        },
+        {
+          "label": "Hit Fixed / Stationary Object",
+          "value": 104
+        },
+        {
+          "label": "Overturn",
+          "value": 66
+        },
+        {
+          "label": "Hit tree",
+          "value": 37
+        },
+        {
+          "label": "Vehicle Fell in Gorge/Ditch/Well",
+          "value": 30
+        },
+        {
+          "label": "Landslide",
+          "value": 7
+        },
+        {
+          "label": "Vehicle Fell in River",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "title": "Pedestrian Accidents Involvement by Vehicle Type",
+      "rows": [
+        {
+          "label": "Scooter",
+          "value": 766
+        },
+        {
+          "label": "Side Car",
+          "value": 574
+        },
+        {
+          "label": "Goods Carriage",
+          "value": 410
+        },
+        {
+          "label": "Auto Rickshaw",
+          "value": 302
+        },
+        {
+          "label": "Three Wheeler",
+          "value": 111
+        },
+        {
+          "label": "Moped",
+          "value": 82
+        },
+        {
+          "label": "Tourist Motor Cab",
+          "value": 64
+        },
+        {
+          "label": "Ambulance",
+          "value": 16
+        },
+        {
+          "label": "Car",
+          "value": 9
+        },
+        {
+          "label": "Tourist Maxi Cab",
+          "value": 2
+        },
+        {
+          "label": "All India Tourist Vehicle",
+          "value": 2
+        },
+        {
+          "label": "Taxi",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "title": "Pedestrian Fatalities by Vehicle Type",
+      "rows": [
+        {
+          "label": "Side Car",
+          "value": 247
+        },
+        {
+          "label": "Goods Carriage",
+          "value": 215
+        },
+        {
+          "label": "Scooter",
+          "value": 196
+        },
+        {
+          "label": "Auto Rickshaw",
+          "value": 196
+        },
+        {
+          "label": "Three Wheeler",
+          "value": 43
+        },
+        {
+          "label": "Tourist Motor Cab",
+          "value": 23
+        },
+        {
+          "label": "Moped",
+          "value": 17
+        },
+        {
+          "label": "Ambulance",
+          "value": 10
+        },
+        {
+          "label": "Car",
+          "value": 5
+        },
+        {
+          "label": "All India Tourist Vehicle",
+          "value": 2
+        },
+        {
+          "label": "Tourist Maxi Cab",
+          "value": 1
+        },
+        {
+          "label": "Taxi",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "title": "Violations",
+      "rows": [
+        {
+          "label": "No Violation",
+          "value": 5455
+        },
+        {
+          "label": "High Speed",
+          "value": 1251
+        },
+        {
+          "label": "Unknown/Missing",
+          "value": 1160
+        },
+        {
+          "label": "Rash Driving",
+          "value": 612
+        },
+        {
+          "label": "Changing lane without care",
+          "value": 332
+        },
+        {
+          "label": "Dangerous Overtaking",
+          "value": 241
+        },
+        {
+          "label": "Driving against flow of traffic",
+          "value": 118
+        },
+        {
+          "label": "Non-respect of Right of Way (ROW) rules",
+          "value": 74
+        },
+        {
+          "label": "Carrying people in Load vehicle",
+          "value": 73
+        },
+        {
+          "label": "Drunken Driving / Consumption of Alcohol",
+          "value": 71
+        },
+        {
+          "label": "Illegal Parking on Road",
+          "value": 29
+        },
+        {
+          "label": "Violating the Mandatory signs",
+          "value": 24
+        },
+        {
+          "label": "Over speed while crossing Speed breaker",
+          "value": 24
+        },
+        {
+          "label": "Improper use of horn",
+          "value": 20
+        },
+        {
+          "label": "Red Light jumping",
+          "value": 18
+        },
+        {
+          "label": "Over speed while crossing Zebra crossing",
+          "value": 15
+        },
+        {
+          "label": "Parking in No Parking area",
+          "value": 14
+        },
+        {
+          "label": "No indication of Vehicle parking along the road",
+          "value": 12
+        },
+        {
+          "label": "Overloaded",
+          "value": 10
+        },
+        {
+          "label": "Tripling on Two wheeler",
+          "value": 10
+        },
+        {
+          "label": "Using Phone while driving",
+          "value": 6
+        },
+        {
+          "label": "Travel without Seatbelt / Helmet",
+          "value": 5
+        },
+        {
+          "label": "Juvenile driving",
+          "value": 3
+        },
+        {
+          "label": "Improper use of headlight/ taillight",
+          "value": 2
+        },
+        {
+          "label": "Driving body altered vehicle",
+          "value": 2
+        },
+        {
+          "label": "Drugs abuse",
+          "value": 2
+        }
+      ]
+    }
+  ]
+}

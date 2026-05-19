@@ -1,0 +1,636 @@
+{
+  "summary": {
+    "total_length_processed": "19860.5",
+    "fatal_grievous_covered": "98131",
+    "blackspots": "21694",
+    "fg_coverage": "167705",
+    "total_school_zones": "0",
+    "total_accidents": "167705",
+    "accidents_age_6_18": "0",
+    "pedestrian_accidents": "40416",
+    "total_all_roads": "1449052",
+    "total_fatal_all_roads": "475431",
+    "total_grievous_all_roads": "480632"
+  },
+  "agencies": [
+    {
+      "name": "State Public Works Department / R&B",
+      "length": "0",
+      "corridors": "0",
+      "accidents": "3,825",
+      "fatalities": "1,069"
+    },
+    {
+      "name": "National Highway under State PWD/ R&B",
+      "length": "0",
+      "corridors": "0",
+      "accidents": "524",
+      "fatalities": "169"
+    },
+    {
+      "name": "Corporation",
+      "length": "0",
+      "corridors": "0",
+      "accidents": "199",
+      "fatalities": "45"
+    },
+    {
+      "name": "Municipality",
+      "length": "0",
+      "corridors": "0",
+      "accidents": "176",
+      "fatalities": "42"
+    },
+    {
+      "name": "Panchayat",
+      "length": "0",
+      "corridors": "0",
+      "accidents": "11",
+      "fatalities": "6"
+    }
+  ],
+  "rankings": [
+    {
+      "title": "Top States by Number of Accidents",
+      "rows": [
+        {
+          "name": "KERALA",
+          "value": "41,065"
+        },
+        {
+          "name": "TAMIL NADU",
+          "value": "30,672"
+        },
+        {
+          "name": "MADHYA PRADESH",
+          "value": "25,547"
+        }
+      ]
+    },
+    {
+      "title": "Top States by Fatal Count",
+      "rows": [
+        {
+          "name": "TAMIL NADU",
+          "value": "6,843"
+        },
+        {
+          "name": "MADHYA PRADESH",
+          "value": "3,416"
+        },
+        {
+          "name": "UTTAR PRADESH",
+          "value": "2,897"
+        }
+      ]
+    }
+  ],
+  "bars": [
+    {
+      "title": "Accident Severity",
+      "rows": [
+        {
+          "label": "Fatal",
+          "value": 27268
+        },
+        {
+          "label": "Grievous",
+          "value": 61383
+        },
+        {
+          "label": "Minor",
+          "value": 61238
+        },
+        {
+          "label": "No Injury",
+          "value": 17816
+        }
+      ]
+    },
+    {
+      "title": "Crashes by Time",
+      "rows": [
+        {
+          "label": "Morning",
+          "value": 27512
+        },
+        {
+          "label": "Afternoon",
+          "value": 51507
+        },
+        {
+          "label": "Evening",
+          "value": 42375
+        },
+        {
+          "label": "Night",
+          "value": 46311
+        }
+      ]
+    },
+    {
+      "title": "Crashes by Vehicle Pair",
+      "rows": [
+        {
+          "label": "Scooter + Side Car",
+          "value": 25675
+        },
+        {
+          "label": "Goods Carriage + Scooter",
+          "value": 7918
+        },
+        {
+          "label": "Auto Rickshaw + Scooter",
+          "value": 7497
+        },
+        {
+          "label": "Scooter + Three Wheeler",
+          "value": 4192
+        }
+      ],
+      "rows_expanded": [
+        {
+          "label": "Scooter + Side Car",
+          "value": 25675
+        },
+        {
+          "label": "Goods Carriage + Scooter",
+          "value": 7918
+        },
+        {
+          "label": "Auto Rickshaw + Scooter",
+          "value": 7497
+        },
+        {
+          "label": "Scooter + Three Wheeler",
+          "value": 4192
+        },
+        {
+          "label": "Moped + Scooter",
+          "value": 4158
+        },
+        {
+          "label": "Auto Rickshaw + Side Car",
+          "value": 3602
+        },
+        {
+          "label": "Goods Carriage + Side Car",
+          "value": 2735
+        },
+        {
+          "label": "Moped + Side Car",
+          "value": 1933
+        },
+        {
+          "label": "Side Car + Three Wheeler",
+          "value": 1925
+        },
+        {
+          "label": "Scooter + Tourist Motor Cab",
+          "value": 1446
+        }
+      ]
+    },
+    {
+      "title": "Crashes by Junction Type",
+      "rows": [
+        {
+          "label": "T \u2013 Junction",
+          "value": 522
+        },
+        {
+          "label": "Y \u2013 Junction",
+          "value": 221
+        },
+        {
+          "label": "Four-arm Square Junction",
+          "value": 204
+        },
+        {
+          "label": "Roundabout",
+          "value": 142
+        }
+      ],
+      "rows_expanded": [
+        {
+          "label": "T \u2013 Junction",
+          "value": 522
+        },
+        {
+          "label": "Y \u2013 Junction",
+          "value": 221
+        },
+        {
+          "label": "Four-arm Square Junction",
+          "value": 204
+        },
+        {
+          "label": "Roundabout",
+          "value": 142
+        },
+        {
+          "label": "Four-arm Cross  Junction",
+          "value": 76
+        },
+        {
+          "label": "Staggered",
+          "value": 54
+        },
+        {
+          "label": "More than Four-arm",
+          "value": 14
+        },
+        {
+          "label": "Elevated Junction (3- arm / 4-arm)",
+          "value": 9
+        },
+        {
+          "label": "Guarded Level  Crossing",
+          "value": 6
+        },
+        {
+          "label": "Unguarded Level Crossing",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "title": "Pedestrian Accidents Involvement by Vehicle Type",
+      "rows": [
+        {
+          "label": "Scooter",
+          "value": 17896
+        },
+        {
+          "label": "Side Car",
+          "value": 8245
+        },
+        {
+          "label": "Goods Carriage",
+          "value": 6955
+        },
+        {
+          "label": "Three Wheeler",
+          "value": 2603
+        }
+      ],
+      "rows_expanded": [
+        {
+          "label": "Scooter",
+          "value": 17896
+        },
+        {
+          "label": "Side Car",
+          "value": 8245
+        },
+        {
+          "label": "Goods Carriage",
+          "value": 6955
+        },
+        {
+          "label": "Three Wheeler",
+          "value": 2603
+        },
+        {
+          "label": "Auto Rickshaw",
+          "value": 2423
+        },
+        {
+          "label": "Moped",
+          "value": 1760
+        },
+        {
+          "label": "Tourist Motor Cab",
+          "value": 612
+        },
+        {
+          "label": "Ambulance",
+          "value": 77
+        },
+        {
+          "label": "Tourist Maxi Cab",
+          "value": 61
+        },
+        {
+          "label": "Car",
+          "value": 44
+        }
+      ]
+    },
+    {
+      "title": "Pedestrian Deaths by Vehicle Type",
+      "rows": [
+        {
+          "label": "Scooter",
+          "value": 2510
+        },
+        {
+          "label": "Goods Carriage",
+          "value": 2152
+        },
+        {
+          "label": "Side Car",
+          "value": 1743
+        },
+        {
+          "label": "Auto Rickshaw",
+          "value": 1082
+        }
+      ],
+      "rows_expanded": [
+        {
+          "label": "Scooter",
+          "value": 2510
+        },
+        {
+          "label": "Goods Carriage",
+          "value": 2152
+        },
+        {
+          "label": "Side Car",
+          "value": 1743
+        },
+        {
+          "label": "Auto Rickshaw",
+          "value": 1082
+        },
+        {
+          "label": "Three Wheeler",
+          "value": 848
+        },
+        {
+          "label": "Moped",
+          "value": 306
+        },
+        {
+          "label": "Tourist Motor Cab",
+          "value": 232
+        },
+        {
+          "label": "Ambulance",
+          "value": 52
+        },
+        {
+          "label": "Car",
+          "value": 22
+        },
+        {
+          "label": "All India Tourist Vehicle",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "title": "Year-wise Crashes",
+      "rows": [
+        {
+          "label": "2023",
+          "value": 85694
+        },
+        {
+          "label": "2024",
+          "value": 82011
+        },
+        {
+          "label": "2025",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "title": "DBSCAN & School Zone - Accidents Overlap",
+      "rows": [
+        {
+          "label": "In School Zone",
+          "value": 1113
+        },
+        {
+          "label": "Outside School Zone",
+          "value": 244855
+        }
+      ]
+    }
+  ],
+  "top_clusters": [
+    {
+      "cluster_id": "AHMEDABAD CITY__NON-NH__30m__14",
+      "accident_count": 692,
+      "lat": 23.037974,
+      "lon": 72.512224,
+      "state": "GUJARAT",
+      "district": "AHMEDABAD CITY",
+      "fatal": 112,
+      "grievous": 253,
+      "minor": 252
+    },
+    {
+      "cluster_id": "KOZHIKODE CITY__NON-NH__30m__1",
+      "accident_count": 641,
+      "lat": 11.256371,
+      "lon": 75.78354,
+      "state": "KERALA",
+      "district": "KOZHIKODE CITY",
+      "fatal": 104,
+      "grievous": 234,
+      "minor": 233
+    },
+    {
+      "cluster_id": "RACHAKONDA__NON-NH__30m__2",
+      "accident_count": 587,
+      "lat": 17.359593,
+      "lon": 78.545702,
+      "state": "TELANGANA",
+      "district": "RACHAKONDA",
+      "fatal": 95,
+      "grievous": 214,
+      "minor": 214
+    },
+    {
+      "cluster_id": "AHMEDABAD CITY__NON-NH__30m__23",
+      "accident_count": 549,
+      "lat": 23.02911,
+      "lon": 72.591831,
+      "state": "GUJARAT",
+      "district": "AHMEDABAD CITY",
+      "fatal": 89,
+      "grievous": 200,
+      "minor": 200
+    },
+    {
+      "cluster_id": "AHMEDABAD CITY__NON-NH__30m__24",
+      "accident_count": 458,
+      "lat": 23.021276,
+      "lon": 72.619338,
+      "state": "GUJARAT",
+      "district": "AHMEDABAD CITY",
+      "fatal": 74,
+      "grievous": 167,
+      "minor": 167
+    },
+    {
+      "cluster_id": "ERNAKULAM CITY__NON-NH__30m__20",
+      "accident_count": 457,
+      "lat": 9.985045,
+      "lon": 76.282518,
+      "state": "KERALA",
+      "district": "ERNAKULAM CITY",
+      "fatal": 74,
+      "grievous": 167,
+      "minor": 166
+    },
+    {
+      "cluster_id": "JABALPUR__NON-NH__30m__3",
+      "accident_count": 418,
+      "lat": 23.181828,
+      "lon": 79.919674,
+      "state": "MADHYA PRADESH",
+      "district": "JABALPUR",
+      "fatal": 67,
+      "grievous": 152,
+      "minor": 152
+    },
+    {
+      "cluster_id": "THIRUVANANTHAPURAM CITY__NON-NH__30m__3",
+      "accident_count": 412,
+      "lat": 8.466303,
+      "lon": 76.986385,
+      "state": "KERALA",
+      "district": "THIRUVANANTHAPURAM CITY",
+      "fatal": 66,
+      "grievous": 150,
+      "minor": 150
+    },
+    {
+      "cluster_id": "AHMEDABAD CITY__NON-NH__30m__12",
+      "accident_count": 358,
+      "lat": 23.048021,
+      "lon": 72.622221,
+      "state": "GUJARAT",
+      "district": "AHMEDABAD CITY",
+      "fatal": 58,
+      "grievous": 131,
+      "minor": 130
+    },
+    {
+      "cluster_id": "AHMEDABAD CITY__NON-NH__30m__19",
+      "accident_count": 293,
+      "lat": 23.085399,
+      "lon": 72.527979,
+      "state": "GUJARAT",
+      "district": "AHMEDABAD CITY",
+      "fatal": 47,
+      "grievous": 107,
+      "minor": 106
+    },
+    {
+      "cluster_id": "Jaipur(West)__NON-NH__30m__2",
+      "accident_count": 279,
+      "lat": 26.932156,
+      "lon": 75.787482,
+      "state": "RAJASTHAN",
+      "district": "Jaipur(West)",
+      "fatal": 45,
+      "grievous": 102,
+      "minor": 101
+    },
+    {
+      "cluster_id": "Thrissur City__NON-NH__30m__7",
+      "accident_count": 262,
+      "lat": 10.518671,
+      "lon": 76.201295,
+      "state": "KERALA",
+      "district": "Thrissur City",
+      "fatal": 42,
+      "grievous": 95,
+      "minor": 95
+    },
+    {
+      "cluster_id": "Thrissur City__NON-NH__30m__0",
+      "accident_count": 260,
+      "lat": 10.52517,
+      "lon": 76.216427,
+      "state": "KERALA",
+      "district": "Thrissur City",
+      "fatal": 42,
+      "grievous": 95,
+      "minor": 94
+    },
+    {
+      "cluster_id": "ERNAKULAM CITY__NON-NH__30m__33",
+      "accident_count": 249,
+      "lat": 9.966856,
+      "lon": 76.29387,
+      "state": "KERALA",
+      "district": "ERNAKULAM CITY",
+      "fatal": 40,
+      "grievous": 91,
+      "minor": 90
+    },
+    {
+      "cluster_id": "AHMEDABAD CITY__NON-NH__30m__18",
+      "accident_count": 220,
+      "lat": 23.054447,
+      "lon": 72.599323,
+      "state": "GUJARAT",
+      "district": "AHMEDABAD CITY",
+      "fatal": 35,
+      "grievous": 80,
+      "minor": 80
+    },
+    {
+      "cluster_id": "ERNAKULAM RURAL__NON-NH__30m__32",
+      "accident_count": 219,
+      "lat": 10.114576,
+      "lon": 76.474518,
+      "state": "KERALA",
+      "district": "ERNAKULAM RURAL",
+      "fatal": 35,
+      "grievous": 80,
+      "minor": 79
+    },
+    {
+      "cluster_id": "Bhopal Urban__NON-NH__30m__12",
+      "accident_count": 216,
+      "lat": 23.234852,
+      "lon": 77.406558,
+      "state": "MADHYA PRADESH",
+      "district": "Bhopal Urban",
+      "fatal": 35,
+      "grievous": 79,
+      "minor": 78
+    },
+    {
+      "cluster_id": "Bhopal Urban__NON-NH__30m__33",
+      "accident_count": 216,
+      "lat": 23.303919,
+      "lon": 77.403903,
+      "state": "MADHYA PRADESH",
+      "district": "Bhopal Urban",
+      "fatal": 35,
+      "grievous": 79,
+      "minor": 78
+    },
+    {
+      "cluster_id": "Bhopal Urban__NON-NH__30m__11",
+      "accident_count": 213,
+      "lat": 23.262503,
+      "lon": 77.409151,
+      "state": "MADHYA PRADESH",
+      "district": "Bhopal Urban",
+      "fatal": 34,
+      "grievous": 77,
+      "minor": 77
+    },
+    {
+      "cluster_id": "Indore Urban__NON-NH__30m__19",
+      "accident_count": 196,
+      "lat": 22.734027,
+      "lon": 75.887132,
+      "state": "MADHYA PRADESH",
+      "district": "Indore Urban",
+      "fatal": 31,
+      "grievous": 71,
+      "minor": 71
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "states": {
+    "ANDHRA PRADESH": [
+      {
+        "school_name": "gundavali mumbai public school",
+        "state": "ANDHRA PRADESH",
+        "district": "YSR KADAPA",
+        "accidents": 1
+      }
+    ],
+    "ASSAM": [
+      {
+        "school_name": "dalgaon anchlik jatiya bidayalya",
+        "state": "ASSAM",
+        "district": "DARRANG",
+        "accidents": 37
+      },
+      {
+        "school_name": "st. mary's school, tezpur",
+        "state": "ASSAM",
+        "district": "SONITPUR",
+        "accidents": 34
+      },
+      {
+        "school_name": "roushan national school",
+        "state": "ASSAM",
+        "district": "SONITPUR",
+        "accidents": 19
+      },
+      {
+        "school_name": "madhavdev shishu niketan",
+        "state": "ASSAM",
+        "district": "SONITPUR",
+        "accidents": 17
+      },
+      {
+        "school_name": "dhula high school",
+        "state": "ASSAM",
+        "district": "DARRANG",
+        "accidents": 16
+      },
+      {
+        "school_name": "nagoan chariali high school",
+        "state": "ASSAM",
+        "district": "KAMRUP",
+        "accidents": 16
+      },
+      {
+        "school_name": "narayanpur higher secondary school",
+        "state": "ASSAM",
+        "district": "LAKHIMPUR",
+        "accidents": 16
+      },
+      {
+        "school_name": "rameswar hs school",
+        "state": "ASSAM",
+        "district": "DIBRUGARH",
+        "accidents": 15
+      },
+      {
+        "school_name": "emmanuel christian school",
+        "state": "ASSAM",
+        "district": "SONITPUR",
+        "accidents": 14
+      },
+      {
+        "school_name": "barluit valley academy senior secondary school.",
+        "state": "ASSAM",
+        "district": "DARRANG",
+        "accidents": 13
+      }
+    ],
+    "MAHARASHTRA": [
+      {
+        "school_name": "cardinal gracias high school",
+        "state": "MAHARASHTRA",
+        "district": "MUMBAI CITY",
+        "accidents": 69
+      },
+      {
+        "school_name": "holy angels pre-primary school",
+        "state": "MAHARASHTRA",
+        "district": "MUMBAI CITY",
+        "accidents": 55
+      },
+      {
+        "school_name": "shri n.p.k.(t) vidya mandir (ssc board)",
+        "state": "MAHARASHTRA",
+        "district": "MUMBAI CITY",
+        "accidents": 50
+      },
+      {
+        "school_name": "gundavali mumbai public school",
+        "state": "MAHARASHTRA",
+        "district": "MUMBAI CITY",
+        "accidents": 46
+      },
+      {
+        "school_name": "gopal's garden high school, borivali (cbse)",
+        "state": "MAHARASHTRA",
+        "district": "MUMBAI CITY",
+        "accidents": 45
+      },
+      {
+        "school_name": "sou laxmibai english medium school",
+        "state": "MAHARASHTRA",
+        "district": "MUMBAI CITY",
+        "accidents": 45
+      },
+      {
+        "school_name": "bishop cotton school cbse",
+        "state": "MAHARASHTRA",
+        "district": "NAGPUR CITY",
+        "accidents": 42
+      },
+      {
+        "school_name": "morning star english school",
+        "state": "MAHARASHTRA",
+        "district": "MUMBAI CITY",
+        "accidents": 42
+      },
+      {
+        "school_name": "shri b.d. shukla english high school",
+        "state": "MAHARASHTRA",
+        "district": "MUMBAI CITY",
+        "accidents": 42
+      },
+      {
+        "school_name": "zilla parishad marathi school",
+        "state": "MAHARASHTRA",
+        "district": "Mira-Bhainder, Vasai-Virar PC",
+        "accidents": 41
+      }
+    ],
+    "RAJASTHAN": [
+      {
+        "school_name": "r s international school",
+        "state": "RAJASTHAN",
+        "district": "Jaipur(East)",
+        "accidents": 91
+      },
+      {
+        "school_name": "st. anselm's senior secondary school",
+        "state": "RAJASTHAN",
+        "district": "Jaipur(South)",
+        "accidents": 90
+      },
+      {
+        "school_name": "government upper primary sanskrit school murlipura, jaipur",
+        "state": "RAJASTHAN",
+        "district": "Jaipur(West)",
+        "accidents": 80
+      },
+      {
+        "school_name": "st. wilfred's school",
+        "state": "RAJASTHAN",
+        "district": "Jaipur(South)",
+        "accidents": 79
+      },
+      {
+        "school_name": "greenwood public school",
+        "state": "RAJASTHAN",
+        "district": "Jaipur(West)",
+        "accidents": 72
+      },
+      {
+        "school_name": "jyoti punj modern high school",
+        "state": "RAJASTHAN",
+        "district": "Jaipur(West)",
+        "accidents": 71
+      },
+      {
+        "school_name": "government senior secondary school harmada",
+        "state": "RAJASTHAN",
+        "district": "Jaipur(West)",
+        "accidents": 63
+      },
+      {
+        "school_name": "balodyan montessori high school",
+        "state": "RAJASTHAN",
+        "district": "Jaipur(East)",
+        "accidents": 55
+      },
+      {
+        "school_name": "heritage public school",
+        "state": "RAJASTHAN",
+        "district": "Jaipur(East)",
+        "accidents": 48
+      },
+      {
+        "school_name": "amrapali convent senior secondary school",
+        "state": "RAJASTHAN",
+        "district": "Jaipur(West)",
+        "accidents": 44
+      }
+    ],
+    "TAMIL NADU": [
+      {
+        "school_name": "sri lakshmi vidyaalayaa matriculation hr sec school",
+        "state": "TAMIL NADU",
+        "district": "DINDIGUL",
+        "accidents": 57
+      },
+      {
+        "school_name": "npr matriculation higher sec school",
+        "state": "TAMIL NADU",
+        "district": "SALEM CITY",
+        "accidents": 46
+      },
+      {
+        "school_name": "don bosco matriculation higher secondary school",
+        "state": "TAMIL NADU",
+        "district": "KRISHNAGIRI",
+        "accidents": 42
+      },
+      {
+        "school_name": "government school",
+        "state": "TAMIL NADU",
+        "district": "VILLUPURAM",
+        "accidents": 42
+      },
+      {
+        "school_name": "vikaasa progressive school",
+        "state": "TAMIL NADU",
+        "district": "MADURAI",
+        "accidents": 42
+      },
+      {
+        "school_name": "diamond rays matriculation higher secondary school",
+        "state": "TAMIL NADU",
+        "district": "SALEM CITY",
+        "accidents": 38
+      },
+      {
+        "school_name": "lions matriculation hr. sec. school,karuppayurani, madurai-20",
+        "state": "TAMIL NADU",
+        "district": "MADURAI CITY",
+        "accidents": 34
+      },
+      {
+        "school_name": "perangiyur school",
+        "state": "TAMIL NADU",
+        "district": "VILLUPURAM",
+        "accidents": 34
+      },
+      {
+        "school_name": "deevattipatti high school",
+        "state": "TAMIL NADU",
+        "district": "SALEM",
+        "accidents": 32
+      },
+      {
+        "school_name": "busy bees play school",
+        "state": "TAMIL NADU",
+        "district": "VELLORE",
+        "accidents": 31
+      }
+    ],
+    "UTTAR PRADESH": [
+      {
+        "school_name": "green fields public high school",
+        "state": "UTTAR PRADESH",
+        "district": "RAE BARELI",
+        "accidents": 113
+      },
+      {
+        "school_name": "caps kinder garten school",
+        "state": "UTTAR PRADESH",
+        "district": "AGRA",
+        "accidents": 42
+      },
+      {
+        "school_name": "star foundation public school",
+        "state": "UTTAR PRADESH",
+        "district": "AGRA",
+        "accidents": 35
+      },
+      {
+        "school_name": "love n care public school banda",
+        "state": "UTTAR PRADESH",
+        "district": "BANDA",
+        "accidents": 34
+      },
+      {
+        "school_name": "modern public hr.sec school",
+        "state": "UTTAR PRADESH",
+        "district": "FIROZABAD",
+        "accidents": 33
+      },
+      {
+        "school_name": "dev public school, sikandra agra",
+        "state": "UTTAR PRADESH",
+        "district": "AGRA",
+        "accidents": 31
+      },
+      {
+        "school_name": "divine public jr high school etawah",
+        "state": "UTTAR PRADESH",
+        "district": "ETAWAH",
+        "accidents": 30
+      },
+      {
+        "school_name": "the candytuft school",
+        "state": "UTTAR PRADESH",
+        "district": "KANPUR CITY",
+        "accidents": 30
+      },
+      {
+        "school_name": "indian academy national public school",
+        "state": "UTTAR PRADESH",
+        "district": "FIROZABAD",
+        "accidents": 28
+      },
+      {
+        "school_name": "little leaders play school etawah",
+        "state": "UTTAR PRADESH",
+        "district": "ETAWAH",
+        "accidents": 26
+      }
+    ]
+  }
+}

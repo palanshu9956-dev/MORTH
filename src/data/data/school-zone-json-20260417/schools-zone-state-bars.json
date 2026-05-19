@@ -1,0 +1,409 @@
+{
+  "default": [
+    {
+      "title": "Crashes by Time",
+      "rows": [
+        {
+          "label": "Morning",
+          "value": 2120
+        },
+        {
+          "label": "Afternoon",
+          "value": 2262
+        },
+        {
+          "label": "Evening",
+          "value": 4480
+        }
+      ]
+    },
+    {
+      "title": "Crashes by Junction Type",
+      "rows": [
+        {
+          "label": "T – Junction",
+          "value": 16
+        },
+        {
+          "label": "Y – Junction",
+          "value": 13
+        },
+        {
+          "label": "Staggered",
+          "value": 8
+        },
+        {
+          "label": "Four-arm Square Junction",
+          "value": 6
+        },
+        {
+          "label": "Four-arm Cross  Junction",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "title": "Crashes by Vehicle Pair",
+      "rows": [
+        {
+          "label": "Scooter + Side Car",
+          "value": 996
+        },
+        {
+          "label": "Auto Rickshaw + Scooter",
+          "value": 602
+        },
+        {
+          "label": "Goods Carriage + Scooter",
+          "value": 400
+        },
+        {
+          "label": "Auto Rickshaw + Side Car",
+          "value": 282
+        },
+        {
+          "label": "Scooter + Three Wheeler",
+          "value": 185
+        }
+      ]
+    }
+  ],
+  "states": {
+    "andhra pradesh": [
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Evening",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Junction Type",
+        "rows": null
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": null
+      }
+    ],
+    "assam": [
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Morning",
+            "value": 185
+          },
+          {
+            "label": "Afternoon",
+            "value": 241
+          },
+          {
+            "label": "Evening",
+            "value": 432
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Junction Type",
+        "rows": [
+          {
+            "label": "T – Junction",
+            "value": 3
+          },
+          {
+            "label": "Four-arm Square Junction",
+            "value": 2
+          },
+          {
+            "label": "Elevated Junction (3- arm / 4-arm)",
+            "value": 1
+          },
+          {
+            "label": "Staggered",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 70
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 54
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 36
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 19
+          },
+          {
+            "label": "Goods Carriage + Side Car",
+            "value": 14
+          }
+        ]
+      }
+    ],
+    "maharashtra": [
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Morning",
+            "value": 590
+          },
+          {
+            "label": "Afternoon",
+            "value": 583
+          },
+          {
+            "label": "Evening",
+            "value": 1265
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Junction Type",
+        "rows": [
+          {
+            "label": "Y – Junction",
+            "value": 3
+          },
+          {
+            "label": "Four-arm Cross  Junction",
+            "value": 1
+          },
+          {
+            "label": "T – Junction",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 242
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 225
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 113
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 74
+          },
+          {
+            "label": "Scooter + Tourist Motor Cab",
+            "value": 59
+          }
+        ]
+      }
+    ],
+    "rajasthan": [
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Morning",
+            "value": 424
+          },
+          {
+            "label": "Afternoon",
+            "value": 492
+          },
+          {
+            "label": "Evening",
+            "value": 833
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Junction Type",
+        "rows": [
+          {
+            "label": "Y – Junction",
+            "value": 3
+          },
+          {
+            "label": "Four-arm Cross  Junction",
+            "value": 1
+          },
+          {
+            "label": "Roundabout",
+            "value": 1
+          },
+          {
+            "label": "T – Junction",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 219
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 87
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 80
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 55
+          },
+          {
+            "label": "Scooter + Three Wheeler",
+            "value": 25
+          }
+        ]
+      }
+    ],
+    "tamil nadu": [
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Morning",
+            "value": 511
+          },
+          {
+            "label": "Afternoon",
+            "value": 438
+          },
+          {
+            "label": "Evening",
+            "value": 944
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Junction Type",
+        "rows": [
+          {
+            "label": "T – Junction",
+            "value": 11
+          },
+          {
+            "label": "Staggered",
+            "value": 7
+          },
+          {
+            "label": "Y – Junction",
+            "value": 7
+          },
+          {
+            "label": "Four-arm Cross  Junction",
+            "value": 1
+          },
+          {
+            "label": "Four-arm Square Junction",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 327
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 97
+          },
+          {
+            "label": "Scooter + Three Wheeler",
+            "value": 79
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 75
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 36
+          }
+        ]
+      }
+    ],
+    "uttar pradesh": [
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Morning",
+            "value": 410
+          },
+          {
+            "label": "Afternoon",
+            "value": 508
+          },
+          {
+            "label": "Evening",
+            "value": 1005
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Junction Type",
+        "rows": [
+          {
+            "label": "Four-arm Square Junction",
+            "value": 3
+          },
+          {
+            "label": "Four-arm Cross  Junction",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 139
+          },
+          {
+            "label": "Scooter + Side Car",
+            "value": 138
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 113
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 81
+          },
+          {
+            "label": "Goods Carriage + Side Car",
+            "value": 35
+          }
+        ]
+      }
+    ]
+  }
+}

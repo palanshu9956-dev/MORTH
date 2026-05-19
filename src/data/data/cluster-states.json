@@ -1,0 +1,3042 @@
+[
+  {
+    "name": "KERALA",
+    "fg_covered": 33644,
+    "blackspots": 4525,
+    "corridors": 4525,
+    "total_fatalities": 2844,
+    "total_grievous": 30800,
+    "total_fg": 33644,
+    "total_accidents": 41065,
+    "fatal_accidents": 2710,
+    "grievous_accidents": 28674,
+    "minor_accidents": 6992,
+    "no_injury_accidents": 2689,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 4316
+      },
+      {
+        "label": "25-50",
+        "value": 142
+      },
+      {
+        "label": "50-100",
+        "value": 53
+      },
+      {
+        "label": "100+",
+        "value": 14
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 5529,
+        "pct": 13.5
+      },
+      {
+        "name": "Rash Driving",
+        "count": 8448,
+        "pct": 20.6
+      },
+      {
+        "name": "No Violation",
+        "count": 1336,
+        "pct": 3.3
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 27551,
+        "pct": 67.1
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 9474,
+        "pct": 23.1
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 907,
+        "pct": 2.2
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 9132,
+        "pct": 22.2
+      },
+      {
+        "name": "Hit from Side",
+        "count": 17766,
+        "pct": 43.3
+      },
+      {
+        "name": "Head on Collision",
+        "count": 10693,
+        "pct": 26.0
+      },
+      {
+        "name": "Skidding",
+        "count": 659,
+        "pct": 1.6
+      },
+      {
+        "name": "Run off Road",
+        "count": 230,
+        "pct": 0.6
+      }
+    ],
+    "total_fatal_all_roads": 11474,
+    "total_grievous_all_roads": 109166
+  },
+  {
+    "name": "TAMIL NADU",
+    "fg_covered": 15299,
+    "blackspots": 4275,
+    "corridors": 4275,
+    "total_fatalities": 6843,
+    "total_grievous": 8456,
+    "total_fg": 15299,
+    "total_accidents": 30672,
+    "fatal_accidents": 6499,
+    "grievous_accidents": 7294,
+    "minor_accidents": 16265,
+    "no_injury_accidents": 614,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 4175
+      },
+      {
+        "label": "25-50",
+        "value": 69
+      },
+      {
+        "label": "50-100",
+        "value": 22
+      },
+      {
+        "label": "100+",
+        "value": 9
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 5594,
+        "pct": 18.2
+      },
+      {
+        "name": "Rash Driving",
+        "count": 1333,
+        "pct": 4.3
+      },
+      {
+        "name": "No Violation",
+        "count": 2467,
+        "pct": 8.0
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 17061,
+        "pct": 55.6
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 8321,
+        "pct": 27.1
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 655,
+        "pct": 2.1
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 7732,
+        "pct": 25.2
+      },
+      {
+        "name": "Hit from Side",
+        "count": 9255,
+        "pct": 30.2
+      },
+      {
+        "name": "Head on Collision",
+        "count": 9671,
+        "pct": 31.5
+      },
+      {
+        "name": "Skidding",
+        "count": 729,
+        "pct": 2.4
+      },
+      {
+        "name": "Run off Road",
+        "count": 435,
+        "pct": 1.4
+      }
+    ],
+    "total_fatal_all_roads": 52051,
+    "total_grievous_all_roads": 47392
+  },
+  {
+    "name": "MADHYA PRADESH",
+    "fg_covered": 8927,
+    "blackspots": 2885,
+    "corridors": 2885,
+    "total_fatalities": 3416,
+    "total_grievous": 5511,
+    "total_fg": 8927,
+    "total_accidents": 25547,
+    "fatal_accidents": 3002,
+    "grievous_accidents": 4510,
+    "minor_accidents": 14506,
+    "no_injury_accidents": 3529,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 2742
+      },
+      {
+        "label": "25-50",
+        "value": 84
+      },
+      {
+        "label": "50-100",
+        "value": 41
+      },
+      {
+        "label": "100+",
+        "value": 18
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 3799,
+        "pct": 14.9
+      },
+      {
+        "name": "Rash Driving",
+        "count": 656,
+        "pct": 2.6
+      },
+      {
+        "name": "No Violation",
+        "count": 6289,
+        "pct": 24.6
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 15212,
+        "pct": 59.5
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 4605,
+        "pct": 18.0
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 469,
+        "pct": 1.8
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 8832,
+        "pct": 34.6
+      },
+      {
+        "name": "Hit from Side",
+        "count": 4334,
+        "pct": 17.0
+      },
+      {
+        "name": "Head on Collision",
+        "count": 6707,
+        "pct": 26.3
+      },
+      {
+        "name": "Skidding",
+        "count": 110,
+        "pct": 0.4
+      },
+      {
+        "name": "Run off Road",
+        "count": 210,
+        "pct": 0.8
+      }
+    ],
+    "total_fatal_all_roads": 36565,
+    "total_grievous_all_roads": 33732
+  },
+  {
+    "name": "KARNATAKA",
+    "fg_covered": 7075,
+    "blackspots": 2006,
+    "corridors": 2006,
+    "total_fatalities": 2459,
+    "total_grievous": 4616,
+    "total_fg": 7075,
+    "total_accidents": 12613,
+    "fatal_accidents": 2312,
+    "grievous_accidents": 4371,
+    "minor_accidents": 4638,
+    "no_injury_accidents": 1292,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 1978
+      },
+      {
+        "label": "25-50",
+        "value": 21
+      },
+      {
+        "label": "50-100",
+        "value": 7
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 4579,
+        "pct": 36.3
+      },
+      {
+        "name": "Rash Driving",
+        "count": 2648,
+        "pct": 21.0
+      },
+      {
+        "name": "No Violation",
+        "count": 1055,
+        "pct": 8.4
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 7458,
+        "pct": 59.1
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 3372,
+        "pct": 26.7
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 152,
+        "pct": 1.2
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 4000,
+        "pct": 31.7
+      },
+      {
+        "name": "Hit from Side",
+        "count": 4217,
+        "pct": 33.4
+      },
+      {
+        "name": "Head on Collision",
+        "count": 2687,
+        "pct": 21.3
+      },
+      {
+        "name": "Skidding",
+        "count": 463,
+        "pct": 3.7
+      },
+      {
+        "name": "Run off Road",
+        "count": 323,
+        "pct": 2.6
+      }
+    ],
+    "total_fatal_all_roads": 32457,
+    "total_grievous_all_roads": 45906
+  },
+  {
+    "name": "GUJARAT",
+    "fg_covered": 3041,
+    "blackspots": 778,
+    "corridors": 778,
+    "total_fatalities": 1079,
+    "total_grievous": 1962,
+    "total_fg": 3041,
+    "total_accidents": 9961,
+    "fatal_accidents": 1003,
+    "grievous_accidents": 1845,
+    "minor_accidents": 3919,
+    "no_injury_accidents": 3194,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 723
+      },
+      {
+        "label": "25-50",
+        "value": 33
+      },
+      {
+        "label": "50-100",
+        "value": 11
+      },
+      {
+        "label": "100+",
+        "value": 11
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 1577,
+        "pct": 15.8
+      },
+      {
+        "name": "Rash Driving",
+        "count": 154,
+        "pct": 1.5
+      },
+      {
+        "name": "No Violation",
+        "count": 883,
+        "pct": 8.9
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 6256,
+        "pct": 62.8
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 1962,
+        "pct": 19.7
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 194,
+        "pct": 1.9
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 3114,
+        "pct": 31.3
+      },
+      {
+        "name": "Hit from Side",
+        "count": 3679,
+        "pct": 36.9
+      },
+      {
+        "name": "Head on Collision",
+        "count": 1272,
+        "pct": 12.8
+      },
+      {
+        "name": "Skidding",
+        "count": 425,
+        "pct": 4.3
+      },
+      {
+        "name": "Run off Road",
+        "count": 123,
+        "pct": 1.2
+      }
+    ],
+    "total_fatal_all_roads": 22134,
+    "total_grievous_all_roads": 16935
+  },
+  {
+    "name": "TELANGANA",
+    "fg_covered": 3481,
+    "blackspots": 930,
+    "corridors": 930,
+    "total_fatalities": 1540,
+    "total_grievous": 1941,
+    "total_fg": 3481,
+    "total_accidents": 7685,
+    "fatal_accidents": 1440,
+    "grievous_accidents": 1667,
+    "minor_accidents": 3368,
+    "no_injury_accidents": 1210,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 898
+      },
+      {
+        "label": "25-50",
+        "value": 26
+      },
+      {
+        "label": "50-100",
+        "value": 4
+      },
+      {
+        "label": "100+",
+        "value": 2
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 1625,
+        "pct": 21.1
+      },
+      {
+        "name": "Rash Driving",
+        "count": 1164,
+        "pct": 15.1
+      },
+      {
+        "name": "No Violation",
+        "count": 630,
+        "pct": 8.2
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 4763,
+        "pct": 62.0
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 1790,
+        "pct": 23.3
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 91,
+        "pct": 1.2
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 2819,
+        "pct": 36.7
+      },
+      {
+        "name": "Hit from Side",
+        "count": 2445,
+        "pct": 31.8
+      },
+      {
+        "name": "Head on Collision",
+        "count": 1570,
+        "pct": 20.4
+      },
+      {
+        "name": "Skidding",
+        "count": 124,
+        "pct": 1.6
+      },
+      {
+        "name": "Run off Road",
+        "count": 58,
+        "pct": 0.8
+      }
+    ],
+    "total_fatal_all_roads": 20455,
+    "total_grievous_all_roads": 12824
+  },
+  {
+    "name": "MAHARASHTRA",
+    "fg_covered": 6077,
+    "blackspots": 1090,
+    "corridors": 1090,
+    "total_fatalities": 1891,
+    "total_grievous": 4186,
+    "total_fg": 6077,
+    "total_accidents": 7014,
+    "fatal_accidents": 1718,
+    "grievous_accidents": 3421,
+    "minor_accidents": 1261,
+    "no_injury_accidents": 614,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 1070
+      },
+      {
+        "label": "25-50",
+        "value": 15
+      },
+      {
+        "label": "50-100",
+        "value": 5
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 1190,
+        "pct": 17.0
+      },
+      {
+        "name": "Rash Driving",
+        "count": 724,
+        "pct": 10.3
+      },
+      {
+        "name": "No Violation",
+        "count": 470,
+        "pct": 6.7
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 3848,
+        "pct": 54.9
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 2082,
+        "pct": 29.7
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 323,
+        "pct": 4.6
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 2523,
+        "pct": 36.0
+      },
+      {
+        "name": "Hit from Side",
+        "count": 2430,
+        "pct": 34.6
+      },
+      {
+        "name": "Head on Collision",
+        "count": 1216,
+        "pct": 17.3
+      },
+      {
+        "name": "Skidding",
+        "count": 91,
+        "pct": 1.3
+      },
+      {
+        "name": "Run off Road",
+        "count": 204,
+        "pct": 2.9
+      }
+    ],
+    "total_fatal_all_roads": 44253,
+    "total_grievous_all_roads": 37158
+  },
+  {
+    "name": "UTTAR PRADESH",
+    "fg_covered": 6302,
+    "blackspots": 1270,
+    "corridors": 1270,
+    "total_fatalities": 2897,
+    "total_grievous": 3405,
+    "total_fg": 6302,
+    "total_accidents": 6737,
+    "fatal_accidents": 2555,
+    "grievous_accidents": 2804,
+    "minor_accidents": 894,
+    "no_injury_accidents": 484,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 1253
+      },
+      {
+        "label": "25-50",
+        "value": 13
+      },
+      {
+        "label": "50-100",
+        "value": 4
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 768,
+        "pct": 11.4
+      },
+      {
+        "name": "Rash Driving",
+        "count": 315,
+        "pct": 4.7
+      },
+      {
+        "name": "No Violation",
+        "count": 862,
+        "pct": 12.8
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 3523,
+        "pct": 52.3
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 2346,
+        "pct": 34.8
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 300,
+        "pct": 4.5
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 2914,
+        "pct": 43.3
+      },
+      {
+        "name": "Hit from Side",
+        "count": 1935,
+        "pct": 28.7
+      },
+      {
+        "name": "Head on Collision",
+        "count": 1480,
+        "pct": 22.0
+      },
+      {
+        "name": "Skidding",
+        "count": 32,
+        "pct": 0.5
+      },
+      {
+        "name": "Run off Road",
+        "count": 81,
+        "pct": 1.2
+      }
+    ],
+    "total_fatal_all_roads": 65068,
+    "total_grievous_all_roads": 49449
+  },
+  {
+    "name": "DELHI",
+    "fg_covered": 2589,
+    "blackspots": 686,
+    "corridors": 686,
+    "total_fatalities": 1368,
+    "total_grievous": 1221,
+    "total_fg": 2589,
+    "total_accidents": 5317,
+    "fatal_accidents": 1271,
+    "grievous_accidents": 974,
+    "minor_accidents": 2758,
+    "no_injury_accidents": 314,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 661
+      },
+      {
+        "label": "25-50",
+        "value": 20
+      },
+      {
+        "label": "50-100",
+        "value": 5
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 855,
+        "pct": 16.1
+      },
+      {
+        "name": "Rash Driving",
+        "count": 583,
+        "pct": 11.0
+      },
+      {
+        "name": "No Violation",
+        "count": 173,
+        "pct": 3.3
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 2662,
+        "pct": 50.1
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 1827,
+        "pct": 34.4
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 147,
+        "pct": 2.8
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 2098,
+        "pct": 39.5
+      },
+      {
+        "name": "Hit from Side",
+        "count": 1952,
+        "pct": 36.7
+      },
+      {
+        "name": "Head on Collision",
+        "count": 724,
+        "pct": 13.6
+      },
+      {
+        "name": "Skidding",
+        "count": 76,
+        "pct": 1.4
+      },
+      {
+        "name": "Run off Road",
+        "count": 72,
+        "pct": 1.4
+      }
+    ],
+    "total_fatal_all_roads": 4036,
+    "total_grievous_all_roads": 3580
+  },
+  {
+    "name": "RAJASTHAN",
+    "fg_covered": 2790,
+    "blackspots": 727,
+    "corridors": 727,
+    "total_fatalities": 1015,
+    "total_grievous": 1775,
+    "total_fg": 2790,
+    "total_accidents": 5094,
+    "fatal_accidents": 929,
+    "grievous_accidents": 1579,
+    "minor_accidents": 1284,
+    "no_injury_accidents": 1302,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 709
+      },
+      {
+        "label": "25-50",
+        "value": 10
+      },
+      {
+        "label": "50-100",
+        "value": 6
+      },
+      {
+        "label": "100+",
+        "value": 2
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 782,
+        "pct": 15.4
+      },
+      {
+        "name": "Rash Driving",
+        "count": 51,
+        "pct": 1.0
+      },
+      {
+        "name": "No Violation",
+        "count": 1181,
+        "pct": 23.2
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 2974,
+        "pct": 58.4
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 946,
+        "pct": 18.6
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 75,
+        "pct": 1.5
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 1690,
+        "pct": 33.2
+      },
+      {
+        "name": "Hit from Side",
+        "count": 1333,
+        "pct": 26.2
+      },
+      {
+        "name": "Head on Collision",
+        "count": 814,
+        "pct": 16.0
+      },
+      {
+        "name": "Skidding",
+        "count": 29,
+        "pct": 0.6
+      },
+      {
+        "name": "Run off Road",
+        "count": 149,
+        "pct": 2.9
+      }
+    ],
+    "total_fatal_all_roads": 31315,
+    "total_grievous_all_roads": 24492
+  },
+  {
+    "name": "ANDHRA PRADESH",
+    "fg_covered": 1826,
+    "blackspots": 569,
+    "corridors": 569,
+    "total_fatalities": 952,
+    "total_grievous": 874,
+    "total_fg": 1826,
+    "total_accidents": 3601,
+    "fatal_accidents": 876,
+    "grievous_accidents": 792,
+    "minor_accidents": 1608,
+    "no_injury_accidents": 325,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 559
+      },
+      {
+        "label": "25-50",
+        "value": 8
+      },
+      {
+        "label": "50-100",
+        "value": 2
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 683,
+        "pct": 19.0
+      },
+      {
+        "name": "Rash Driving",
+        "count": 284,
+        "pct": 7.9
+      },
+      {
+        "name": "No Violation",
+        "count": 186,
+        "pct": 5.2
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 2177,
+        "pct": 60.5
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 960,
+        "pct": 26.7
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 68,
+        "pct": 1.9
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 1066,
+        "pct": 29.6
+      },
+      {
+        "name": "Hit from Side",
+        "count": 1192,
+        "pct": 33.1
+      },
+      {
+        "name": "Head on Collision",
+        "count": 981,
+        "pct": 27.2
+      },
+      {
+        "name": "Skidding",
+        "count": 67,
+        "pct": 1.9
+      },
+      {
+        "name": "Run off Road",
+        "count": 23,
+        "pct": 0.6
+      }
+    ],
+    "total_fatal_all_roads": 22296,
+    "total_grievous_all_roads": 10714
+  },
+  {
+    "name": "CHHATTISGARH",
+    "fg_covered": 929,
+    "blackspots": 349,
+    "corridors": 349,
+    "total_fatalities": 513,
+    "total_grievous": 416,
+    "total_fg": 929,
+    "total_accidents": 2465,
+    "fatal_accidents": 455,
+    "grievous_accidents": 310,
+    "minor_accidents": 1034,
+    "no_injury_accidents": 666,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 340
+      },
+      {
+        "label": "25-50",
+        "value": 6
+      },
+      {
+        "label": "50-100",
+        "value": 3
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 404,
+        "pct": 16.4
+      },
+      {
+        "name": "Rash Driving",
+        "count": 62,
+        "pct": 2.5
+      },
+      {
+        "name": "No Violation",
+        "count": 337,
+        "pct": 13.7
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 1682,
+        "pct": 68.2
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 290,
+        "pct": 11.8
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 75,
+        "pct": 3.0
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 847,
+        "pct": 34.4
+      },
+      {
+        "name": "Hit from Side",
+        "count": 547,
+        "pct": 22.2
+      },
+      {
+        "name": "Head on Collision",
+        "count": 639,
+        "pct": 25.9
+      },
+      {
+        "name": "Skidding",
+        "count": 19,
+        "pct": 0.8
+      },
+      {
+        "name": "Run off Road",
+        "count": 10,
+        "pct": 0.4
+      }
+    ],
+    "total_fatal_all_roads": 16347,
+    "total_grievous_all_roads": 7205
+  },
+  {
+    "name": "WEST BENGAL",
+    "fg_covered": 1424,
+    "blackspots": 220,
+    "corridors": 220,
+    "total_fatalities": 458,
+    "total_grievous": 966,
+    "total_fg": 1424,
+    "total_accidents": 1834,
+    "fatal_accidents": 438,
+    "grievous_accidents": 727,
+    "minor_accidents": 376,
+    "no_injury_accidents": 293,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 214
+      },
+      {
+        "label": "25-50",
+        "value": 4
+      },
+      {
+        "label": "50-100",
+        "value": 1
+      },
+      {
+        "label": "100+",
+        "value": 1
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 192,
+        "pct": 10.5
+      },
+      {
+        "name": "Rash Driving",
+        "count": 354,
+        "pct": 19.3
+      },
+      {
+        "name": "No Violation",
+        "count": 100,
+        "pct": 5.5
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 782,
+        "pct": 42.6
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 697,
+        "pct": 38.0
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 118,
+        "pct": 6.4
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 750,
+        "pct": 40.9
+      },
+      {
+        "name": "Hit from Side",
+        "count": 628,
+        "pct": 34.2
+      },
+      {
+        "name": "Head on Collision",
+        "count": 243,
+        "pct": 13.2
+      },
+      {
+        "name": "Skidding",
+        "count": 14,
+        "pct": 0.8
+      },
+      {
+        "name": "Run off Road",
+        "count": 13,
+        "pct": 0.7
+      }
+    ],
+    "total_fatal_all_roads": 18160,
+    "total_grievous_all_roads": 16966
+  },
+  {
+    "name": "ASSAM",
+    "fg_covered": 1168,
+    "blackspots": 211,
+    "corridors": 211,
+    "total_fatalities": 270,
+    "total_grievous": 898,
+    "total_fg": 1168,
+    "total_accidents": 1378,
+    "fatal_accidents": 248,
+    "grievous_accidents": 703,
+    "minor_accidents": 225,
+    "no_injury_accidents": 202,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 209
+      },
+      {
+        "label": "25-50",
+        "value": 2
+      },
+      {
+        "label": "50-100",
+        "value": 0
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 276,
+        "pct": 20.0
+      },
+      {
+        "name": "Rash Driving",
+        "count": 119,
+        "pct": 8.6
+      },
+      {
+        "name": "No Violation",
+        "count": 199,
+        "pct": 14.4
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 646,
+        "pct": 46.9
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 293,
+        "pct": 21.3
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 63,
+        "pct": 4.6
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 412,
+        "pct": 29.9
+      },
+      {
+        "name": "Hit from Side",
+        "count": 416,
+        "pct": 30.2
+      },
+      {
+        "name": "Head on Collision",
+        "count": 255,
+        "pct": 18.5
+      },
+      {
+        "name": "Skidding",
+        "count": 15,
+        "pct": 1.1
+      },
+      {
+        "name": "Run off Road",
+        "count": 10,
+        "pct": 0.7
+      }
+    ],
+    "total_fatal_all_roads": 9848,
+    "total_grievous_all_roads": 18660
+  },
+  {
+    "name": "GOA",
+    "fg_covered": 238,
+    "blackspots": 174,
+    "corridors": 174,
+    "total_fatalities": 102,
+    "total_grievous": 136,
+    "total_fg": 238,
+    "total_accidents": 1202,
+    "fatal_accidents": 92,
+    "grievous_accidents": 110,
+    "minor_accidents": 428,
+    "no_injury_accidents": 572,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 167
+      },
+      {
+        "label": "25-50",
+        "value": 5
+      },
+      {
+        "label": "50-100",
+        "value": 2
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 82,
+        "pct": 6.8
+      },
+      {
+        "name": "Rash Driving",
+        "count": 257,
+        "pct": 21.4
+      },
+      {
+        "name": "No Violation",
+        "count": 150,
+        "pct": 12.5
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 757,
+        "pct": 63.0
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 107,
+        "pct": 8.9
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 13,
+        "pct": 1.1
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 244,
+        "pct": 20.3
+      },
+      {
+        "name": "Hit from Side",
+        "count": 403,
+        "pct": 33.5
+      },
+      {
+        "name": "Head on Collision",
+        "count": 256,
+        "pct": 21.3
+      },
+      {
+        "name": "Skidding",
+        "count": 21,
+        "pct": 1.7
+      },
+      {
+        "name": "Run off Road",
+        "count": 10,
+        "pct": 0.8
+      }
+    ],
+    "total_fatal_all_roads": 781,
+    "total_grievous_all_roads": 929
+  },
+  {
+    "name": "HARYANA",
+    "fg_covered": 847,
+    "blackspots": 255,
+    "corridors": 255,
+    "total_fatalities": 428,
+    "total_grievous": 419,
+    "total_fg": 847,
+    "total_accidents": 1138,
+    "fatal_accidents": 400,
+    "grievous_accidents": 371,
+    "minor_accidents": 306,
+    "no_injury_accidents": 61,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 254
+      },
+      {
+        "label": "25-50",
+        "value": 1
+      },
+      {
+        "label": "50-100",
+        "value": 0
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 428,
+        "pct": 37.6
+      },
+      {
+        "name": "Rash Driving",
+        "count": 327,
+        "pct": 28.7
+      },
+      {
+        "name": "No Violation",
+        "count": 105,
+        "pct": 9.2
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 713,
+        "pct": 62.7
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 325,
+        "pct": 28.6
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 39,
+        "pct": 3.4
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 476,
+        "pct": 41.8
+      },
+      {
+        "name": "Hit from Side",
+        "count": 312,
+        "pct": 27.4
+      },
+      {
+        "name": "Head on Collision",
+        "count": 291,
+        "pct": 25.6
+      },
+      {
+        "name": "Skidding",
+        "count": 3,
+        "pct": 0.3
+      },
+      {
+        "name": "Run off Road",
+        "count": 10,
+        "pct": 0.9
+      }
+    ],
+    "total_fatal_all_roads": 13647,
+    "total_grievous_all_roads": 11124
+  },
+  {
+    "name": "PUDUCHERRY",
+    "fg_covered": 243,
+    "blackspots": 95,
+    "corridors": 95,
+    "total_fatalities": 95,
+    "total_grievous": 148,
+    "total_fg": 243,
+    "total_accidents": 910,
+    "fatal_accidents": 95,
+    "grievous_accidents": 152,
+    "minor_accidents": 626,
+    "no_injury_accidents": 37,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 89
+      },
+      {
+        "label": "25-50",
+        "value": 2
+      },
+      {
+        "label": "50-100",
+        "value": 3
+      },
+      {
+        "label": "100+",
+        "value": 1
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 163,
+        "pct": 17.9
+      },
+      {
+        "name": "Rash Driving",
+        "count": 74,
+        "pct": 8.1
+      },
+      {
+        "name": "No Violation",
+        "count": 33,
+        "pct": 3.6
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 589,
+        "pct": 64.7
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 219,
+        "pct": 24.1
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 25,
+        "pct": 2.7
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 170,
+        "pct": 18.7
+      },
+      {
+        "name": "Hit from Side",
+        "count": 399,
+        "pct": 43.8
+      },
+      {
+        "name": "Head on Collision",
+        "count": 360,
+        "pct": 39.6
+      },
+      {
+        "name": "Skidding",
+        "count": 21,
+        "pct": 2.3
+      },
+      {
+        "name": "Run off Road",
+        "count": 3,
+        "pct": 0.3
+      }
+    ],
+    "total_fatal_all_roads": 647,
+    "total_grievous_all_roads": 1023
+  },
+  {
+    "name": "JAMMU & KASHMIR",
+    "fg_covered": 492,
+    "blackspots": 132,
+    "corridors": 132,
+    "total_fatalities": 110,
+    "total_grievous": 382,
+    "total_fg": 492,
+    "total_accidents": 908,
+    "fatal_accidents": 99,
+    "grievous_accidents": 341,
+    "minor_accidents": 373,
+    "no_injury_accidents": 95,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 130
+      },
+      {
+        "label": "25-50",
+        "value": 1
+      },
+      {
+        "label": "50-100",
+        "value": 1
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 324,
+        "pct": 35.7
+      },
+      {
+        "name": "Rash Driving",
+        "count": 260,
+        "pct": 28.6
+      },
+      {
+        "name": "No Violation",
+        "count": 71,
+        "pct": 7.8
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 373,
+        "pct": 41.1
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 315,
+        "pct": 34.7
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 16,
+        "pct": 1.8
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 247,
+        "pct": 27.2
+      },
+      {
+        "name": "Hit from Side",
+        "count": 252,
+        "pct": 27.8
+      },
+      {
+        "name": "Head on Collision",
+        "count": 230,
+        "pct": 25.3
+      },
+      {
+        "name": "Skidding",
+        "count": 49,
+        "pct": 5.4
+      },
+      {
+        "name": "Run off Road",
+        "count": 17,
+        "pct": 1.9
+      }
+    ],
+    "total_fatal_all_roads": 2625,
+    "total_grievous_all_roads": 5451
+  },
+  {
+    "name": "PUNJAB",
+    "fg_covered": 249,
+    "blackspots": 115,
+    "corridors": 115,
+    "total_fatalities": 134,
+    "total_grievous": 115,
+    "total_fg": 249,
+    "total_accidents": 621,
+    "fatal_accidents": 406,
+    "grievous_accidents": 178,
+    "minor_accidents": 21,
+    "no_injury_accidents": 16,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 114
+      },
+      {
+        "label": "25-50",
+        "value": 0
+      },
+      {
+        "label": "50-100",
+        "value": 1
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 59,
+        "pct": 9.5
+      },
+      {
+        "name": "Rash Driving",
+        "count": 41,
+        "pct": 6.6
+      },
+      {
+        "name": "No Violation",
+        "count": 422,
+        "pct": 68.0
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 135,
+        "pct": 21.7
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 35,
+        "pct": 5.6
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 13,
+        "pct": 2.1
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 98,
+        "pct": 15.8
+      },
+      {
+        "name": "Hit from Side",
+        "count": 61,
+        "pct": 9.8
+      },
+      {
+        "name": "Head on Collision",
+        "count": 27,
+        "pct": 4.3
+      },
+      {
+        "name": "Skidding",
+        "count": 1,
+        "pct": 0.2
+      },
+      {
+        "name": "Run off Road",
+        "count": 2,
+        "pct": 0.3
+      }
+    ],
+    "total_fatal_all_roads": 8881,
+    "total_grievous_all_roads": 3128
+  },
+  {
+    "name": "BIHAR",
+    "fg_covered": 575,
+    "blackspots": 114,
+    "corridors": 114,
+    "total_fatalities": 385,
+    "total_grievous": 190,
+    "total_fg": 575,
+    "total_accidents": 555,
+    "fatal_accidents": 355,
+    "grievous_accidents": 123,
+    "minor_accidents": 28,
+    "no_injury_accidents": 49,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 113
+      },
+      {
+        "label": "25-50",
+        "value": 1
+      },
+      {
+        "label": "50-100",
+        "value": 0
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 95,
+        "pct": 17.1
+      },
+      {
+        "name": "Rash Driving",
+        "count": 68,
+        "pct": 12.3
+      },
+      {
+        "name": "No Violation",
+        "count": 46,
+        "pct": 8.3
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 264,
+        "pct": 47.6
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 225,
+        "pct": 40.5
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 24,
+        "pct": 4.3
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 249,
+        "pct": 44.9
+      },
+      {
+        "name": "Hit from Side",
+        "count": 179,
+        "pct": 32.3
+      },
+      {
+        "name": "Head on Collision",
+        "count": 142,
+        "pct": 25.6
+      },
+      {
+        "name": "Skidding",
+        "count": 6,
+        "pct": 1.1
+      },
+      {
+        "name": "Run off Road",
+        "count": 4,
+        "pct": 0.7
+      }
+    ],
+    "total_fatal_all_roads": 26413,
+    "total_grievous_all_roads": 5534
+  },
+  {
+    "name": "CHANDIGARH",
+    "fg_covered": 194,
+    "blackspots": 116,
+    "corridors": 116,
+    "total_fatalities": 66,
+    "total_grievous": 128,
+    "total_fg": 194,
+    "total_accidents": 524,
+    "fatal_accidents": 64,
+    "grievous_accidents": 108,
+    "minor_accidents": 207,
+    "no_injury_accidents": 145,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 116
+      },
+      {
+        "label": "25-50",
+        "value": 0
+      },
+      {
+        "label": "50-100",
+        "value": 0
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 30,
+        "pct": 5.7
+      },
+      {
+        "name": "Rash Driving",
+        "count": 18,
+        "pct": 3.4
+      },
+      {
+        "name": "No Violation",
+        "count": 111,
+        "pct": 21.2
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 319,
+        "pct": 60.9
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 62,
+        "pct": 11.8
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 31,
+        "pct": 5.9
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 164,
+        "pct": 31.3
+      },
+      {
+        "name": "Hit from Side",
+        "count": 168,
+        "pct": 32.1
+      },
+      {
+        "name": "Head on Collision",
+        "count": 67,
+        "pct": 12.8
+      },
+      {
+        "name": "Skidding",
+        "count": 29,
+        "pct": 5.5
+      },
+      {
+        "name": "Run off Road",
+        "count": 1,
+        "pct": 0.2
+      }
+    ],
+    "total_fatal_all_roads": 210,
+    "total_grievous_all_roads": 329
+  },
+  {
+    "name": "ODISHA",
+    "fg_covered": 319,
+    "blackspots": 87,
+    "corridors": 87,
+    "total_fatalities": 130,
+    "total_grievous": 189,
+    "total_fg": 319,
+    "total_accidents": 442,
+    "fatal_accidents": 125,
+    "grievous_accidents": 166,
+    "minor_accidents": 75,
+    "no_injury_accidents": 76,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 87
+      },
+      {
+        "label": "25-50",
+        "value": 0
+      },
+      {
+        "label": "50-100",
+        "value": 0
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 91,
+        "pct": 20.6
+      },
+      {
+        "name": "Rash Driving",
+        "count": 96,
+        "pct": 21.7
+      },
+      {
+        "name": "No Violation",
+        "count": 40,
+        "pct": 9.0
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 266,
+        "pct": 60.2
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 71,
+        "pct": 16.1
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 19,
+        "pct": 4.3
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 146,
+        "pct": 33.0
+      },
+      {
+        "name": "Hit from Side",
+        "count": 134,
+        "pct": 30.3
+      },
+      {
+        "name": "Head on Collision",
+        "count": 83,
+        "pct": 18.8
+      },
+      {
+        "name": "Skidding",
+        "count": 9,
+        "pct": 2.0
+      },
+      {
+        "name": "Run off Road",
+        "count": 31,
+        "pct": 7.0
+      }
+    ],
+    "total_fatal_all_roads": 16179,
+    "total_grievous_all_roads": 9801
+  },
+  {
+    "name": "JHARKHAND",
+    "fg_covered": 312,
+    "blackspots": 56,
+    "corridors": 56,
+    "total_fatalities": 155,
+    "total_grievous": 157,
+    "total_fg": 312,
+    "total_accidents": 289,
+    "fatal_accidents": 142,
+    "grievous_accidents": 108,
+    "minor_accidents": 15,
+    "no_injury_accidents": 24,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 56
+      },
+      {
+        "label": "25-50",
+        "value": 0
+      },
+      {
+        "label": "50-100",
+        "value": 0
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 57,
+        "pct": 19.7
+      },
+      {
+        "name": "Rash Driving",
+        "count": 20,
+        "pct": 6.9
+      },
+      {
+        "name": "No Violation",
+        "count": 83,
+        "pct": 28.7
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 135,
+        "pct": 46.7
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 58,
+        "pct": 20.1
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 4,
+        "pct": 1.4
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 64,
+        "pct": 22.1
+      },
+      {
+        "name": "Hit from Side",
+        "count": 95,
+        "pct": 32.9
+      },
+      {
+        "name": "Head on Collision",
+        "count": 70,
+        "pct": 24.2
+      },
+      {
+        "name": "Skidding",
+        "count": 1,
+        "pct": 0.3
+      },
+      {
+        "name": "Run off Road",
+        "count": 4,
+        "pct": 1.4
+      }
+    ],
+    "total_fatal_all_roads": 12177,
+    "total_grievous_all_roads": 3529
+  },
+  {
+    "name": "UTTARAKHAND",
+    "fg_covered": 36,
+    "blackspots": 11,
+    "corridors": 11,
+    "total_fatalities": 17,
+    "total_grievous": 19,
+    "total_fg": 36,
+    "total_accidents": 46,
+    "fatal_accidents": 16,
+    "grievous_accidents": 19,
+    "minor_accidents": 7,
+    "no_injury_accidents": 4,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 11
+      },
+      {
+        "label": "25-50",
+        "value": 0
+      },
+      {
+        "label": "50-100",
+        "value": 0
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 15,
+        "pct": 32.6
+      },
+      {
+        "name": "Rash Driving",
+        "count": 9,
+        "pct": 19.6
+      },
+      {
+        "name": "No Violation",
+        "count": 4,
+        "pct": 8.7
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 34,
+        "pct": 73.9
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 8,
+        "pct": 17.4
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 14,
+        "pct": 30.4
+      },
+      {
+        "name": "Hit from Side",
+        "count": 17,
+        "pct": 37.0
+      },
+      {
+        "name": "Head on Collision",
+        "count": 11,
+        "pct": 23.9
+      },
+      {
+        "name": "Skidding",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "name": "Run off Road",
+        "count": 1,
+        "pct": 2.2
+      }
+    ],
+    "total_fatal_all_roads": 3020,
+    "total_grievous_all_roads": 1818
+  },
+  {
+    "name": "HIMACHAL PRADESH",
+    "fg_covered": 16,
+    "blackspots": 6,
+    "corridors": 6,
+    "total_fatalities": 8,
+    "total_grievous": 8,
+    "total_fg": 16,
+    "total_accidents": 33,
+    "fatal_accidents": 8,
+    "grievous_accidents": 8,
+    "minor_accidents": 14,
+    "no_injury_accidents": 3,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 6
+      },
+      {
+        "label": "25-50",
+        "value": 0
+      },
+      {
+        "label": "50-100",
+        "value": 0
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 6,
+        "pct": 18.2
+      },
+      {
+        "name": "Rash Driving",
+        "count": 5,
+        "pct": 15.2
+      },
+      {
+        "name": "No Violation",
+        "count": 2,
+        "pct": 6.1
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 14,
+        "pct": 42.4
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 14,
+        "pct": 42.4
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 8,
+        "pct": 24.2
+      },
+      {
+        "name": "Hit from Side",
+        "count": 12,
+        "pct": 36.4
+      },
+      {
+        "name": "Head on Collision",
+        "count": 7,
+        "pct": 21.2
+      },
+      {
+        "name": "Skidding",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "name": "Run off Road",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "total_fatal_all_roads": 2136,
+    "total_grievous_all_roads": 1384
+  },
+  {
+    "name": "ANDAMAN & NICOBAR",
+    "fg_covered": 16,
+    "blackspots": 3,
+    "corridors": 3,
+    "total_fatalities": 3,
+    "total_grievous": 13,
+    "total_fg": 16,
+    "total_accidents": 16,
+    "fatal_accidents": 3,
+    "grievous_accidents": 12,
+    "minor_accidents": 0,
+    "no_injury_accidents": 1,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 3
+      },
+      {
+        "label": "25-50",
+        "value": 0
+      },
+      {
+        "label": "50-100",
+        "value": 0
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 4,
+        "pct": 25.0
+      },
+      {
+        "name": "Rash Driving",
+        "count": 3,
+        "pct": 18.8
+      },
+      {
+        "name": "No Violation",
+        "count": 4,
+        "pct": 25.0
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 6,
+        "pct": 37.5
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 5,
+        "pct": 31.2
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 4,
+        "pct": 25.0
+      },
+      {
+        "name": "Hit from Side",
+        "count": 5,
+        "pct": 31.2
+      },
+      {
+        "name": "Head on Collision",
+        "count": 2,
+        "pct": 12.5
+      },
+      {
+        "name": "Skidding",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "name": "Run off Road",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "total_fatal_all_roads": 66,
+    "total_grievous_all_roads": 201
+  },
+  {
+    "name": "NAGALAND",
+    "fg_covered": 2,
+    "blackspots": 2,
+    "corridors": 2,
+    "total_fatalities": 1,
+    "total_grievous": 1,
+    "total_fg": 2,
+    "total_accidents": 8,
+    "fatal_accidents": 1,
+    "grievous_accidents": 1,
+    "minor_accidents": 5,
+    "no_injury_accidents": 1,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 2
+      },
+      {
+        "label": "25-50",
+        "value": 0
+      },
+      {
+        "label": "50-100",
+        "value": 0
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 4,
+        "pct": 50.0
+      },
+      {
+        "name": "Rash Driving",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "name": "No Violation",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 6,
+        "pct": 75.0
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 1,
+        "pct": 12.5
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 3,
+        "pct": 37.5
+      },
+      {
+        "name": "Hit from Side",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "name": "Head on Collision",
+        "count": 4,
+        "pct": 50.0
+      },
+      {
+        "name": "Skidding",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "name": "Run off Road",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "total_fatal_all_roads": 122,
+    "total_grievous_all_roads": 142
+  },
+  {
+    "name": "Dadra and Nagar Haveli and Daman and Diu",
+    "fg_covered": 6,
+    "blackspots": 2,
+    "corridors": 2,
+    "total_fatalities": 1,
+    "total_grievous": 5,
+    "total_fg": 6,
+    "total_accidents": 8,
+    "fatal_accidents": 1,
+    "grievous_accidents": 6,
+    "minor_accidents": 1,
+    "no_injury_accidents": 0,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 2
+      },
+      {
+        "label": "25-50",
+        "value": 0
+      },
+      {
+        "label": "50-100",
+        "value": 0
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 1,
+        "pct": 12.5
+      },
+      {
+        "name": "Rash Driving",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "name": "No Violation",
+        "count": 2,
+        "pct": 25.0
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 1,
+        "pct": 12.5
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 2,
+        "pct": 25.0
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 3,
+        "pct": 37.5
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 1,
+        "pct": 12.5
+      },
+      {
+        "name": "Hit from Side",
+        "count": 3,
+        "pct": 37.5
+      },
+      {
+        "name": "Head on Collision",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "name": "Skidding",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "name": "Run off Road",
+        "count": 2,
+        "pct": 25.0
+      }
+    ],
+    "total_fatal_all_roads": 223,
+    "total_grievous_all_roads": 175
+  },
+  {
+    "name": "MIZORAM",
+    "fg_covered": 4,
+    "blackspots": 1,
+    "corridors": 1,
+    "total_fatalities": 2,
+    "total_grievous": 2,
+    "total_fg": 4,
+    "total_accidents": 7,
+    "fatal_accidents": 2,
+    "grievous_accidents": 2,
+    "minor_accidents": 0,
+    "no_injury_accidents": 3,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 1
+      },
+      {
+        "label": "25-50",
+        "value": 0
+      },
+      {
+        "label": "50-100",
+        "value": 0
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "name": "Rash Driving",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "name": "No Violation",
+        "count": 1,
+        "pct": 14.3
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 2,
+        "pct": 28.6
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "name": "Hit from Side",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "name": "Head on Collision",
+        "count": 2,
+        "pct": 28.6
+      },
+      {
+        "name": "Skidding",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "name": "Run off Road",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "total_fatal_all_roads": 135,
+    "total_grievous_all_roads": 28
+  },
+  {
+    "name": "TRIPURA",
+    "fg_covered": 7,
+    "blackspots": 2,
+    "corridors": 2,
+    "total_fatalities": 4,
+    "total_grievous": 3,
+    "total_fg": 7,
+    "total_accidents": 6,
+    "fatal_accidents": 3,
+    "grievous_accidents": 3,
+    "minor_accidents": 0,
+    "no_injury_accidents": 0,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 2
+      },
+      {
+        "label": "25-50",
+        "value": 0
+      },
+      {
+        "label": "50-100",
+        "value": 0
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 1,
+        "pct": 16.7
+      },
+      {
+        "name": "Rash Driving",
+        "count": 1,
+        "pct": 16.7
+      },
+      {
+        "name": "No Violation",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 2,
+        "pct": 33.3
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 3,
+        "pct": 50.0
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 3,
+        "pct": 50.0
+      },
+      {
+        "name": "Hit from Side",
+        "count": 4,
+        "pct": 66.7
+      },
+      {
+        "name": "Head on Collision",
+        "count": 2,
+        "pct": 33.3
+      },
+      {
+        "name": "Skidding",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "name": "Run off Road",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "total_fatal_all_roads": 617,
+    "total_grievous_all_roads": 687
+  },
+  {
+    "name": "LADAKH",
+    "fg_covered": 2,
+    "blackspots": 1,
+    "corridors": 1,
+    "total_fatalities": 0,
+    "total_grievous": 2,
+    "total_fg": 2,
+    "total_accidents": 6,
+    "fatal_accidents": 0,
+    "grievous_accidents": 2,
+    "minor_accidents": 3,
+    "no_injury_accidents": 1,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 1
+      },
+      {
+        "label": "25-50",
+        "value": 0
+      },
+      {
+        "label": "50-100",
+        "value": 0
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 1,
+        "pct": 16.7
+      },
+      {
+        "name": "Rash Driving",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "name": "No Violation",
+        "count": 2,
+        "pct": 33.3
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 1,
+        "pct": 16.7
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 1,
+        "pct": 16.7
+      },
+      {
+        "name": "Hit from Side",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "name": "Head on Collision",
+        "count": 2,
+        "pct": 33.3
+      },
+      {
+        "name": "Skidding",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "name": "Run off Road",
+        "count": 1,
+        "pct": 16.7
+      }
+    ],
+    "total_fatal_all_roads": 152,
+    "total_grievous_all_roads": 164
+  },
+  {
+    "name": "MANIPUR",
+    "fg_covered": 1,
+    "blackspots": 1,
+    "corridors": 1,
+    "total_fatalities": 0,
+    "total_grievous": 1,
+    "total_fg": 1,
+    "total_accidents": 3,
+    "fatal_accidents": 0,
+    "grievous_accidents": 2,
+    "minor_accidents": 1,
+    "no_injury_accidents": 0,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 1
+      },
+      {
+        "label": "25-50",
+        "value": 0
+      },
+      {
+        "label": "50-100",
+        "value": 0
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "name": "Rash Driving",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "name": "No Violation",
+        "count": 1,
+        "pct": 33.3
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 3,
+        "pct": 100.0
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "name": "Hit from Side",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "name": "Head on Collision",
+        "count": 3,
+        "pct": 100.0
+      },
+      {
+        "name": "Skidding",
+        "count": 0,
+        "pct": 0.0
+      },
+      {
+        "name": "Run off Road",
+        "count": 0,
+        "pct": 0.0
+      }
+    ],
+    "total_fatal_all_roads": 272,
+    "total_grievous_all_roads": 500
+  }
+]

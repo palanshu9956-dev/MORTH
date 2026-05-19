@@ -1,0 +1,76 @@
+{
+  "national": [
+    {
+      "school_name": "green fields public high school",
+      "state": "UTTAR PRADESH",
+      "district": "RAE BARELI",
+      "accidents": 113,
+      "safety_score": "NA"
+    },
+    {
+      "school_name": "r s international school",
+      "state": "RAJASTHAN",
+      "district": "Jaipur(East)",
+      "accidents": 91,
+      "safety_score": "NA"
+    },
+    {
+      "school_name": "st. anselm's senior secondary school",
+      "state": "RAJASTHAN",
+      "district": "Jaipur(South)",
+      "accidents": 90,
+      "safety_score": "NA"
+    },
+    {
+      "school_name": "government upper primary sanskrit school murlipura, jaipur",
+      "state": "RAJASTHAN",
+      "district": "Jaipur(West)",
+      "accidents": 80,
+      "safety_score": "NA"
+    },
+    {
+      "school_name": "st. wilfred's school",
+      "state": "RAJASTHAN",
+      "district": "Jaipur(South)",
+      "accidents": 79,
+      "safety_score": "NA"
+    },
+    {
+      "school_name": "greenwood public school",
+      "state": "RAJASTHAN",
+      "district": "Jaipur(West)",
+      "accidents": 72,
+      "safety_score": "NA"
+    },
+    {
+      "school_name": "jyoti punj modern high school",
+      "state": "RAJASTHAN",
+      "district": "Jaipur(West)",
+      "accidents": 71,
+      "safety_score": "NA"
+    },
+    {
+      "school_name": "cardinal gracias high school",
+      "state": "MAHARASHTRA",
+      "district": "MUMBAI CITY",
+      "accidents": 69,
+      "safety_score": "NA"
+    },
+    {
+      "school_name": "government senior secondary school harmada",
+      "state": "RAJASTHAN",
+      "district": "Jaipur(West)",
+      "accidents": 63,
+      "safety_score": "NA"
+    },
+    {
+      "school_name": "sri lakshmi vidyaalayaa matriculation hr sec school",
+      "state": "TAMIL NADU",
+      "district": "DINDIGUL",
+      "accidents": 57,
+      "safety_score": "NA"
+    }
+  ],
+  "states": {},
+  "districts": {}
+}

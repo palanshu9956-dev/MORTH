@@ -1,0 +1,798 @@
+[
+  {
+    "name": "ANDHRA PRADESH",
+    "total_fatalities": 0,
+    "total_grievous": 0,
+    "total_fg": 0,
+    "fg_covered": 0,
+    "blackspots": "NA",
+    "corridors": "NA",
+    "spot_distribution": [
+      {
+        "label": "gundavali mumbai public school",
+        "value": 1
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 1,
+        "pct": 100.0
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 1,
+        "pct": 100.0
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 1,
+        "pct": 100.0
+      }
+    ],
+    "accidents_age_6_18": 0,
+    "school_zone_metrics": {
+      "total_school_zones": 1,
+      "total_accidents": 1,
+      "pedestrian_accidents": 1,
+      "top_school_zones": [
+        "gundavali mumbai public school"
+      ],
+      "accidents_per_buffer": [
+        {
+          "label": "0-10",
+          "value": 1
+        }
+      ],
+      "accidents_age_6_18": 0,
+      "time_window_accidents": [
+        {
+          "label": "Other (Off-Hours)",
+          "value": 1
+        }
+      ],
+      "pedestrian_by_zone": [
+        {
+          "label": "gundavali mumbai public school",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "name": "UTTAR PRADESH",
+    "total_fatalities": 1024,
+    "total_grievous": 1027,
+    "total_fg": 2051,
+    "fg_covered": 1556,
+    "blackspots": "NA",
+    "corridors": "NA",
+    "spot_distribution": [
+      {
+        "label": "green fields public high school",
+        "value": 113
+      },
+      {
+        "label": "caps kinder garten school",
+        "value": 42
+      },
+      {
+        "label": "star foundation public school",
+        "value": 35
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 1183,
+        "pct": 69.8
+      },
+      {
+        "name": "High Speed",
+        "count": 129,
+        "pct": 7.6
+      },
+      {
+        "name": "Changing lane without care",
+        "count": 96,
+        "pct": 5.7
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 1012,
+        "pct": 56.7
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 638,
+        "pct": 35.7
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 55,
+        "pct": 3.1
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 792,
+        "pct": 44.6
+      },
+      {
+        "name": "Head on Collision",
+        "count": 371,
+        "pct": 20.9
+      },
+      {
+        "name": "Hit from Side",
+        "count": 356,
+        "pct": 20.0
+      }
+    ],
+    "accidents_age_6_18": 108,
+    "school_zone_metrics": {
+      "total_school_zones": 220,
+      "total_accidents": 1923,
+      "pedestrian_accidents": 691,
+      "top_school_zones": [
+        "green fields public high school",
+        "caps kinder garten school",
+        "star foundation public school"
+      ],
+      "accidents_per_buffer": [
+        {
+          "label": "0-10",
+          "value": 151
+        },
+        {
+          "label": "11-20",
+          "value": 43
+        },
+        {
+          "label": "21-30",
+          "value": 13
+        },
+        {
+          "label": "31-40",
+          "value": 4
+        },
+        {
+          "label": "41-50",
+          "value": 1
+        },
+        {
+          "label": "91-100+",
+          "value": 1
+        }
+      ],
+      "accidents_age_6_18": 108,
+      "time_window_accidents": [
+        {
+          "label": "07:00-09:00 (Morning)",
+          "value": 197
+        },
+        {
+          "label": "10:00-13:00 (Mid-Day)",
+          "value": 352
+        },
+        {
+          "label": "14:00-16:00 (Afternoon)",
+          "value": 318
+        },
+        {
+          "label": "Other (Off-Hours)",
+          "value": 1056
+        }
+      ],
+      "pedestrian_by_zone": [
+        {
+          "label": "indian academy national public school",
+          "value": 23
+        },
+        {
+          "label": "modern public hr.sec school",
+          "value": 18
+        },
+        {
+          "label": "little leaders play school etawah",
+          "value": 16
+        }
+      ]
+    }
+  },
+  {
+    "name": "RAJASTHAN",
+    "total_fatalities": 549,
+    "total_grievous": 661,
+    "total_fg": 1210,
+    "fg_covered": 929,
+    "blackspots": "NA",
+    "corridors": "NA",
+    "spot_distribution": [
+      {
+        "label": "r s international school",
+        "value": 91
+      },
+      {
+        "label": "st. anselm's senior secondary school",
+        "value": 90
+      },
+      {
+        "label": "government upper primary sanskrit school murlipura, jaipur",
+        "value": 80
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 826,
+        "pct": 67.6
+      },
+      {
+        "name": "High Speed",
+        "count": 170,
+        "pct": 13.9
+      },
+      {
+        "name": "Changing lane without care",
+        "count": 31,
+        "pct": 2.5
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 821,
+        "pct": 65.0
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 335,
+        "pct": 26.5
+      },
+      {
+        "name": "Vehicle to Object / Property",
+        "count": 27,
+        "pct": 2.1
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 485,
+        "pct": 38.6
+      },
+      {
+        "name": "Hit from Side",
+        "count": 313,
+        "pct": 24.9
+      },
+      {
+        "name": "Head on Collision",
+        "count": 249,
+        "pct": 19.8
+      }
+    ],
+    "accidents_age_6_18": 135,
+    "school_zone_metrics": {
+      "total_school_zones": 209,
+      "total_accidents": 1749,
+      "pedestrian_accidents": 379,
+      "top_school_zones": [
+        "r s international school",
+        "st. anselm's senior secondary school",
+        "government upper primary sanskrit school murlipura, jaipur"
+      ],
+      "accidents_per_buffer": [
+        {
+          "label": "0-10",
+          "value": 167
+        },
+        {
+          "label": "11-20",
+          "value": 17
+        },
+        {
+          "label": "21-30",
+          "value": 5
+        },
+        {
+          "label": "31-40",
+          "value": 2
+        },
+        {
+          "label": "41-50",
+          "value": 2
+        },
+        {
+          "label": "51-60",
+          "value": 1
+        },
+        {
+          "label": "61-70",
+          "value": 1
+        },
+        {
+          "label": "71-80",
+          "value": 4
+        },
+        {
+          "label": "81-90",
+          "value": 1
+        },
+        {
+          "label": "91-100+",
+          "value": 1
+        }
+      ],
+      "accidents_age_6_18": 135,
+      "time_window_accidents": [
+        {
+          "label": "07:00-09:00 (Morning)",
+          "value": 191
+        },
+        {
+          "label": "10:00-13:00 (Mid-Day)",
+          "value": 387
+        },
+        {
+          "label": "14:00-16:00 (Afternoon)",
+          "value": 303
+        },
+        {
+          "label": "Other (Off-Hours)",
+          "value": 868
+        }
+      ],
+      "pedestrian_by_zone": [
+        {
+          "label": "jay ashoka bal vidhya mandir sec school,nayapura",
+          "value": 17
+        },
+        {
+          "label": "r s international school",
+          "value": 17
+        },
+        {
+          "label": "greenwood public school",
+          "value": 13
+        }
+      ]
+    }
+  },
+  {
+    "name": "ASSAM",
+    "total_fatalities": 254,
+    "total_grievous": 681,
+    "total_fg": 935,
+    "fg_covered": 668,
+    "blackspots": "NA",
+    "corridors": "NA",
+    "spot_distribution": [
+      {
+        "label": "dalgaon anchlik jatiya bidayalya",
+        "value": 37
+      },
+      {
+        "label": "st. mary's school, tezpur",
+        "value": 34
+      },
+      {
+        "label": "roushan national school",
+        "value": 19
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 474,
+        "pct": 66.9
+      },
+      {
+        "name": "High Speed",
+        "count": 126,
+        "pct": 17.8
+      },
+      {
+        "name": "High Speed, Rash Driving",
+        "count": 38,
+        "pct": 5.4
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 350,
+        "pct": 48.2
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 197,
+        "pct": 27.1
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 67,
+        "pct": 9.2
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 296,
+        "pct": 41.8
+      },
+      {
+        "name": "Hit from Side",
+        "count": 165,
+        "pct": 23.3
+      },
+      {
+        "name": "Head on Collision",
+        "count": 152,
+        "pct": 21.5
+      }
+    ],
+    "accidents_age_6_18": 91,
+    "school_zone_metrics": {
+      "total_school_zones": 126,
+      "total_accidents": 858,
+      "pedestrian_accidents": 276,
+      "top_school_zones": [
+        "dalgaon anchlik jatiya bidayalya",
+        "st. mary's school, tezpur",
+        "roushan national school"
+      ],
+      "accidents_per_buffer": [
+        {
+          "label": "0-10",
+          "value": 103
+        },
+        {
+          "label": "11-20",
+          "value": 20
+        },
+        {
+          "label": "31-40",
+          "value": 2
+        }
+      ],
+      "accidents_age_6_18": 91,
+      "time_window_accidents": [
+        {
+          "label": "07:00-09:00 (Morning)",
+          "value": 98
+        },
+        {
+          "label": "10:00-13:00 (Mid-Day)",
+          "value": 187
+        },
+        {
+          "label": "14:00-16:00 (Afternoon)",
+          "value": 133
+        },
+        {
+          "label": "Other (Off-Hours)",
+          "value": 440
+        }
+      ],
+      "pedestrian_by_zone": [
+        {
+          "label": "dalgaon anchlik jatiya bidayalya",
+          "value": 16
+        },
+        {
+          "label": "st. mary's school, tezpur",
+          "value": 13
+        },
+        {
+          "label": "roushan national school",
+          "value": 8
+        }
+      ]
+    }
+  },
+  {
+    "name": "TAMIL NADU",
+    "total_fatalities": 618,
+    "total_grievous": 490,
+    "total_fg": 1108,
+    "fg_covered": 933,
+    "blackspots": "NA",
+    "corridors": "NA",
+    "spot_distribution": [
+      {
+        "label": "government high school",
+        "value": 64
+      },
+      {
+        "label": "sri lakshmi vidyaalayaa matriculation hr sec school",
+        "value": 57
+      },
+      {
+        "label": "government school",
+        "value": 56
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 1408,
+        "pct": 79.9
+      },
+      {
+        "name": "High Speed",
+        "count": 179,
+        "pct": 10.2
+      },
+      {
+        "name": "High Speed, Rash Driving",
+        "count": 30,
+        "pct": 1.7
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 1101,
+        "pct": 61.2
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 412,
+        "pct": 22.9
+      },
+      {
+        "name": "No Collision",
+        "count": 99,
+        "pct": 5.5
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 487,
+        "pct": 27.7
+      },
+      {
+        "name": "Hit from Side",
+        "count": 479,
+        "pct": 27.2
+      },
+      {
+        "name": "Head on Collision",
+        "count": 476,
+        "pct": 27.1
+      }
+    ],
+    "accidents_age_6_18": 170,
+    "school_zone_metrics": {
+      "total_school_zones": 146,
+      "total_accidents": 1893,
+      "pedestrian_accidents": 451,
+      "top_school_zones": [
+        "government high school",
+        "sri lakshmi vidyaalayaa matriculation hr sec school",
+        "government school"
+      ],
+      "accidents_per_buffer": [
+        {
+          "label": "0-10",
+          "value": 62
+        },
+        {
+          "label": "11-20",
+          "value": 48
+        },
+        {
+          "label": "21-30",
+          "value": 14
+        },
+        {
+          "label": "31-40",
+          "value": 5
+        },
+        {
+          "label": "41-50",
+          "value": 3
+        },
+        {
+          "label": "51-60",
+          "value": 2
+        },
+        {
+          "label": "61-70",
+          "value": 1
+        }
+      ],
+      "accidents_age_6_18": 170,
+      "time_window_accidents": [
+        {
+          "label": "07:00-09:00 (Morning)",
+          "value": 271
+        },
+        {
+          "label": "10:00-13:00 (Mid-Day)",
+          "value": 358
+        },
+        {
+          "label": "14:00-16:00 (Afternoon)",
+          "value": 273
+        },
+        {
+          "label": "Other (Off-Hours)",
+          "value": 991
+        }
+      ],
+      "pedestrian_by_zone": [
+        {
+          "label": "npr matriculation higher sec school",
+          "value": 27
+        },
+        {
+          "label": "government school",
+          "value": 19
+        },
+        {
+          "label": "sri lakshmi vidyaalayaa matriculation hr sec school",
+          "value": 15
+        }
+      ]
+    }
+  },
+  {
+    "name": "MAHARASHTRA",
+    "total_fatalities": 768,
+    "total_grievous": 1701,
+    "total_fg": 2469,
+    "fg_covered": 1952,
+    "blackspots": "NA",
+    "corridors": "NA",
+    "spot_distribution": [
+      {
+        "label": "cardinal gracias high school",
+        "value": 69
+      },
+      {
+        "label": "holy angels pre-primary school",
+        "value": 55
+      },
+      {
+        "label": "shri n.p.k.(t) vidya mandir (ssc board)",
+        "value": 50
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 1520,
+        "pct": 65.7
+      },
+      {
+        "name": "High Speed",
+        "count": 189,
+        "pct": 8.2
+      },
+      {
+        "name": "Rash Driving",
+        "count": 169,
+        "pct": 7.3
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 1263,
+        "pct": 53.4
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 722,
+        "pct": 30.5
+      },
+      {
+        "name": "No Collision",
+        "count": 108,
+        "pct": 4.6
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 870,
+        "pct": 37.9
+      },
+      {
+        "name": "Hit from Side",
+        "count": 679,
+        "pct": 29.6
+      },
+      {
+        "name": "Head on Collision",
+        "count": 326,
+        "pct": 14.2
+      }
+    ],
+    "accidents_age_6_18": 244,
+    "school_zone_metrics": {
+      "total_school_zones": 249,
+      "total_accidents": 2438,
+      "pedestrian_accidents": 762,
+      "top_school_zones": [
+        "cardinal gracias high school",
+        "holy angels pre-primary school",
+        "shri n.p.k.(t) vidya mandir (ssc board)"
+      ],
+      "accidents_per_buffer": [
+        {
+          "label": "0-10",
+          "value": 180
+        },
+        {
+          "label": "11-20",
+          "value": 37
+        },
+        {
+          "label": "21-30",
+          "value": 17
+        },
+        {
+          "label": "31-40",
+          "value": 5
+        },
+        {
+          "label": "41-50",
+          "value": 8
+        },
+        {
+          "label": "51-60",
+          "value": 1
+        },
+        {
+          "label": "61-70",
+          "value": 1
+        }
+      ],
+      "accidents_age_6_18": 244,
+      "time_window_accidents": [
+        {
+          "label": "07:00-09:00 (Morning)",
+          "value": 303
+        },
+        {
+          "label": "10:00-13:00 (Mid-Day)",
+          "value": 473
+        },
+        {
+          "label": "14:00-16:00 (Afternoon)",
+          "value": 343
+        },
+        {
+          "label": "Other (Off-Hours)",
+          "value": 1319
+        }
+      ],
+      "pedestrian_by_zone": [
+        {
+          "label": "morning star english school",
+          "value": 35
+        },
+        {
+          "label": "holy angels pre-primary school",
+          "value": 28
+        },
+        {
+          "label": "cardinal gracias high school",
+          "value": 25
+        }
+      ]
+    }
+  }
+]

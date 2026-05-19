@@ -1,0 +1,235 @@
+/* Header Styles */
+.header {
+  position: sticky;
+  top: 0;
+  background: linear-gradient(110deg, #0f172a 0%, #1e3a8a 45%, #2563eb 100%);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  padding: 12px 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 10px 25px rgba(15, 23, 42, 0.35);
+  z-index: 2000;
+  transition: background 0.25s ease, box-shadow 0.25s ease;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.header-logo {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  font-size: 22px;
+  background: rgba(255, 255, 255, 0.16);
+  color: #f8fafc;
+  box-shadow: 0 6px 14px rgba(15, 23, 42, 0.25);
+}
+
+.header-title {
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+  color: #ffffff;
+  margin: 0;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.header-subtitle {
+  font-size: 13px;
+  color: rgba(241, 245, 249, 0.92);
+  font-weight: 500;
+}
+
+.header-dropdown {
+  border: 1px solid #cbd5e1;
+  border-radius: 10px;
+  padding: 7px 12px;
+  background: #ffffff;
+  color: #0f172a;
+  font-size: 13px;
+  font-weight: 600;
+  outline: none;
+  transition: all 0.2s ease;
+}
+
+.header-dropdown:hover {
+  background: #f8fafc;
+}
+
+.header-dropdown:focus {
+  border-color: rgba(191, 219, 254, 0.95);
+  box-shadow: 0 0 0 3px rgba(191, 219, 254, 0.3);
+}
+
+.header-dropdown option {
+  color: #0f172a;
+}
+
+.breadcrumb-dropdown {
+  min-width: 180px;
+}
+
+/* Breadcrumb */
+.breadcrumb-container {
+  background: linear-gradient(to right, #f8fafc, #eef2ff);
+  border-bottom: 1px solid #dbeafe;
+  padding: 10px 32px;
+  z-index: 1999;
+  transition: background 0.25s ease, border-color 0.25s ease;
+}
+
+.breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  flex-wrap: wrap;
+}
+
+.breadcrumb-item {
+  color: #475569;
+  padding: 4px 10px;
+  border-radius: 999px;
+  transition: all 0.2s ease;
+}
+
+.breadcrumb-item:hover {
+  background-color: #dbeafe;
+  color: #1d4ed8;
+}
+
+.breadcrumb-india {
+  color: #1d4ed8;
+  font-weight: 700;
+  background: #eff6ff;
+}
+
+.breadcrumb-state {
+  color: #b45309;
+  font-weight: 700;
+  background: #fffbeb;
+}
+
+.breadcrumb-district {
+  color: #166534;
+  font-weight: 700;
+  background: #f0fdf4;
+}
+
+.breadcrumb-category {
+  font-weight: 700;
+}
+
+/* Category themes */
+.header-theme-mort {
+  background: linear-gradient(110deg, #0f172a 0%, #1e3a8a 45%, #2563eb 100%);
+  box-shadow: 0 10px 25px rgba(15, 23, 42, 0.35);
+}
+
+.header-theme-irc {
+  background: linear-gradient(110deg, #14213d 0%, #1f4f7a 45%, #06b6d4 100%);
+  box-shadow: 0 10px 25px rgba(20, 33, 61, 0.35);
+}
+
+.header-theme-schools-zone {
+  background: linear-gradient(110deg, #4c1d95 0%, #7c3aed 45%, #f97316 100%);
+  box-shadow: 0 10px 25px rgba(76, 29, 149, 0.35);
+}
+
+.header-theme-cluster {
+  background: linear-gradient(110deg, #14532d 0%, #15803d 45%, #22c55e 100%);
+  box-shadow: 0 10px 25px rgba(20, 83, 45, 0.35);
+}
+
+.breadcrumb-theme-mort {
+  background: linear-gradient(to right, #f8fafc, #eef2ff);
+  border-bottom-color: #dbeafe;
+}
+
+.breadcrumb-theme-irc {
+  background: linear-gradient(to right, #f0f9ff, #ecfeff);
+  border-bottom-color: #bae6fd;
+}
+
+.breadcrumb-theme-schools-zone {
+  background: linear-gradient(to right, #faf5ff, #fff7ed);
+  border-bottom-color: #e9d5ff;
+}
+
+.breadcrumb-theme-cluster {
+  background: linear-gradient(to right, #f0fdf4, #ecfdf5);
+  border-bottom-color: #bbf7d0;
+}
+
+.breadcrumb-category-mort {
+  color: #1d4ed8;
+  background: #dbeafe;
+}
+
+.breadcrumb-category-irc {
+  color: #0e7490;
+  background: #cffafe;
+}
+
+.breadcrumb-category-schools-zone {
+  color: #7c2d12;
+  background: #ffedd5;
+}
+
+.breadcrumb-category-cluster {
+  color: #166534;
+  background: #dcfce7;
+}
+
+@media (max-width: 992px) {
+  .header-subtitle {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 12px 16px;
+  }
+
+  .header-title {
+    font-size: 17px;
+  }
+
+  .header-right {
+    width: 100%;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .header-dropdown {
+    width: 170px;
+    max-width: 100%;
+  }
+
+  .breadcrumb-dropdown {
+    width: 170px;
+    max-width: 100%;
+  }
+
+  .breadcrumb-container {
+    padding: 8px 16px;
+  }
+}

@@ -1,0 +1,4162 @@
+{
+  "districts": {
+    "ANDHRA PRADESH": {
+      "YSR KADAPA": [
+        {
+          "school_name": "gundavali mumbai public school",
+          "state": "ANDHRA PRADESH",
+          "district": "YSR KADAPA",
+          "accidents": 1
+        }
+      ]
+    },
+    "ASSAM": {
+      "BISWANATH": [
+        {
+          "school_name": "gohpur town school",
+          "state": "ASSAM",
+          "district": "BISWANATH",
+          "accidents": 9
+        },
+        {
+          "school_name": "stella maris high school",
+          "state": "ASSAM",
+          "district": "BISWANATH",
+          "accidents": 8
+        },
+        {
+          "school_name": "bhaskarjyoti adarsha bidyapith",
+          "state": "ASSAM",
+          "district": "BISWANATH",
+          "accidents": 7
+        },
+        {
+          "school_name": "evergreen english school",
+          "state": "ASSAM",
+          "district": "BISWANATH",
+          "accidents": 7
+        },
+        {
+          "school_name": "gohpur bodo high school",
+          "state": "ASSAM",
+          "district": "BISWANATH",
+          "accidents": 7
+        },
+        {
+          "school_name": "kanaklata model high school, barangabari",
+          "state": "ASSAM",
+          "district": "BISWANATH",
+          "accidents": 7
+        },
+        {
+          "school_name": "st john bosco school",
+          "state": "ASSAM",
+          "district": "BISWANATH",
+          "accidents": 7
+        },
+        {
+          "school_name": "green bud school",
+          "state": "ASSAM",
+          "district": "BISWANATH",
+          "accidents": 4
+        },
+        {
+          "school_name": "pub- buroi high school",
+          "state": "ASSAM",
+          "district": "BISWANATH",
+          "accidents": 4
+        },
+        {
+          "school_name": "st. josehp's school gohpur",
+          "state": "ASSAM",
+          "district": "BISWANATH",
+          "accidents": 4
+        }
+      ],
+      "DARRANG": [
+        {
+          "school_name": "dalgaon anchlik jatiya bidayalya",
+          "state": "ASSAM",
+          "district": "DARRANG",
+          "accidents": 37
+        },
+        {
+          "school_name": "dhula high school",
+          "state": "ASSAM",
+          "district": "DARRANG",
+          "accidents": 16
+        },
+        {
+          "school_name": "barluit valley academy senior secondary school.",
+          "state": "ASSAM",
+          "district": "DARRANG",
+          "accidents": 13
+        },
+        {
+          "school_name": "bordoulguri high school",
+          "state": "ASSAM",
+          "district": "DARRANG",
+          "accidents": 13
+        },
+        {
+          "school_name": "kharupetia hs school",
+          "state": "ASSAM",
+          "district": "DARRANG",
+          "accidents": 13
+        },
+        {
+          "school_name": "maryam ajmal senior secondary school, kharupetia",
+          "state": "ASSAM",
+          "district": "DARRANG",
+          "accidents": 12
+        },
+        {
+          "school_name": "sipajhar h. s. & m. p. school",
+          "state": "ASSAM",
+          "district": "DARRANG",
+          "accidents": 12
+        },
+        {
+          "school_name": "mohammad ali high school",
+          "state": "ASSAM",
+          "district": "DARRANG",
+          "accidents": 11
+        },
+        {
+          "school_name": "blooming lotus english medium school",
+          "state": "ASSAM",
+          "district": "DARRANG",
+          "accidents": 10
+        },
+        {
+          "school_name": "dhula high school playground",
+          "state": "ASSAM",
+          "district": "DARRANG",
+          "accidents": 10
+        }
+      ],
+      "DHEMAJI": [
+        {
+          "school_name": "dhemaji jatiya vidyalaya",
+          "state": "ASSAM",
+          "district": "DHEMAJI",
+          "accidents": 9
+        },
+        {
+          "school_name": "gogamukh nagar high school",
+          "state": "ASSAM",
+          "district": "DHEMAJI",
+          "accidents": 8
+        },
+        {
+          "school_name": "sissiborgaon senior secondary school",
+          "state": "ASSAM",
+          "district": "DHEMAJI",
+          "accidents": 8
+        },
+        {
+          "school_name": "suvidya rem school, gogamukh",
+          "state": "ASSAM",
+          "district": "DHEMAJI",
+          "accidents": 6
+        },
+        {
+          "school_name": "kulajan high school",
+          "state": "ASSAM",
+          "district": "DHEMAJI",
+          "accidents": 4
+        },
+        {
+          "school_name": "shankardev vidya niketan, dhemaji",
+          "state": "ASSAM",
+          "district": "DHEMAJI",
+          "accidents": 4
+        },
+        {
+          "school_name": "vivekananda kendra vidyalaya, dhemaji",
+          "state": "ASSAM",
+          "district": "DHEMAJI",
+          "accidents": 4
+        },
+        {
+          "school_name": "jatiya vidyalaya gogamukh",
+          "state": "ASSAM",
+          "district": "DHEMAJI",
+          "accidents": 3
+        },
+        {
+          "school_name": "dhemaji town high school, dhemaji",
+          "state": "ASSAM",
+          "district": "DHEMAJI",
+          "accidents": 2
+        },
+        {
+          "school_name": "gorumora buri suti mising high school",
+          "state": "ASSAM",
+          "district": "DHEMAJI",
+          "accidents": 2
+        }
+      ],
+      "DIBRUGARH": [
+        {
+          "school_name": "rameswar hs school",
+          "state": "ASSAM",
+          "district": "DIBRUGARH",
+          "accidents": 15
+        }
+      ],
+      "KAMRUP": [
+        {
+          "school_name": "nagoan chariali high school",
+          "state": "ASSAM",
+          "district": "KAMRUP",
+          "accidents": 16
+        },
+        {
+          "school_name": "dumunichowki higher secondary school",
+          "state": "ASSAM",
+          "district": "KAMRUP",
+          "accidents": 13
+        },
+        {
+          "school_name": "agdala chariali higher secondary school",
+          "state": "ASSAM",
+          "district": "KAMRUP",
+          "accidents": 7
+        },
+        {
+          "school_name": "khehenipara girls' high school",
+          "state": "ASSAM",
+          "district": "KAMRUP",
+          "accidents": 7
+        },
+        {
+          "school_name": "rupkonwar jatiya bidyalaya",
+          "state": "ASSAM",
+          "district": "KAMRUP",
+          "accidents": 5
+        },
+        {
+          "school_name": "bornoi higher secondary school",
+          "state": "ASSAM",
+          "district": "KAMRUP",
+          "accidents": 2
+        },
+        {
+          "school_name": "24 no. agdala adarsha prathamik vidyalaya",
+          "state": "ASSAM",
+          "district": "KAMRUP",
+          "accidents": 1
+        }
+      ],
+      "LAKHIMPUR": [
+        {
+          "school_name": "narayanpur higher secondary school",
+          "state": "ASSAM",
+          "district": "LAKHIMPUR",
+          "accidents": 16
+        },
+        {
+          "school_name": "boginadi model hs school playground",
+          "state": "ASSAM",
+          "district": "LAKHIMPUR",
+          "accidents": 12
+        },
+        {
+          "school_name": "little flower academy school (an english medium school)",
+          "state": "ASSAM",
+          "district": "LAKHIMPUR",
+          "accidents": 12
+        },
+        {
+          "school_name": "laluk academy high school",
+          "state": "ASSAM",
+          "district": "LAKHIMPUR",
+          "accidents": 11
+        },
+        {
+          "school_name": "kakoi high school",
+          "state": "ASSAM",
+          "district": "LAKHIMPUR",
+          "accidents": 9
+        },
+        {
+          "school_name": "narayanpur adarsha high school",
+          "state": "ASSAM",
+          "district": "LAKHIMPUR",
+          "accidents": 9
+        },
+        {
+          "school_name": "nowboicha h.s. school",
+          "state": "ASSAM",
+          "district": "LAKHIMPUR",
+          "accidents": 9
+        },
+        {
+          "school_name": "ananda adarsha high school",
+          "state": "ASSAM",
+          "district": "LAKHIMPUR",
+          "accidents": 8
+        },
+        {
+          "school_name": "monikumar high school, harmutty",
+          "state": "ASSAM",
+          "district": "LAKHIMPUR",
+          "accidents": 8
+        },
+        {
+          "school_name": "vivekananda central school. balijan",
+          "state": "ASSAM",
+          "district": "LAKHIMPUR",
+          "accidents": 8
+        }
+      ],
+      "SONITPUR": [
+        {
+          "school_name": "st. mary's school, tezpur",
+          "state": "ASSAM",
+          "district": "SONITPUR",
+          "accidents": 34
+        },
+        {
+          "school_name": "roushan national school",
+          "state": "ASSAM",
+          "district": "SONITPUR",
+          "accidents": 19
+        },
+        {
+          "school_name": "madhavdev shishu niketan",
+          "state": "ASSAM",
+          "district": "SONITPUR",
+          "accidents": 17
+        },
+        {
+          "school_name": "emmanuel christian school",
+          "state": "ASSAM",
+          "district": "SONITPUR",
+          "accidents": 14
+        },
+        {
+          "school_name": "don bosco english school",
+          "state": "ASSAM",
+          "district": "SONITPUR",
+          "accidents": 13
+        },
+        {
+          "school_name": "vivekananda kendra vidyalaya, tezpur",
+          "state": "ASSAM",
+          "district": "SONITPUR",
+          "accidents": 12
+        },
+        {
+          "school_name": "don bosco higher secondary school",
+          "state": "ASSAM",
+          "district": "SONITPUR",
+          "accidents": 11
+        },
+        {
+          "school_name": "tezpur gurukul school",
+          "state": "ASSAM",
+          "district": "SONITPUR",
+          "accidents": 9
+        },
+        {
+          "school_name": "wisdom senior secondary school",
+          "state": "ASSAM",
+          "district": "SONITPUR",
+          "accidents": 9
+        },
+        {
+          "school_name": "don bosco hr.sec.school, sirajuli",
+          "state": "ASSAM",
+          "district": "SONITPUR",
+          "accidents": 8
+        }
+      ],
+      "TINSUKIA": [
+        {
+          "school_name": "madhobpur lp school,simoluguri",
+          "state": "ASSAM",
+          "district": "TINSUKIA",
+          "accidents": 5
+        },
+        {
+          "school_name": "dirak higher secondary school",
+          "state": "ASSAM",
+          "district": "TINSUKIA",
+          "accidents": 1
+        },
+        {
+          "school_name": "jatiya vidyalaya dirak, amguri",
+          "state": "ASSAM",
+          "district": "TINSUKIA",
+          "accidents": 1
+        },
+        {
+          "school_name": "kakopathar galgalli patti",
+          "state": "ASSAM",
+          "district": "TINSUKIA",
+          "accidents": 1
+        },
+        {
+          "school_name": "kakopather girls high school",
+          "state": "ASSAM",
+          "district": "TINSUKIA",
+          "accidents": 1
+        },
+        {
+          "school_name": "kakopather higher secondary school",
+          "state": "ASSAM",
+          "district": "TINSUKIA",
+          "accidents": 1
+        }
+      ],
+      "UDALGURI": [
+        {
+          "school_name": "j.b. hagjer memorial high school",
+          "state": "ASSAM",
+          "district": "UDALGURI",
+          "accidents": 7
+        }
+      ]
+    },
+    "MAHARASHTRA": {
+      "AKOLA": [
+        {
+          "school_name": "sharada vidhyaniketen",
+          "state": "MAHARASHTRA",
+          "district": "AKOLA",
+          "accidents": 8
+        }
+      ],
+      "AMRAVATI CITY": [
+        {
+          "school_name": "vinayak vidyamandir",
+          "state": "MAHARASHTRA",
+          "district": "AMRAVATI CITY",
+          "accidents": 11
+        },
+        {
+          "school_name": "z p high-school, nandgaon peth",
+          "state": "MAHARASHTRA",
+          "district": "AMRAVATI CITY",
+          "accidents": 10
+        },
+        {
+          "school_name": "matoshri krishnabai deshmukh vidyalaya",
+          "state": "MAHARASHTRA",
+          "district": "AMRAVATI CITY",
+          "accidents": 9
+        },
+        {
+          "school_name": "school of scholars malu layout kaloti nagar amravati maharashtra",
+          "state": "MAHARASHTRA",
+          "district": "AMRAVATI CITY",
+          "accidents": 7
+        },
+        {
+          "school_name": "r.z.wakpanjar school",
+          "state": "MAHARASHTRA",
+          "district": "AMRAVATI CITY",
+          "accidents": 6
+        },
+        {
+          "school_name": "hill top primary school",
+          "state": "MAHARASHTRA",
+          "district": "AMRAVATI CITY",
+          "accidents": 5
+        },
+        {
+          "school_name": "saint daryav english school",
+          "state": "MAHARASHTRA",
+          "district": "AMRAVATI CITY",
+          "accidents": 2
+        },
+        {
+          "school_name": "nabhagan primary school",
+          "state": "MAHARASHTRA",
+          "district": "AMRAVATI CITY",
+          "accidents": 1
+        },
+        {
+          "school_name": "vinayaka gurukul children school",
+          "state": "MAHARASHTRA",
+          "district": "AMRAVATI CITY",
+          "accidents": 1
+        }
+      ],
+      "AMRAVATI RURAL": [
+        {
+          "school_name": "shri gurudev vidya mandir school, mozari",
+          "state": "MAHARASHTRA",
+          "district": "AMRAVATI RURAL",
+          "accidents": 3
+        },
+        {
+          "school_name": "wadekar national school",
+          "state": "MAHARASHTRA",
+          "district": "AMRAVATI RURAL",
+          "accidents": 2
+        },
+        {
+          "school_name": "z.p. marathi school bopi",
+          "state": "MAHARASHTRA",
+          "district": "AMRAVATI RURAL",
+          "accidents": 1
+        }
+      ],
+      "BHANDARA": [
+        {
+          "school_name": "santaji school",
+          "state": "MAHARASHTRA",
+          "district": "BHANDARA",
+          "accidents": 29
+        },
+        {
+          "school_name": "n.p.k high school",
+          "state": "MAHARASHTRA",
+          "district": "BHANDARA",
+          "accidents": 7
+        },
+        {
+          "school_name": "lotus international public school",
+          "state": "MAHARASHTRA",
+          "district": "BHANDARA",
+          "accidents": 6
+        },
+        {
+          "school_name": "z p gandhi vidyalaya, lakhani",
+          "state": "MAHARASHTRA",
+          "district": "BHANDARA",
+          "accidents": 6
+        },
+        {
+          "school_name": "brain discovery global school",
+          "state": "MAHARASHTRA",
+          "district": "BHANDARA",
+          "accidents": 3
+        },
+        {
+          "school_name": "little angels public school",
+          "state": "MAHARASHTRA",
+          "district": "BHANDARA",
+          "accidents": 3
+        },
+        {
+          "school_name": "martandrao patil kapgate high school and junior college",
+          "state": "MAHARASHTRA",
+          "district": "BHANDARA",
+          "accidents": 3
+        },
+        {
+          "school_name": "samarth mahavidyalaya lakhani",
+          "state": "MAHARASHTRA",
+          "district": "BHANDARA",
+          "accidents": 3
+        },
+        {
+          "school_name": "leader's convent school pimpalgaon sadak",
+          "state": "MAHARASHTRA",
+          "district": "BHANDARA",
+          "accidents": 2
+        },
+        {
+          "school_name": "universal english medium school",
+          "state": "MAHARASHTRA",
+          "district": "BHANDARA",
+          "accidents": 2
+        }
+      ],
+      "BULDHANA": [
+        {
+          "school_name": "msm english school",
+          "state": "MAHARASHTRA",
+          "district": "BULDHANA",
+          "accidents": 10
+        }
+      ],
+      "DHULE": [
+        {
+          "school_name": "z.p boys primary school, fagane",
+          "state": "MAHARASHTRA",
+          "district": "DHULE",
+          "accidents": 15
+        },
+        {
+          "school_name": "garud pre-primary, primary & high school",
+          "state": "MAHARASHTRA",
+          "district": "DHULE",
+          "accidents": 8
+        },
+        {
+          "school_name": "juniors pre primary school sakri road centre",
+          "state": "MAHARASHTRA",
+          "district": "DHULE",
+          "accidents": 8
+        },
+        {
+          "school_name": "andh mula-mulinchi shala, dhule",
+          "state": "MAHARASHTRA",
+          "district": "DHULE",
+          "accidents": 7
+        },
+        {
+          "school_name": "c.s.bafna high school, fagane",
+          "state": "MAHARASHTRA",
+          "district": "DHULE",
+          "accidents": 7
+        },
+        {
+          "school_name": "j.r.city high school",
+          "state": "MAHARASHTRA",
+          "district": "DHULE",
+          "accidents": 6
+        },
+        {
+          "school_name": "krushinagar madhyamik vidhyalaya parola road dhule maharashtra",
+          "state": "MAHARASHTRA",
+          "district": "DHULE",
+          "accidents": 6
+        },
+        {
+          "school_name": "netaji day school , fagne road, dhule",
+          "state": "MAHARASHTRA",
+          "district": "DHULE",
+          "accidents": 5
+        },
+        {
+          "school_name": "government school",
+          "state": "MAHARASHTRA",
+          "district": "DHULE",
+          "accidents": 4
+        },
+        {
+          "school_name": "navin prathamik shala",
+          "state": "MAHARASHTRA",
+          "district": "DHULE",
+          "accidents": 4
+        }
+      ],
+      "GONDIA": [
+        {
+          "school_name": "shivram vidhyalaya maramjob",
+          "state": "MAHARASHTRA",
+          "district": "GONDIA",
+          "accidents": 5
+        },
+        {
+          "school_name": "vasant high school",
+          "state": "MAHARASHTRA",
+          "district": "GONDIA",
+          "accidents": 1
+        }
+      ],
+      "JALGAON": [
+        {
+          "school_name": "iqra urdu high school,salar nagar",
+          "state": "MAHARASHTRA",
+          "district": "JALGAON",
+          "accidents": 23
+        },
+        {
+          "school_name": "iqra shahin urdu high school mehrun jalgaon",
+          "state": "MAHARASHTRA",
+          "district": "JALGAON",
+          "accidents": 11
+        },
+        {
+          "school_name": "k c english medium school",
+          "state": "MAHARASHTRA",
+          "district": "JALGAON",
+          "accidents": 11
+        },
+        {
+          "school_name": "new adarsh english medium school",
+          "state": "MAHARASHTRA",
+          "district": "JALGAON",
+          "accidents": 9
+        },
+        {
+          "school_name": "nobel international school",
+          "state": "MAHARASHTRA",
+          "district": "JALGAON",
+          "accidents": 9
+        },
+        {
+          "school_name": "aryan international school",
+          "state": "MAHARASHTRA",
+          "district": "JALGAON",
+          "accidents": 7
+        },
+        {
+          "school_name": "madhyamik vidyalaya, paldhi",
+          "state": "MAHARASHTRA",
+          "district": "JALGAON",
+          "accidents": 7
+        },
+        {
+          "school_name": "utkarsh matimand vidyalaya",
+          "state": "MAHARASHTRA",
+          "district": "JALGAON",
+          "accidents": 7
+        },
+        {
+          "school_name": "bhr english medium school",
+          "state": "MAHARASHTRA",
+          "district": "JALGAON",
+          "accidents": 6
+        },
+        {
+          "school_name": "matoshree primary school,jalgaon",
+          "state": "MAHARASHTRA",
+          "district": "JALGAON",
+          "accidents": 5
+        }
+      ],
+      "KOLHAPUR": [
+        {
+          "school_name": "symbolic international school",
+          "state": "MAHARASHTRA",
+          "district": "KOLHAPUR",
+          "accidents": 24
+        },
+        {
+          "school_name": "shri shahu high school",
+          "state": "MAHARASHTRA",
+          "district": "KOLHAPUR",
+          "accidents": 19
+        },
+        {
+          "school_name": "s y mane high school",
+          "state": "MAHARASHTRA",
+          "district": "KOLHAPUR",
+          "accidents": 10
+        },
+        {
+          "school_name": "ideal english school",
+          "state": "MAHARASHTRA",
+          "district": "KOLHAPUR",
+          "accidents": 9
+        },
+        {
+          "school_name": "swami vivekananda international school",
+          "state": "MAHARASHTRA",
+          "district": "KOLHAPUR",
+          "accidents": 8
+        },
+        {
+          "school_name": "blooming buds public school",
+          "state": "MAHARASHTRA",
+          "district": "KOLHAPUR",
+          "accidents": 4
+        },
+        {
+          "school_name": "vishwakarma international school, kagal, kolhapur.",
+          "state": "MAHARASHTRA",
+          "district": "KOLHAPUR",
+          "accidents": 4
+        }
+      ],
+      "Mira-Bhainder, Vasai-Virar PC": [
+        {
+          "school_name": "zilla parishad marathi school",
+          "state": "MAHARASHTRA",
+          "district": "Mira-Bhainder, Vasai-Virar PC",
+          "accidents": 41
+        },
+        {
+          "school_name": "shree ram international school",
+          "state": "MAHARASHTRA",
+          "district": "Mira-Bhainder, Vasai-Virar PC",
+          "accidents": 37
+        },
+        {
+          "school_name": "tungareshwar academy high school, vasai",
+          "state": "MAHARASHTRA",
+          "district": "Mira-Bhainder, Vasai-Virar PC",
+          "accidents": 24
+        },
+        {
+          "school_name": "st. jerome convent high school",
+          "state": "MAHARASHTRA",
+          "district": "Mira-Bhainder, Vasai-Virar PC",
+          "accidents": 22
+        },
+        {
+          "school_name": "mira bhayandar urdu school",
+          "state": "MAHARASHTRA",
+          "district": "Mira-Bhainder, Vasai-Virar PC",
+          "accidents": 14
+        },
+        {
+          "school_name": "st mary's high school, mira road",
+          "state": "MAHARASHTRA",
+          "district": "Mira-Bhainder, Vasai-Virar PC",
+          "accidents": 13
+        },
+        {
+          "school_name": "zilla parishad school, bharol",
+          "state": "MAHARASHTRA",
+          "district": "Mira-Bhainder, Vasai-Virar PC",
+          "accidents": 10
+        },
+        {
+          "school_name": "a.p. international school",
+          "state": "MAHARASHTRA",
+          "district": "Mira-Bhainder, Vasai-Virar PC",
+          "accidents": 9
+        },
+        {
+          "school_name": "asmita bhavan school",
+          "state": "MAHARASHTRA",
+          "district": "Mira-Bhainder, Vasai-Virar PC",
+          "accidents": 2
+        },
+        {
+          "school_name": "kashigaon municipal school",
+          "state": "MAHARASHTRA",
+          "district": "Mira-Bhainder, Vasai-Virar PC",
+          "accidents": 1
+        }
+      ],
+      "MUMBAI CITY": [
+        {
+          "school_name": "cardinal gracias high school",
+          "state": "MAHARASHTRA",
+          "district": "MUMBAI CITY",
+          "accidents": 69
+        },
+        {
+          "school_name": "holy angels pre-primary school",
+          "state": "MAHARASHTRA",
+          "district": "MUMBAI CITY",
+          "accidents": 55
+        },
+        {
+          "school_name": "shri n.p.k.(t) vidya mandir (ssc board)",
+          "state": "MAHARASHTRA",
+          "district": "MUMBAI CITY",
+          "accidents": 50
+        },
+        {
+          "school_name": "gundavali mumbai public school",
+          "state": "MAHARASHTRA",
+          "district": "MUMBAI CITY",
+          "accidents": 46
+        },
+        {
+          "school_name": "gopal's garden high school, borivali (cbse)",
+          "state": "MAHARASHTRA",
+          "district": "MUMBAI CITY",
+          "accidents": 45
+        },
+        {
+          "school_name": "sou laxmibai english medium school",
+          "state": "MAHARASHTRA",
+          "district": "MUMBAI CITY",
+          "accidents": 45
+        },
+        {
+          "school_name": "morning star english school",
+          "state": "MAHARASHTRA",
+          "district": "MUMBAI CITY",
+          "accidents": 42
+        },
+        {
+          "school_name": "shri b.d. shukla english high school",
+          "state": "MAHARASHTRA",
+          "district": "MUMBAI CITY",
+          "accidents": 42
+        },
+        {
+          "school_name": "eurokids preschool in ghatkopar east, mumbai",
+          "state": "MAHARASHTRA",
+          "district": "MUMBAI CITY",
+          "accidents": 35
+        },
+        {
+          "school_name": "asmita bhavan school",
+          "state": "MAHARASHTRA",
+          "district": "MUMBAI CITY",
+          "accidents": 34
+        }
+      ],
+      "NAGPUR CITY": [
+        {
+          "school_name": "bishop cotton school cbse",
+          "state": "MAHARASHTRA",
+          "district": "NAGPUR CITY",
+          "accidents": 42
+        }
+      ],
+      "NAGPUR RURAL": [
+        {
+          "school_name": "primary school dudhala",
+          "state": "MAHARASHTRA",
+          "district": "NAGPUR RURAL",
+          "accidents": 9
+        },
+        {
+          "school_name": "sunrise marathi primary school",
+          "state": "MAHARASHTRA",
+          "district": "NAGPUR RURAL",
+          "accidents": 8
+        },
+        {
+          "school_name": "lakhotia bhutada high school kondhali",
+          "state": "MAHARASHTRA",
+          "district": "NAGPUR RURAL",
+          "accidents": 6
+        },
+        {
+          "school_name": "zila parishad primary school",
+          "state": "MAHARASHTRA",
+          "district": "NAGPUR RURAL",
+          "accidents": 3
+        },
+        {
+          "school_name": "zila parishad upper primary school",
+          "state": "MAHARASHTRA",
+          "district": "NAGPUR RURAL",
+          "accidents": 3
+        }
+      ],
+      "NAVI  MUMBAI": [
+        {
+          "school_name": "sd bhagat school",
+          "state": "MAHARASHTRA",
+          "district": "NAVI  MUMBAI",
+          "accidents": 34
+        },
+        {
+          "school_name": "st. mary pre primary school",
+          "state": "MAHARASHTRA",
+          "district": "NAVI  MUMBAI",
+          "accidents": 25
+        },
+        {
+          "school_name": "st. xaviers english high school",
+          "state": "MAHARASHTRA",
+          "district": "NAVI  MUMBAI",
+          "accidents": 17
+        },
+        {
+          "school_name": "re english school kalamboli",
+          "state": "MAHARASHTRA",
+          "district": "NAVI  MUMBAI",
+          "accidents": 12
+        },
+        {
+          "school_name": "eurokids preschool kalamboli, best kindergarten in navi mumbai",
+          "state": "MAHARASHTRA",
+          "district": "NAVI  MUMBAI",
+          "accidents": 11
+        },
+        {
+          "school_name": "mhatre vidyalaya",
+          "state": "MAHARASHTRA",
+          "district": "NAVI  MUMBAI",
+          "accidents": 9
+        },
+        {
+          "school_name": "r z p school (ajivali°panvel )",
+          "state": "MAHARASHTRA",
+          "district": "NAVI  MUMBAI",
+          "accidents": 7
+        },
+        {
+          "school_name": "st. johannes international school, panvel",
+          "state": "MAHARASHTRA",
+          "district": "NAVI  MUMBAI",
+          "accidents": 7
+        },
+        {
+          "school_name": "bethany convent school (kolkhe village)",
+          "state": "MAHARASHTRA",
+          "district": "NAVI  MUMBAI",
+          "accidents": 5
+        },
+        {
+          "school_name": "st. wilfred's school (cbse board) panvel.",
+          "state": "MAHARASHTRA",
+          "district": "NAVI  MUMBAI",
+          "accidents": 5
+        }
+      ],
+      "PALGHAR": [
+        {
+          "school_name": "gov ashram school dhekale",
+          "state": "MAHARASHTRA",
+          "district": "PALGHAR",
+          "accidents": 9
+        },
+        {
+          "school_name": "thakkarbappa vidyalaya",
+          "state": "MAHARASHTRA",
+          "district": "PALGHAR",
+          "accidents": 8
+        },
+        {
+          "school_name": "district primary and upper primary school tawa",
+          "state": "MAHARASHTRA",
+          "district": "PALGHAR",
+          "accidents": 7
+        },
+        {
+          "school_name": "post besic govt. ashram school",
+          "state": "MAHARASHTRA",
+          "district": "PALGHAR",
+          "accidents": 6
+        },
+        {
+          "school_name": "z p school vivalvedhe",
+          "state": "MAHARASHTRA",
+          "district": "PALGHAR",
+          "accidents": 6
+        },
+        {
+          "school_name": "z.p. school mandalpada",
+          "state": "MAHARASHTRA",
+          "district": "PALGHAR",
+          "accidents": 6
+        },
+        {
+          "school_name": "z.p.school sutrakar lakhanpada no 2",
+          "state": "MAHARASHTRA",
+          "district": "PALGHAR",
+          "accidents": 4
+        },
+        {
+          "school_name": "government ashram school",
+          "state": "MAHARASHTRA",
+          "district": "PALGHAR",
+          "accidents": 3
+        }
+      ],
+      "PIMPR-CHINCHWAD": [
+        {
+          "school_name": "indira national school pre-primary",
+          "state": "MAHARASHTRA",
+          "district": "PIMPR-CHINCHWAD",
+          "accidents": 17
+        },
+        {
+          "school_name": "learniverse school (pre-primary)",
+          "state": "MAHARASHTRA",
+          "district": "PIMPR-CHINCHWAD",
+          "accidents": 11
+        },
+        {
+          "school_name": "swami vivekananda school",
+          "state": "MAHARASHTRA",
+          "district": "PIMPR-CHINCHWAD",
+          "accidents": 11
+        },
+        {
+          "school_name": "vib's english school",
+          "state": "MAHARASHTRA",
+          "district": "PIMPR-CHINCHWAD",
+          "accidents": 10
+        },
+        {
+          "school_name": "sri chaitanya techno school",
+          "state": "MAHARASHTRA",
+          "district": "PIMPR-CHINCHWAD",
+          "accidents": 8
+        },
+        {
+          "school_name": "blossom public school",
+          "state": "MAHARASHTRA",
+          "district": "PIMPR-CHINCHWAD",
+          "accidents": 7
+        },
+        {
+          "school_name": "sahyadri english medium school",
+          "state": "MAHARASHTRA",
+          "district": "PIMPR-CHINCHWAD",
+          "accidents": 7
+        },
+        {
+          "school_name": "geniuss unicorn modern school",
+          "state": "MAHARASHTRA",
+          "district": "PIMPR-CHINCHWAD",
+          "accidents": 5
+        },
+        {
+          "school_name": "play pen nursery school",
+          "state": "MAHARASHTRA",
+          "district": "PIMPR-CHINCHWAD",
+          "accidents": 4
+        }
+      ],
+      "PUNE CITY": [
+        {
+          "school_name": "indrayani international school",
+          "state": "MAHARASHTRA",
+          "district": "PUNE CITY",
+          "accidents": 22
+        },
+        {
+          "school_name": "sunflower nursery school",
+          "state": "MAHARASHTRA",
+          "district": "PUNE CITY",
+          "accidents": 19
+        },
+        {
+          "school_name": "late shri mohanrao bhide sanskar gurukul school",
+          "state": "MAHARASHTRA",
+          "district": "PUNE CITY",
+          "accidents": 14
+        },
+        {
+          "school_name": "rmd sinhgad spring dale school",
+          "state": "MAHARASHTRA",
+          "district": "PUNE CITY",
+          "accidents": 13
+        },
+        {
+          "school_name": "sahyadri national school",
+          "state": "MAHARASHTRA",
+          "district": "PUNE CITY",
+          "accidents": 12
+        },
+        {
+          "school_name": "helios international school",
+          "state": "MAHARASHTRA",
+          "district": "PUNE CITY",
+          "accidents": 10
+        },
+        {
+          "school_name": "dnyanadeep english medium school",
+          "state": "MAHARASHTRA",
+          "district": "PUNE CITY",
+          "accidents": 7
+        },
+        {
+          "school_name": "everests english school",
+          "state": "MAHARASHTRA",
+          "district": "PUNE CITY",
+          "accidents": 6
+        },
+        {
+          "school_name": "rosary school",
+          "state": "MAHARASHTRA",
+          "district": "PUNE CITY",
+          "accidents": 2
+        },
+        {
+          "school_name": "geniuss unicorn modern school",
+          "state": "MAHARASHTRA",
+          "district": "PUNE CITY",
+          "accidents": 1
+        }
+      ],
+      "PUNE RURAL": [
+        {
+          "school_name": "shivabhumi vidyalay",
+          "state": "MAHARASHTRA",
+          "district": "PUNE RURAL",
+          "accidents": 39
+        },
+        {
+          "school_name": "kapurhol shree shivaji vidylaya kapurhol",
+          "state": "MAHARASHTRA",
+          "district": "PUNE RURAL",
+          "accidents": 17
+        },
+        {
+          "school_name": "jesus christ english medium school",
+          "state": "MAHARASHTRA",
+          "district": "PUNE RURAL",
+          "accidents": 14
+        },
+        {
+          "school_name": "jrd international school",
+          "state": "MAHARASHTRA",
+          "district": "PUNE RURAL",
+          "accidents": 13
+        },
+        {
+          "school_name": "london kids preschool kamshet, maharashtra",
+          "state": "MAHARASHTRA",
+          "district": "PUNE RURAL",
+          "accidents": 12
+        },
+        {
+          "school_name": "shivbhumi shikshan mandal",
+          "state": "MAHARASHTRA",
+          "district": "PUNE RURAL",
+          "accidents": 11
+        },
+        {
+          "school_name": "bai dhunmai cawasji high school",
+          "state": "MAHARASHTRA",
+          "district": "PUNE RURAL",
+          "accidents": 8
+        },
+        {
+          "school_name": "zilla parishad primary school kikvi",
+          "state": "MAHARASHTRA",
+          "district": "PUNE RURAL",
+          "accidents": 8
+        },
+        {
+          "school_name": "ambani school",
+          "state": "MAHARASHTRA",
+          "district": "PUNE RURAL",
+          "accidents": 7
+        },
+        {
+          "school_name": "dc high school",
+          "state": "MAHARASHTRA",
+          "district": "PUNE RURAL",
+          "accidents": 7
+        }
+      ],
+      "RAIGAD": [
+        {
+          "school_name": "anand shala & jr college of commerce and science",
+          "state": "MAHARASHTRA",
+          "district": "RAIGAD",
+          "accidents": 7
+        }
+      ],
+      "SANGLI": [
+        {
+          "school_name": "new english school peth",
+          "state": "MAHARASHTRA",
+          "district": "SANGLI",
+          "accidents": 9
+        },
+        {
+          "school_name": "jilha parishad shala no. 3",
+          "state": "MAHARASHTRA",
+          "district": "SANGLI",
+          "accidents": 6
+        },
+        {
+          "school_name": "savitribai fule kanya mahavidyalay, nerle",
+          "state": "MAHARASHTRA",
+          "district": "SANGLI",
+          "accidents": 5
+        },
+        {
+          "school_name": "vidyaniketan english medium school",
+          "state": "MAHARASHTRA",
+          "district": "SANGLI",
+          "accidents": 1
+        }
+      ],
+      "SATARA": [
+        {
+          "school_name": "r.k.g.m. school atit",
+          "state": "MAHARASHTRA",
+          "district": "SATARA",
+          "accidents": 11
+        },
+        {
+          "school_name": "yashvantrao school",
+          "state": "MAHARASHTRA",
+          "district": "SATARA",
+          "accidents": 10
+        },
+        {
+          "school_name": "sunrise school, satara",
+          "state": "MAHARASHTRA",
+          "district": "SATARA",
+          "accidents": 9
+        },
+        {
+          "school_name": "yashawant high school, kashil",
+          "state": "MAHARASHTRA",
+          "district": "SATARA",
+          "accidents": 9
+        },
+        {
+          "school_name": "cloudkids pre primary school",
+          "state": "MAHARASHTRA",
+          "district": "SATARA",
+          "accidents": 8
+        },
+        {
+          "school_name": "rayat english medium school, bhuinj-asale",
+          "state": "MAHARASHTRA",
+          "district": "SATARA",
+          "accidents": 7
+        },
+        {
+          "school_name": "shri ramkrishna vidyamandir",
+          "state": "MAHARASHTRA",
+          "district": "SATARA",
+          "accidents": 5
+        },
+        {
+          "school_name": "smt. r. p. kadam kanya vidyalaya, umbraj",
+          "state": "MAHARASHTRA",
+          "district": "SATARA",
+          "accidents": 5
+        },
+        {
+          "school_name": "shree shivaji school, virbaug, surur",
+          "state": "MAHARASHTRA",
+          "district": "SATARA",
+          "accidents": 4
+        },
+        {
+          "school_name": "new era english medium school pargaon khandala",
+          "state": "MAHARASHTRA",
+          "district": "SATARA",
+          "accidents": 3
+        }
+      ],
+      "THANE CITY": [
+        {
+          "school_name": "aisha english school",
+          "state": "MAHARASHTRA",
+          "district": "THANE CITY",
+          "accidents": 27
+        },
+        {
+          "school_name": "gramin shikshan sanstha english highschool and junior college",
+          "state": "MAHARASHTRA",
+          "district": "THANE CITY",
+          "accidents": 25
+        },
+        {
+          "school_name": "creative high school",
+          "state": "MAHARASHTRA",
+          "district": "THANE CITY",
+          "accidents": 15
+        },
+        {
+          "school_name": "smt indira gandhi school",
+          "state": "MAHARASHTRA",
+          "district": "THANE CITY",
+          "accidents": 13
+        },
+        {
+          "school_name": "trimurti vidyamandir (trimurti high school)",
+          "state": "MAHARASHTRA",
+          "district": "THANE CITY",
+          "accidents": 13
+        },
+        {
+          "school_name": "trimurti high school",
+          "state": "MAHARASHTRA",
+          "district": "THANE CITY",
+          "accidents": 12
+        },
+        {
+          "school_name": "little champs pre primary school",
+          "state": "MAHARASHTRA",
+          "district": "THANE CITY",
+          "accidents": 10
+        },
+        {
+          "school_name": "makoons play school majiwada | preschool in thane | daycare in thane | playgroup | nursery | activity centre in thane",
+          "state": "MAHARASHTRA",
+          "district": "THANE CITY",
+          "accidents": 9
+        },
+        {
+          "school_name": "patel high-school mumbra",
+          "state": "MAHARASHTRA",
+          "district": "THANE CITY",
+          "accidents": 9
+        },
+        {
+          "school_name": "sri ma bal niketan high school",
+          "state": "MAHARASHTRA",
+          "district": "THANE CITY",
+          "accidents": 8
+        }
+      ],
+      "THANE RURAL": [
+        {
+          "school_name": "play pen nursery school",
+          "state": "MAHARASHTRA",
+          "district": "THANE RURAL",
+          "accidents": 1
+        }
+      ],
+      "WARDHA": [
+        {
+          "school_name": "sanskar convent school thanegaon",
+          "state": "MAHARASHTRA",
+          "district": "WARDHA",
+          "accidents": 4
+        },
+        {
+          "school_name": "nav prabhat vidya mandir thanegaon",
+          "state": "MAHARASHTRA",
+          "district": "WARDHA",
+          "accidents": 3
+        },
+        {
+          "school_name": "st francis assisi school kharanja",
+          "state": "MAHARASHTRA",
+          "district": "WARDHA",
+          "accidents": 2
+        }
+      ]
+    },
+    "RAJASTHAN": {
+      "AJMER": [
+        {
+          "school_name": "rashtriya military school,ajmer",
+          "state": "RAJASTHAN",
+          "district": "AJMER",
+          "accidents": 14
+        },
+        {
+          "school_name": "government mahatma gandhi senior secondary school",
+          "state": "RAJASTHAN",
+          "district": "AJMER",
+          "accidents": 12
+        },
+        {
+          "school_name": "govt. senior secondary school",
+          "state": "RAJASTHAN",
+          "district": "AJMER",
+          "accidents": 7
+        },
+        {
+          "school_name": "govt. s. s. school jharwasa",
+          "state": "RAJASTHAN",
+          "district": "AJMER",
+          "accidents": 5
+        },
+        {
+          "school_name": "govt. sen. sec. school silora",
+          "state": "RAJASTHAN",
+          "district": "AJMER",
+          "accidents": 5
+        },
+        {
+          "school_name": "राजकीय उच्च माध्यमिक विद्यालय(केसरपुरा)",
+          "state": "RAJASTHAN",
+          "district": "AJMER",
+          "accidents": 5
+        },
+        {
+          "school_name": "shri krishna public school",
+          "state": "RAJASTHAN",
+          "district": "AJMER",
+          "accidents": 4
+        },
+        {
+          "school_name": "birla public school, kishangarh, rajasthan",
+          "state": "RAJASTHAN",
+          "district": "AJMER",
+          "accidents": 3
+        },
+        {
+          "school_name": "government senior secondary school",
+          "state": "RAJASTHAN",
+          "district": "AJMER",
+          "accidents": 3
+        },
+        {
+          "school_name": "govt primary school, kishangarh",
+          "state": "RAJASTHAN",
+          "district": "AJMER",
+          "accidents": 2
+        }
+      ],
+      "BARAN": [
+        {
+          "school_name": "sarvodaya bal shikshan sansthan bansthuni",
+          "state": "RAJASTHAN",
+          "district": "BARAN",
+          "accidents": 5
+        },
+        {
+          "school_name": "apex international school",
+          "state": "RAJASTHAN",
+          "district": "BARAN",
+          "accidents": 3
+        },
+        {
+          "school_name": "g. u. p. school pajantori",
+          "state": "RAJASTHAN",
+          "district": "BARAN",
+          "accidents": 2
+        },
+        {
+          "school_name": "government senior primary school",
+          "state": "RAJASTHAN",
+          "district": "BARAN",
+          "accidents": 2
+        },
+        {
+          "school_name": "government sr sec school, batawada baran",
+          "state": "RAJASTHAN",
+          "district": "BARAN",
+          "accidents": 2
+        },
+        {
+          "school_name": "govt upper primary school rampuriya jageer",
+          "state": "RAJASTHAN",
+          "district": "BARAN",
+          "accidents": 2
+        },
+        {
+          "school_name": "govt.ser sec. school khushiara tehsil-shahabad district baran",
+          "state": "RAJASTHAN",
+          "district": "BARAN",
+          "accidents": 2
+        },
+        {
+          "school_name": "government janjati kalyan awasiya vidyalaya",
+          "state": "RAJASTHAN",
+          "district": "BARAN",
+          "accidents": 1
+        },
+        {
+          "school_name": "government secondary school",
+          "state": "RAJASTHAN",
+          "district": "BARAN",
+          "accidents": 1
+        },
+        {
+          "school_name": "kgbv shahabad type 3",
+          "state": "RAJASTHAN",
+          "district": "BARAN",
+          "accidents": 1
+        }
+      ],
+      "BEAWAR": [
+        {
+          "school_name": "janki nandan public school ( jnp school )",
+          "state": "RAJASTHAN",
+          "district": "BEAWAR",
+          "accidents": 15
+        },
+        {
+          "school_name": "k.d. jain public school",
+          "state": "RAJASTHAN",
+          "district": "BEAWAR",
+          "accidents": 8
+        },
+        {
+          "school_name": "govt.sr.sec.school,kharwa,masuda,ajmer",
+          "state": "RAJASTHAN",
+          "district": "BEAWAR",
+          "accidents": 4
+        },
+        {
+          "school_name": "government high primary school",
+          "state": "RAJASTHAN",
+          "district": "BEAWAR",
+          "accidents": 3
+        }
+      ],
+      "BHILWARA": [
+        {
+          "school_name": "government senior secondary school mandpiya charnan",
+          "state": "RAJASTHAN",
+          "district": "BHILWARA",
+          "accidents": 6
+        },
+        {
+          "school_name": "eurokids pre-school jodhpur-jhalamand",
+          "state": "RAJASTHAN",
+          "district": "BHILWARA",
+          "accidents": 1
+        }
+      ],
+      "BIKANER": [
+        {
+          "school_name": "blossom international sr. sec. school",
+          "state": "RAJASTHAN",
+          "district": "BIKANER",
+          "accidents": 9
+        },
+        {
+          "school_name": "dayanand public school bikaner-academics by narayana educational institutions",
+          "state": "RAJASTHAN",
+          "district": "BIKANER",
+          "accidents": 9
+        },
+        {
+          "school_name": "geeta children school",
+          "state": "RAJASTHAN",
+          "district": "BIKANER",
+          "accidents": 9
+        },
+        {
+          "school_name": "roopa devi school",
+          "state": "RAJASTHAN",
+          "district": "BIKANER",
+          "accidents": 9
+        },
+        {
+          "school_name": "govt. maharani girls secondry high school",
+          "state": "RAJASTHAN",
+          "district": "BIKANER",
+          "accidents": 8
+        },
+        {
+          "school_name": "girdhar das mundhra bal bharti school",
+          "state": "RAJASTHAN",
+          "district": "BIKANER",
+          "accidents": 5
+        },
+        {
+          "school_name": "sesomu school",
+          "state": "RAJASTHAN",
+          "district": "BIKANER",
+          "accidents": 5
+        },
+        {
+          "school_name": "government primary school sreh bhau vyas: khara",
+          "state": "RAJASTHAN",
+          "district": "BIKANER",
+          "accidents": 4
+        },
+        {
+          "school_name": "maheshwari public school",
+          "state": "RAJASTHAN",
+          "district": "BIKANER",
+          "accidents": 4
+        },
+        {
+          "school_name": "sophia senior secondary school",
+          "state": "RAJASTHAN",
+          "district": "BIKANER",
+          "accidents": 4
+        }
+      ],
+      "BUNDI": [
+        {
+          "school_name": "maa saraswati vidhya mandir school badgaon,anta,rajasthan",
+          "state": "RAJASTHAN",
+          "district": "BUNDI",
+          "accidents": 3
+        },
+        {
+          "school_name": "government senior secondary school chatarganj",
+          "state": "RAJASTHAN",
+          "district": "BUNDI",
+          "accidents": 2
+        }
+      ],
+      "CHITTORGARH": [
+        {
+          "school_name": "government primary high school bhadsora",
+          "state": "RAJASTHAN",
+          "district": "CHITTORGARH",
+          "accidents": 3
+        },
+        {
+          "school_name": "govet.sr secondary school, kherpura",
+          "state": "RAJASTHAN",
+          "district": "CHITTORGARH",
+          "accidents": 2
+        },
+        {
+          "school_name": "guru nanak public school",
+          "state": "RAJASTHAN",
+          "district": "CHITTORGARH",
+          "accidents": 2
+        }
+      ],
+      "CHURU": [
+        {
+          "school_name": "govt. sr sec school lodsar",
+          "state": "RAJASTHAN",
+          "district": "CHURU",
+          "accidents": 7
+        },
+        {
+          "school_name": "shaheed shamsher singh govt sr sec school",
+          "state": "RAJASTHAN",
+          "district": "CHURU",
+          "accidents": 5
+        },
+        {
+          "school_name": "gramin bal vidya niketan biramsar",
+          "state": "RAJASTHAN",
+          "district": "CHURU",
+          "accidents": 4
+        },
+        {
+          "school_name": "govt.primary school {ward no.20}",
+          "state": "RAJASTHAN",
+          "district": "CHURU",
+          "accidents": 3
+        },
+        {
+          "school_name": "government high secondary school",
+          "state": "RAJASTHAN",
+          "district": "CHURU",
+          "accidents": 2
+        },
+        {
+          "school_name": "govt. sec. school, dhani laxman singh",
+          "state": "RAJASTHAN",
+          "district": "CHURU",
+          "accidents": 1
+        },
+        {
+          "school_name": "gsss rajpura piperan",
+          "state": "RAJASTHAN",
+          "district": "CHURU",
+          "accidents": 1
+        },
+        {
+          "school_name": "sarda senior secondary school, kanuta",
+          "state": "RAJASTHAN",
+          "district": "CHURU",
+          "accidents": 1
+        }
+      ],
+      "DIDWANA KUCHAMAN": [
+        {
+          "school_name": "sainik school ladnun (nagaur)",
+          "state": "RAJASTHAN",
+          "district": "DIDWANA KUCHAMAN",
+          "accidents": 4
+        },
+        {
+          "school_name": "success children convent school",
+          "state": "RAJASTHAN",
+          "district": "DIDWANA KUCHAMAN",
+          "accidents": 3
+        },
+        {
+          "school_name": "govt primary school,jhardiya",
+          "state": "RAJASTHAN",
+          "district": "DIDWANA KUCHAMAN",
+          "accidents": 2
+        }
+      ],
+      "DUNGARPUR": [
+        {
+          "school_name": "government senior secondary school",
+          "state": "RAJASTHAN",
+          "district": "DUNGARPUR",
+          "accidents": 5
+        },
+        {
+          "school_name": "govt. primary school lehana",
+          "state": "RAJASTHAN",
+          "district": "DUNGARPUR",
+          "accidents": 1
+        }
+      ],
+      "JAIPUR RURAL": [
+        {
+          "school_name": "mother teresa memorial public school and college",
+          "state": "RAJASTHAN",
+          "district": "JAIPUR RURAL",
+          "accidents": 24
+        },
+        {
+          "school_name": "oxford sunshine school, manoharpur",
+          "state": "RAJASTHAN",
+          "district": "JAIPUR RURAL",
+          "accidents": 18
+        },
+        {
+          "school_name": "mahatma gandhi government school mahala mozmabad jaipur",
+          "state": "RAJASTHAN",
+          "district": "JAIPUR RURAL",
+          "accidents": 10
+        },
+        {
+          "school_name": "government upper primary school",
+          "state": "RAJASTHAN",
+          "district": "JAIPUR RURAL",
+          "accidents": 9
+        },
+        {
+          "school_name": "govt senior sec school dhodhsar",
+          "state": "RAJASTHAN",
+          "district": "JAIPUR RURAL",
+          "accidents": 5
+        }
+      ],
+      "Jaipur(East)": [
+        {
+          "school_name": "r s international school",
+          "state": "RAJASTHAN",
+          "district": "Jaipur(East)",
+          "accidents": 91
+        },
+        {
+          "school_name": "balodyan montessori high school",
+          "state": "RAJASTHAN",
+          "district": "Jaipur(East)",
+          "accidents": 55
+        },
+        {
+          "school_name": "heritage public school",
+          "state": "RAJASTHAN",
+          "district": "Jaipur(East)",
+          "accidents": 48
+        }
+      ],
+      "Jaipur(South)": [
+        {
+          "school_name": "st. anselm's senior secondary school",
+          "state": "RAJASTHAN",
+          "district": "Jaipur(South)",
+          "accidents": 90
+        },
+        {
+          "school_name": "st. wilfred's school",
+          "state": "RAJASTHAN",
+          "district": "Jaipur(South)",
+          "accidents": 79
+        }
+      ],
+      "Jaipur(West)": [
+        {
+          "school_name": "government upper primary sanskrit school murlipura, jaipur",
+          "state": "RAJASTHAN",
+          "district": "Jaipur(West)",
+          "accidents": 80
+        },
+        {
+          "school_name": "greenwood public school",
+          "state": "RAJASTHAN",
+          "district": "Jaipur(West)",
+          "accidents": 72
+        },
+        {
+          "school_name": "jyoti punj modern high school",
+          "state": "RAJASTHAN",
+          "district": "Jaipur(West)",
+          "accidents": 71
+        },
+        {
+          "school_name": "government senior secondary school harmada",
+          "state": "RAJASTHAN",
+          "district": "Jaipur(West)",
+          "accidents": 63
+        },
+        {
+          "school_name": "amrapali convent senior secondary school",
+          "state": "RAJASTHAN",
+          "district": "Jaipur(West)",
+          "accidents": 44
+        },
+        {
+          "school_name": "shri hariom vidypeeth sr. sec. school, keshav nagar",
+          "state": "RAJASTHAN",
+          "district": "Jaipur(West)",
+          "accidents": 32
+        },
+        {
+          "school_name": "prakash public senior secondary school",
+          "state": "RAJASTHAN",
+          "district": "Jaipur(West)",
+          "accidents": 30
+        },
+        {
+          "school_name": "vidyagram international school",
+          "state": "RAJASTHAN",
+          "district": "Jaipur(West)",
+          "accidents": 26
+        },
+        {
+          "school_name": "n k public school",
+          "state": "RAJASTHAN",
+          "district": "Jaipur(West)",
+          "accidents": 22
+        },
+        {
+          "school_name": "bharti public school",
+          "state": "RAJASTHAN",
+          "district": "Jaipur(West)",
+          "accidents": 20
+        }
+      ],
+      "JHALAWAR": [
+        {
+          "school_name": "adarsh public school",
+          "state": "RAJASTHAN",
+          "district": "JHALAWAR",
+          "accidents": 10
+        },
+        {
+          "school_name": "government adarsh school",
+          "state": "RAJASTHAN",
+          "district": "JHALAWAR",
+          "accidents": 8
+        },
+        {
+          "school_name": "government senior secondary school iktasa",
+          "state": "RAJASTHAN",
+          "district": "JHALAWAR",
+          "accidents": 6
+        },
+        {
+          "school_name": "modern school, aklera",
+          "state": "RAJASTHAN",
+          "district": "JHALAWAR",
+          "accidents": 5
+        },
+        {
+          "school_name": "government higher primary school, ruparel",
+          "state": "RAJASTHAN",
+          "district": "JHALAWAR",
+          "accidents": 1
+        },
+        {
+          "school_name": "govt. upper primary school borkheri lodhan",
+          "state": "RAJASTHAN",
+          "district": "JHALAWAR",
+          "accidents": 1
+        },
+        {
+          "school_name": "swami vivekanand modal school asnawar",
+          "state": "RAJASTHAN",
+          "district": "JHALAWAR",
+          "accidents": 1
+        }
+      ],
+      "JHUNJHUNU": [
+        {
+          "school_name": "aci senior secondary school",
+          "state": "RAJASTHAN",
+          "district": "JHUNJHUNU",
+          "accidents": 11
+        },
+        {
+          "school_name": "gudha international school",
+          "state": "RAJASTHAN",
+          "district": "JHUNJHUNU",
+          "accidents": 6
+        },
+        {
+          "school_name": "cambridge play school",
+          "state": "RAJASTHAN",
+          "district": "JHUNJHUNU",
+          "accidents": 5
+        },
+        {
+          "school_name": "g.r.public school",
+          "state": "RAJASTHAN",
+          "district": "JHUNJHUNU",
+          "accidents": 5
+        },
+        {
+          "school_name": "govt. adarsh middle school, ojtoo",
+          "state": "RAJASTHAN",
+          "district": "JHUNJHUNU",
+          "accidents": 5
+        },
+        {
+          "school_name": "shree mahadeva international school",
+          "state": "RAJASTHAN",
+          "district": "JHUNJHUNU",
+          "accidents": 5
+        },
+        {
+          "school_name": "the tagore school",
+          "state": "RAJASTHAN",
+          "district": "JHUNJHUNU",
+          "accidents": 5
+        },
+        {
+          "school_name": "jp vidyamandir school",
+          "state": "RAJASTHAN",
+          "district": "JHUNJHUNU",
+          "accidents": 4
+        },
+        {
+          "school_name": "mahatma gandhi govt. school durana (211556), mandawa, jhunjhunu",
+          "state": "RAJASTHAN",
+          "district": "JHUNJHUNU",
+          "accidents": 4
+        },
+        {
+          "school_name": "शहीद सुजान सिंह राजकीय उच्च प्राथमिक विद्यालय भैसावता कलां",
+          "state": "RAJASTHAN",
+          "district": "JHUNJHUNU",
+          "accidents": 4
+        }
+      ],
+      "JODHPUR EAST": [
+        {
+          "school_name": "sumer school",
+          "state": "RAJASTHAN",
+          "district": "JODHPUR EAST",
+          "accidents": 23
+        },
+        {
+          "school_name": "maharishi gautam senior secondary school",
+          "state": "RAJASTHAN",
+          "district": "JODHPUR EAST",
+          "accidents": 18
+        },
+        {
+          "school_name": "geetanjali senior secondary school",
+          "state": "RAJASTHAN",
+          "district": "JODHPUR EAST",
+          "accidents": 17
+        },
+        {
+          "school_name": "apex bharti sr.sec.school jodhpur(english & hindi medium)",
+          "state": "RAJASTHAN",
+          "district": "JODHPUR EAST",
+          "accidents": 7
+        },
+        {
+          "school_name": "springtime public school",
+          "state": "RAJASTHAN",
+          "district": "JODHPUR EAST",
+          "accidents": 3
+        },
+        {
+          "school_name": "eurokids pre-school jodhpur-jhalamand",
+          "state": "RAJASTHAN",
+          "district": "JODHPUR EAST",
+          "accidents": 1
+        }
+      ],
+      "JODHPUR WEST": [
+        {
+          "school_name": "christ play school",
+          "state": "RAJASTHAN",
+          "district": "JODHPUR WEST",
+          "accidents": 20
+        },
+        {
+          "school_name": "eurokids pre-school jodhpur-jhalamand",
+          "state": "RAJASTHAN",
+          "district": "JODHPUR WEST",
+          "accidents": 9
+        }
+      ],
+      "KOTA CITY": [
+        {
+          "school_name": "jay ashoka bal vidhya mandir sec school,nayapura",
+          "state": "RAJASTHAN",
+          "district": "KOTA CITY",
+          "accidents": 36
+        },
+        {
+          "school_name": "guru nanak public school",
+          "state": "RAJASTHAN",
+          "district": "KOTA CITY",
+          "accidents": 7
+        },
+        {
+          "school_name": "kautilya cbse school kota",
+          "state": "RAJASTHAN",
+          "district": "KOTA CITY",
+          "accidents": 7
+        },
+        {
+          "school_name": "saint john's school",
+          "state": "RAJASTHAN",
+          "district": "KOTA CITY",
+          "accidents": 7
+        }
+      ],
+      "KOTA RURAL": [
+        {
+          "school_name": "mukundra international school",
+          "state": "RAJASTHAN",
+          "district": "KOTA RURAL",
+          "accidents": 6
+        },
+        {
+          "school_name": "govt.upper primary school ,karadiya",
+          "state": "RAJASTHAN",
+          "district": "KOTA RURAL",
+          "accidents": 3
+        }
+      ],
+      "KOTPUTLI BEHROR": [
+        {
+          "school_name": "vivek public sr. sec. school",
+          "state": "RAJASTHAN",
+          "district": "KOTPUTLI BEHROR",
+          "accidents": 15
+        }
+      ],
+      "NAGAUR": [
+        {
+          "school_name": "gss school lampolai",
+          "state": "RAJASTHAN",
+          "district": "NAGAUR",
+          "accidents": 5
+        },
+        {
+          "school_name": "govt. school, amarpura",
+          "state": "RAJASTHAN",
+          "district": "NAGAUR",
+          "accidents": 2
+        },
+        {
+          "school_name": "abhinav bal bharti sr. sec. school, best english medium school,best hindi medium school, best school deh nagaur,",
+          "state": "RAJASTHAN",
+          "district": "NAGAUR",
+          "accidents": 1
+        },
+        {
+          "school_name": "bachpan play school, mundwa, nagaur, rajasthan",
+          "state": "RAJASTHAN",
+          "district": "NAGAUR",
+          "accidents": 1
+        },
+        {
+          "school_name": "gasss netadiya",
+          "state": "RAJASTHAN",
+          "district": "NAGAUR",
+          "accidents": 1
+        },
+        {
+          "school_name": "govt.sen.sec.school,butati dham",
+          "state": "RAJASTHAN",
+          "district": "NAGAUR",
+          "accidents": 1
+        },
+        {
+          "school_name": "vivek techno school, nagaur",
+          "state": "RAJASTHAN",
+          "district": "NAGAUR",
+          "accidents": 1
+        }
+      ],
+      "RAJASAMAND": [
+        {
+          "school_name": "the kids castle school",
+          "state": "RAJASTHAN",
+          "district": "RAJASAMAND",
+          "accidents": 16
+        },
+        {
+          "school_name": "primary school jiyata kalaguman",
+          "state": "RAJASTHAN",
+          "district": "RAJASAMAND",
+          "accidents": 15
+        },
+        {
+          "school_name": "maharana pratap public school nandawat bhim",
+          "state": "RAJASTHAN",
+          "district": "RAJASAMAND",
+          "accidents": 7
+        },
+        {
+          "school_name": "rose academy & gopal vishv bharati public school",
+          "state": "RAJASTHAN",
+          "district": "RAJASAMAND",
+          "accidents": 7
+        },
+        {
+          "school_name": "radhika bal vidhya sansthan secondary school kelwa",
+          "state": "RAJASTHAN",
+          "district": "RAJASAMAND",
+          "accidents": 6
+        },
+        {
+          "school_name": "राजकीय उच्च माध्यमिक विद्यालय",
+          "state": "RAJASTHAN",
+          "district": "RAJASAMAND",
+          "accidents": 6
+        },
+        {
+          "school_name": "चौकहिरात विद्यालय",
+          "state": "RAJASTHAN",
+          "district": "RAJASAMAND",
+          "accidents": 5
+        },
+        {
+          "school_name": "negadiya school",
+          "state": "RAJASTHAN",
+          "district": "RAJASAMAND",
+          "accidents": 4
+        },
+        {
+          "school_name": "shreenath inspiration academy school",
+          "state": "RAJASTHAN",
+          "district": "RAJASAMAND",
+          "accidents": 4
+        },
+        {
+          "school_name": "government high primary school",
+          "state": "RAJASTHAN",
+          "district": "RAJASAMAND",
+          "accidents": 3
+        }
+      ],
+      "SALUMBAR": [
+        {
+          "school_name": "govt sr.sec school parsad sarada udaipur",
+          "state": "RAJASTHAN",
+          "district": "SALUMBAR",
+          "accidents": 17
+        }
+      ],
+      "SIKAR": [
+        {
+          "school_name": "gurukripa public school bawadi",
+          "state": "RAJASTHAN",
+          "district": "SIKAR",
+          "accidents": 11
+        },
+        {
+          "school_name": "islamiya school",
+          "state": "RAJASTHAN",
+          "district": "SIKAR",
+          "accidents": 8
+        },
+        {
+          "school_name": "choudhary gharsiram public school",
+          "state": "RAJASTHAN",
+          "district": "SIKAR",
+          "accidents": 7
+        },
+        {
+          "school_name": "aps school, fatehpur, near safecare hospital",
+          "state": "RAJASTHAN",
+          "district": "SIKAR",
+          "accidents": 4
+        },
+        {
+          "school_name": "gurukul international school",
+          "state": "RAJASTHAN",
+          "district": "SIKAR",
+          "accidents": 4
+        },
+        {
+          "school_name": "gyan bharati international school, rukansar, , nh-52 (sikar)",
+          "state": "RAJASTHAN",
+          "district": "SIKAR",
+          "accidents": 3
+        },
+        {
+          "school_name": "jsb public school,fatehpur",
+          "state": "RAJASTHAN",
+          "district": "SIKAR",
+          "accidents": 3
+        },
+        {
+          "school_name": "nimawat public school",
+          "state": "RAJASTHAN",
+          "district": "SIKAR",
+          "accidents": 3
+        },
+        {
+          "school_name": "shaheed mohmad ikram khan govt. s. s. school",
+          "state": "RAJASTHAN",
+          "district": "SIKAR",
+          "accidents": 3
+        },
+        {
+          "school_name": "govt school, kalyanpura",
+          "state": "RAJASTHAN",
+          "district": "SIKAR",
+          "accidents": 2
+        }
+      ],
+      "SIROHI": [
+        {
+          "school_name": "st. anselm's school abu road",
+          "state": "RAJASTHAN",
+          "district": "SIROHI",
+          "accidents": 10
+        },
+        {
+          "school_name": "sai baba public school",
+          "state": "RAJASTHAN",
+          "district": "SIROHI",
+          "accidents": 8
+        },
+        {
+          "school_name": "sunrise school sarupganj",
+          "state": "RAJASTHAN",
+          "district": "SIROHI",
+          "accidents": 8
+        },
+        {
+          "school_name": "government senior secondary school palri m",
+          "state": "RAJASTHAN",
+          "district": "SIROHI",
+          "accidents": 5
+        },
+        {
+          "school_name": "govt. school, chandrawati",
+          "state": "RAJASTHAN",
+          "district": "SIROHI",
+          "accidents": 4
+        },
+        {
+          "school_name": "rising star school swaroopganj",
+          "state": "RAJASTHAN",
+          "district": "SIROHI",
+          "accidents": 4
+        },
+        {
+          "school_name": "aravali public school,sarupganj",
+          "state": "RAJASTHAN",
+          "district": "SIROHI",
+          "accidents": 1
+        }
+      ],
+      "Sri Ganganagar": [
+        {
+          "school_name": "govt. school birdhwal station",
+          "state": "RAJASTHAN",
+          "district": "Sri Ganganagar",
+          "accidents": 3
+        },
+        {
+          "school_name": "gsss rajpura piperan",
+          "state": "RAJASTHAN",
+          "district": "Sri Ganganagar",
+          "accidents": 3
+        },
+        {
+          "school_name": "army school",
+          "state": "RAJASTHAN",
+          "district": "Sri Ganganagar",
+          "accidents": 2
+        }
+      ],
+      "TONK": [
+        {
+          "school_name": "government secondary school",
+          "state": "RAJASTHAN",
+          "district": "TONK",
+          "accidents": 7
+        },
+        {
+          "school_name": "government upper primary school",
+          "state": "RAJASTHAN",
+          "district": "TONK",
+          "accidents": 1
+        },
+        {
+          "school_name": "govt school ,dhandholi",
+          "state": "RAJASTHAN",
+          "district": "TONK",
+          "accidents": 1
+        },
+        {
+          "school_name": "sanskar vidhya mandir sr. sec. school, vill - sirohi",
+          "state": "RAJASTHAN",
+          "district": "TONK",
+          "accidents": 1
+        }
+      ],
+      "UDAIPUR": [
+        {
+          "school_name": "pm shri government fateh senior secondary school udaipur",
+          "state": "RAJASTHAN",
+          "district": "UDAIPUR",
+          "accidents": 16
+        },
+        {
+          "school_name": "thompson memorial school kherwara",
+          "state": "RAJASTHAN",
+          "district": "UDAIPUR",
+          "accidents": 14
+        },
+        {
+          "school_name": "govt. s.s. school bekriya",
+          "state": "RAJASTHAN",
+          "district": "UDAIPUR",
+          "accidents": 9
+        },
+        {
+          "school_name": "govt. senior secondary school, vana",
+          "state": "RAJASTHAN",
+          "district": "UDAIPUR",
+          "accidents": 6
+        },
+        {
+          "school_name": "gsss barapal",
+          "state": "RAJASTHAN",
+          "district": "UDAIPUR",
+          "accidents": 6
+        },
+        {
+          "school_name": "govt. sr. sec. school sisarma",
+          "state": "RAJASTHAN",
+          "district": "UDAIPUR",
+          "accidents": 5
+        },
+        {
+          "school_name": "government senior secondary school khakhad",
+          "state": "RAJASTHAN",
+          "district": "UDAIPUR",
+          "accidents": 4
+        },
+        {
+          "school_name": "government senior secondary school tidi",
+          "state": "RAJASTHAN",
+          "district": "UDAIPUR",
+          "accidents": 4
+        },
+        {
+          "school_name": "govt. secondary school naya kheda udaipur",
+          "state": "RAJASTHAN",
+          "district": "UDAIPUR",
+          "accidents": 1
+        },
+        {
+          "school_name": "sanskar vidya mandir senior secondary school kolyari jhadol",
+          "state": "RAJASTHAN",
+          "district": "UDAIPUR",
+          "accidents": 1
+        }
+      ]
+    },
+    "TAMIL NADU": {
+      "CUDDALORE": [
+        {
+          "school_name": "ayyanar matric higher secondary school",
+          "state": "TAMIL NADU",
+          "district": "CUDDALORE",
+          "accidents": 17
+        },
+        {
+          "school_name": "govt hr. sec. school veppur",
+          "state": "TAMIL NADU",
+          "district": "CUDDALORE",
+          "accidents": 17
+        }
+      ],
+      "DHARMAPURI": [
+        {
+          "school_name": "sri sabari ayyappan school, karimangalam",
+          "state": "TAMIL NADU",
+          "district": "DHARMAPURI",
+          "accidents": 18
+        },
+        {
+          "school_name": "sri sakthivel vidyalaya school",
+          "state": "TAMIL NADU",
+          "district": "DHARMAPURI",
+          "accidents": 10
+        },
+        {
+          "school_name": "sassi gnanodaya academy",
+          "state": "TAMIL NADU",
+          "district": "DHARMAPURI",
+          "accidents": 9
+        },
+        {
+          "school_name": "don bosco higher secondary school",
+          "state": "TAMIL NADU",
+          "district": "DHARMAPURI",
+          "accidents": 7
+        },
+        {
+          "school_name": "sri raghavendra n&p and high school,karimangalam.",
+          "state": "TAMIL NADU",
+          "district": "DHARMAPURI",
+          "accidents": 7
+        },
+        {
+          "school_name": "bcr school",
+          "state": "TAMIL NADU",
+          "district": "DHARMAPURI",
+          "accidents": 4
+        }
+      ],
+      "DINDIGUL": [
+        {
+          "school_name": "sri lakshmi vidyaalayaa matriculation hr sec school",
+          "state": "TAMIL NADU",
+          "district": "DINDIGUL",
+          "accidents": 57
+        },
+        {
+          "school_name": "st. patrick's academy matriculation higher secondary school",
+          "state": "TAMIL NADU",
+          "district": "DINDIGUL",
+          "accidents": 16
+        },
+        {
+          "school_name": "parvathy's anugrahaa international school",
+          "state": "TAMIL NADU",
+          "district": "DINDIGUL",
+          "accidents": 12
+        },
+        {
+          "school_name": "government model higher secondary school",
+          "state": "TAMIL NADU",
+          "district": "DINDIGUL",
+          "accidents": 1
+        }
+      ],
+      "KANYAKUMARI": [
+        {
+          "school_name": "santhidam bethania matriculation school",
+          "state": "TAMIL NADU",
+          "district": "KANYAKUMARI",
+          "accidents": 15
+        },
+        {
+          "school_name": "kanyakumari public school",
+          "state": "TAMIL NADU",
+          "district": "KANYAKUMARI",
+          "accidents": 13
+        },
+        {
+          "school_name": "carmel matha matriculation higher secondary school",
+          "state": "TAMIL NADU",
+          "district": "KANYAKUMARI",
+          "accidents": 5
+        },
+        {
+          "school_name": "carmel matha school auditoriam",
+          "state": "TAMIL NADU",
+          "district": "KANYAKUMARI",
+          "accidents": 2
+        }
+      ],
+      "KRISHNAGIRI": [
+        {
+          "school_name": "don bosco matriculation higher secondary school",
+          "state": "TAMIL NADU",
+          "district": "KRISHNAGIRI",
+          "accidents": 42
+        },
+        {
+          "school_name": "er. perumal manimekalai matriculation school",
+          "state": "TAMIL NADU",
+          "district": "KRISHNAGIRI",
+          "accidents": 28
+        },
+        {
+          "school_name": "shoolagiri boys school",
+          "state": "TAMIL NADU",
+          "district": "KRISHNAGIRI",
+          "accidents": 26
+        },
+        {
+          "school_name": "st.peter's international public school",
+          "state": "TAMIL NADU",
+          "district": "KRISHNAGIRI",
+          "accidents": 22
+        }
+      ],
+      "MADURAI": [
+        {
+          "school_name": "vikaasa progressive school",
+          "state": "TAMIL NADU",
+          "district": "MADURAI",
+          "accidents": 42
+        },
+        {
+          "school_name": "st joseph high school",
+          "state": "TAMIL NADU",
+          "district": "MADURAI",
+          "accidents": 29
+        },
+        {
+          "school_name": "government high school",
+          "state": "TAMIL NADU",
+          "district": "MADURAI",
+          "accidents": 22
+        },
+        {
+          "school_name": "arrahmaan international school (cbse)",
+          "state": "TAMIL NADU",
+          "district": "MADURAI",
+          "accidents": 19
+        },
+        {
+          "school_name": "sri aurobindo mira universal school - madurai, tamil nadu",
+          "state": "TAMIL NADU",
+          "district": "MADURAI",
+          "accidents": 14
+        },
+        {
+          "school_name": "krs (krishnamal ramasubbaiyer school - cbse)",
+          "state": "TAMIL NADU",
+          "district": "MADURAI",
+          "accidents": 12
+        },
+        {
+          "school_name": "modern matriculation school - othakkadai | cbse | matric | uthangudi",
+          "state": "TAMIL NADU",
+          "district": "MADURAI",
+          "accidents": 12
+        },
+        {
+          "school_name": "al ameen school",
+          "state": "TAMIL NADU",
+          "district": "MADURAI",
+          "accidents": 11
+        },
+        {
+          "school_name": "vivekananda school",
+          "state": "TAMIL NADU",
+          "district": "MADURAI",
+          "accidents": 10
+        },
+        {
+          "school_name": "ceoa matriculation higher secondary school",
+          "state": "TAMIL NADU",
+          "district": "MADURAI",
+          "accidents": 6
+        }
+      ],
+      "MADURAI CITY": [
+        {
+          "school_name": "lions matriculation hr. sec. school,karuppayurani, madurai-20",
+          "state": "TAMIL NADU",
+          "district": "MADURAI CITY",
+          "accidents": 34
+        },
+        {
+          "school_name": "narayana e-techno school - madurai",
+          "state": "TAMIL NADU",
+          "district": "MADURAI CITY",
+          "accidents": 9
+        },
+        {
+          "school_name": "annamalaiyar matriculation hr. sec. school",
+          "state": "TAMIL NADU",
+          "district": "MADURAI CITY",
+          "accidents": 1
+        }
+      ],
+      "NAMAKKAL": [
+        {
+          "school_name": "vetri vikaas higher secondary school",
+          "state": "TAMIL NADU",
+          "district": "NAMAKKAL",
+          "accidents": 27
+        },
+        {
+          "school_name": "sri sakthi matric higher secondary school",
+          "state": "TAMIL NADU",
+          "district": "NAMAKKAL",
+          "accidents": 26
+        },
+        {
+          "school_name": "government elementary school selleppampatty",
+          "state": "TAMIL NADU",
+          "district": "NAMAKKAL",
+          "accidents": 11
+        },
+        {
+          "school_name": "paavai matriculation higher secondary school",
+          "state": "TAMIL NADU",
+          "district": "NAMAKKAL",
+          "accidents": 11
+        },
+        {
+          "school_name": "government higher secondary school",
+          "state": "TAMIL NADU",
+          "district": "NAMAKKAL",
+          "accidents": 8
+        },
+        {
+          "school_name": "r.g.r matric higher secondary school",
+          "state": "TAMIL NADU",
+          "district": "NAMAKKAL",
+          "accidents": 4
+        }
+      ],
+      "PERAMBALUR": [
+        {
+          "school_name": "st. joseph's matriculation higher secondary school, perambalur.",
+          "state": "TAMIL NADU",
+          "district": "PERAMBALUR",
+          "accidents": 15
+        },
+        {
+          "school_name": "st.francis matriculation high school",
+          "state": "TAMIL NADU",
+          "district": "PERAMBALUR",
+          "accidents": 12
+        },
+        {
+          "school_name": "government higher secondary school",
+          "state": "TAMIL NADU",
+          "district": "PERAMBALUR",
+          "accidents": 8
+        },
+        {
+          "school_name": "sree ambaals matric hr. sec. school",
+          "state": "TAMIL NADU",
+          "district": "PERAMBALUR",
+          "accidents": 8
+        },
+        {
+          "school_name": "wisdom matriculation higher secondary school",
+          "state": "TAMIL NADU",
+          "district": "PERAMBALUR",
+          "accidents": 8
+        },
+        {
+          "school_name": "government high school",
+          "state": "TAMIL NADU",
+          "district": "PERAMBALUR",
+          "accidents": 7
+        },
+        {
+          "school_name": "st. andrew's matric. hr.sec. school.",
+          "state": "TAMIL NADU",
+          "district": "PERAMBALUR",
+          "accidents": 7
+        },
+        {
+          "school_name": "periyar kudil school",
+          "state": "TAMIL NADU",
+          "district": "PERAMBALUR",
+          "accidents": 6
+        },
+        {
+          "school_name": "annai matriculation school",
+          "state": "TAMIL NADU",
+          "district": "PERAMBALUR",
+          "accidents": 4
+        },
+        {
+          "school_name": "annai public school, paadalur",
+          "state": "TAMIL NADU",
+          "district": "PERAMBALUR",
+          "accidents": 2
+        }
+      ],
+      "PUDUKKOTTAI": [
+        {
+          "school_name": "panchayat union primary school, viralur",
+          "state": "TAMIL NADU",
+          "district": "PUDUKKOTTAI",
+          "accidents": 18
+        },
+        {
+          "school_name": "government higher secondary school, kodumbalur",
+          "state": "TAMIL NADU",
+          "district": "PUDUKKOTTAI",
+          "accidents": 11
+        },
+        {
+          "school_name": "panchayat union primary school",
+          "state": "TAMIL NADU",
+          "district": "PUDUKKOTTAI",
+          "accidents": 7
+        }
+      ],
+      "SALEM": [
+        {
+          "school_name": "deevattipatti high school",
+          "state": "TAMIL NADU",
+          "district": "SALEM",
+          "accidents": 32
+        },
+        {
+          "school_name": "st joseph's public school cbse",
+          "state": "TAMIL NADU",
+          "district": "SALEM",
+          "accidents": 26
+        },
+        {
+          "school_name": "ganga kaveri matriculation higher secondary school",
+          "state": "TAMIL NADU",
+          "district": "SALEM",
+          "accidents": 24
+        },
+        {
+          "school_name": "salem district government model school",
+          "state": "TAMIL NADU",
+          "district": "SALEM",
+          "accidents": 21
+        },
+        {
+          "school_name": "sugam matriculation higher secondary school",
+          "state": "TAMIL NADU",
+          "district": "SALEM",
+          "accidents": 18
+        },
+        {
+          "school_name": "john britto matric higher secondary school",
+          "state": "TAMIL NADU",
+          "district": "SALEM",
+          "accidents": 15
+        },
+        {
+          "school_name": "golden choice matriculation higher secondary school",
+          "state": "TAMIL NADU",
+          "district": "SALEM",
+          "accidents": 10
+        },
+        {
+          "school_name": "government higher secondary school, dasanaickenpatty",
+          "state": "TAMIL NADU",
+          "district": "SALEM",
+          "accidents": 10
+        },
+        {
+          "school_name": "vedhha vikass higher secondary school",
+          "state": "TAMIL NADU",
+          "district": "SALEM",
+          "accidents": 10
+        },
+        {
+          "school_name": "velammal bodhi campus,salem",
+          "state": "TAMIL NADU",
+          "district": "SALEM",
+          "accidents": 8
+        }
+      ],
+      "SALEM CITY": [
+        {
+          "school_name": "npr matriculation higher sec school",
+          "state": "TAMIL NADU",
+          "district": "SALEM CITY",
+          "accidents": 46
+        },
+        {
+          "school_name": "diamond rays matriculation higher secondary school",
+          "state": "TAMIL NADU",
+          "district": "SALEM CITY",
+          "accidents": 38
+        }
+      ],
+      "THOOTHUKUDI": [
+        {
+          "school_name": "government high school - eppodumvendran",
+          "state": "TAMIL NADU",
+          "district": "THOOTHUKUDI",
+          "accidents": 14
+        },
+        {
+          "school_name": "auxilium matriculation hr. sec. school",
+          "state": "TAMIL NADU",
+          "district": "THOOTHUKUDI",
+          "accidents": 10
+        },
+        {
+          "school_name": "st francis de sales matriculation school",
+          "state": "TAMIL NADU",
+          "district": "THOOTHUKUDI",
+          "accidents": 8
+        },
+        {
+          "school_name": "mother theresa matric hr sec school, kayathar",
+          "state": "TAMIL NADU",
+          "district": "THOOTHUKUDI",
+          "accidents": 4
+        },
+        {
+          "school_name": "panchayat union middle school thapathi",
+          "state": "TAMIL NADU",
+          "district": "THOOTHUKUDI",
+          "accidents": 3
+        },
+        {
+          "school_name": "high school",
+          "state": "TAMIL NADU",
+          "district": "THOOTHUKUDI",
+          "accidents": 1
+        }
+      ],
+      "TIRUNELVELI": [
+        {
+          "school_name": "sankar higher secondary school",
+          "state": "TAMIL NADU",
+          "district": "TIRUNELVELI",
+          "accidents": 13
+        },
+        {
+          "school_name": "st.anns matric hr sec school - best school in panagudi",
+          "state": "TAMIL NADU",
+          "district": "TIRUNELVELI",
+          "accidents": 4
+        },
+        {
+          "school_name": "holy angels bcv international school (cbse)",
+          "state": "TAMIL NADU",
+          "district": "TIRUNELVELI",
+          "accidents": 3
+        },
+        {
+          "school_name": "government high school,south karungulam",
+          "state": "TAMIL NADU",
+          "district": "TIRUNELVELI",
+          "accidents": 2
+        }
+      ],
+      "TIRUNELVELI CITY": [
+        {
+          "school_name": "holy angels bcv international school (cbse)",
+          "state": "TAMIL NADU",
+          "district": "TIRUNELVELI CITY",
+          "accidents": 5
+        }
+      ],
+      "Tiruvannamalai": [
+        {
+          "school_name": "sishya matriculation higher secondary school",
+          "state": "TAMIL NADU",
+          "district": "Tiruvannamalai",
+          "accidents": 18
+        },
+        {
+          "school_name": "adi dravider welfare school",
+          "state": "TAMIL NADU",
+          "district": "Tiruvannamalai",
+          "accidents": 14
+        },
+        {
+          "school_name": "chezhian matriculate higher secondary school",
+          "state": "TAMIL NADU",
+          "district": "Tiruvannamalai",
+          "accidents": 13
+        },
+        {
+          "school_name": "aravindhar kidzee",
+          "state": "TAMIL NADU",
+          "district": "Tiruvannamalai",
+          "accidents": 11
+        },
+        {
+          "school_name": "jai bharthi school",
+          "state": "TAMIL NADU",
+          "district": "Tiruvannamalai",
+          "accidents": 11
+        },
+        {
+          "school_name": "mary immaculate heart matric school",
+          "state": "TAMIL NADU",
+          "district": "Tiruvannamalai",
+          "accidents": 11
+        },
+        {
+          "school_name": "vels school",
+          "state": "TAMIL NADU",
+          "district": "Tiruvannamalai",
+          "accidents": 11
+        },
+        {
+          "school_name": "sri vijay matriculation hr sec school",
+          "state": "TAMIL NADU",
+          "district": "Tiruvannamalai",
+          "accidents": 9
+        },
+        {
+          "school_name": "k zone cbse school",
+          "state": "TAMIL NADU",
+          "district": "Tiruvannamalai",
+          "accidents": 6
+        },
+        {
+          "school_name": "aadi dravidar school",
+          "state": "TAMIL NADU",
+          "district": "Tiruvannamalai",
+          "accidents": 4
+        }
+      ],
+      "TRICHY": [
+        {
+          "school_name": "sri ragavendra school",
+          "state": "TAMIL NADU",
+          "district": "TRICHY",
+          "accidents": 30
+        },
+        {
+          "school_name": "a.m.m.school samayapuram",
+          "state": "TAMIL NADU",
+          "district": "TRICHY",
+          "accidents": 14
+        },
+        {
+          "school_name": "sri mariamman hr. sec. school",
+          "state": "TAMIL NADU",
+          "district": "TRICHY",
+          "accidents": 14
+        },
+        {
+          "school_name": "hope special school",
+          "state": "TAMIL NADU",
+          "district": "TRICHY",
+          "accidents": 8
+        },
+        {
+          "school_name": "panchayat union primary school",
+          "state": "TAMIL NADU",
+          "district": "TRICHY",
+          "accidents": 6
+        },
+        {
+          "school_name": "st. antony's matriculation school",
+          "state": "TAMIL NADU",
+          "district": "TRICHY",
+          "accidents": 6
+        }
+      ],
+      "VELLORE": [
+        {
+          "school_name": "busy bees play school",
+          "state": "TAMIL NADU",
+          "district": "VELLORE",
+          "accidents": 31
+        },
+        {
+          "school_name": "ttd sri venkateswara higher secondary school",
+          "state": "TAMIL NADU",
+          "district": "VELLORE",
+          "accidents": 29
+        },
+        {
+          "school_name": "voorhees school",
+          "state": "TAMIL NADU",
+          "district": "VELLORE",
+          "accidents": 27
+        },
+        {
+          "school_name": "madras matriculation higher secondary school",
+          "state": "TAMIL NADU",
+          "district": "VELLORE",
+          "accidents": 22
+        },
+        {
+          "school_name": "k.a.k.m corporation higher secondary school",
+          "state": "TAMIL NADU",
+          "district": "VELLORE",
+          "accidents": 19
+        },
+        {
+          "school_name": "government high school",
+          "state": "TAMIL NADU",
+          "district": "VELLORE",
+          "accidents": 16
+        },
+        {
+          "school_name": "market corporation high school",
+          "state": "TAMIL NADU",
+          "district": "VELLORE",
+          "accidents": 16
+        },
+        {
+          "school_name": "aided middle school",
+          "state": "TAMIL NADU",
+          "district": "VELLORE",
+          "accidents": 14
+        },
+        {
+          "school_name": "government school",
+          "state": "TAMIL NADU",
+          "district": "VELLORE",
+          "accidents": 14
+        },
+        {
+          "school_name": "thotapalyam school",
+          "state": "TAMIL NADU",
+          "district": "VELLORE",
+          "accidents": 12
+        }
+      ],
+      "VILLUPURAM": [
+        {
+          "school_name": "government school",
+          "state": "TAMIL NADU",
+          "district": "VILLUPURAM",
+          "accidents": 42
+        },
+        {
+          "school_name": "perangiyur school",
+          "state": "TAMIL NADU",
+          "district": "VILLUPURAM",
+          "accidents": 34
+        },
+        {
+          "school_name": "goverment high school arasur",
+          "state": "TAMIL NADU",
+          "district": "VILLUPURAM",
+          "accidents": 18
+        },
+        {
+          "school_name": "vijayalakshmi school",
+          "state": "TAMIL NADU",
+          "district": "VILLUPURAM",
+          "accidents": 16
+        },
+        {
+          "school_name": "iruvelpattu middle school",
+          "state": "TAMIL NADU",
+          "district": "VILLUPURAM",
+          "accidents": 15
+        },
+        {
+          "school_name": "redwings matriculation school",
+          "state": "TAMIL NADU",
+          "district": "VILLUPURAM",
+          "accidents": 11
+        }
+      ],
+      "VIRUDHUNAGAR": [
+        {
+          "school_name": "p.s.chidambara nadar senior english school",
+          "state": "TAMIL NADU",
+          "district": "VIRUDHUNAGAR",
+          "accidents": 27
+        },
+        {
+          "school_name": "kshatriya vidhyasala english medium school(cbse)",
+          "state": "TAMIL NADU",
+          "district": "VIRUDHUNAGAR",
+          "accidents": 20
+        },
+        {
+          "school_name": "government high school",
+          "state": "TAMIL NADU",
+          "district": "VIRUDHUNAGAR",
+          "accidents": 19
+        },
+        {
+          "school_name": "sun indiya public school cbse / matriculation",
+          "state": "TAMIL NADU",
+          "district": "VIRUDHUNAGAR",
+          "accidents": 15
+        },
+        {
+          "school_name": "gemini school",
+          "state": "TAMIL NADU",
+          "district": "VIRUDHUNAGAR",
+          "accidents": 13
+        },
+        {
+          "school_name": "municipal urdu school",
+          "state": "TAMIL NADU",
+          "district": "VIRUDHUNAGAR",
+          "accidents": 13
+        },
+        {
+          "school_name": "kammavar school",
+          "state": "TAMIL NADU",
+          "district": "VIRUDHUNAGAR",
+          "accidents": 9
+        },
+        {
+          "school_name": "m.m.vidyashram cbse school",
+          "state": "TAMIL NADU",
+          "district": "VIRUDHUNAGAR",
+          "accidents": 8
+        },
+        {
+          "school_name": "sundaram matric hr.sec.school",
+          "state": "TAMIL NADU",
+          "district": "VIRUDHUNAGAR",
+          "accidents": 6
+        },
+        {
+          "school_name": "sakthi vidhayalaya nursery",
+          "state": "TAMIL NADU",
+          "district": "VIRUDHUNAGAR",
+          "accidents": 4
+        }
+      ]
+    },
+    "UTTAR PRADESH": {
+      "AGRA": [
+        {
+          "school_name": "caps kinder garten school",
+          "state": "UTTAR PRADESH",
+          "district": "AGRA",
+          "accidents": 42
+        },
+        {
+          "school_name": "star foundation public school",
+          "state": "UTTAR PRADESH",
+          "district": "AGRA",
+          "accidents": 35
+        },
+        {
+          "school_name": "dev public school, sikandra agra",
+          "state": "UTTAR PRADESH",
+          "district": "AGRA",
+          "accidents": 31
+        },
+        {
+          "school_name": "dr mps world school",
+          "state": "UTTAR PRADESH",
+          "district": "AGRA",
+          "accidents": 20
+        },
+        {
+          "school_name": "skd convent school",
+          "state": "UTTAR PRADESH",
+          "district": "AGRA",
+          "accidents": 20
+        },
+        {
+          "school_name": "holy public primary school",
+          "state": "UTTAR PRADESH",
+          "district": "AGRA",
+          "accidents": 16
+        },
+        {
+          "school_name": "balaji public school",
+          "state": "UTTAR PRADESH",
+          "district": "AGRA",
+          "accidents": 15
+        },
+        {
+          "school_name": "premier international school agra",
+          "state": "UTTAR PRADESH",
+          "district": "AGRA",
+          "accidents": 15
+        },
+        {
+          "school_name": "agra vanasthali vidyalaya",
+          "state": "UTTAR PRADESH",
+          "district": "AGRA",
+          "accidents": 14
+        },
+        {
+          "school_name": "cv international play school",
+          "state": "UTTAR PRADESH",
+          "district": "AGRA",
+          "accidents": 14
+        }
+      ],
+      "AURAIYA": [
+        {
+          "school_name": "swami vivekanand public school auraiya",
+          "state": "UTTAR PRADESH",
+          "district": "AURAIYA",
+          "accidents": 9
+        },
+        {
+          "school_name": "jaypee international school",
+          "state": "UTTAR PRADESH",
+          "district": "AURAIYA",
+          "accidents": 6
+        }
+      ],
+      "BANDA": [
+        {
+          "school_name": "love n care public school banda",
+          "state": "UTTAR PRADESH",
+          "district": "BANDA",
+          "accidents": 34
+        },
+        {
+          "school_name": "lovely kids public school",
+          "state": "UTTAR PRADESH",
+          "district": "BANDA",
+          "accidents": 13
+        },
+        {
+          "school_name": "sevadal central school, atarra",
+          "state": "UTTAR PRADESH",
+          "district": "BANDA",
+          "accidents": 9
+        },
+        {
+          "school_name": "purva madhyamik vidyalaya mahua",
+          "state": "UTTAR PRADESH",
+          "district": "BANDA",
+          "accidents": 6
+        },
+        {
+          "school_name": "sai dham school",
+          "state": "UTTAR PRADESH",
+          "district": "BANDA",
+          "accidents": 4
+        },
+        {
+          "school_name": "laxmi bai memorial school.",
+          "state": "UTTAR PRADESH",
+          "district": "BANDA",
+          "accidents": 3
+        },
+        {
+          "school_name": "mahatma gandhi school atarra govt.",
+          "state": "UTTAR PRADESH",
+          "district": "BANDA",
+          "accidents": 3
+        },
+        {
+          "school_name": "nehru convent school, atarra banda",
+          "state": "UTTAR PRADESH",
+          "district": "BANDA",
+          "accidents": 3
+        },
+        {
+          "school_name": "prathmik vidyalaya",
+          "state": "UTTAR PRADESH",
+          "district": "BANDA",
+          "accidents": 3
+        },
+        {
+          "school_name": "vivekanand vidya mandir",
+          "state": "UTTAR PRADESH",
+          "district": "BANDA",
+          "accidents": 3
+        }
+      ],
+      "BAREILLY": [
+        {
+          "school_name": "krishna public school adarsh siksha gram, faridpur bareilly",
+          "state": "UTTAR PRADESH",
+          "district": "BAREILLY",
+          "accidents": 5
+        },
+        {
+          "school_name": "manas sthali a co-ed sr. sec. residential school",
+          "state": "UTTAR PRADESH",
+          "district": "BAREILLY",
+          "accidents": 3
+        },
+        {
+          "school_name": "azhari international school",
+          "state": "UTTAR PRADESH",
+          "district": "BAREILLY",
+          "accidents": 2
+        }
+      ],
+      "BHADOHI": [
+        {
+          "school_name": "tender hearts english school",
+          "state": "UTTAR PRADESH",
+          "district": "BHADOHI",
+          "accidents": 8
+        },
+        {
+          "school_name": "prathmik vidyalaya jangiganj",
+          "state": "UTTAR PRADESH",
+          "district": "BHADOHI",
+          "accidents": 7
+        },
+        {
+          "school_name": "boonmax convent school (10+2)",
+          "state": "UTTAR PRADESH",
+          "district": "BHADOHI",
+          "accidents": 6
+        },
+        {
+          "school_name": "v. r convent english school chakbhora aurai",
+          "state": "UTTAR PRADESH",
+          "district": "BHADOHI",
+          "accidents": 4
+        },
+        {
+          "school_name": "dps school,gopiganj",
+          "state": "UTTAR PRADESH",
+          "district": "BHADOHI",
+          "accidents": 3
+        },
+        {
+          "school_name": "s s public school",
+          "state": "UTTAR PRADESH",
+          "district": "BHADOHI",
+          "accidents": 2
+        },
+        {
+          "school_name": "st.john's school",
+          "state": "UTTAR PRADESH",
+          "district": "BHADOHI",
+          "accidents": 2
+        }
+      ],
+      "CHANDAULI": [
+        {
+          "school_name": "primary school",
+          "state": "UTTAR PRADESH",
+          "district": "CHANDAULI",
+          "accidents": 6
+        },
+        {
+          "school_name": "saffron hill convent school",
+          "state": "UTTAR PRADESH",
+          "district": "CHANDAULI",
+          "accidents": 6
+        },
+        {
+          "school_name": "the gurukulam school | cbse school | varanasi",
+          "state": "UTTAR PRADESH",
+          "district": "CHANDAULI",
+          "accidents": 6
+        },
+        {
+          "school_name": "j. m. s. public school",
+          "state": "UTTAR PRADESH",
+          "district": "CHANDAULI",
+          "accidents": 5
+        },
+        {
+          "school_name": "m d s public school",
+          "state": "UTTAR PRADESH",
+          "district": "CHANDAULI",
+          "accidents": 3
+        },
+        {
+          "school_name": "the aryan international school mughalsarai",
+          "state": "UTTAR PRADESH",
+          "district": "CHANDAULI",
+          "accidents": 3
+        },
+        {
+          "school_name": "bps public school naubatpur chandauli",
+          "state": "UTTAR PRADESH",
+          "district": "CHANDAULI",
+          "accidents": 2
+        },
+        {
+          "school_name": "sharp public school",
+          "state": "UTTAR PRADESH",
+          "district": "CHANDAULI",
+          "accidents": 2
+        },
+        {
+          "school_name": "sri paramhans swami public school nh19 bichhiya kalan chandauli",
+          "state": "UTTAR PRADESH",
+          "district": "CHANDAULI",
+          "accidents": 1
+        }
+      ],
+      "CHITRAKOOT": [
+        {
+          "school_name": "ashok public school",
+          "state": "UTTAR PRADESH",
+          "district": "CHITRAKOOT",
+          "accidents": 12
+        },
+        {
+          "school_name": "st. thomas senior secondary school",
+          "state": "UTTAR PRADESH",
+          "district": "CHITRAKOOT",
+          "accidents": 10
+        },
+        {
+          "school_name": "naveen gyan sthali school",
+          "state": "UTTAR PRADESH",
+          "district": "CHITRAKOOT",
+          "accidents": 5
+        },
+        {
+          "school_name": "bhavan pal school",
+          "state": "UTTAR PRADESH",
+          "district": "CHITRAKOOT",
+          "accidents": 4
+        },
+        {
+          "school_name": "government primary school",
+          "state": "UTTAR PRADESH",
+          "district": "CHITRAKOOT",
+          "accidents": 4
+        },
+        {
+          "school_name": "prathmik vidhyalay ramanagar",
+          "state": "UTTAR PRADESH",
+          "district": "CHITRAKOOT",
+          "accidents": 4
+        },
+        {
+          "school_name": "modern primary school",
+          "state": "UTTAR PRADESH",
+          "district": "CHITRAKOOT",
+          "accidents": 2
+        },
+        {
+          "school_name": "maharani avanti bai pre secondary school",
+          "state": "UTTAR PRADESH",
+          "district": "CHITRAKOOT",
+          "accidents": 1
+        },
+        {
+          "school_name": "prathamik vidyalaya",
+          "state": "UTTAR PRADESH",
+          "district": "CHITRAKOOT",
+          "accidents": 1
+        },
+        {
+          "school_name": "rajkiya high school",
+          "state": "UTTAR PRADESH",
+          "district": "CHITRAKOOT",
+          "accidents": 1
+        }
+      ],
+      "ETAWAH": [
+        {
+          "school_name": "divine public jr high school etawah",
+          "state": "UTTAR PRADESH",
+          "district": "ETAWAH",
+          "accidents": 30
+        },
+        {
+          "school_name": "little leaders play school etawah",
+          "state": "UTTAR PRADESH",
+          "district": "ETAWAH",
+          "accidents": 26
+        },
+        {
+          "school_name": "st.peter's sr. sec. school",
+          "state": "UTTAR PRADESH",
+          "district": "ETAWAH",
+          "accidents": 14
+        },
+        {
+          "school_name": "sanskar international school",
+          "state": "UTTAR PRADESH",
+          "district": "ETAWAH",
+          "accidents": 11
+        },
+        {
+          "school_name": "panchsheel shiksha niketan, pachawali road, etawah",
+          "state": "UTTAR PRADESH",
+          "district": "ETAWAH",
+          "accidents": 7
+        },
+        {
+          "school_name": "h.n.public school",
+          "state": "UTTAR PRADESH",
+          "district": "ETAWAH",
+          "accidents": 6
+        },
+        {
+          "school_name": "etawah public school (e.p.s etawah)",
+          "state": "UTTAR PRADESH",
+          "district": "ETAWAH",
+          "accidents": 5
+        },
+        {
+          "school_name": "gyansthali residential school | best residential school in etawah | best schools in etawah",
+          "state": "UTTAR PRADESH",
+          "district": "ETAWAH",
+          "accidents": 5
+        },
+        {
+          "school_name": "jahar singh smarak uchhtar madhyamik vidhyalaya kursena",
+          "state": "UTTAR PRADESH",
+          "district": "ETAWAH",
+          "accidents": 5
+        },
+        {
+          "school_name": "swami vivekanand school",
+          "state": "UTTAR PRADESH",
+          "district": "ETAWAH",
+          "accidents": 5
+        }
+      ],
+      "FATEHPUR": [
+        {
+          "school_name": "government primary school",
+          "state": "UTTAR PRADESH",
+          "district": "FATEHPUR",
+          "accidents": 9
+        },
+        {
+          "school_name": "primary school chhivali",
+          "state": "UTTAR PRADESH",
+          "district": "FATEHPUR",
+          "accidents": 6
+        },
+        {
+          "school_name": "hans greenfield public school",
+          "state": "UTTAR PRADESH",
+          "district": "FATEHPUR",
+          "accidents": 2
+        },
+        {
+          "school_name": "swami harsewanand public school(shps) varanasi",
+          "state": "UTTAR PRADESH",
+          "district": "FATEHPUR",
+          "accidents": 1
+        }
+      ],
+      "FIROZABAD": [
+        {
+          "school_name": "modern public hr.sec school",
+          "state": "UTTAR PRADESH",
+          "district": "FIROZABAD",
+          "accidents": 33
+        },
+        {
+          "school_name": "indian academy national public school",
+          "state": "UTTAR PRADESH",
+          "district": "FIROZABAD",
+          "accidents": 28
+        },
+        {
+          "school_name": "vishuddh international school",
+          "state": "UTTAR PRADESH",
+          "district": "FIROZABAD",
+          "accidents": 18
+        },
+        {
+          "school_name": "new gardenia public school",
+          "state": "UTTAR PRADESH",
+          "district": "FIROZABAD",
+          "accidents": 17
+        },
+        {
+          "school_name": "seth m. r. jaipuria school, shikohabad",
+          "state": "UTTAR PRADESH",
+          "district": "FIROZABAD",
+          "accidents": 17
+        },
+        {
+          "school_name": "christ the king primary school",
+          "state": "UTTAR PRADESH",
+          "district": "FIROZABAD",
+          "accidents": 15
+        },
+        {
+          "school_name": "balaji public school",
+          "state": "UTTAR PRADESH",
+          "district": "FIROZABAD",
+          "accidents": 9
+        },
+        {
+          "school_name": "praveen vidyapeeth",
+          "state": "UTTAR PRADESH",
+          "district": "FIROZABAD",
+          "accidents": 9
+        },
+        {
+          "school_name": "vishwa bharti international school, shikohabad",
+          "state": "UTTAR PRADESH",
+          "district": "FIROZABAD",
+          "accidents": 7
+        },
+        {
+          "school_name": "sirsaganj public school",
+          "state": "UTTAR PRADESH",
+          "district": "FIROZABAD",
+          "accidents": 6
+        }
+      ],
+      "HARDOI": [
+        {
+          "school_name": "global public school",
+          "state": "UTTAR PRADESH",
+          "district": "HARDOI",
+          "accidents": 5
+        }
+      ],
+      "KANPUR CITY": [
+        {
+          "school_name": "the candytuft school",
+          "state": "UTTAR PRADESH",
+          "district": "KANPUR CITY",
+          "accidents": 30
+        },
+        {
+          "school_name": "spd memorial school",
+          "state": "UTTAR PRADESH",
+          "district": "KANPUR CITY",
+          "accidents": 22
+        },
+        {
+          "school_name": "u.p. public school",
+          "state": "UTTAR PRADESH",
+          "district": "KANPUR CITY",
+          "accidents": 21
+        },
+        {
+          "school_name": "dehradoon public senior secondary school gopal nagar kanpur",
+          "state": "UTTAR PRADESH",
+          "district": "KANPUR CITY",
+          "accidents": 19
+        },
+        {
+          "school_name": "guru harkrishan public school",
+          "state": "UTTAR PRADESH",
+          "district": "KANPUR CITY",
+          "accidents": 18
+        },
+        {
+          "school_name": "rising sun global school",
+          "state": "UTTAR PRADESH",
+          "district": "KANPUR CITY",
+          "accidents": 18
+        },
+        {
+          "school_name": "blueberry international school",
+          "state": "UTTAR PRADESH",
+          "district": "KANPUR CITY",
+          "accidents": 12
+        },
+        {
+          "school_name": "mary jesus school",
+          "state": "UTTAR PRADESH",
+          "district": "KANPUR CITY",
+          "accidents": 12
+        },
+        {
+          "school_name": "shanti international school",
+          "state": "UTTAR PRADESH",
+          "district": "KANPUR CITY",
+          "accidents": 11
+        },
+        {
+          "school_name": "little petals school",
+          "state": "UTTAR PRADESH",
+          "district": "KANPUR CITY",
+          "accidents": 10
+        }
+      ],
+      "KANPURDEHAT": [
+        {
+          "school_name": "s o a s s high school",
+          "state": "UTTAR PRADESH",
+          "district": "KANPURDEHAT",
+          "accidents": 25
+        },
+        {
+          "school_name": "sumit bansal school",
+          "state": "UTTAR PRADESH",
+          "district": "KANPURDEHAT",
+          "accidents": 22
+        },
+        {
+          "school_name": "raja singh smarak j.h. school",
+          "state": "UTTAR PRADESH",
+          "district": "KANPURDEHAT",
+          "accidents": 18
+        },
+        {
+          "school_name": "junior high school, rania, kanpur dehat",
+          "state": "UTTAR PRADESH",
+          "district": "KANPURDEHAT",
+          "accidents": 13
+        },
+        {
+          "school_name": "the sky high school",
+          "state": "UTTAR PRADESH",
+          "district": "KANPURDEHAT",
+          "accidents": 10
+        },
+        {
+          "school_name": "primary public school",
+          "state": "UTTAR PRADESH",
+          "district": "KANPURDEHAT",
+          "accidents": 6
+        },
+        {
+          "school_name": "shivaji shiksha niketan",
+          "state": "UTTAR PRADESH",
+          "district": "KANPURDEHAT",
+          "accidents": 5
+        },
+        {
+          "school_name": "mountain view public school",
+          "state": "UTTAR PRADESH",
+          "district": "KANPURDEHAT",
+          "accidents": 3
+        }
+      ],
+      "KAUSHAMBI": [
+        {
+          "school_name": "s.p.tripathi public school",
+          "state": "UTTAR PRADESH",
+          "district": "KAUSHAMBI",
+          "accidents": 3
+        }
+      ],
+      "KHERI": [
+        {
+          "school_name": "convent school",
+          "state": "UTTAR PRADESH",
+          "district": "KHERI",
+          "accidents": 14
+        },
+        {
+          "school_name": "cambridge convent school",
+          "state": "UTTAR PRADESH",
+          "district": "KHERI",
+          "accidents": 5
+        }
+      ],
+      "LUCKNOW": [
+        {
+          "school_name": "narayana e-techno school - jankipuram",
+          "state": "UTTAR PRADESH",
+          "district": "LUCKNOW",
+          "accidents": 10
+        },
+        {
+          "school_name": "navyuga radiance school",
+          "state": "UTTAR PRADESH",
+          "district": "LUCKNOW",
+          "accidents": 7
+        },
+        {
+          "school_name": "delhi public school",
+          "state": "UTTAR PRADESH",
+          "district": "LUCKNOW",
+          "accidents": 3
+        },
+        {
+          "school_name": "lucknow international public school",
+          "state": "UTTAR PRADESH",
+          "district": "LUCKNOW",
+          "accidents": 3
+        },
+        {
+          "school_name": "maa vindhyavasini international school",
+          "state": "UTTAR PRADESH",
+          "district": "LUCKNOW",
+          "accidents": 2
+        },
+        {
+          "school_name": "mount sinai global school",
+          "state": "UTTAR PRADESH",
+          "district": "LUCKNOW",
+          "accidents": 2
+        },
+        {
+          "school_name": "surya international school",
+          "state": "UTTAR PRADESH",
+          "district": "LUCKNOW",
+          "accidents": 2
+        },
+        {
+          "school_name": "maharana pratap public school (m.r.p school)",
+          "state": "UTTAR PRADESH",
+          "district": "LUCKNOW",
+          "accidents": 1
+        }
+      ],
+      "MAHOBA": [
+        {
+          "school_name": "primary schol nuriya",
+          "state": "UTTAR PRADESH",
+          "district": "MAHOBA",
+          "accidents": 1
+        }
+      ],
+      "MAINPURI": [
+        {
+          "school_name": "shiksha sagar secondary public school",
+          "state": "UTTAR PRADESH",
+          "district": "MAINPURI",
+          "accidents": 5
+        }
+      ],
+      "MIRZAPUR": [
+        {
+          "school_name": "st.bbl shikshan sansthan",
+          "state": "UTTAR PRADESH",
+          "district": "MIRZAPUR",
+          "accidents": 13
+        },
+        {
+          "school_name": "government primary school",
+          "state": "UTTAR PRADESH",
+          "district": "MIRZAPUR",
+          "accidents": 10
+        },
+        {
+          "school_name": "st. mary's school",
+          "state": "UTTAR PRADESH",
+          "district": "MIRZAPUR",
+          "accidents": 8
+        },
+        {
+          "school_name": "modern public school / harihar vatika",
+          "state": "UTTAR PRADESH",
+          "district": "MIRZAPUR",
+          "accidents": 7
+        },
+        {
+          "school_name": "royal crown school bihasara mirzapur",
+          "state": "UTTAR PRADESH",
+          "district": "MIRZAPUR",
+          "accidents": 6
+        },
+        {
+          "school_name": "bhatewara primary school",
+          "state": "UTTAR PRADESH",
+          "district": "MIRZAPUR",
+          "accidents": 4
+        },
+        {
+          "school_name": "lt. seeta singh smarak shikshan prashikshan sansthan",
+          "state": "UTTAR PRADESH",
+          "district": "MIRZAPUR",
+          "accidents": 4
+        },
+        {
+          "school_name": "prathamik vidhyalay gaipura",
+          "state": "UTTAR PRADESH",
+          "district": "MIRZAPUR",
+          "accidents": 4
+        },
+        {
+          "school_name": "primary school, mahraura",
+          "state": "UTTAR PRADESH",
+          "district": "MIRZAPUR",
+          "accidents": 4
+        },
+        {
+          "school_name": "sunbeam school, narayanpur",
+          "state": "UTTAR PRADESH",
+          "district": "MIRZAPUR",
+          "accidents": 4
+        }
+      ],
+      "PRATAPGARH": [
+        {
+          "school_name": "maharshi shandilya public school",
+          "state": "UTTAR PRADESH",
+          "district": "PRATAPGARH",
+          "accidents": 7
+        },
+        {
+          "school_name": "s u public school",
+          "state": "UTTAR PRADESH",
+          "district": "PRATAPGARH",
+          "accidents": 6
+        }
+      ],
+      "PRAYAGRAJ": [
+        {
+          "school_name": "the school & home for the blind (blind asylum)",
+          "state": "UTTAR PRADESH",
+          "district": "PRAYAGRAJ",
+          "accidents": 18
+        },
+        {
+          "school_name": "bright land public school",
+          "state": "UTTAR PRADESH",
+          "district": "PRAYAGRAJ",
+          "accidents": 16
+        },
+        {
+          "school_name": "jagat taran golden jubilee school",
+          "state": "UTTAR PRADESH",
+          "district": "PRAYAGRAJ",
+          "accidents": 16
+        },
+        {
+          "school_name": "yagya narayan higher secondary school",
+          "state": "UTTAR PRADESH",
+          "district": "PRAYAGRAJ",
+          "accidents": 15
+        },
+        {
+          "school_name": "prayagraj public school",
+          "state": "UTTAR PRADESH",
+          "district": "PRAYAGRAJ",
+          "accidents": 14
+        },
+        {
+          "school_name": "bethany convent school",
+          "state": "UTTAR PRADESH",
+          "district": "PRAYAGRAJ",
+          "accidents": 13
+        },
+        {
+          "school_name": "patanjali rishikul school",
+          "state": "UTTAR PRADESH",
+          "district": "PRAYAGRAJ",
+          "accidents": 11
+        },
+        {
+          "school_name": "holy trinity school, allahabad",
+          "state": "UTTAR PRADESH",
+          "district": "PRAYAGRAJ",
+          "accidents": 10
+        },
+        {
+          "school_name": "st. joseph's school",
+          "state": "UTTAR PRADESH",
+          "district": "PRAYAGRAJ",
+          "accidents": 10
+        },
+        {
+          "school_name": "st. mary's convent school",
+          "state": "UTTAR PRADESH",
+          "district": "PRAYAGRAJ",
+          "accidents": 9
+        }
+      ],
+      "RAE BARELI": [
+        {
+          "school_name": "green fields public high school",
+          "state": "UTTAR PRADESH",
+          "district": "RAE BARELI",
+          "accidents": 113
+        },
+        {
+          "school_name": "st. peter's school",
+          "state": "UTTAR PRADESH",
+          "district": "RAE BARELI",
+          "accidents": 20
+        },
+        {
+          "school_name": "rajkiya balika high school",
+          "state": "UTTAR PRADESH",
+          "district": "RAE BARELI",
+          "accidents": 16
+        },
+        {
+          "school_name": "new standard senior secondary school",
+          "state": "UTTAR PRADESH",
+          "district": "RAE BARELI",
+          "accidents": 15
+        },
+        {
+          "school_name": "shri hemkund public school, raebareli",
+          "state": "UTTAR PRADESH",
+          "district": "RAE BARELI",
+          "accidents": 14
+        },
+        {
+          "school_name": "sanshiksha creative school",
+          "state": "UTTAR PRADESH",
+          "district": "RAE BARELI",
+          "accidents": 13
+        },
+        {
+          "school_name": "higher secondary school bachhrawan",
+          "state": "UTTAR PRADESH",
+          "district": "RAE BARELI",
+          "accidents": 10
+        },
+        {
+          "school_name": "sjs public school",
+          "state": "UTTAR PRADESH",
+          "district": "RAE BARELI",
+          "accidents": 6
+        },
+        {
+          "school_name": "dayawati modi public school",
+          "state": "UTTAR PRADESH",
+          "district": "RAE BARELI",
+          "accidents": 5
+        },
+        {
+          "school_name": "govind prasad chhotelal bal vidya mandir bachhrawan raebareli",
+          "state": "UTTAR PRADESH",
+          "district": "RAE BARELI",
+          "accidents": 5
+        }
+      ],
+      "SHAHJAHANPUR": [
+        {
+          "school_name": "ram murari public school",
+          "state": "UTTAR PRADESH",
+          "district": "SHAHJAHANPUR",
+          "accidents": 11
+        },
+        {
+          "school_name": "doon international school - best school in shahjahanpur | top school in shahjahanpur | english medium school",
+          "state": "UTTAR PRADESH",
+          "district": "SHAHJAHANPUR",
+          "accidents": 10
+        },
+        {
+          "school_name": "ryan international school, mishripur, shahjahanpur - cbse",
+          "state": "UTTAR PRADESH",
+          "district": "SHAHJAHANPUR",
+          "accidents": 7
+        },
+        {
+          "school_name": "cambridge public school, station road tilhar",
+          "state": "UTTAR PRADESH",
+          "district": "SHAHJAHANPUR",
+          "accidents": 6
+        },
+        {
+          "school_name": "seth m. r. jaipuria school shahjahanpur",
+          "state": "UTTAR PRADESH",
+          "district": "SHAHJAHANPUR",
+          "accidents": 2
+        }
+      ],
+      "SITAPUR": [
+        {
+          "school_name": "universal public high school",
+          "state": "UTTAR PRADESH",
+          "district": "SITAPUR",
+          "accidents": 25
+        },
+        {
+          "school_name": "sarvodya vidya mandir high school",
+          "state": "UTTAR PRADESH",
+          "district": "SITAPUR",
+          "accidents": 21
+        },
+        {
+          "school_name": "lucknow public school",
+          "state": "UTTAR PRADESH",
+          "district": "SITAPUR",
+          "accidents": 16
+        },
+        {
+          "school_name": "g.d. goenka public school sitapur",
+          "state": "UTTAR PRADESH",
+          "district": "SITAPUR",
+          "accidents": 8
+        },
+        {
+          "school_name": "mission public school prem nagar sidhauli sitapur",
+          "state": "UTTAR PRADESH",
+          "district": "SITAPUR",
+          "accidents": 8
+        }
+      ],
+      "VARANASI": [
+        {
+          "school_name": "mohansarai primary school",
+          "state": "UTTAR PRADESH",
+          "district": "VARANASI",
+          "accidents": 15
+        },
+        {
+          "school_name": "swami harsewanand public school(shps) varanasi",
+          "state": "UTTAR PRADESH",
+          "district": "VARANASI",
+          "accidents": 11
+        },
+        {
+          "school_name": "rajendra memorial girl's school",
+          "state": "UTTAR PRADESH",
+          "district": "VARANASI",
+          "accidents": 7
+        },
+        {
+          "school_name": "cbs public school",
+          "state": "UTTAR PRADESH",
+          "district": "VARANASI",
+          "accidents": 6
+        },
+        {
+          "school_name": "global school",
+          "state": "UTTAR PRADESH",
+          "district": "VARANASI",
+          "accidents": 4
+        },
+        {
+          "school_name": "delhi public school",
+          "state": "UTTAR PRADESH",
+          "district": "VARANASI",
+          "accidents": 2
+        },
+        {
+          "school_name": "gd goenka school",
+          "state": "UTTAR PRADESH",
+          "district": "VARANASI",
+          "accidents": 2
+        },
+        {
+          "school_name": "the aryan international school",
+          "state": "UTTAR PRADESH",
+          "district": "VARANASI",
+          "accidents": 2
+        },
+        {
+          "school_name": "vardhan international school",
+          "state": "UTTAR PRADESH",
+          "district": "VARANASI",
+          "accidents": 2
+        },
+        {
+          "school_name": "delhi public school varanasi",
+          "state": "UTTAR PRADESH",
+          "district": "VARANASI",
+          "accidents": 1
+        }
+      ]
+    }
+  }
+}

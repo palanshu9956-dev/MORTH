@@ -1,0 +1,4528 @@
+{
+  "states": {
+    "andaman & nicobar": {
+      "districts": {
+        "andaman": {
+          "total_accidents_india_three_years": 320,
+          "total_fatal_accidents_india_three_years": 52,
+          "total_grievous_accidents_india_three_years": 159
+        },
+        "nicobar": {
+          "total_accidents_india_three_years": 6,
+          "total_fatal_accidents_india_three_years": 2,
+          "total_grievous_accidents_india_three_years": 4
+        },
+        "north  middle andaman": {
+          "total_accidents_india_three_years": 91,
+          "total_fatal_accidents_india_three_years": 13,
+          "total_grievous_accidents_india_three_years": 35
+        }
+      }
+    },
+    "andhra pradesh": {
+      "districts": {
+        "alluri seetha rama raju": {
+          "total_accidents_india_three_years": 738,
+          "total_fatal_accidents_india_three_years": 472,
+          "total_grievous_accidents_india_three_years": 151
+        },
+        "anakapalli": {
+          "total_accidents_india_three_years": 2059,
+          "total_fatal_accidents_india_three_years": 804,
+          "total_grievous_accidents_india_three_years": 995
+        },
+        "anantapur": {
+          "total_accidents_india_three_years": 1644,
+          "total_fatal_accidents_india_three_years": 914,
+          "total_grievous_accidents_india_three_years": 375
+        },
+        "annamayya": {
+          "total_accidents_india_three_years": 1803,
+          "total_fatal_accidents_india_three_years": 850,
+          "total_grievous_accidents_india_three_years": 178
+        },
+        "bapatla": {
+          "total_accidents_india_three_years": 1235,
+          "total_fatal_accidents_india_three_years": 427,
+          "total_grievous_accidents_india_three_years": 86
+        },
+        "chittoor": {
+          "total_accidents_india_three_years": 2098,
+          "total_fatal_accidents_india_three_years": 943,
+          "total_grievous_accidents_india_three_years": 276
+        },
+        "east godavari": {
+          "total_accidents_india_three_years": 2648,
+          "total_fatal_accidents_india_three_years": 968,
+          "total_grievous_accidents_india_three_years": 807
+        },
+        "eluru": {
+          "total_accidents_india_three_years": 1934,
+          "total_fatal_accidents_india_three_years": 813,
+          "total_grievous_accidents_india_three_years": 537
+        },
+        "guntur": {
+          "total_accidents_india_three_years": 3350,
+          "total_fatal_accidents_india_three_years": 1096,
+          "total_grievous_accidents_india_three_years": 280
+        },
+        "kakinada": {
+          "total_accidents_india_three_years": 2510,
+          "total_fatal_accidents_india_three_years": 893,
+          "total_grievous_accidents_india_three_years": 369
+        },
+        "konaseema": {
+          "total_accidents_india_three_years": 1657,
+          "total_fatal_accidents_india_three_years": 491,
+          "total_grievous_accidents_india_three_years": 305
+        },
+        "krishna": {
+          "total_accidents_india_three_years": 2578,
+          "total_fatal_accidents_india_three_years": 911,
+          "total_grievous_accidents_india_three_years": 359
+        },
+        "kurnool": {
+          "total_accidents_india_three_years": 1817,
+          "total_fatal_accidents_india_three_years": 790,
+          "total_grievous_accidents_india_three_years": 201
+        },
+        "manyam": {
+          "total_accidents_india_three_years": 819,
+          "total_fatal_accidents_india_three_years": 248,
+          "total_grievous_accidents_india_three_years": 189
+        },
+        "nandamuri taraka ramarao": {
+          "total_accidents_india_three_years": 4008,
+          "total_fatal_accidents_india_three_years": 1118,
+          "total_grievous_accidents_india_three_years": 879
+        },
+        "nandyal": {
+          "total_accidents_india_three_years": 1668,
+          "total_fatal_accidents_india_three_years": 852,
+          "total_grievous_accidents_india_three_years": 154
+        },
+        "palnadu": {
+          "total_accidents_india_three_years": 1913,
+          "total_fatal_accidents_india_three_years": 1103,
+          "total_grievous_accidents_india_three_years": 176
+        },
+        "prakasham": {
+          "total_accidents_india_three_years": 3419,
+          "total_fatal_accidents_india_three_years": 1478,
+          "total_grievous_accidents_india_three_years": 166
+        },
+        "spsr nellore": {
+          "total_accidents_india_three_years": 2863,
+          "total_fatal_accidents_india_three_years": 1207,
+          "total_grievous_accidents_india_three_years": 576
+        },
+        "sri satya sai": {
+          "total_accidents_india_three_years": 1655,
+          "total_fatal_accidents_india_three_years": 957,
+          "total_grievous_accidents_india_three_years": 248
+        },
+        "srikakulam": {
+          "total_accidents_india_three_years": 2472,
+          "total_fatal_accidents_india_three_years": 792,
+          "total_grievous_accidents_india_three_years": 954
+        },
+        "tirupathi": {
+          "total_accidents_india_three_years": 2675,
+          "total_fatal_accidents_india_three_years": 1356,
+          "total_grievous_accidents_india_three_years": 139
+        },
+        "vishakhapatnam": {
+          "total_accidents_india_three_years": 2273,
+          "total_fatal_accidents_india_three_years": 583,
+          "total_grievous_accidents_india_three_years": 1171
+        },
+        "vizianagaram": {
+          "total_accidents_india_three_years": 1982,
+          "total_fatal_accidents_india_three_years": 644,
+          "total_grievous_accidents_india_three_years": 597
+        },
+        "west godavari": {
+          "total_accidents_india_three_years": 1687,
+          "total_fatal_accidents_india_three_years": 615,
+          "total_grievous_accidents_india_three_years": 602
+        },
+        "ysr kadapa": {
+          "total_accidents_india_three_years": 2236,
+          "total_fatal_accidents_india_three_years": 1046,
+          "total_grievous_accidents_india_three_years": 32
+        }
+      }
+    },
+    "arunachal pradesh": {
+      "districts": {
+        "anjaw": {
+          "total_accidents_india_three_years": 3,
+          "total_fatal_accidents_india_three_years": 3,
+          "total_grievous_accidents_india_three_years": 0
+        },
+        "changlang": {
+          "total_accidents_india_three_years": 12,
+          "total_fatal_accidents_india_three_years": 9,
+          "total_grievous_accidents_india_three_years": 1
+        },
+        "dibang valley": {
+          "total_accidents_india_three_years": 1,
+          "total_fatal_accidents_india_three_years": 1,
+          "total_grievous_accidents_india_three_years": 0
+        },
+        "east siang": {
+          "total_accidents_india_three_years": 61,
+          "total_fatal_accidents_india_three_years": 31,
+          "total_grievous_accidents_india_three_years": 15
+        },
+        "icr naharlagun": {
+          "total_accidents_india_three_years": 87,
+          "total_fatal_accidents_india_three_years": 27,
+          "total_grievous_accidents_india_three_years": 26
+        },
+        "kamle": {
+          "total_accidents_india_three_years": 14,
+          "total_fatal_accidents_india_three_years": 12,
+          "total_grievous_accidents_india_three_years": 1
+        },
+        "keyi panyor": {
+          "total_accidents_india_three_years": 20,
+          "total_fatal_accidents_india_three_years": 8,
+          "total_grievous_accidents_india_three_years": 5
+        },
+        "kurung kumey": {
+          "total_accidents_india_three_years": 11,
+          "total_fatal_accidents_india_three_years": 6,
+          "total_grievous_accidents_india_three_years": 4
+        },
+        "lohit": {
+          "total_accidents_india_three_years": 4,
+          "total_fatal_accidents_india_three_years": 2,
+          "total_grievous_accidents_india_three_years": 0
+        },
+        "longding": {
+          "total_accidents_india_three_years": 4,
+          "total_fatal_accidents_india_three_years": 1,
+          "total_grievous_accidents_india_three_years": 3
+        },
+        "lower dibang valley": {
+          "total_accidents_india_three_years": 31,
+          "total_fatal_accidents_india_three_years": 22,
+          "total_grievous_accidents_india_three_years": 6
+        },
+        "lower subansiri": {
+          "total_accidents_india_three_years": 11,
+          "total_fatal_accidents_india_three_years": 3,
+          "total_grievous_accidents_india_three_years": 7
+        },
+        "namsai": {
+          "total_accidents_india_three_years": 22,
+          "total_fatal_accidents_india_three_years": 10,
+          "total_grievous_accidents_india_three_years": 6
+        },
+        "papum pare": {
+          "total_accidents_india_three_years": 9,
+          "total_fatal_accidents_india_three_years": 5,
+          "total_grievous_accidents_india_three_years": 3
+        },
+        "papum pare (itanagar capital region)": {
+          "total_accidents_india_three_years": 69,
+          "total_fatal_accidents_india_three_years": 17,
+          "total_grievous_accidents_india_three_years": 27
+        },
+        "siang": {
+          "total_accidents_india_three_years": 0,
+          "total_fatal_accidents_india_three_years": 0,
+          "total_grievous_accidents_india_three_years": 0
+        },
+        "tawang": {
+          "total_accidents_india_three_years": 15,
+          "total_fatal_accidents_india_three_years": 8,
+          "total_grievous_accidents_india_three_years": 3
+        },
+        "tirap": {
+          "total_accidents_india_three_years": 3,
+          "total_fatal_accidents_india_three_years": 1,
+          "total_grievous_accidents_india_three_years": 2
+        },
+        "upper siang": {
+          "total_accidents_india_three_years": 11,
+          "total_fatal_accidents_india_three_years": 5,
+          "total_grievous_accidents_india_three_years": 0
+        },
+        "upper subansiri": {
+          "total_accidents_india_three_years": 1,
+          "total_fatal_accidents_india_three_years": 0,
+          "total_grievous_accidents_india_three_years": 1
+        },
+        "west kameng": {
+          "total_accidents_india_three_years": 8,
+          "total_fatal_accidents_india_three_years": 7,
+          "total_grievous_accidents_india_three_years": 0
+        },
+        "west siang": {
+          "total_accidents_india_three_years": 9,
+          "total_fatal_accidents_india_three_years": 0,
+          "total_grievous_accidents_india_three_years": 2
+        }
+      }
+    },
+    "assam": {
+      "districts": {
+        "bajali": {
+          "total_accidents_india_three_years": 416,
+          "total_fatal_accidents_india_three_years": 106,
+          "total_grievous_accidents_india_three_years": 198
+        },
+        "baksa": {
+          "total_accidents_india_three_years": 605,
+          "total_fatal_accidents_india_three_years": 154,
+          "total_grievous_accidents_india_three_years": 247
+        },
+        "barpeta": {
+          "total_accidents_india_three_years": 1065,
+          "total_fatal_accidents_india_three_years": 284,
+          "total_grievous_accidents_india_three_years": 516
+        },
+        "biswanath": {
+          "total_accidents_india_three_years": 452,
+          "total_fatal_accidents_india_three_years": 244,
+          "total_grievous_accidents_india_three_years": 177
+        },
+        "bongaigaon": {
+          "total_accidents_india_three_years": 933,
+          "total_fatal_accidents_india_three_years": 229,
+          "total_grievous_accidents_india_three_years": 498
+        },
+        "cachar": {
+          "total_accidents_india_three_years": 2025,
+          "total_fatal_accidents_india_three_years": 313,
+          "total_grievous_accidents_india_three_years": 1119
+        },
+        "charaideo": {
+          "total_accidents_india_three_years": 250,
+          "total_fatal_accidents_india_three_years": 126,
+          "total_grievous_accidents_india_three_years": 70
+        },
+        "chirang": {
+          "total_accidents_india_three_years": 531,
+          "total_fatal_accidents_india_three_years": 129,
+          "total_grievous_accidents_india_three_years": 202
+        },
+        "darrang": {
+          "total_accidents_india_three_years": 962,
+          "total_fatal_accidents_india_three_years": 317,
+          "total_grievous_accidents_india_three_years": 526
+        },
+        "dhemaji": {
+          "total_accidents_india_three_years": 734,
+          "total_fatal_accidents_india_three_years": 301,
+          "total_grievous_accidents_india_three_years": 253
+        },
+        "dhubri": {
+          "total_accidents_india_three_years": 1491,
+          "total_fatal_accidents_india_three_years": 335,
+          "total_grievous_accidents_india_three_years": 797
+        },
+        "dibrugarh": {
+          "total_accidents_india_three_years": 1738,
+          "total_fatal_accidents_india_three_years": 398,
+          "total_grievous_accidents_india_three_years": 646
+        },
+        "goalpara": {
+          "total_accidents_india_three_years": 1239,
+          "total_fatal_accidents_india_three_years": 301,
+          "total_grievous_accidents_india_three_years": 764
+        },
+        "golaghat": {
+          "total_accidents_india_three_years": 2177,
+          "total_fatal_accidents_india_three_years": 389,
+          "total_grievous_accidents_india_three_years": 766
+        },
+        "guwahati city": {
+          "total_accidents_india_three_years": 4766,
+          "total_fatal_accidents_india_three_years": 965,
+          "total_grievous_accidents_india_three_years": 1891
+        },
+        "hailakandi": {
+          "total_accidents_india_three_years": 730,
+          "total_fatal_accidents_india_three_years": 95,
+          "total_grievous_accidents_india_three_years": 394
+        },
+        "hamren(west karbi-anglong)": {
+          "total_accidents_india_three_years": 91,
+          "total_fatal_accidents_india_three_years": 41,
+          "total_grievous_accidents_india_three_years": 20
+        },
+        "hojai": {
+          "total_accidents_india_three_years": 1201,
+          "total_fatal_accidents_india_three_years": 205,
+          "total_grievous_accidents_india_three_years": 499
+        },
+        "jorhat": {
+          "total_accidents_india_three_years": 1162,
+          "total_fatal_accidents_india_three_years": 231,
+          "total_grievous_accidents_india_three_years": 388
+        },
+        "kamrup": {
+          "total_accidents_india_three_years": 2807,
+          "total_fatal_accidents_india_three_years": 868,
+          "total_grievous_accidents_india_three_years": 1555
+        },
+        "karbianglong": {
+          "total_accidents_india_three_years": 518,
+          "total_fatal_accidents_india_three_years": 169,
+          "total_grievous_accidents_india_three_years": 157
+        },
+        "kokrajhar": {
+          "total_accidents_india_three_years": 1135,
+          "total_fatal_accidents_india_three_years": 250,
+          "total_grievous_accidents_india_three_years": 449
+        },
+        "lakhimpur": {
+          "total_accidents_india_three_years": 1467,
+          "total_fatal_accidents_india_three_years": 383,
+          "total_grievous_accidents_india_three_years": 576
+        },
+        "majuli": {
+          "total_accidents_india_three_years": 150,
+          "total_fatal_accidents_india_three_years": 37,
+          "total_grievous_accidents_india_three_years": 50
+        },
+        "morigaon": {
+          "total_accidents_india_three_years": 1747,
+          "total_fatal_accidents_india_three_years": 293,
+          "total_grievous_accidents_india_three_years": 843
+        },
+        "nagaon": {
+          "total_accidents_india_three_years": 3192,
+          "total_fatal_accidents_india_three_years": 695,
+          "total_grievous_accidents_india_three_years": 1588
+        },
+        "nlbari": {
+          "total_accidents_india_three_years": 969,
+          "total_fatal_accidents_india_three_years": 251,
+          "total_grievous_accidents_india_three_years": 643
+        },
+        "north cachar hills": {
+          "total_accidents_india_three_years": 254,
+          "total_fatal_accidents_india_three_years": 85,
+          "total_grievous_accidents_india_three_years": 116
+        },
+        "sadiya": {
+          "total_accidents_india_three_years": 239,
+          "total_fatal_accidents_india_three_years": 58,
+          "total_grievous_accidents_india_three_years": 71
+        },
+        "sibsagar": {
+          "total_accidents_india_three_years": 587,
+          "total_fatal_accidents_india_three_years": 163,
+          "total_grievous_accidents_india_three_years": 212
+        },
+        "sonitpur": {
+          "total_accidents_india_three_years": 1494,
+          "total_fatal_accidents_india_three_years": 456,
+          "total_grievous_accidents_india_three_years": 803
+        },
+        "south salmara": {
+          "total_accidents_india_three_years": 136,
+          "total_fatal_accidents_india_three_years": 57,
+          "total_grievous_accidents_india_three_years": 70
+        },
+        "sribhumi": {
+          "total_accidents_india_three_years": 1145,
+          "total_fatal_accidents_india_three_years": 195,
+          "total_grievous_accidents_india_three_years": 614
+        },
+        "tamulpur": {
+          "total_accidents_india_three_years": 407,
+          "total_fatal_accidents_india_three_years": 140,
+          "total_grievous_accidents_india_three_years": 191
+        },
+        "tinsukia": {
+          "total_accidents_india_three_years": 701,
+          "total_fatal_accidents_india_three_years": 360,
+          "total_grievous_accidents_india_three_years": 239
+        },
+        "udalguri": {
+          "total_accidents_india_three_years": 642,
+          "total_fatal_accidents_india_three_years": 282,
+          "total_grievous_accidents_india_three_years": 256
+        }
+      }
+    },
+    "bihar": {
+      "districts": {
+        "araria": {
+          "total_accidents_india_three_years": 665,
+          "total_fatal_accidents_india_three_years": 534,
+          "total_grievous_accidents_india_three_years": 91
+        },
+        "arwal": {
+          "total_accidents_india_three_years": 319,
+          "total_fatal_accidents_india_three_years": 235,
+          "total_grievous_accidents_india_three_years": 54
+        },
+        "aurangabad": {
+          "total_accidents_india_three_years": 1176,
+          "total_fatal_accidents_india_three_years": 906,
+          "total_grievous_accidents_india_three_years": 152
+        },
+        "bagha": {
+          "total_accidents_india_three_years": 247,
+          "total_fatal_accidents_india_three_years": 180,
+          "total_grievous_accidents_india_three_years": 38
+        },
+        "banka": {
+          "total_accidents_india_three_years": 602,
+          "total_fatal_accidents_india_three_years": 481,
+          "total_grievous_accidents_india_three_years": 75
+        },
+        "begusarai": {
+          "total_accidents_india_three_years": 1133,
+          "total_fatal_accidents_india_three_years": 862,
+          "total_grievous_accidents_india_three_years": 178
+        },
+        "betiah": {
+          "total_accidents_india_three_years": 584,
+          "total_fatal_accidents_india_three_years": 447,
+          "total_grievous_accidents_india_three_years": 108
+        },
+        "bhabhua": {
+          "total_accidents_india_three_years": 773,
+          "total_fatal_accidents_india_three_years": 568,
+          "total_grievous_accidents_india_three_years": 107
+        },
+        "bhagalpur": {
+          "total_accidents_india_three_years": 704,
+          "total_fatal_accidents_india_three_years": 500,
+          "total_grievous_accidents_india_three_years": 96
+        },
+        "bhojpur": {
+          "total_accidents_india_three_years": 1170,
+          "total_fatal_accidents_india_three_years": 947,
+          "total_grievous_accidents_india_three_years": 145
+        },
+        "buxar": {
+          "total_accidents_india_three_years": 503,
+          "total_fatal_accidents_india_three_years": 388,
+          "total_grievous_accidents_india_three_years": 84
+        },
+        "darbhanga": {
+          "total_accidents_india_three_years": 974,
+          "total_fatal_accidents_india_three_years": 715,
+          "total_grievous_accidents_india_three_years": 151
+        },
+        "e.champaran/mothihari": {
+          "total_accidents_india_three_years": 1589,
+          "total_fatal_accidents_india_three_years": 1219,
+          "total_grievous_accidents_india_three_years": 260
+        },
+        "gaya": {
+          "total_accidents_india_three_years": 1646,
+          "total_fatal_accidents_india_three_years": 1190,
+          "total_grievous_accidents_india_three_years": 240
+        },
+        "gopalganj": {
+          "total_accidents_india_three_years": 819,
+          "total_fatal_accidents_india_three_years": 632,
+          "total_grievous_accidents_india_three_years": 129
+        },
+        "jamui": {
+          "total_accidents_india_three_years": 604,
+          "total_fatal_accidents_india_three_years": 478,
+          "total_grievous_accidents_india_three_years": 77
+        },
+        "jehanabad": {
+          "total_accidents_india_three_years": 437,
+          "total_fatal_accidents_india_three_years": 287,
+          "total_grievous_accidents_india_three_years": 94
+        },
+        "katihar": {
+          "total_accidents_india_three_years": 628,
+          "total_fatal_accidents_india_three_years": 502,
+          "total_grievous_accidents_india_three_years": 69
+        },
+        "khagaria": {
+          "total_accidents_india_three_years": 593,
+          "total_fatal_accidents_india_three_years": 459,
+          "total_grievous_accidents_india_three_years": 90
+        },
+        "kishanganj": {
+          "total_accidents_india_three_years": 272,
+          "total_fatal_accidents_india_three_years": 197,
+          "total_grievous_accidents_india_three_years": 40
+        },
+        "lakhisarai": {
+          "total_accidents_india_three_years": 430,
+          "total_fatal_accidents_india_three_years": 311,
+          "total_grievous_accidents_india_three_years": 73
+        },
+        "madhepura": {
+          "total_accidents_india_three_years": 634,
+          "total_fatal_accidents_india_three_years": 531,
+          "total_grievous_accidents_india_three_years": 75
+        },
+        "madhubani": {
+          "total_accidents_india_three_years": 870,
+          "total_fatal_accidents_india_three_years": 675,
+          "total_grievous_accidents_india_three_years": 134
+        },
+        "mujaffarpur": {
+          "total_accidents_india_three_years": 1892,
+          "total_fatal_accidents_india_three_years": 1503,
+          "total_grievous_accidents_india_three_years": 264
+        },
+        "munger": {
+          "total_accidents_india_three_years": 416,
+          "total_fatal_accidents_india_three_years": 279,
+          "total_grievous_accidents_india_three_years": 76
+        },
+        "nalanda": {
+          "total_accidents_india_three_years": 1248,
+          "total_fatal_accidents_india_three_years": 886,
+          "total_grievous_accidents_india_three_years": 213
+        },
+        "naughachhia": {
+          "total_accidents_india_three_years": 390,
+          "total_fatal_accidents_india_three_years": 273,
+          "total_grievous_accidents_india_three_years": 67
+        },
+        "nawada": {
+          "total_accidents_india_three_years": 923,
+          "total_fatal_accidents_india_three_years": 596,
+          "total_grievous_accidents_india_three_years": 170
+        },
+        "patna": {
+          "total_accidents_india_three_years": 3640,
+          "total_fatal_accidents_india_three_years": 2319,
+          "total_grievous_accidents_india_three_years": 690
+        },
+        "purnea": {
+          "total_accidents_india_three_years": 962,
+          "total_fatal_accidents_india_three_years": 728,
+          "total_grievous_accidents_india_three_years": 143
+        },
+        "rly mujaffarpur": {
+          "total_accidents_india_three_years": 0,
+          "total_fatal_accidents_india_three_years": 0,
+          "total_grievous_accidents_india_three_years": 0
+        },
+        "rohtas": {
+          "total_accidents_india_three_years": 1321,
+          "total_fatal_accidents_india_three_years": 937,
+          "total_grievous_accidents_india_three_years": 183
+        },
+        "saharsa": {
+          "total_accidents_india_three_years": 484,
+          "total_fatal_accidents_india_three_years": 380,
+          "total_grievous_accidents_india_three_years": 72
+        },
+        "samastipur": {
+          "total_accidents_india_three_years": 1231,
+          "total_fatal_accidents_india_three_years": 1001,
+          "total_grievous_accidents_india_three_years": 157
+        },
+        "saran (chhapra)": {
+          "total_accidents_india_three_years": 1696,
+          "total_fatal_accidents_india_three_years": 1256,
+          "total_grievous_accidents_india_three_years": 279
+        },
+        "sheikhpura": {
+          "total_accidents_india_three_years": 252,
+          "total_fatal_accidents_india_three_years": 197,
+          "total_grievous_accidents_india_three_years": 29
+        },
+        "sheohar": {
+          "total_accidents_india_three_years": 107,
+          "total_fatal_accidents_india_three_years": 72,
+          "total_grievous_accidents_india_three_years": 26
+        },
+        "sitamarhi": {
+          "total_accidents_india_three_years": 767,
+          "total_fatal_accidents_india_three_years": 602,
+          "total_grievous_accidents_india_three_years": 116
+        },
+        "siwan": {
+          "total_accidents_india_three_years": 844,
+          "total_fatal_accidents_india_three_years": 651,
+          "total_grievous_accidents_india_three_years": 144
+        },
+        "supaul": {
+          "total_accidents_india_three_years": 628,
+          "total_fatal_accidents_india_three_years": 556,
+          "total_grievous_accidents_india_three_years": 50
+        },
+        "vaishali": {
+          "total_accidents_india_three_years": 1259,
+          "total_fatal_accidents_india_three_years": 940,
+          "total_grievous_accidents_india_three_years": 195
+        }
+      }
+    },
+    "chandigarh": {
+      "districts": {
+        "chandigarh": {
+          "total_accidents_india_three_years": 1256,
+          "total_fatal_accidents_india_three_years": 210,
+          "total_grievous_accidents_india_three_years": 315
+        }
+      }
+    },
+    "chhattisgarh": {
+      "districts": {
+        "balod": {
+          "total_accidents_india_three_years": 1334,
+          "total_fatal_accidents_india_three_years": 565,
+          "total_grievous_accidents_india_three_years": 186
+        },
+        "baloda bazar": {
+          "total_accidents_india_three_years": 1831,
+          "total_fatal_accidents_india_three_years": 751,
+          "total_grievous_accidents_india_three_years": 324
+        },
+        "balrampur": {
+          "total_accidents_india_three_years": 953,
+          "total_fatal_accidents_india_three_years": 534,
+          "total_grievous_accidents_india_three_years": 240
+        },
+        "bastar": {
+          "total_accidents_india_three_years": 1469,
+          "total_fatal_accidents_india_three_years": 570,
+          "total_grievous_accidents_india_three_years": 288
+        },
+        "bemetara": {
+          "total_accidents_india_three_years": 1133,
+          "total_fatal_accidents_india_three_years": 588,
+          "total_grievous_accidents_india_three_years": 273
+        },
+        "bijapur": {
+          "total_accidents_india_three_years": 296,
+          "total_fatal_accidents_india_three_years": 178,
+          "total_grievous_accidents_india_three_years": 79
+        },
+        "bilaspur": {
+          "total_accidents_india_three_years": 2684,
+          "total_fatal_accidents_india_three_years": 638,
+          "total_grievous_accidents_india_three_years": 617
+        },
+        "dantewada": {
+          "total_accidents_india_three_years": 369,
+          "total_fatal_accidents_india_three_years": 221,
+          "total_grievous_accidents_india_three_years": 49
+        },
+        "dhamtari": {
+          "total_accidents_india_three_years": 1035,
+          "total_fatal_accidents_india_three_years": 450,
+          "total_grievous_accidents_india_three_years": 183
+        },
+        "durg": {
+          "total_accidents_india_three_years": 3552,
+          "total_fatal_accidents_india_three_years": 916,
+          "total_grievous_accidents_india_three_years": 346
+        },
+        "gariyaband": {
+          "total_accidents_india_three_years": 787,
+          "total_fatal_accidents_india_three_years": 337,
+          "total_grievous_accidents_india_three_years": 160
+        },
+        "gaurela pendra marwahi": {
+          "total_accidents_india_three_years": 454,
+          "total_fatal_accidents_india_three_years": 196,
+          "total_grievous_accidents_india_three_years": 34
+        },
+        "janjgir": {
+          "total_accidents_india_three_years": 1353,
+          "total_fatal_accidents_india_three_years": 572,
+          "total_grievous_accidents_india_three_years": 277
+        },
+        "jashpur": {
+          "total_accidents_india_three_years": 1279,
+          "total_fatal_accidents_india_three_years": 852,
+          "total_grievous_accidents_india_three_years": 233
+        },
+        "kabirdham (kawardha)": {
+          "total_accidents_india_three_years": 880,
+          "total_fatal_accidents_india_three_years": 392,
+          "total_grievous_accidents_india_three_years": 243
+        },
+        "kanker": {
+          "total_accidents_india_three_years": 1069,
+          "total_fatal_accidents_india_three_years": 549,
+          "total_grievous_accidents_india_three_years": 260
+        },
+        "khairagarh chhuikhadan gandai": {
+          "total_accidents_india_three_years": 508,
+          "total_fatal_accidents_india_three_years": 195,
+          "total_grievous_accidents_india_three_years": 78
+        },
+        "kondagaon": {
+          "total_accidents_india_three_years": 788,
+          "total_fatal_accidents_india_three_years": 481,
+          "total_grievous_accidents_india_three_years": 166
+        },
+        "korba": {
+          "total_accidents_india_three_years": 1474,
+          "total_fatal_accidents_india_three_years": 600,
+          "total_grievous_accidents_india_three_years": 393
+        },
+        "koriya": {
+          "total_accidents_india_three_years": 435,
+          "total_fatal_accidents_india_three_years": 218,
+          "total_grievous_accidents_india_three_years": 109
+        },
+        "mahasamund": {
+          "total_accidents_india_three_years": 1221,
+          "total_fatal_accidents_india_three_years": 682,
+          "total_grievous_accidents_india_three_years": 246
+        },
+        "manendragarh chirmiri bharatpur": {
+          "total_accidents_india_three_years": 561,
+          "total_fatal_accidents_india_three_years": 265,
+          "total_grievous_accidents_india_three_years": 149
+        },
+        "mohala manpur ambagarh chowki": {
+          "total_accidents_india_three_years": 320,
+          "total_fatal_accidents_india_three_years": 198,
+          "total_grievous_accidents_india_three_years": 69
+        },
+        "mungeli": {
+          "total_accidents_india_three_years": 584,
+          "total_fatal_accidents_india_three_years": 231,
+          "total_grievous_accidents_india_three_years": 79
+        },
+        "narayanpur": {
+          "total_accidents_india_three_years": 81,
+          "total_fatal_accidents_india_three_years": 44,
+          "total_grievous_accidents_india_three_years": 13
+        },
+        "raigarh": {
+          "total_accidents_india_three_years": 2053,
+          "total_fatal_accidents_india_three_years": 1075,
+          "total_grievous_accidents_india_three_years": 170
+        },
+        "raipur": {
+          "total_accidents_india_three_years": 5037,
+          "total_fatal_accidents_india_three_years": 1357,
+          "total_grievous_accidents_india_three_years": 783
+        },
+        "rajnand gaon": {
+          "total_accidents_india_three_years": 1111,
+          "total_fatal_accidents_india_three_years": 488,
+          "total_grievous_accidents_india_three_years": 180
+        },
+        "sakti": {
+          "total_accidents_india_three_years": 386,
+          "total_fatal_accidents_india_three_years": 199,
+          "total_grievous_accidents_india_three_years": 66
+        },
+        "sarangarh bilaigarh": {
+          "total_accidents_india_three_years": 623,
+          "total_fatal_accidents_india_three_years": 325,
+          "total_grievous_accidents_india_three_years": 91
+        },
+        "sukma": {
+          "total_accidents_india_three_years": 254,
+          "total_fatal_accidents_india_three_years": 160,
+          "total_grievous_accidents_india_three_years": 55
+        },
+        "surajpur": {
+          "total_accidents_india_three_years": 1303,
+          "total_fatal_accidents_india_three_years": 745,
+          "total_grievous_accidents_india_three_years": 299
+        },
+        "surguja": {
+          "total_accidents_india_three_years": 1620,
+          "total_fatal_accidents_india_three_years": 776,
+          "total_grievous_accidents_india_three_years": 351
+        }
+      }
+    },
+    "dadra and nagar haveli and daman and diu": {
+      "districts": {
+        "dadra  nagar haveli": {
+          "total_accidents_india_three_years": 261,
+          "total_fatal_accidents_india_three_years": 132,
+          "total_grievous_accidents_india_three_years": 104
+        },
+        "daman": {
+          "total_accidents_india_three_years": 156,
+          "total_fatal_accidents_india_three_years": 84,
+          "total_grievous_accidents_india_three_years": 57
+        },
+        "diu ps": {
+          "total_accidents_india_three_years": 16,
+          "total_fatal_accidents_india_three_years": 7,
+          "total_grievous_accidents_india_three_years": 5
+        }
+      }
+    },
+    "delhi": {
+      "districts": {
+        "central delhi": {
+          "total_accidents_india_three_years": 748,
+          "total_fatal_accidents_india_three_years": 162,
+          "total_grievous_accidents_india_three_years": 144
+        },
+        "dwarka": {
+          "total_accidents_india_three_years": 1479,
+          "total_fatal_accidents_india_three_years": 291,
+          "total_grievous_accidents_india_three_years": 271
+        },
+        "east delhi": {
+          "total_accidents_india_three_years": 1023,
+          "total_fatal_accidents_india_three_years": 239,
+          "total_grievous_accidents_india_three_years": 138
+        },
+        "igi airport": {
+          "total_accidents_india_three_years": 83,
+          "total_fatal_accidents_india_three_years": 6,
+          "total_grievous_accidents_india_three_years": 20
+        },
+        "metro": {
+          "total_accidents_india_three_years": 1,
+          "total_fatal_accidents_india_three_years": 0,
+          "total_grievous_accidents_india_three_years": 0
+        },
+        "new delhi": {
+          "total_accidents_india_three_years": 667,
+          "total_fatal_accidents_india_three_years": 108,
+          "total_grievous_accidents_india_three_years": 144
+        },
+        "north delhi": {
+          "total_accidents_india_three_years": 1321,
+          "total_fatal_accidents_india_three_years": 288,
+          "total_grievous_accidents_india_three_years": 151
+        },
+        "north east delhi": {
+          "total_accidents_india_three_years": 1198,
+          "total_fatal_accidents_india_three_years": 238,
+          "total_grievous_accidents_india_three_years": 249
+        },
+        "north west delhi": {
+          "total_accidents_india_three_years": 1149,
+          "total_fatal_accidents_india_three_years": 306,
+          "total_grievous_accidents_india_three_years": 243
+        },
+        "outer-north delhi": {
+          "total_accidents_india_three_years": 1824,
+          "total_fatal_accidents_india_three_years": 557,
+          "total_grievous_accidents_india_three_years": 374
+        },
+        "outer district": {
+          "total_accidents_india_three_years": 1110,
+          "total_fatal_accidents_india_three_years": 306,
+          "total_grievous_accidents_india_three_years": 107
+        },
+        "railway": {
+          "total_accidents_india_three_years": 1,
+          "total_fatal_accidents_india_three_years": 0,
+          "total_grievous_accidents_india_three_years": 0
+        },
+        "rohini": {
+          "total_accidents_india_three_years": 857,
+          "total_fatal_accidents_india_three_years": 181,
+          "total_grievous_accidents_india_three_years": 180
+        },
+        "shahdara": {
+          "total_accidents_india_three_years": 727,
+          "total_fatal_accidents_india_three_years": 141,
+          "total_grievous_accidents_india_three_years": 186
+        },
+        "south delhi": {
+          "total_accidents_india_three_years": 1141,
+          "total_fatal_accidents_india_three_years": 202,
+          "total_grievous_accidents_india_three_years": 282
+        },
+        "south east district": {
+          "total_accidents_india_three_years": 1472,
+          "total_fatal_accidents_india_three_years": 355,
+          "total_grievous_accidents_india_three_years": 498
+        },
+        "south west delhi": {
+          "total_accidents_india_three_years": 1476,
+          "total_fatal_accidents_india_three_years": 314,
+          "total_grievous_accidents_india_three_years": 329
+        },
+        "west delhi": {
+          "total_accidents_india_three_years": 1471,
+          "total_fatal_accidents_india_three_years": 351,
+          "total_grievous_accidents_india_three_years": 241
+        }
+      }
+    },
+    "goa": {
+      "districts": {
+        "north goa": {
+          "total_accidents_india_three_years": 3941,
+          "total_fatal_accidents_india_three_years": 392,
+          "total_grievous_accidents_india_three_years": 442
+        },
+        "south goa": {
+          "total_accidents_india_three_years": 3943,
+          "total_fatal_accidents_india_three_years": 389,
+          "total_grievous_accidents_india_three_years": 474
+        }
+      }
+    },
+    "gujarat": {
+      "districts": {
+        "ahmedabad city": {
+          "total_accidents_india_three_years": 14917,
+          "total_fatal_accidents_india_three_years": 1300,
+          "total_grievous_accidents_india_three_years": 2834
+        },
+        "ahmedabad rural": {
+          "total_accidents_india_three_years": 1774,
+          "total_fatal_accidents_india_three_years": 937,
+          "total_grievous_accidents_india_three_years": 499
+        },
+        "ahwa (dangs)": {
+          "total_accidents_india_three_years": 219,
+          "total_fatal_accidents_india_three_years": 126,
+          "total_grievous_accidents_india_three_years": 52
+        },
+        "amreli": {
+          "total_accidents_india_three_years": 765,
+          "total_fatal_accidents_india_three_years": 350,
+          "total_grievous_accidents_india_three_years": 271
+        },
+        "anand": {
+          "total_accidents_india_three_years": 1340,
+          "total_fatal_accidents_india_three_years": 556,
+          "total_grievous_accidents_india_three_years": 549
+        },
+        "arvalli": {
+          "total_accidents_india_three_years": 798,
+          "total_fatal_accidents_india_three_years": 439,
+          "total_grievous_accidents_india_three_years": 183
+        },
+        "banaskanta/plnpr": {
+          "total_accidents_india_three_years": 1593,
+          "total_fatal_accidents_india_three_years": 845,
+          "total_grievous_accidents_india_three_years": 495
+        },
+        "bharuch": {
+          "total_accidents_india_three_years": 1671,
+          "total_fatal_accidents_india_three_years": 839,
+          "total_grievous_accidents_india_three_years": 459
+        },
+        "bhavnagar": {
+          "total_accidents_india_three_years": 1175,
+          "total_fatal_accidents_india_three_years": 512,
+          "total_grievous_accidents_india_three_years": 514
+        },
+        "botad": {
+          "total_accidents_india_three_years": 373,
+          "total_fatal_accidents_india_three_years": 205,
+          "total_grievous_accidents_india_three_years": 127
+        },
+        "chhotaudepur": {
+          "total_accidents_india_three_years": 609,
+          "total_fatal_accidents_india_three_years": 373,
+          "total_grievous_accidents_india_three_years": 185
+        },
+        "dahod": {
+          "total_accidents_india_three_years": 1163,
+          "total_fatal_accidents_india_three_years": 645,
+          "total_grievous_accidents_india_three_years": 362
+        },
+        "devbhumi dwarka": {
+          "total_accidents_india_three_years": 484,
+          "total_fatal_accidents_india_three_years": 272,
+          "total_grievous_accidents_india_three_years": 107
+        },
+        "gandhinagar": {
+          "total_accidents_india_three_years": 2245,
+          "total_fatal_accidents_india_three_years": 822,
+          "total_grievous_accidents_india_three_years": 712
+        },
+        "gir somnath": {
+          "total_accidents_india_three_years": 447,
+          "total_fatal_accidents_india_three_years": 287,
+          "total_grievous_accidents_india_three_years": 120
+        },
+        "jamnagar": {
+          "total_accidents_india_three_years": 952,
+          "total_fatal_accidents_india_three_years": 429,
+          "total_grievous_accidents_india_three_years": 354
+        },
+        "junagadh": {
+          "total_accidents_india_three_years": 1094,
+          "total_fatal_accidents_india_three_years": 405,
+          "total_grievous_accidents_india_three_years": 320
+        },
+        "kachchh east(gandhidham)": {
+          "total_accidents_india_three_years": 976,
+          "total_fatal_accidents_india_three_years": 564,
+          "total_grievous_accidents_india_three_years": 241
+        },
+        "kheda": {
+          "total_accidents_india_three_years": 2291,
+          "total_fatal_accidents_india_three_years": 671,
+          "total_grievous_accidents_india_three_years": 1015
+        },
+        "kutchh/bhuj": {
+          "total_accidents_india_three_years": 1049,
+          "total_fatal_accidents_india_three_years": 484,
+          "total_grievous_accidents_india_three_years": 354
+        },
+        "mahisagar": {
+          "total_accidents_india_three_years": 580,
+          "total_fatal_accidents_india_three_years": 275,
+          "total_grievous_accidents_india_three_years": 174
+        },
+        "mehsana": {
+          "total_accidents_india_three_years": 1824,
+          "total_fatal_accidents_india_three_years": 742,
+          "total_grievous_accidents_india_three_years": 654
+        },
+        "morbi": {
+          "total_accidents_india_three_years": 930,
+          "total_fatal_accidents_india_three_years": 578,
+          "total_grievous_accidents_india_three_years": 222
+        },
+        "narmada": {
+          "total_accidents_india_three_years": 508,
+          "total_fatal_accidents_india_three_years": 259,
+          "total_grievous_accidents_india_three_years": 148
+        },
+        "navsari": {
+          "total_accidents_india_three_years": 765,
+          "total_fatal_accidents_india_three_years": 511,
+          "total_grievous_accidents_india_three_years": 151
+        },
+        "panchmahals": {
+          "total_accidents_india_three_years": 1765,
+          "total_fatal_accidents_india_three_years": 786,
+          "total_grievous_accidents_india_three_years": 657
+        },
+        "patan": {
+          "total_accidents_india_three_years": 1002,
+          "total_fatal_accidents_india_three_years": 415,
+          "total_grievous_accidents_india_three_years": 344
+        },
+        "porbandar": {
+          "total_accidents_india_three_years": 310,
+          "total_fatal_accidents_india_three_years": 150,
+          "total_grievous_accidents_india_three_years": 109
+        },
+        "rajkot city": {
+          "total_accidents_india_three_years": 1442,
+          "total_fatal_accidents_india_three_years": 506,
+          "total_grievous_accidents_india_three_years": 647
+        },
+        "rajkot rural": {
+          "total_accidents_india_three_years": 1009,
+          "total_fatal_accidents_india_three_years": 528,
+          "total_grievous_accidents_india_three_years": 344
+        },
+        "sabar kantha": {
+          "total_accidents_india_three_years": 1032,
+          "total_fatal_accidents_india_three_years": 579,
+          "total_grievous_accidents_india_three_years": 256
+        },
+        "surat city": {
+          "total_accidents_india_three_years": 2138,
+          "total_fatal_accidents_india_three_years": 925,
+          "total_grievous_accidents_india_three_years": 875
+        },
+        "surat rural": {
+          "total_accidents_india_three_years": 2119,
+          "total_fatal_accidents_india_three_years": 1405,
+          "total_grievous_accidents_india_three_years": 393
+        },
+        "surendra nagar": {
+          "total_accidents_india_three_years": 1223,
+          "total_fatal_accidents_india_three_years": 610,
+          "total_grievous_accidents_india_three_years": 405
+        },
+        "tapi (vyara)": {
+          "total_accidents_india_three_years": 570,
+          "total_fatal_accidents_india_three_years": 419,
+          "total_grievous_accidents_india_three_years": 97
+        },
+        "vadodara city": {
+          "total_accidents_india_three_years": 1783,
+          "total_fatal_accidents_india_three_years": 578,
+          "total_grievous_accidents_india_three_years": 646
+        },
+        "vadodara rural": {
+          "total_accidents_india_three_years": 1779,
+          "total_fatal_accidents_india_three_years": 936,
+          "total_grievous_accidents_india_three_years": 534
+        },
+        "valsad": {
+          "total_accidents_india_three_years": 1395,
+          "total_fatal_accidents_india_three_years": 872,
+          "total_grievous_accidents_india_three_years": 256
+        },
+        "western railway ahmedabad": {
+          "total_accidents_india_three_years": 10,
+          "total_fatal_accidents_india_three_years": 5,
+          "total_grievous_accidents_india_three_years": 1
+        },
+        "wstn rly vadodara": {
+          "total_accidents_india_three_years": 4,
+          "total_fatal_accidents_india_three_years": 3,
+          "total_grievous_accidents_india_three_years": 1
+        }
+      }
+    },
+    "haryana": {
+      "districts": {
+        "ambala": {
+          "total_accidents_india_three_years": 1503,
+          "total_fatal_accidents_india_three_years": 635,
+          "total_grievous_accidents_india_three_years": 298
+        },
+        "bhiwani": {
+          "total_accidents_india_three_years": 1093,
+          "total_fatal_accidents_india_three_years": 338,
+          "total_grievous_accidents_india_three_years": 208
+        },
+        "charkhi dadri": {
+          "total_accidents_india_three_years": 519,
+          "total_fatal_accidents_india_three_years": 217,
+          "total_grievous_accidents_india_three_years": 65
+        },
+        "dabwali": {
+          "total_accidents_india_three_years": 472,
+          "total_fatal_accidents_india_three_years": 77,
+          "total_grievous_accidents_india_three_years": 195
+        },
+        "faridabad": {
+          "total_accidents_india_three_years": 1968,
+          "total_fatal_accidents_india_three_years": 748,
+          "total_grievous_accidents_india_three_years": 643
+        },
+        "fatehabad": {
+          "total_accidents_india_three_years": 907,
+          "total_fatal_accidents_india_three_years": 293,
+          "total_grievous_accidents_india_three_years": 253
+        },
+        "gurugram": {
+          "total_accidents_india_three_years": 3924,
+          "total_fatal_accidents_india_three_years": 990,
+          "total_grievous_accidents_india_three_years": 1552
+        },
+        "hansi": {
+          "total_accidents_india_three_years": 495,
+          "total_fatal_accidents_india_three_years": 204,
+          "total_grievous_accidents_india_three_years": 104
+        },
+        "hisar": {
+          "total_accidents_india_three_years": 1261,
+          "total_fatal_accidents_india_three_years": 420,
+          "total_grievous_accidents_india_three_years": 395
+        },
+        "jhajjar": {
+          "total_accidents_india_three_years": 1444,
+          "total_fatal_accidents_india_three_years": 705,
+          "total_grievous_accidents_india_three_years": 372
+        },
+        "jind": {
+          "total_accidents_india_three_years": 1095,
+          "total_fatal_accidents_india_three_years": 471,
+          "total_grievous_accidents_india_three_years": 358
+        },
+        "kaithal": {
+          "total_accidents_india_three_years": 927,
+          "total_fatal_accidents_india_three_years": 495,
+          "total_grievous_accidents_india_three_years": 254
+        },
+        "karnal": {
+          "total_accidents_india_three_years": 2393,
+          "total_fatal_accidents_india_three_years": 968,
+          "total_grievous_accidents_india_three_years": 622
+        },
+        "kurukshetra": {
+          "total_accidents_india_three_years": 1557,
+          "total_fatal_accidents_india_three_years": 650,
+          "total_grievous_accidents_india_three_years": 622
+        },
+        "mahendergarh": {
+          "total_accidents_india_three_years": 1137,
+          "total_fatal_accidents_india_three_years": 444,
+          "total_grievous_accidents_india_three_years": 422
+        },
+        "n u h": {
+          "total_accidents_india_three_years": 1560,
+          "total_fatal_accidents_india_three_years": 595,
+          "total_grievous_accidents_india_three_years": 611
+        },
+        "palwal": {
+          "total_accidents_india_three_years": 2113,
+          "total_fatal_accidents_india_three_years": 823,
+          "total_grievous_accidents_india_three_years": 806
+        },
+        "panchkula": {
+          "total_accidents_india_three_years": 781,
+          "total_fatal_accidents_india_three_years": 323,
+          "total_grievous_accidents_india_three_years": 134
+        },
+        "panipat": {
+          "total_accidents_india_three_years": 2163,
+          "total_fatal_accidents_india_three_years": 928,
+          "total_grievous_accidents_india_three_years": 676
+        },
+        "rewari": {
+          "total_accidents_india_three_years": 1953,
+          "total_fatal_accidents_india_three_years": 683,
+          "total_grievous_accidents_india_three_years": 598
+        },
+        "rohtak": {
+          "total_accidents_india_three_years": 1345,
+          "total_fatal_accidents_india_three_years": 667,
+          "total_grievous_accidents_india_three_years": 206
+        },
+        "sirsa": {
+          "total_accidents_india_three_years": 716,
+          "total_fatal_accidents_india_three_years": 221,
+          "total_grievous_accidents_india_three_years": 297
+        },
+        "sonipat": {
+          "total_accidents_india_three_years": 2519,
+          "total_fatal_accidents_india_three_years": 1109,
+          "total_grievous_accidents_india_three_years": 697
+        },
+        "yamuna nagar": {
+          "total_accidents_india_three_years": 1431,
+          "total_fatal_accidents_india_three_years": 659,
+          "total_grievous_accidents_india_three_years": 508
+        }
+      }
+    },
+    "himachal pradesh": {
+      "districts": {
+        "baddi": {
+          "total_accidents_india_three_years": 438,
+          "total_fatal_accidents_india_three_years": 202,
+          "total_grievous_accidents_india_three_years": 103
+        },
+        "bilaspur": {
+          "total_accidents_india_three_years": 422,
+          "total_fatal_accidents_india_three_years": 111,
+          "total_grievous_accidents_india_three_years": 71
+        },
+        "chamba": {
+          "total_accidents_india_three_years": 239,
+          "total_fatal_accidents_india_three_years": 138,
+          "total_grievous_accidents_india_three_years": 29
+        },
+        "dehra": {
+          "total_accidents_india_three_years": 180,
+          "total_fatal_accidents_india_three_years": 54,
+          "total_grievous_accidents_india_three_years": 46
+        },
+        "hamirpur": {
+          "total_accidents_india_three_years": 243,
+          "total_fatal_accidents_india_three_years": 77,
+          "total_grievous_accidents_india_three_years": 71
+        },
+        "kangra": {
+          "total_accidents_india_three_years": 549,
+          "total_fatal_accidents_india_three_years": 167,
+          "total_grievous_accidents_india_three_years": 179
+        },
+        "kinnaur": {
+          "total_accidents_india_three_years": 128,
+          "total_fatal_accidents_india_three_years": 62,
+          "total_grievous_accidents_india_three_years": 12
+        },
+        "kullu": {
+          "total_accidents_india_three_years": 460,
+          "total_fatal_accidents_india_three_years": 148,
+          "total_grievous_accidents_india_three_years": 114
+        },
+        "lahulspiti": {
+          "total_accidents_india_three_years": 60,
+          "total_fatal_accidents_india_three_years": 26,
+          "total_grievous_accidents_india_three_years": 12
+        },
+        "mandi": {
+          "total_accidents_india_three_years": 807,
+          "total_fatal_accidents_india_three_years": 234,
+          "total_grievous_accidents_india_three_years": 119
+        },
+        "nurpur": {
+          "total_accidents_india_three_years": 248,
+          "total_fatal_accidents_india_three_years": 99,
+          "total_grievous_accidents_india_three_years": 63
+        },
+        "shimla": {
+          "total_accidents_india_three_years": 887,
+          "total_fatal_accidents_india_three_years": 279,
+          "total_grievous_accidents_india_three_years": 142
+        },
+        "sirmaur": {
+          "total_accidents_india_three_years": 574,
+          "total_fatal_accidents_india_three_years": 193,
+          "total_grievous_accidents_india_three_years": 172
+        },
+        "solan": {
+          "total_accidents_india_three_years": 514,
+          "total_fatal_accidents_india_three_years": 101,
+          "total_grievous_accidents_india_three_years": 95
+        },
+        "u n a": {
+          "total_accidents_india_three_years": 582,
+          "total_fatal_accidents_india_three_years": 245,
+          "total_grievous_accidents_india_three_years": 131
+        }
+      }
+    },
+    "jammu & kashmir": {
+      "districts": {
+        "anantnag": {
+          "total_accidents_india_three_years": 845,
+          "total_fatal_accidents_india_three_years": 128,
+          "total_grievous_accidents_india_three_years": 197
+        },
+        "awantipora": {
+          "total_accidents_india_three_years": 361,
+          "total_fatal_accidents_india_three_years": 52,
+          "total_grievous_accidents_india_three_years": 71
+        },
+        "badgam": {
+          "total_accidents_india_three_years": 551,
+          "total_fatal_accidents_india_three_years": 59,
+          "total_grievous_accidents_india_three_years": 187
+        },
+        "bandipura": {
+          "total_accidents_india_three_years": 313,
+          "total_fatal_accidents_india_three_years": 41,
+          "total_grievous_accidents_india_three_years": 83
+        },
+        "baramulla": {
+          "total_accidents_india_three_years": 642,
+          "total_fatal_accidents_india_three_years": 88,
+          "total_grievous_accidents_india_three_years": 149
+        },
+        "doda": {
+          "total_accidents_india_three_years": 619,
+          "total_fatal_accidents_india_three_years": 94,
+          "total_grievous_accidents_india_three_years": 143
+        },
+        "ganderbal": {
+          "total_accidents_india_three_years": 473,
+          "total_fatal_accidents_india_three_years": 58,
+          "total_grievous_accidents_india_three_years": 65
+        },
+        "handwara": {
+          "total_accidents_india_three_years": 288,
+          "total_fatal_accidents_india_three_years": 44,
+          "total_grievous_accidents_india_three_years": 46
+        },
+        "jammu": {
+          "total_accidents_india_three_years": 3158,
+          "total_fatal_accidents_india_three_years": 629,
+          "total_grievous_accidents_india_three_years": 1440
+        },
+        "kathua": {
+          "total_accidents_india_three_years": 1309,
+          "total_fatal_accidents_india_three_years": 228,
+          "total_grievous_accidents_india_three_years": 474
+        },
+        "kishtwar": {
+          "total_accidents_india_three_years": 377,
+          "total_fatal_accidents_india_three_years": 72,
+          "total_grievous_accidents_india_three_years": 86
+        },
+        "kulgam": {
+          "total_accidents_india_three_years": 463,
+          "total_fatal_accidents_india_three_years": 106,
+          "total_grievous_accidents_india_three_years": 124
+        },
+        "kupwara": {
+          "total_accidents_india_three_years": 385,
+          "total_fatal_accidents_india_three_years": 40,
+          "total_grievous_accidents_india_three_years": 109
+        },
+        "poonch": {
+          "total_accidents_india_three_years": 510,
+          "total_fatal_accidents_india_three_years": 75,
+          "total_grievous_accidents_india_three_years": 159
+        },
+        "pulwama": {
+          "total_accidents_india_three_years": 369,
+          "total_fatal_accidents_india_three_years": 30,
+          "total_grievous_accidents_india_three_years": 44
+        },
+        "railways jammu": {
+          "total_accidents_india_three_years": 5,
+          "total_fatal_accidents_india_three_years": 1,
+          "total_grievous_accidents_india_three_years": 2
+        },
+        "rajouri": {
+          "total_accidents_india_three_years": 1012,
+          "total_fatal_accidents_india_three_years": 150,
+          "total_grievous_accidents_india_three_years": 484
+        },
+        "ramban": {
+          "total_accidents_india_three_years": 738,
+          "total_fatal_accidents_india_three_years": 103,
+          "total_grievous_accidents_india_three_years": 135
+        },
+        "reasi": {
+          "total_accidents_india_three_years": 849,
+          "total_fatal_accidents_india_three_years": 115,
+          "total_grievous_accidents_india_three_years": 276
+        },
+        "samba": {
+          "total_accidents_india_three_years": 844,
+          "total_fatal_accidents_india_three_years": 180,
+          "total_grievous_accidents_india_three_years": 400
+        },
+        "shopian": {
+          "total_accidents_india_three_years": 194,
+          "total_fatal_accidents_india_three_years": 20,
+          "total_grievous_accidents_india_three_years": 54
+        },
+        "sopore": {
+          "total_accidents_india_three_years": 348,
+          "total_fatal_accidents_india_three_years": 34,
+          "total_grievous_accidents_india_three_years": 64
+        },
+        "srinagar": {
+          "total_accidents_india_three_years": 1306,
+          "total_fatal_accidents_india_three_years": 153,
+          "total_grievous_accidents_india_three_years": 229
+        },
+        "udhampur": {
+          "total_accidents_india_three_years": 1203,
+          "total_fatal_accidents_india_three_years": 149,
+          "total_grievous_accidents_india_three_years": 335
+        }
+      }
+    },
+    "jharkhand": {
+      "districts": {
+        "bokaro": {
+          "total_accidents_india_three_years": 927,
+          "total_fatal_accidents_india_three_years": 643,
+          "total_grievous_accidents_india_three_years": 200
+        },
+        "chatra": {
+          "total_accidents_india_three_years": 486,
+          "total_fatal_accidents_india_three_years": 327,
+          "total_grievous_accidents_india_three_years": 90
+        },
+        "deogahr": {
+          "total_accidents_india_three_years": 678,
+          "total_fatal_accidents_india_three_years": 457,
+          "total_grievous_accidents_india_three_years": 104
+        },
+        "dhanbad": {
+          "total_accidents_india_three_years": 1209,
+          "total_fatal_accidents_india_three_years": 824,
+          "total_grievous_accidents_india_three_years": 267
+        },
+        "dumka": {
+          "total_accidents_india_three_years": 764,
+          "total_fatal_accidents_india_three_years": 633,
+          "total_grievous_accidents_india_three_years": 105
+        },
+        "e.singhbhum/jamshedpur": {
+          "total_accidents_india_three_years": 1117,
+          "total_fatal_accidents_india_three_years": 669,
+          "total_grievous_accidents_india_three_years": 230
+        },
+        "garhwa": {
+          "total_accidents_india_three_years": 647,
+          "total_fatal_accidents_india_three_years": 404,
+          "total_grievous_accidents_india_three_years": 157
+        },
+        "giridih": {
+          "total_accidents_india_three_years": 1058,
+          "total_fatal_accidents_india_three_years": 782,
+          "total_grievous_accidents_india_three_years": 243
+        },
+        "godda": {
+          "total_accidents_india_three_years": 363,
+          "total_fatal_accidents_india_three_years": 293,
+          "total_grievous_accidents_india_three_years": 50
+        },
+        "gumla": {
+          "total_accidents_india_three_years": 748,
+          "total_fatal_accidents_india_three_years": 610,
+          "total_grievous_accidents_india_three_years": 115
+        },
+        "hazari bagh": {
+          "total_accidents_india_three_years": 1040,
+          "total_fatal_accidents_india_three_years": 758,
+          "total_grievous_accidents_india_three_years": 207
+        },
+        "jamtara": {
+          "total_accidents_india_three_years": 220,
+          "total_fatal_accidents_india_three_years": 161,
+          "total_grievous_accidents_india_three_years": 39
+        },
+        "khunti": {
+          "total_accidents_india_three_years": 463,
+          "total_fatal_accidents_india_three_years": 382,
+          "total_grievous_accidents_india_three_years": 48
+        },
+        "kodarma": {
+          "total_accidents_india_three_years": 316,
+          "total_fatal_accidents_india_three_years": 212,
+          "total_grievous_accidents_india_three_years": 90
+        },
+        "latehar": {
+          "total_accidents_india_three_years": 456,
+          "total_fatal_accidents_india_three_years": 319,
+          "total_grievous_accidents_india_three_years": 93
+        },
+        "lohardagga": {
+          "total_accidents_india_three_years": 378,
+          "total_fatal_accidents_india_three_years": 251,
+          "total_grievous_accidents_india_three_years": 82
+        },
+        "pakur": {
+          "total_accidents_india_three_years": 235,
+          "total_fatal_accidents_india_three_years": 198,
+          "total_grievous_accidents_india_three_years": 29
+        },
+        "palamau": {
+          "total_accidents_india_three_years": 853,
+          "total_fatal_accidents_india_three_years": 593,
+          "total_grievous_accidents_india_three_years": 153
+        },
+        "ramgarh": {
+          "total_accidents_india_three_years": 628,
+          "total_fatal_accidents_india_three_years": 499,
+          "total_grievous_accidents_india_three_years": 93
+        },
+        "ranchi": {
+          "total_accidents_india_three_years": 2664,
+          "total_fatal_accidents_india_three_years": 1630,
+          "total_grievous_accidents_india_three_years": 804
+        },
+        "rly dhanbad": {
+          "total_accidents_india_three_years": 9,
+          "total_fatal_accidents_india_three_years": 0,
+          "total_grievous_accidents_india_three_years": 0
+        },
+        "rly jamshedpur": {
+          "total_accidents_india_three_years": 2,
+          "total_fatal_accidents_india_three_years": 0,
+          "total_grievous_accidents_india_three_years": 1
+        },
+        "sahebganj": {
+          "total_accidents_india_three_years": 307,
+          "total_fatal_accidents_india_three_years": 212,
+          "total_grievous_accidents_india_three_years": 64
+        },
+        "seraikela": {
+          "total_accidents_india_three_years": 694,
+          "total_fatal_accidents_india_three_years": 530,
+          "total_grievous_accidents_india_three_years": 100
+        },
+        "simdega": {
+          "total_accidents_india_three_years": 416,
+          "total_fatal_accidents_india_three_years": 336,
+          "total_grievous_accidents_india_three_years": 65
+        },
+        "w.singhbhum/chaibasa": {
+          "total_accidents_india_three_years": 535,
+          "total_fatal_accidents_india_three_years": 454,
+          "total_grievous_accidents_india_three_years": 64
+        }
+      }
+    },
+    "karnataka": {
+      "districts": {
+        "bagalkot": {
+          "total_accidents_india_three_years": 2590,
+          "total_fatal_accidents_india_three_years": 1100,
+          "total_grievous_accidents_india_three_years": 1271
+        },
+        "ballari": {
+          "total_accidents_india_three_years": 1660,
+          "total_fatal_accidents_india_three_years": 650,
+          "total_grievous_accidents_india_three_years": 486
+        },
+        "bangalore": {
+          "total_accidents_india_three_years": 6955,
+          "total_fatal_accidents_india_three_years": 1882,
+          "total_grievous_accidents_india_three_years": 2510
+        },
+        "bangalore city": {
+          "total_accidents_india_three_years": 14701,
+          "total_fatal_accidents_india_three_years": 2656,
+          "total_grievous_accidents_india_three_years": 5388
+        },
+        "belagavi city": {
+          "total_accidents_india_three_years": 1516,
+          "total_fatal_accidents_india_three_years": 373,
+          "total_grievous_accidents_india_three_years": 890
+        },
+        "belagavi district": {
+          "total_accidents_india_three_years": 5870,
+          "total_fatal_accidents_india_three_years": 1910,
+          "total_grievous_accidents_india_three_years": 3509
+        },
+        "bengaluru south district": {
+          "total_accidents_india_three_years": 4468,
+          "total_fatal_accidents_india_three_years": 1075,
+          "total_grievous_accidents_india_three_years": 875
+        },
+        "bidar": {
+          "total_accidents_india_three_years": 3239,
+          "total_fatal_accidents_india_three_years": 902,
+          "total_grievous_accidents_india_three_years": 1782
+        },
+        "chamarajanagar": {
+          "total_accidents_india_three_years": 2273,
+          "total_fatal_accidents_india_three_years": 622,
+          "total_grievous_accidents_india_three_years": 889
+        },
+        "chickballapura": {
+          "total_accidents_india_three_years": 2679,
+          "total_fatal_accidents_india_three_years": 905,
+          "total_grievous_accidents_india_three_years": 614
+        },
+        "chickmagalur": {
+          "total_accidents_india_three_years": 2850,
+          "total_fatal_accidents_india_three_years": 709,
+          "total_grievous_accidents_india_three_years": 519
+        },
+        "chitradurga": {
+          "total_accidents_india_three_years": 4942,
+          "total_fatal_accidents_india_three_years": 1109,
+          "total_grievous_accidents_india_three_years": 998
+        },
+        "dakshina kannada": {
+          "total_accidents_india_three_years": 2578,
+          "total_fatal_accidents_india_three_years": 394,
+          "total_grievous_accidents_india_three_years": 712
+        },
+        "davanagere": {
+          "total_accidents_india_three_years": 2952,
+          "total_fatal_accidents_india_three_years": 737,
+          "total_grievous_accidents_india_three_years": 762
+        },
+        "dharwad": {
+          "total_accidents_india_three_years": 1470,
+          "total_fatal_accidents_india_three_years": 619,
+          "total_grievous_accidents_india_three_years": 568
+        },
+        "gadag": {
+          "total_accidents_india_three_years": 969,
+          "total_fatal_accidents_india_three_years": 452,
+          "total_grievous_accidents_india_three_years": 437
+        },
+        "hassan": {
+          "total_accidents_india_three_years": 6541,
+          "total_fatal_accidents_india_three_years": 1331,
+          "total_grievous_accidents_india_three_years": 1859
+        },
+        "haveri": {
+          "total_accidents_india_three_years": 1870,
+          "total_fatal_accidents_india_three_years": 506,
+          "total_grievous_accidents_india_three_years": 802
+        },
+        "hubballi dharwad city": {
+          "total_accidents_india_three_years": 1312,
+          "total_fatal_accidents_india_three_years": 323,
+          "total_grievous_accidents_india_three_years": 666
+        },
+        "k.g.f": {
+          "total_accidents_india_three_years": 592,
+          "total_fatal_accidents_india_three_years": 187,
+          "total_grievous_accidents_india_three_years": 195
+        },
+        "kalaburagi": {
+          "total_accidents_india_three_years": 2626,
+          "total_fatal_accidents_india_three_years": 883,
+          "total_grievous_accidents_india_three_years": 1580
+        },
+        "kalaburagi city": {
+          "total_accidents_india_three_years": 1515,
+          "total_fatal_accidents_india_three_years": 338,
+          "total_grievous_accidents_india_three_years": 915
+        },
+        "kodagu": {
+          "total_accidents_india_three_years": 1519,
+          "total_fatal_accidents_india_three_years": 202,
+          "total_grievous_accidents_india_three_years": 284
+        },
+        "kolar": {
+          "total_accidents_india_three_years": 2284,
+          "total_fatal_accidents_india_three_years": 716,
+          "total_grievous_accidents_india_three_years": 771
+        },
+        "koppal": {
+          "total_accidents_india_three_years": 2025,
+          "total_fatal_accidents_india_three_years": 750,
+          "total_grievous_accidents_india_three_years": 1018
+        },
+        "mandya": {
+          "total_accidents_india_three_years": 6683,
+          "total_fatal_accidents_india_three_years": 1403,
+          "total_grievous_accidents_india_three_years": 1940
+        },
+        "mangalore city": {
+          "total_accidents_india_three_years": 3039,
+          "total_fatal_accidents_india_three_years": 491,
+          "total_grievous_accidents_india_three_years": 1587
+        },
+        "mysore": {
+          "total_accidents_india_three_years": 5557,
+          "total_fatal_accidents_india_three_years": 1157,
+          "total_grievous_accidents_india_three_years": 2088
+        },
+        "mysuru city": {
+          "total_accidents_india_three_years": 2998,
+          "total_fatal_accidents_india_three_years": 474,
+          "total_grievous_accidents_india_three_years": 1579
+        },
+        "raichur": {
+          "total_accidents_india_three_years": 1955,
+          "total_fatal_accidents_india_three_years": 876,
+          "total_grievous_accidents_india_three_years": 857
+        },
+        "shivamogga": {
+          "total_accidents_india_three_years": 4390,
+          "total_fatal_accidents_india_three_years": 1044,
+          "total_grievous_accidents_india_three_years": 687
+        },
+        "tumakuru": {
+          "total_accidents_india_three_years": 7827,
+          "total_fatal_accidents_india_three_years": 2175,
+          "total_grievous_accidents_india_three_years": 935
+        },
+        "udupi": {
+          "total_accidents_india_three_years": 3597,
+          "total_fatal_accidents_india_three_years": 724,
+          "total_grievous_accidents_india_three_years": 1597
+        },
+        "uttara kannada": {
+          "total_accidents_india_three_years": 2871,
+          "total_fatal_accidents_india_three_years": 655,
+          "total_grievous_accidents_india_three_years": 939
+        },
+        "vijayanagara": {
+          "total_accidents_india_three_years": 1724,
+          "total_fatal_accidents_india_three_years": 654,
+          "total_grievous_accidents_india_three_years": 438
+        },
+        "vijayapura": {
+          "total_accidents_india_three_years": 3023,
+          "total_fatal_accidents_india_three_years": 1260,
+          "total_grievous_accidents_india_three_years": 1498
+        },
+        "yadgir": {
+          "total_accidents_india_three_years": 1277,
+          "total_fatal_accidents_india_three_years": 423,
+          "total_grievous_accidents_india_three_years": 690
+        }
+      }
+    },
+    "kerala": {
+      "districts": {
+        "alappuzha": {
+          "total_accidents_india_three_years": 12481,
+          "total_fatal_accidents_india_three_years": 890,
+          "total_grievous_accidents_india_three_years": 9153
+        },
+        "ernakulam city": {
+          "total_accidents_india_three_years": 9730,
+          "total_fatal_accidents_india_three_years": 472,
+          "total_grievous_accidents_india_three_years": 6580
+        },
+        "ernakulam rural": {
+          "total_accidents_india_three_years": 14242,
+          "total_fatal_accidents_india_three_years": 894,
+          "total_grievous_accidents_india_three_years": 9677
+        },
+        "idukki": {
+          "total_accidents_india_three_years": 3632,
+          "total_fatal_accidents_india_three_years": 290,
+          "total_grievous_accidents_india_three_years": 2540
+        },
+        "kannur city": {
+          "total_accidents_india_three_years": 5400,
+          "total_fatal_accidents_india_three_years": 346,
+          "total_grievous_accidents_india_three_years": 2658
+        },
+        "kannur rural": {
+          "total_accidents_india_three_years": 3316,
+          "total_fatal_accidents_india_three_years": 220,
+          "total_grievous_accidents_india_three_years": 2050
+        },
+        "kasargode": {
+          "total_accidents_india_three_years": 3381,
+          "total_fatal_accidents_india_three_years": 282,
+          "total_grievous_accidents_india_three_years": 1413
+        },
+        "kollam city": {
+          "total_accidents_india_three_years": 6363,
+          "total_fatal_accidents_india_three_years": 530,
+          "total_grievous_accidents_india_three_years": 5096
+        },
+        "kollam rural": {
+          "total_accidents_india_three_years": 6115,
+          "total_fatal_accidents_india_three_years": 589,
+          "total_grievous_accidents_india_three_years": 4744
+        },
+        "kottayam": {
+          "total_accidents_india_three_years": 10700,
+          "total_fatal_accidents_india_three_years": 813,
+          "total_grievous_accidents_india_three_years": 7380
+        },
+        "kozhikode city": {
+          "total_accidents_india_three_years": 7390,
+          "total_fatal_accidents_india_three_years": 460,
+          "total_grievous_accidents_india_three_years": 5183
+        },
+        "kozhikode rural": {
+          "total_accidents_india_three_years": 7915,
+          "total_fatal_accidents_india_three_years": 467,
+          "total_grievous_accidents_india_three_years": 5652
+        },
+        "malappuram": {
+          "total_accidents_india_three_years": 10406,
+          "total_fatal_accidents_india_three_years": 923,
+          "total_grievous_accidents_india_three_years": 7581
+        },
+        "palakkad": {
+          "total_accidents_india_three_years": 9637,
+          "total_fatal_accidents_india_three_years": 1042,
+          "total_grievous_accidents_india_three_years": 6181
+        },
+        "pathanamthitta": {
+          "total_accidents_india_three_years": 6109,
+          "total_fatal_accidents_india_three_years": 513,
+          "total_grievous_accidents_india_three_years": 4607
+        },
+        "thiruvananthapuram city": {
+          "total_accidents_india_three_years": 7202,
+          "total_fatal_accidents_india_three_years": 453,
+          "total_grievous_accidents_india_three_years": 5774
+        },
+        "thiruvananthapuram rural": {
+          "total_accidents_india_three_years": 11195,
+          "total_fatal_accidents_india_three_years": 999,
+          "total_grievous_accidents_india_three_years": 9172
+        },
+        "thrissur city": {
+          "total_accidents_india_three_years": 8078,
+          "total_fatal_accidents_india_three_years": 615,
+          "total_grievous_accidents_india_three_years": 5522
+        },
+        "thrissur rural": {
+          "total_accidents_india_three_years": 7715,
+          "total_fatal_accidents_india_three_years": 527,
+          "total_grievous_accidents_india_three_years": 5393
+        },
+        "wynad": {
+          "total_accidents_india_three_years": 2918,
+          "total_fatal_accidents_india_three_years": 190,
+          "total_grievous_accidents_india_three_years": 2069
+        }
+      }
+    },
+    "ladakh": {
+      "districts": {
+        "kargil": {
+          "total_accidents_india_three_years": 329,
+          "total_fatal_accidents_india_three_years": 49,
+          "total_grievous_accidents_india_three_years": 42
+        },
+        "leh": {
+          "total_accidents_india_three_years": 506,
+          "total_fatal_accidents_india_three_years": 103,
+          "total_grievous_accidents_india_three_years": 119
+        }
+      }
+    },
+    "lakshadweep": {
+      "districts": {
+        "lakshadweep": {
+          "total_accidents_india_three_years": 9,
+          "total_fatal_accidents_india_three_years": 0,
+          "total_grievous_accidents_india_three_years": 6
+        }
+      }
+    },
+    "madhya pradesh": {
+      "districts": {
+        "agar malwa": {
+          "total_accidents_india_three_years": 853,
+          "total_fatal_accidents_india_three_years": 318,
+          "total_grievous_accidents_india_three_years": 276
+        },
+        "alirajpur": {
+          "total_accidents_india_three_years": 1432,
+          "total_fatal_accidents_india_three_years": 457,
+          "total_grievous_accidents_india_three_years": 601
+        },
+        "anuppur": {
+          "total_accidents_india_three_years": 1023,
+          "total_fatal_accidents_india_three_years": 444,
+          "total_grievous_accidents_india_three_years": 162
+        },
+        "ashoknagar": {
+          "total_accidents_india_three_years": 1333,
+          "total_fatal_accidents_india_three_years": 354,
+          "total_grievous_accidents_india_three_years": 182
+        },
+        "badwani": {
+          "total_accidents_india_three_years": 2440,
+          "total_fatal_accidents_india_three_years": 868,
+          "total_grievous_accidents_india_three_years": 834
+        },
+        "balaghat": {
+          "total_accidents_india_three_years": 1982,
+          "total_fatal_accidents_india_three_years": 705,
+          "total_grievous_accidents_india_three_years": 499
+        },
+        "betul": {
+          "total_accidents_india_three_years": 2837,
+          "total_fatal_accidents_india_three_years": 986,
+          "total_grievous_accidents_india_three_years": 585
+        },
+        "bhind": {
+          "total_accidents_india_three_years": 1989,
+          "total_fatal_accidents_india_three_years": 657,
+          "total_grievous_accidents_india_three_years": 459
+        },
+        "bhopal rural": {
+          "total_accidents_india_three_years": 1478,
+          "total_fatal_accidents_india_three_years": 277,
+          "total_grievous_accidents_india_three_years": 301
+        },
+        "bhopal urban": {
+          "total_accidents_india_three_years": 8114,
+          "total_fatal_accidents_india_three_years": 480,
+          "total_grievous_accidents_india_three_years": 796
+        },
+        "burhanpur": {
+          "total_accidents_india_three_years": 1189,
+          "total_fatal_accidents_india_three_years": 260,
+          "total_grievous_accidents_india_three_years": 332
+        },
+        "chhatarpur": {
+          "total_accidents_india_three_years": 2373,
+          "total_fatal_accidents_india_three_years": 850,
+          "total_grievous_accidents_india_three_years": 509
+        },
+        "chhindwara": {
+          "total_accidents_india_three_years": 3373,
+          "total_fatal_accidents_india_three_years": 1232,
+          "total_grievous_accidents_india_three_years": 713
+        },
+        "damoh": {
+          "total_accidents_india_three_years": 2127,
+          "total_fatal_accidents_india_three_years": 570,
+          "total_grievous_accidents_india_three_years": 650
+        },
+        "datia": {
+          "total_accidents_india_three_years": 1360,
+          "total_fatal_accidents_india_three_years": 419,
+          "total_grievous_accidents_india_three_years": 356
+        },
+        "dewas": {
+          "total_accidents_india_three_years": 3672,
+          "total_fatal_accidents_india_three_years": 777,
+          "total_grievous_accidents_india_three_years": 543
+        },
+        "dhar": {
+          "total_accidents_india_three_years": 6195,
+          "total_fatal_accidents_india_three_years": 1816,
+          "total_grievous_accidents_india_three_years": 1870
+        },
+        "dindori": {
+          "total_accidents_india_three_years": 1607,
+          "total_fatal_accidents_india_three_years": 427,
+          "total_grievous_accidents_india_three_years": 526
+        },
+        "grp bhopal": {
+          "total_accidents_india_three_years": 5,
+          "total_fatal_accidents_india_three_years": 0,
+          "total_grievous_accidents_india_three_years": 0
+        },
+        "grp indore": {
+          "total_accidents_india_three_years": 4,
+          "total_fatal_accidents_india_three_years": 0,
+          "total_grievous_accidents_india_three_years": 0
+        },
+        "grp jabalpur": {
+          "total_accidents_india_three_years": 7,
+          "total_fatal_accidents_india_three_years": 0,
+          "total_grievous_accidents_india_three_years": 0
+        },
+        "guna": {
+          "total_accidents_india_three_years": 1078,
+          "total_fatal_accidents_india_three_years": 310,
+          "total_grievous_accidents_india_three_years": 225
+        },
+        "gwalior": {
+          "total_accidents_india_three_years": 5812,
+          "total_fatal_accidents_india_three_years": 900,
+          "total_grievous_accidents_india_three_years": 816
+        },
+        "harda": {
+          "total_accidents_india_three_years": 1045,
+          "total_fatal_accidents_india_three_years": 315,
+          "total_grievous_accidents_india_three_years": 286
+        },
+        "indore rural": {
+          "total_accidents_india_three_years": 2153,
+          "total_fatal_accidents_india_three_years": 520,
+          "total_grievous_accidents_india_three_years": 354
+        },
+        "indore urban": {
+          "total_accidents_india_three_years": 4974,
+          "total_fatal_accidents_india_three_years": 282,
+          "total_grievous_accidents_india_three_years": 806
+        },
+        "jabalpur": {
+          "total_accidents_india_three_years": 9365,
+          "total_fatal_accidents_india_three_years": 1213,
+          "total_grievous_accidents_india_three_years": 2904
+        },
+        "jhabua": {
+          "total_accidents_india_three_years": 2606,
+          "total_fatal_accidents_india_three_years": 495,
+          "total_grievous_accidents_india_three_years": 737
+        },
+        "katni": {
+          "total_accidents_india_three_years": 3068,
+          "total_fatal_accidents_india_three_years": 720,
+          "total_grievous_accidents_india_three_years": 800
+        },
+        "khandwa": {
+          "total_accidents_india_three_years": 2207,
+          "total_fatal_accidents_india_three_years": 626,
+          "total_grievous_accidents_india_three_years": 303
+        },
+        "khargone": {
+          "total_accidents_india_three_years": 2818,
+          "total_fatal_accidents_india_three_years": 952,
+          "total_grievous_accidents_india_three_years": 517
+        },
+        "maihar": {
+          "total_accidents_india_three_years": 2003,
+          "total_fatal_accidents_india_three_years": 646,
+          "total_grievous_accidents_india_three_years": 359
+        },
+        "mandla": {
+          "total_accidents_india_three_years": 2645,
+          "total_fatal_accidents_india_three_years": 792,
+          "total_grievous_accidents_india_three_years": 927
+        },
+        "mandsaur": {
+          "total_accidents_india_three_years": 2127,
+          "total_fatal_accidents_india_three_years": 644,
+          "total_grievous_accidents_india_three_years": 515
+        },
+        "mauganj": {
+          "total_accidents_india_three_years": 655,
+          "total_fatal_accidents_india_three_years": 205,
+          "total_grievous_accidents_india_three_years": 74
+        },
+        "morena": {
+          "total_accidents_india_three_years": 2885,
+          "total_fatal_accidents_india_three_years": 797,
+          "total_grievous_accidents_india_three_years": 555
+        },
+        "narmada puram": {
+          "total_accidents_india_three_years": 2655,
+          "total_fatal_accidents_india_three_years": 617,
+          "total_grievous_accidents_india_three_years": 436
+        },
+        "narsinghpur": {
+          "total_accidents_india_three_years": 2608,
+          "total_fatal_accidents_india_three_years": 747,
+          "total_grievous_accidents_india_three_years": 1202
+        },
+        "neemuch": {
+          "total_accidents_india_three_years": 943,
+          "total_fatal_accidents_india_three_years": 274,
+          "total_grievous_accidents_india_three_years": 289
+        },
+        "niwari": {
+          "total_accidents_india_three_years": 548,
+          "total_fatal_accidents_india_three_years": 181,
+          "total_grievous_accidents_india_three_years": 177
+        },
+        "pandhurna": {
+          "total_accidents_india_three_years": 568,
+          "total_fatal_accidents_india_three_years": 284,
+          "total_grievous_accidents_india_three_years": 77
+        },
+        "panna": {
+          "total_accidents_india_three_years": 1765,
+          "total_fatal_accidents_india_three_years": 497,
+          "total_grievous_accidents_india_three_years": 343
+        },
+        "raisen": {
+          "total_accidents_india_three_years": 3248,
+          "total_fatal_accidents_india_three_years": 947,
+          "total_grievous_accidents_india_three_years": 564
+        },
+        "rajgarh": {
+          "total_accidents_india_three_years": 2539,
+          "total_fatal_accidents_india_three_years": 722,
+          "total_grievous_accidents_india_three_years": 405
+        },
+        "ratlam": {
+          "total_accidents_india_three_years": 3795,
+          "total_fatal_accidents_india_three_years": 576,
+          "total_grievous_accidents_india_three_years": 537
+        },
+        "rewa": {
+          "total_accidents_india_three_years": 4073,
+          "total_fatal_accidents_india_three_years": 1003,
+          "total_grievous_accidents_india_three_years": 565
+        },
+        "sagar": {
+          "total_accidents_india_three_years": 5052,
+          "total_fatal_accidents_india_three_years": 1248,
+          "total_grievous_accidents_india_three_years": 738
+        },
+        "satna": {
+          "total_accidents_india_three_years": 3571,
+          "total_fatal_accidents_india_three_years": 896,
+          "total_grievous_accidents_india_three_years": 955
+        },
+        "sehore": {
+          "total_accidents_india_three_years": 2256,
+          "total_fatal_accidents_india_three_years": 470,
+          "total_grievous_accidents_india_three_years": 465
+        },
+        "seoni": {
+          "total_accidents_india_three_years": 3668,
+          "total_fatal_accidents_india_three_years": 967,
+          "total_grievous_accidents_india_three_years": 1094
+        },
+        "shahdol": {
+          "total_accidents_india_three_years": 2232,
+          "total_fatal_accidents_india_three_years": 668,
+          "total_grievous_accidents_india_three_years": 460
+        },
+        "shajapur": {
+          "total_accidents_india_three_years": 1344,
+          "total_fatal_accidents_india_three_years": 458,
+          "total_grievous_accidents_india_three_years": 307
+        },
+        "sheopur": {
+          "total_accidents_india_three_years": 713,
+          "total_fatal_accidents_india_three_years": 243,
+          "total_grievous_accidents_india_three_years": 125
+        },
+        "shivpuri": {
+          "total_accidents_india_three_years": 3084,
+          "total_fatal_accidents_india_three_years": 946,
+          "total_grievous_accidents_india_three_years": 709
+        },
+        "sidhi": {
+          "total_accidents_india_three_years": 2414,
+          "total_fatal_accidents_india_three_years": 658,
+          "total_grievous_accidents_india_three_years": 467
+        },
+        "singrauli": {
+          "total_accidents_india_three_years": 2436,
+          "total_fatal_accidents_india_three_years": 693,
+          "total_grievous_accidents_india_three_years": 399
+        },
+        "tikamgarh": {
+          "total_accidents_india_three_years": 1257,
+          "total_fatal_accidents_india_three_years": 371,
+          "total_grievous_accidents_india_three_years": 269
+        },
+        "ujjain": {
+          "total_accidents_india_three_years": 5015,
+          "total_fatal_accidents_india_three_years": 806,
+          "total_grievous_accidents_india_three_years": 557
+        },
+        "umariya": {
+          "total_accidents_india_three_years": 1129,
+          "total_fatal_accidents_india_three_years": 411,
+          "total_grievous_accidents_india_three_years": 323
+        },
+        "vidisha": {
+          "total_accidents_india_three_years": 3243,
+          "total_fatal_accidents_india_three_years": 571,
+          "total_grievous_accidents_india_three_years": 565
+        }
+      }
+    },
+    "maharashtra": {
+      "districts": {
+        "ahilyanagar": {
+          "total_accidents_india_three_years": 4938,
+          "total_fatal_accidents_india_three_years": 2777,
+          "total_grievous_accidents_india_three_years": 1747
+        },
+        "akola": {
+          "total_accidents_india_three_years": 1447,
+          "total_fatal_accidents_india_three_years": 546,
+          "total_grievous_accidents_india_three_years": 419
+        },
+        "amravati city": {
+          "total_accidents_india_three_years": 1323,
+          "total_fatal_accidents_india_three_years": 239,
+          "total_grievous_accidents_india_three_years": 431
+        },
+        "amravati rural": {
+          "total_accidents_india_three_years": 1872,
+          "total_fatal_accidents_india_three_years": 924,
+          "total_grievous_accidents_india_three_years": 592
+        },
+        "beed": {
+          "total_accidents_india_three_years": 2337,
+          "total_fatal_accidents_india_three_years": 1273,
+          "total_grievous_accidents_india_three_years": 869
+        },
+        "bhandara": {
+          "total_accidents_india_three_years": 1219,
+          "total_fatal_accidents_india_three_years": 430,
+          "total_grievous_accidents_india_three_years": 458
+        },
+        "buldhana": {
+          "total_accidents_india_three_years": 2046,
+          "total_fatal_accidents_india_three_years": 1076,
+          "total_grievous_accidents_india_three_years": 522
+        },
+        "chandrapur": {
+          "total_accidents_india_three_years": 2199,
+          "total_fatal_accidents_india_three_years": 986,
+          "total_grievous_accidents_india_three_years": 618
+        },
+        "chhatrapati sambhajinagar city": {
+          "total_accidents_india_three_years": 1876,
+          "total_fatal_accidents_india_three_years": 555,
+          "total_grievous_accidents_india_three_years": 813
+        },
+        "chhatrapati sambhajinagar rural": {
+          "total_accidents_india_three_years": 2436,
+          "total_fatal_accidents_india_three_years": 1425,
+          "total_grievous_accidents_india_three_years": 768
+        },
+        "dharashiv": {
+          "total_accidents_india_three_years": 1367,
+          "total_fatal_accidents_india_three_years": 1012,
+          "total_grievous_accidents_india_three_years": 283
+        },
+        "dhule": {
+          "total_accidents_india_three_years": 1916,
+          "total_fatal_accidents_india_three_years": 1096,
+          "total_grievous_accidents_india_three_years": 667
+        },
+        "gadchiroli": {
+          "total_accidents_india_three_years": 757,
+          "total_fatal_accidents_india_three_years": 468,
+          "total_grievous_accidents_india_three_years": 184
+        },
+        "gondia": {
+          "total_accidents_india_three_years": 908,
+          "total_fatal_accidents_india_three_years": 457,
+          "total_grievous_accidents_india_three_years": 304
+        },
+        "hingoli": {
+          "total_accidents_india_three_years": 1044,
+          "total_fatal_accidents_india_three_years": 591,
+          "total_grievous_accidents_india_three_years": 383
+        },
+        "jalgaon": {
+          "total_accidents_india_three_years": 2242,
+          "total_fatal_accidents_india_three_years": 1432,
+          "total_grievous_accidents_india_three_years": 587
+        },
+        "jalna": {
+          "total_accidents_india_three_years": 1527,
+          "total_fatal_accidents_india_three_years": 906,
+          "total_grievous_accidents_india_three_years": 500
+        },
+        "kolhapur": {
+          "total_accidents_india_three_years": 3641,
+          "total_fatal_accidents_india_three_years": 1297,
+          "total_grievous_accidents_india_three_years": 1655
+        },
+        "latur": {
+          "total_accidents_india_three_years": 1804,
+          "total_fatal_accidents_india_three_years": 995,
+          "total_grievous_accidents_india_three_years": 591
+        },
+        "mira-bhainder, vasai-virar pc": {
+          "total_accidents_india_three_years": 2275,
+          "total_fatal_accidents_india_three_years": 570,
+          "total_grievous_accidents_india_three_years": 1123
+        },
+        "mumbai city": {
+          "total_accidents_india_three_years": 6829,
+          "total_fatal_accidents_india_three_years": 1193,
+          "total_grievous_accidents_india_three_years": 4360
+        },
+        "nagpur city": {
+          "total_accidents_india_three_years": 3033,
+          "total_fatal_accidents_india_three_years": 903,
+          "total_grievous_accidents_india_three_years": 1415
+        },
+        "nagpur rural": {
+          "total_accidents_india_three_years": 2733,
+          "total_fatal_accidents_india_three_years": 1206,
+          "total_grievous_accidents_india_three_years": 927
+        },
+        "nanded": {
+          "total_accidents_india_three_years": 1842,
+          "total_fatal_accidents_india_three_years": 1242,
+          "total_grievous_accidents_india_three_years": 465
+        },
+        "nandurbar": {
+          "total_accidents_india_three_years": 881,
+          "total_fatal_accidents_india_three_years": 532,
+          "total_grievous_accidents_india_three_years": 232
+        },
+        "nasik city": {
+          "total_accidents_india_three_years": 1737,
+          "total_fatal_accidents_india_three_years": 590,
+          "total_grievous_accidents_india_three_years": 704
+        },
+        "nasik rural": {
+          "total_accidents_india_three_years": 4499,
+          "total_fatal_accidents_india_three_years": 2670,
+          "total_grievous_accidents_india_three_years": 1450
+        },
+        "navi  mumbai": {
+          "total_accidents_india_three_years": 2292,
+          "total_fatal_accidents_india_three_years": 807,
+          "total_grievous_accidents_india_three_years": 1178
+        },
+        "palghar": {
+          "total_accidents_india_three_years": 1863,
+          "total_fatal_accidents_india_three_years": 845,
+          "total_grievous_accidents_india_three_years": 493
+        },
+        "parbhani": {
+          "total_accidents_india_three_years": 1098,
+          "total_fatal_accidents_india_three_years": 670,
+          "total_grievous_accidents_india_three_years": 298
+        },
+        "pimpr-chinchwad": {
+          "total_accidents_india_three_years": 2953,
+          "total_fatal_accidents_india_three_years": 1118,
+          "total_grievous_accidents_india_three_years": 1296
+        },
+        "pune city": {
+          "total_accidents_india_three_years": 2852,
+          "total_fatal_accidents_india_three_years": 974,
+          "total_grievous_accidents_india_three_years": 1320
+        },
+        "pune rural": {
+          "total_accidents_india_three_years": 5015,
+          "total_fatal_accidents_india_three_years": 2740,
+          "total_grievous_accidents_india_three_years": 1674
+        },
+        "raigad": {
+          "total_accidents_india_three_years": 1722,
+          "total_fatal_accidents_india_three_years": 698,
+          "total_grievous_accidents_india_three_years": 696
+        },
+        "ratnagiri": {
+          "total_accidents_india_three_years": 1353,
+          "total_fatal_accidents_india_three_years": 350,
+          "total_grievous_accidents_india_three_years": 402
+        },
+        "sangli": {
+          "total_accidents_india_three_years": 2485,
+          "total_fatal_accidents_india_three_years": 1302,
+          "total_grievous_accidents_india_three_years": 937
+        },
+        "satara": {
+          "total_accidents_india_three_years": 2851,
+          "total_fatal_accidents_india_three_years": 1396,
+          "total_grievous_accidents_india_three_years": 979
+        },
+        "sindhudurg": {
+          "total_accidents_india_three_years": 686,
+          "total_fatal_accidents_india_three_years": 233,
+          "total_grievous_accidents_india_three_years": 218
+        },
+        "solapur city": {
+          "total_accidents_india_three_years": 638,
+          "total_fatal_accidents_india_three_years": 255,
+          "total_grievous_accidents_india_three_years": 267
+        },
+        "solapur rural": {
+          "total_accidents_india_three_years": 3463,
+          "total_fatal_accidents_india_three_years": 1919,
+          "total_grievous_accidents_india_three_years": 1076
+        },
+        "thane city": {
+          "total_accidents_india_three_years": 2715,
+          "total_fatal_accidents_india_three_years": 682,
+          "total_grievous_accidents_india_three_years": 1311
+        },
+        "thane rural": {
+          "total_accidents_india_three_years": 1054,
+          "total_fatal_accidents_india_three_years": 576,
+          "total_grievous_accidents_india_three_years": 323
+        },
+        "wardha": {
+          "total_accidents_india_three_years": 1180,
+          "total_fatal_accidents_india_three_years": 606,
+          "total_grievous_accidents_india_three_years": 339
+        },
+        "washim": {
+          "total_accidents_india_three_years": 792,
+          "total_fatal_accidents_india_three_years": 470,
+          "total_grievous_accidents_india_three_years": 185
+        },
+        "yavatmal": {
+          "total_accidents_india_three_years": 2214,
+          "total_fatal_accidents_india_three_years": 1253,
+          "total_grievous_accidents_india_three_years": 575
+        }
+      }
+    },
+    "manipur": {
+      "districts": {
+        "bishenpur": {
+          "total_accidents_india_three_years": 173,
+          "total_fatal_accidents_india_three_years": 53,
+          "total_grievous_accidents_india_three_years": 92
+        },
+        "chandel": {
+          "total_accidents_india_three_years": 0,
+          "total_fatal_accidents_india_three_years": 0,
+          "total_grievous_accidents_india_three_years": 0
+        },
+        "churachandpur": {
+          "total_accidents_india_three_years": 2,
+          "total_fatal_accidents_india_three_years": 1,
+          "total_grievous_accidents_india_three_years": 1
+        },
+        "imphal east": {
+          "total_accidents_india_three_years": 152,
+          "total_fatal_accidents_india_three_years": 46,
+          "total_grievous_accidents_india_three_years": 83
+        },
+        "imphal west": {
+          "total_accidents_india_three_years": 240,
+          "total_fatal_accidents_india_three_years": 67,
+          "total_grievous_accidents_india_three_years": 117
+        },
+        "jiribam": {
+          "total_accidents_india_three_years": 5,
+          "total_fatal_accidents_india_three_years": 1,
+          "total_grievous_accidents_india_three_years": 3
+        },
+        "kakching": {
+          "total_accidents_india_three_years": 81,
+          "total_fatal_accidents_india_three_years": 22,
+          "total_grievous_accidents_india_three_years": 34
+        },
+        "kamjong": {
+          "total_accidents_india_three_years": 1,
+          "total_fatal_accidents_india_three_years": 1,
+          "total_grievous_accidents_india_three_years": 0
+        },
+        "kangpokpi": {
+          "total_accidents_india_three_years": 29,
+          "total_fatal_accidents_india_three_years": 6,
+          "total_grievous_accidents_india_three_years": 7
+        },
+        "noney": {
+          "total_accidents_india_three_years": 5,
+          "total_fatal_accidents_india_three_years": 1,
+          "total_grievous_accidents_india_three_years": 1
+        },
+        "pherzawl": {
+          "total_accidents_india_three_years": 2,
+          "total_fatal_accidents_india_three_years": 1,
+          "total_grievous_accidents_india_three_years": 0
+        },
+        "senapati": {
+          "total_accidents_india_three_years": 42,
+          "total_fatal_accidents_india_three_years": 6,
+          "total_grievous_accidents_india_three_years": 3
+        },
+        "tamenglong": {
+          "total_accidents_india_three_years": 8,
+          "total_fatal_accidents_india_three_years": 2,
+          "total_grievous_accidents_india_three_years": 0
+        },
+        "tengnoupal": {
+          "total_accidents_india_three_years": 7,
+          "total_fatal_accidents_india_three_years": 4,
+          "total_grievous_accidents_india_three_years": 3
+        },
+        "thoubal": {
+          "total_accidents_india_three_years": 251,
+          "total_fatal_accidents_india_three_years": 59,
+          "total_grievous_accidents_india_three_years": 150
+        },
+        "ukhrul": {
+          "total_accidents_india_three_years": 7,
+          "total_fatal_accidents_india_three_years": 2,
+          "total_grievous_accidents_india_three_years": 0
+        }
+      }
+    },
+    "meghalaya": {
+      "districts": {
+        "east jaintia hills": {
+          "total_accidents_india_three_years": 32,
+          "total_fatal_accidents_india_three_years": 8,
+          "total_grievous_accidents_india_three_years": 3
+        },
+        "eastern west khasi hills": {
+          "total_accidents_india_three_years": 9,
+          "total_fatal_accidents_india_three_years": 7,
+          "total_grievous_accidents_india_three_years": 2
+        },
+        "garo hills east": {
+          "total_accidents_india_three_years": 22,
+          "total_fatal_accidents_india_three_years": 15,
+          "total_grievous_accidents_india_three_years": 4
+        },
+        "garo hills south": {
+          "total_accidents_india_three_years": 19,
+          "total_fatal_accidents_india_three_years": 9,
+          "total_grievous_accidents_india_three_years": 5
+        },
+        "garo hills west": {
+          "total_accidents_india_three_years": 102,
+          "total_fatal_accidents_india_three_years": 60,
+          "total_grievous_accidents_india_three_years": 23
+        },
+        "khasi hills east": {
+          "total_accidents_india_three_years": 170,
+          "total_fatal_accidents_india_three_years": 87,
+          "total_grievous_accidents_india_three_years": 55
+        },
+        "khasi hills west": {
+          "total_accidents_india_three_years": 24,
+          "total_fatal_accidents_india_three_years": 21,
+          "total_grievous_accidents_india_three_years": 2
+        },
+        "north garo hills": {
+          "total_accidents_india_three_years": 32,
+          "total_fatal_accidents_india_three_years": 21,
+          "total_grievous_accidents_india_three_years": 10
+        },
+        "ri-bhoi": {
+          "total_accidents_india_three_years": 104,
+          "total_fatal_accidents_india_three_years": 55,
+          "total_grievous_accidents_india_three_years": 35
+        },
+        "south west garo hills": {
+          "total_accidents_india_three_years": 37,
+          "total_fatal_accidents_india_three_years": 26,
+          "total_grievous_accidents_india_three_years": 10
+        },
+        "south west khasi hills": {
+          "total_accidents_india_three_years": 23,
+          "total_fatal_accidents_india_three_years": 10,
+          "total_grievous_accidents_india_three_years": 3
+        },
+        "west jaintia hills": {
+          "total_accidents_india_three_years": 31,
+          "total_fatal_accidents_india_three_years": 14,
+          "total_grievous_accidents_india_three_years": 9
+        }
+      }
+    },
+    "mizoram": {
+      "districts": {
+        "aizawl": {
+          "total_accidents_india_three_years": 67,
+          "total_fatal_accidents_india_three_years": 36,
+          "total_grievous_accidents_india_three_years": 7
+        },
+        "champhai": {
+          "total_accidents_india_three_years": 13,
+          "total_fatal_accidents_india_three_years": 8,
+          "total_grievous_accidents_india_three_years": 3
+        },
+        "hnahthial": {
+          "total_accidents_india_three_years": 10,
+          "total_fatal_accidents_india_three_years": 2,
+          "total_grievous_accidents_india_three_years": 1
+        },
+        "khawzawl": {
+          "total_accidents_india_three_years": 5,
+          "total_fatal_accidents_india_three_years": 5,
+          "total_grievous_accidents_india_three_years": 0
+        },
+        "kolasib": {
+          "total_accidents_india_three_years": 23,
+          "total_fatal_accidents_india_three_years": 18,
+          "total_grievous_accidents_india_three_years": 1
+        },
+        "lawngtlai": {
+          "total_accidents_india_three_years": 7,
+          "total_fatal_accidents_india_three_years": 7,
+          "total_grievous_accidents_india_three_years": 0
+        },
+        "lunglei": {
+          "total_accidents_india_three_years": 98,
+          "total_fatal_accidents_india_three_years": 18,
+          "total_grievous_accidents_india_three_years": 10
+        },
+        "mamit": {
+          "total_accidents_india_three_years": 13,
+          "total_fatal_accidents_india_three_years": 7,
+          "total_grievous_accidents_india_three_years": 4
+        },
+        "saiha": {
+          "total_accidents_india_three_years": 13,
+          "total_fatal_accidents_india_three_years": 11,
+          "total_grievous_accidents_india_three_years": 0
+        },
+        "saitual": {
+          "total_accidents_india_three_years": 23,
+          "total_fatal_accidents_india_three_years": 13,
+          "total_grievous_accidents_india_three_years": 1
+        },
+        "serchhip": {
+          "total_accidents_india_three_years": 13,
+          "total_fatal_accidents_india_three_years": 10,
+          "total_grievous_accidents_india_three_years": 1
+        }
+      }
+    },
+    "nagaland": {
+      "districts": {
+        "dimapur": {
+          "total_accidents_india_three_years": 291,
+          "total_fatal_accidents_india_three_years": 71,
+          "total_grievous_accidents_india_three_years": 102
+        },
+        "kiphire": {
+          "total_accidents_india_three_years": 7,
+          "total_fatal_accidents_india_three_years": 3,
+          "total_grievous_accidents_india_three_years": 2
+        },
+        "kohima": {
+          "total_accidents_india_three_years": 97,
+          "total_fatal_accidents_india_three_years": 18,
+          "total_grievous_accidents_india_three_years": 20
+        },
+        "longleng": {
+          "total_accidents_india_three_years": 8,
+          "total_fatal_accidents_india_three_years": 6,
+          "total_grievous_accidents_india_three_years": 0
+        },
+        "mokokchung": {
+          "total_accidents_india_three_years": 3,
+          "total_fatal_accidents_india_three_years": 2,
+          "total_grievous_accidents_india_three_years": 1
+        },
+        "mon": {
+          "total_accidents_india_three_years": 28,
+          "total_fatal_accidents_india_three_years": 10,
+          "total_grievous_accidents_india_three_years": 7
+        },
+        "phek": {
+          "total_accidents_india_three_years": 7,
+          "total_fatal_accidents_india_three_years": 0,
+          "total_grievous_accidents_india_three_years": 4
+        },
+        "tuensang": {
+          "total_accidents_india_three_years": 1,
+          "total_fatal_accidents_india_three_years": 1,
+          "total_grievous_accidents_india_three_years": 0
+        },
+        "wokha": {
+          "total_accidents_india_three_years": 23,
+          "total_fatal_accidents_india_three_years": 10,
+          "total_grievous_accidents_india_three_years": 3
+        },
+        "zunheboto": {
+          "total_accidents_india_three_years": 4,
+          "total_fatal_accidents_india_three_years": 1,
+          "total_grievous_accidents_india_three_years": 0
+        }
+      }
+    },
+    "odisha": {
+      "districts": {
+        "angul": {
+          "total_accidents_india_three_years": 1024,
+          "total_fatal_accidents_india_three_years": 540,
+          "total_grievous_accidents_india_three_years": 387
+        },
+        "balasore": {
+          "total_accidents_india_three_years": 1238,
+          "total_fatal_accidents_india_three_years": 680,
+          "total_grievous_accidents_india_three_years": 439
+        },
+        "baragarh": {
+          "total_accidents_india_three_years": 957,
+          "total_fatal_accidents_india_three_years": 520,
+          "total_grievous_accidents_india_three_years": 263
+        },
+        "berhampur": {
+          "total_accidents_india_three_years": 712,
+          "total_fatal_accidents_india_three_years": 382,
+          "total_grievous_accidents_india_three_years": 251
+        },
+        "bhadrak": {
+          "total_accidents_india_three_years": 890,
+          "total_fatal_accidents_india_three_years": 466,
+          "total_grievous_accidents_india_three_years": 317
+        },
+        "bhubaneswar upd": {
+          "total_accidents_india_three_years": 695,
+          "total_fatal_accidents_india_three_years": 455,
+          "total_grievous_accidents_india_three_years": 170
+        },
+        "bolangir": {
+          "total_accidents_india_three_years": 997,
+          "total_fatal_accidents_india_three_years": 557,
+          "total_grievous_accidents_india_three_years": 303
+        },
+        "boudh": {
+          "total_accidents_india_three_years": 423,
+          "total_fatal_accidents_india_three_years": 223,
+          "total_grievous_accidents_india_three_years": 118
+        },
+        "cuttack rural": {
+          "total_accidents_india_three_years": 728,
+          "total_fatal_accidents_india_three_years": 381,
+          "total_grievous_accidents_india_three_years": 278
+        },
+        "cuttack upd": {
+          "total_accidents_india_three_years": 1040,
+          "total_fatal_accidents_india_three_years": 360,
+          "total_grievous_accidents_india_three_years": 454
+        },
+        "deogarh": {
+          "total_accidents_india_three_years": 330,
+          "total_fatal_accidents_india_three_years": 185,
+          "total_grievous_accidents_india_three_years": 73
+        },
+        "dhenkanal": {
+          "total_accidents_india_three_years": 753,
+          "total_fatal_accidents_india_three_years": 444,
+          "total_grievous_accidents_india_three_years": 244
+        },
+        "gajapati": {
+          "total_accidents_india_three_years": 34,
+          "total_fatal_accidents_india_three_years": 12,
+          "total_grievous_accidents_india_three_years": 16
+        },
+        "ganjam": {
+          "total_accidents_india_three_years": 1531,
+          "total_fatal_accidents_india_three_years": 745,
+          "total_grievous_accidents_india_three_years": 540
+        },
+        "jagatsinghpur": {
+          "total_accidents_india_three_years": 683,
+          "total_fatal_accidents_india_three_years": 293,
+          "total_grievous_accidents_india_three_years": 300
+        },
+        "jajpur": {
+          "total_accidents_india_three_years": 1585,
+          "total_fatal_accidents_india_three_years": 794,
+          "total_grievous_accidents_india_three_years": 559
+        },
+        "jharsuguda": {
+          "total_accidents_india_three_years": 740,
+          "total_fatal_accidents_india_three_years": 362,
+          "total_grievous_accidents_india_three_years": 250
+        },
+        "kalahandi": {
+          "total_accidents_india_three_years": 1015,
+          "total_fatal_accidents_india_three_years": 602,
+          "total_grievous_accidents_india_three_years": 290
+        },
+        "kendrapara": {
+          "total_accidents_india_three_years": 567,
+          "total_fatal_accidents_india_three_years": 330,
+          "total_grievous_accidents_india_three_years": 197
+        },
+        "keonjhar": {
+          "total_accidents_india_three_years": 2309,
+          "total_fatal_accidents_india_three_years": 1120,
+          "total_grievous_accidents_india_three_years": 588
+        },
+        "khurda": {
+          "total_accidents_india_three_years": 458,
+          "total_fatal_accidents_india_three_years": 288,
+          "total_grievous_accidents_india_three_years": 108
+        },
+        "koraput": {
+          "total_accidents_india_three_years": 1056,
+          "total_fatal_accidents_india_three_years": 620,
+          "total_grievous_accidents_india_three_years": 271
+        },
+        "malkangiri": {
+          "total_accidents_india_three_years": 571,
+          "total_fatal_accidents_india_three_years": 320,
+          "total_grievous_accidents_india_three_years": 149
+        },
+        "mayurbhanj": {
+          "total_accidents_india_three_years": 1794,
+          "total_fatal_accidents_india_three_years": 1104,
+          "total_grievous_accidents_india_three_years": 450
+        },
+        "nawapara": {
+          "total_accidents_india_three_years": 443,
+          "total_fatal_accidents_india_three_years": 304,
+          "total_grievous_accidents_india_three_years": 94
+        },
+        "nawarangpur": {
+          "total_accidents_india_three_years": 639,
+          "total_fatal_accidents_india_three_years": 448,
+          "total_grievous_accidents_india_three_years": 131
+        },
+        "nayagarh": {
+          "total_accidents_india_three_years": 729,
+          "total_fatal_accidents_india_three_years": 329,
+          "total_grievous_accidents_india_three_years": 341
+        },
+        "phulbani": {
+          "total_accidents_india_three_years": 690,
+          "total_fatal_accidents_india_three_years": 349,
+          "total_grievous_accidents_india_three_years": 194
+        },
+        "puri": {
+          "total_accidents_india_three_years": 1005,
+          "total_fatal_accidents_india_three_years": 410,
+          "total_grievous_accidents_india_three_years": 460
+        },
+        "rayagada": {
+          "total_accidents_india_three_years": 535,
+          "total_fatal_accidents_india_three_years": 329,
+          "total_grievous_accidents_india_three_years": 126
+        },
+        "rourkela": {
+          "total_accidents_india_three_years": 1482,
+          "total_fatal_accidents_india_three_years": 647,
+          "total_grievous_accidents_india_three_years": 454
+        },
+        "sambalpur": {
+          "total_accidents_india_three_years": 1408,
+          "total_fatal_accidents_india_three_years": 653,
+          "total_grievous_accidents_india_three_years": 478
+        },
+        "sonepur": {
+          "total_accidents_india_three_years": 338,
+          "total_fatal_accidents_india_three_years": 192,
+          "total_grievous_accidents_india_three_years": 88
+        },
+        "sundargarh": {
+          "total_accidents_india_three_years": 1118,
+          "total_fatal_accidents_india_three_years": 737,
+          "total_grievous_accidents_india_three_years": 231
+        }
+      }
+    },
+    "puducherry": {
+      "districts": {
+        "karaikal": {
+          "total_accidents_india_three_years": 793,
+          "total_fatal_accidents_india_three_years": 128,
+          "total_grievous_accidents_india_three_years": 215
+        },
+        "mahe": {
+          "total_accidents_india_three_years": 270,
+          "total_fatal_accidents_india_three_years": 8,
+          "total_grievous_accidents_india_three_years": 75
+        },
+        "puducherry": {
+          "total_accidents_india_three_years": 3441,
+          "total_fatal_accidents_india_three_years": 520,
+          "total_grievous_accidents_india_three_years": 712
+        },
+        "yanam": {
+          "total_accidents_india_three_years": 274,
+          "total_fatal_accidents_india_three_years": 12,
+          "total_grievous_accidents_india_three_years": 40
+        }
+      }
+    },
+    "punjab": {
+      "districts": {
+        "amritsar city": {
+          "total_accidents_india_three_years": 341,
+          "total_fatal_accidents_india_three_years": 52,
+          "total_grievous_accidents_india_three_years": 19
+        },
+        "amritsar rural": {
+          "total_accidents_india_three_years": 427,
+          "total_fatal_accidents_india_three_years": 224,
+          "total_grievous_accidents_india_three_years": 56
+        },
+        "barnala": {
+          "total_accidents_india_three_years": 376,
+          "total_fatal_accidents_india_three_years": 224,
+          "total_grievous_accidents_india_three_years": 108
+        },
+        "batala": {
+          "total_accidents_india_three_years": 218,
+          "total_fatal_accidents_india_three_years": 79,
+          "total_grievous_accidents_india_three_years": 25
+        },
+        "bhatinda": {
+          "total_accidents_india_three_years": 767,
+          "total_fatal_accidents_india_three_years": 221,
+          "total_grievous_accidents_india_three_years": 175
+        },
+        "faridkot": {
+          "total_accidents_india_three_years": 228,
+          "total_fatal_accidents_india_three_years": 126,
+          "total_grievous_accidents_india_three_years": 41
+        },
+        "fathegarh sahib": {
+          "total_accidents_india_three_years": 666,
+          "total_fatal_accidents_india_three_years": 338,
+          "total_grievous_accidents_india_three_years": 127
+        },
+        "fazilka": {
+          "total_accidents_india_three_years": 319,
+          "total_fatal_accidents_india_three_years": 110,
+          "total_grievous_accidents_india_three_years": 40
+        },
+        "ferozepur": {
+          "total_accidents_india_three_years": 322,
+          "total_fatal_accidents_india_three_years": 121,
+          "total_grievous_accidents_india_three_years": 23
+        },
+        "gurdaspur": {
+          "total_accidents_india_three_years": 134,
+          "total_fatal_accidents_india_three_years": 42,
+          "total_grievous_accidents_india_three_years": 9
+        },
+        "hoshiarpur": {
+          "total_accidents_india_three_years": 505,
+          "total_fatal_accidents_india_three_years": 184,
+          "total_grievous_accidents_india_three_years": 40
+        },
+        "jalandhar": {
+          "total_accidents_india_three_years": 392,
+          "total_fatal_accidents_india_three_years": 141,
+          "total_grievous_accidents_india_three_years": 73
+        },
+        "jalandhar rural": {
+          "total_accidents_india_three_years": 540,
+          "total_fatal_accidents_india_three_years": 211,
+          "total_grievous_accidents_india_three_years": 47
+        },
+        "kapurthala": {
+          "total_accidents_india_three_years": 282,
+          "total_fatal_accidents_india_three_years": 208,
+          "total_grievous_accidents_india_three_years": 53
+        },
+        "khanna": {
+          "total_accidents_india_three_years": 367,
+          "total_fatal_accidents_india_three_years": 81,
+          "total_grievous_accidents_india_three_years": 40
+        },
+        "ludhiana city": {
+          "total_accidents_india_three_years": 1597,
+          "total_fatal_accidents_india_three_years": 408,
+          "total_grievous_accidents_india_three_years": 155
+        },
+        "ludhiana rural": {
+          "total_accidents_india_three_years": 300,
+          "total_fatal_accidents_india_three_years": 163,
+          "total_grievous_accidents_india_three_years": 39
+        },
+        "malerkotla": {
+          "total_accidents_india_three_years": 171,
+          "total_fatal_accidents_india_three_years": 60,
+          "total_grievous_accidents_india_three_years": 34
+        },
+        "mansa": {
+          "total_accidents_india_three_years": 487,
+          "total_fatal_accidents_india_three_years": 167,
+          "total_grievous_accidents_india_three_years": 79
+        },
+        "moga pd": {
+          "total_accidents_india_three_years": 171,
+          "total_fatal_accidents_india_three_years": 60,
+          "total_grievous_accidents_india_three_years": 9
+        },
+        "muktsar": {
+          "total_accidents_india_three_years": 369,
+          "total_fatal_accidents_india_three_years": 197,
+          "total_grievous_accidents_india_three_years": 35
+        },
+        "pathankot": {
+          "total_accidents_india_three_years": 159,
+          "total_fatal_accidents_india_three_years": 30,
+          "total_grievous_accidents_india_three_years": 8
+        },
+        "patiala": {
+          "total_accidents_india_three_years": 1454,
+          "total_fatal_accidents_india_three_years": 397,
+          "total_grievous_accidents_india_three_years": 148
+        },
+        "rupnagar": {
+          "total_accidents_india_three_years": 282,
+          "total_fatal_accidents_india_three_years": 18,
+          "total_grievous_accidents_india_three_years": 3
+        },
+        "s.b.s nagar": {
+          "total_accidents_india_three_years": 260,
+          "total_fatal_accidents_india_three_years": 78,
+          "total_grievous_accidents_india_three_years": 24
+        },
+        "sangrur": {
+          "total_accidents_india_three_years": 586,
+          "total_fatal_accidents_india_three_years": 363,
+          "total_grievous_accidents_india_three_years": 153
+        },
+        "sas nagar": {
+          "total_accidents_india_three_years": 1213,
+          "total_fatal_accidents_india_three_years": 584,
+          "total_grievous_accidents_india_three_years": 356
+        },
+        "tarntaran": {
+          "total_accidents_india_three_years": 89,
+          "total_fatal_accidents_india_three_years": 72,
+          "total_grievous_accidents_india_three_years": 13
+        }
+      }
+    },
+    "rajasthan": {
+      "districts": {
+        "ajmer": {
+          "total_accidents_india_three_years": 2632,
+          "total_fatal_accidents_india_three_years": 1163,
+          "total_grievous_accidents_india_three_years": 902
+        },
+        "alwar": {
+          "total_accidents_india_three_years": 2287,
+          "total_fatal_accidents_india_three_years": 986,
+          "total_grievous_accidents_india_three_years": 800
+        },
+        "balotra": {
+          "total_accidents_india_three_years": 819,
+          "total_fatal_accidents_india_three_years": 486,
+          "total_grievous_accidents_india_three_years": 231
+        },
+        "banswara": {
+          "total_accidents_india_three_years": 1548,
+          "total_fatal_accidents_india_three_years": 694,
+          "total_grievous_accidents_india_three_years": 685
+        },
+        "baran": {
+          "total_accidents_india_three_years": 1132,
+          "total_fatal_accidents_india_three_years": 428,
+          "total_grievous_accidents_india_three_years": 433
+        },
+        "barmer": {
+          "total_accidents_india_three_years": 1150,
+          "total_fatal_accidents_india_three_years": 650,
+          "total_grievous_accidents_india_three_years": 344
+        },
+        "beawar": {
+          "total_accidents_india_three_years": 1637,
+          "total_fatal_accidents_india_three_years": 873,
+          "total_grievous_accidents_india_three_years": 494
+        },
+        "bharatpur": {
+          "total_accidents_india_three_years": 1598,
+          "total_fatal_accidents_india_three_years": 902,
+          "total_grievous_accidents_india_three_years": 477
+        },
+        "bhilwara": {
+          "total_accidents_india_three_years": 2760,
+          "total_fatal_accidents_india_three_years": 1321,
+          "total_grievous_accidents_india_three_years": 993
+        },
+        "bhiwadi": {
+          "total_accidents_india_three_years": 579,
+          "total_fatal_accidents_india_three_years": 239,
+          "total_grievous_accidents_india_three_years": 248
+        },
+        "bikaner": {
+          "total_accidents_india_three_years": 1802,
+          "total_fatal_accidents_india_three_years": 1034,
+          "total_grievous_accidents_india_three_years": 508
+        },
+        "bundi": {
+          "total_accidents_india_three_years": 1437,
+          "total_fatal_accidents_india_three_years": 544,
+          "total_grievous_accidents_india_three_years": 664
+        },
+        "chittorgarh": {
+          "total_accidents_india_three_years": 1563,
+          "total_fatal_accidents_india_three_years": 816,
+          "total_grievous_accidents_india_three_years": 545
+        },
+        "churu": {
+          "total_accidents_india_three_years": 1303,
+          "total_fatal_accidents_india_three_years": 783,
+          "total_grievous_accidents_india_three_years": 333
+        },
+        "dausa": {
+          "total_accidents_india_three_years": 2157,
+          "total_fatal_accidents_india_three_years": 993,
+          "total_grievous_accidents_india_three_years": 831
+        },
+        "deeg": {
+          "total_accidents_india_three_years": 748,
+          "total_fatal_accidents_india_three_years": 370,
+          "total_grievous_accidents_india_three_years": 246
+        },
+        "dholpur": {
+          "total_accidents_india_three_years": 1061,
+          "total_fatal_accidents_india_three_years": 531,
+          "total_grievous_accidents_india_three_years": 346
+        },
+        "didwana kuchaman": {
+          "total_accidents_india_three_years": 1050,
+          "total_fatal_accidents_india_three_years": 600,
+          "total_grievous_accidents_india_three_years": 275
+        },
+        "dungarpur": {
+          "total_accidents_india_three_years": 1344,
+          "total_fatal_accidents_india_three_years": 607,
+          "total_grievous_accidents_india_three_years": 638
+        },
+        "hanumangargh": {
+          "total_accidents_india_three_years": 1082,
+          "total_fatal_accidents_india_three_years": 581,
+          "total_grievous_accidents_india_three_years": 221
+        },
+        "jaipur rural": {
+          "total_accidents_india_three_years": 2297,
+          "total_fatal_accidents_india_three_years": 1011,
+          "total_grievous_accidents_india_three_years": 927
+        },
+        "jaipur(east)": {
+          "total_accidents_india_three_years": 5648,
+          "total_fatal_accidents_india_three_years": 510,
+          "total_grievous_accidents_india_three_years": 1180
+        },
+        "jaipur(north)": {
+          "total_accidents_india_three_years": 1802,
+          "total_fatal_accidents_india_three_years": 194,
+          "total_grievous_accidents_india_three_years": 285
+        },
+        "jaipur(south)": {
+          "total_accidents_india_three_years": 4432,
+          "total_fatal_accidents_india_three_years": 553,
+          "total_grievous_accidents_india_three_years": 767
+        },
+        "jaipur(west)": {
+          "total_accidents_india_three_years": 8412,
+          "total_fatal_accidents_india_three_years": 898,
+          "total_grievous_accidents_india_three_years": 1414
+        },
+        "jaisalmer": {
+          "total_accidents_india_three_years": 481,
+          "total_fatal_accidents_india_three_years": 309,
+          "total_grievous_accidents_india_three_years": 104
+        },
+        "jalore": {
+          "total_accidents_india_three_years": 977,
+          "total_fatal_accidents_india_three_years": 563,
+          "total_grievous_accidents_india_three_years": 250
+        },
+        "jhalawar": {
+          "total_accidents_india_three_years": 1199,
+          "total_fatal_accidents_india_three_years": 490,
+          "total_grievous_accidents_india_three_years": 295
+        },
+        "jhunjhunu": {
+          "total_accidents_india_three_years": 1523,
+          "total_fatal_accidents_india_three_years": 651,
+          "total_grievous_accidents_india_three_years": 487
+        },
+        "jodhpur east": {
+          "total_accidents_india_three_years": 881,
+          "total_fatal_accidents_india_three_years": 284,
+          "total_grievous_accidents_india_three_years": 225
+        },
+        "jodhpur rural": {
+          "total_accidents_india_three_years": 996,
+          "total_fatal_accidents_india_three_years": 604,
+          "total_grievous_accidents_india_three_years": 262
+        },
+        "jodhpur west": {
+          "total_accidents_india_three_years": 1192,
+          "total_fatal_accidents_india_three_years": 393,
+          "total_grievous_accidents_india_three_years": 155
+        },
+        "karauli": {
+          "total_accidents_india_three_years": 914,
+          "total_fatal_accidents_india_three_years": 416,
+          "total_grievous_accidents_india_three_years": 291
+        },
+        "khairthal tijara": {
+          "total_accidents_india_three_years": 599,
+          "total_fatal_accidents_india_three_years": 266,
+          "total_grievous_accidents_india_three_years": 245
+        },
+        "kota city": {
+          "total_accidents_india_three_years": 1505,
+          "total_fatal_accidents_india_three_years": 310,
+          "total_grievous_accidents_india_three_years": 615
+        },
+        "kota rural": {
+          "total_accidents_india_three_years": 881,
+          "total_fatal_accidents_india_three_years": 387,
+          "total_grievous_accidents_india_three_years": 306
+        },
+        "kotputli behror": {
+          "total_accidents_india_three_years": 1500,
+          "total_fatal_accidents_india_three_years": 645,
+          "total_grievous_accidents_india_three_years": 544
+        },
+        "nagaur": {
+          "total_accidents_india_three_years": 1139,
+          "total_fatal_accidents_india_three_years": 733,
+          "total_grievous_accidents_india_three_years": 251
+        },
+        "pali": {
+          "total_accidents_india_three_years": 1447,
+          "total_fatal_accidents_india_three_years": 810,
+          "total_grievous_accidents_india_three_years": 411
+        },
+        "phalodi": {
+          "total_accidents_india_three_years": 522,
+          "total_fatal_accidents_india_three_years": 338,
+          "total_grievous_accidents_india_three_years": 114
+        },
+        "pratapgarh": {
+          "total_accidents_india_three_years": 777,
+          "total_fatal_accidents_india_three_years": 368,
+          "total_grievous_accidents_india_three_years": 239
+        },
+        "rajasamand": {
+          "total_accidents_india_three_years": 1351,
+          "total_fatal_accidents_india_three_years": 610,
+          "total_grievous_accidents_india_three_years": 493
+        },
+        "salumbar": {
+          "total_accidents_india_three_years": 674,
+          "total_fatal_accidents_india_three_years": 326,
+          "total_grievous_accidents_india_three_years": 257
+        },
+        "sawai madhopur": {
+          "total_accidents_india_three_years": 1077,
+          "total_fatal_accidents_india_three_years": 503,
+          "total_grievous_accidents_india_three_years": 378
+        },
+        "sikar": {
+          "total_accidents_india_three_years": 3090,
+          "total_fatal_accidents_india_three_years": 1441,
+          "total_grievous_accidents_india_three_years": 885
+        },
+        "sirohi": {
+          "total_accidents_india_three_years": 1520,
+          "total_fatal_accidents_india_three_years": 728,
+          "total_grievous_accidents_india_three_years": 463
+        },
+        "sri ganganagar": {
+          "total_accidents_india_three_years": 998,
+          "total_fatal_accidents_india_three_years": 500,
+          "total_grievous_accidents_india_three_years": 278
+        },
+        "tonk": {
+          "total_accidents_india_three_years": 1606,
+          "total_fatal_accidents_india_three_years": 730,
+          "total_grievous_accidents_india_three_years": 611
+        },
+        "udaipur": {
+          "total_accidents_india_three_years": 2866,
+          "total_fatal_accidents_india_three_years": 1146,
+          "total_grievous_accidents_india_three_years": 1038
+        }
+      }
+    },
+    "sikkim": {
+      "districts": {
+        "gangtok district": {
+          "total_accidents_india_three_years": 166,
+          "total_fatal_accidents_india_three_years": 53,
+          "total_grievous_accidents_india_three_years": 83
+        },
+        "gyalshing district": {
+          "total_accidents_india_three_years": 35,
+          "total_fatal_accidents_india_three_years": 18,
+          "total_grievous_accidents_india_three_years": 15
+        },
+        "mangan district": {
+          "total_accidents_india_three_years": 44,
+          "total_fatal_accidents_india_three_years": 18,
+          "total_grievous_accidents_india_three_years": 18
+        },
+        "namchi district": {
+          "total_accidents_india_three_years": 95,
+          "total_fatal_accidents_india_three_years": 27,
+          "total_grievous_accidents_india_three_years": 50
+        },
+        "pakyong district": {
+          "total_accidents_india_three_years": 76,
+          "total_fatal_accidents_india_three_years": 24,
+          "total_grievous_accidents_india_three_years": 27
+        },
+        "soreng district": {
+          "total_accidents_india_three_years": 47,
+          "total_fatal_accidents_india_three_years": 18,
+          "total_grievous_accidents_india_three_years": 25
+        }
+      }
+    },
+    "tamil nadu": {
+      "districts": {
+        "ariyalur": {
+          "total_accidents_india_three_years": 1851,
+          "total_fatal_accidents_india_three_years": 557,
+          "total_grievous_accidents_india_three_years": 285
+        },
+        "avadi city": {
+          "total_accidents_india_three_years": 4829,
+          "total_fatal_accidents_india_three_years": 1129,
+          "total_grievous_accidents_india_three_years": 1273
+        },
+        "chengalpattu": {
+          "total_accidents_india_three_years": 4216,
+          "total_fatal_accidents_india_three_years": 1042,
+          "total_grievous_accidents_india_three_years": 1049
+        },
+        "chennai - tiw east": {
+          "total_accidents_india_three_years": 2769,
+          "total_fatal_accidents_india_three_years": 322,
+          "total_grievous_accidents_india_three_years": 578
+        },
+        "chennai - tiw north": {
+          "total_accidents_india_three_years": 2031,
+          "total_fatal_accidents_india_three_years": 249,
+          "total_grievous_accidents_india_three_years": 297
+        },
+        "chennai - tiw south": {
+          "total_accidents_india_three_years": 3452,
+          "total_fatal_accidents_india_three_years": 385,
+          "total_grievous_accidents_india_three_years": 1067
+        },
+        "chennai - tiw west": {
+          "total_accidents_india_three_years": 3365,
+          "total_fatal_accidents_india_three_years": 517,
+          "total_grievous_accidents_india_three_years": 1116
+        },
+        "coimbatore": {
+          "total_accidents_india_three_years": 7918,
+          "total_fatal_accidents_india_three_years": 1965,
+          "total_grievous_accidents_india_three_years": 762
+        },
+        "coimbatore city": {
+          "total_accidents_india_three_years": 3539,
+          "total_fatal_accidents_india_three_years": 860,
+          "total_grievous_accidents_india_three_years": 780
+        },
+        "cuddalore": {
+          "total_accidents_india_three_years": 9521,
+          "total_fatal_accidents_india_three_years": 1819,
+          "total_grievous_accidents_india_three_years": 2910
+        },
+        "dharmapuri": {
+          "total_accidents_india_three_years": 4549,
+          "total_fatal_accidents_india_three_years": 1072,
+          "total_grievous_accidents_india_three_years": 665
+        },
+        "dindigul": {
+          "total_accidents_india_three_years": 6887,
+          "total_fatal_accidents_india_three_years": 2030,
+          "total_grievous_accidents_india_three_years": 1891
+        },
+        "erode": {
+          "total_accidents_india_three_years": 7346,
+          "total_fatal_accidents_india_three_years": 1937,
+          "total_grievous_accidents_india_three_years": 3219
+        },
+        "kallakurichi": {
+          "total_accidents_india_three_years": 3807,
+          "total_fatal_accidents_india_three_years": 945,
+          "total_grievous_accidents_india_three_years": 693
+        },
+        "kancheepuram": {
+          "total_accidents_india_three_years": 3382,
+          "total_fatal_accidents_india_three_years": 868,
+          "total_grievous_accidents_india_three_years": 1196
+        },
+        "kanyakumari": {
+          "total_accidents_india_three_years": 4386,
+          "total_fatal_accidents_india_three_years": 988,
+          "total_grievous_accidents_india_three_years": 772
+        },
+        "karur": {
+          "total_accidents_india_three_years": 3277,
+          "total_fatal_accidents_india_three_years": 950,
+          "total_grievous_accidents_india_three_years": 419
+        },
+        "krishnagiri": {
+          "total_accidents_india_three_years": 6544,
+          "total_fatal_accidents_india_three_years": 2003,
+          "total_grievous_accidents_india_three_years": 746
+        },
+        "madurai": {
+          "total_accidents_india_three_years": 5517,
+          "total_fatal_accidents_india_three_years": 1690,
+          "total_grievous_accidents_india_three_years": 759
+        },
+        "madurai city": {
+          "total_accidents_india_three_years": 2083,
+          "total_fatal_accidents_india_three_years": 640,
+          "total_grievous_accidents_india_three_years": 88
+        },
+        "mayiladuthurai": {
+          "total_accidents_india_three_years": 2133,
+          "total_fatal_accidents_india_three_years": 434,
+          "total_grievous_accidents_india_three_years": 462
+        },
+        "nagapattinam": {
+          "total_accidents_india_three_years": 1624,
+          "total_fatal_accidents_india_three_years": 354,
+          "total_grievous_accidents_india_three_years": 353
+        },
+        "namakkal": {
+          "total_accidents_india_three_years": 6315,
+          "total_fatal_accidents_india_three_years": 1559,
+          "total_grievous_accidents_india_three_years": 577
+        },
+        "nilgiris": {
+          "total_accidents_india_three_years": 689,
+          "total_fatal_accidents_india_three_years": 136,
+          "total_grievous_accidents_india_three_years": 141
+        },
+        "perambalur": {
+          "total_accidents_india_three_years": 1675,
+          "total_fatal_accidents_india_three_years": 504,
+          "total_grievous_accidents_india_three_years": 440
+        },
+        "pudukkottai": {
+          "total_accidents_india_three_years": 4761,
+          "total_fatal_accidents_india_three_years": 1386,
+          "total_grievous_accidents_india_three_years": 626
+        },
+        "ramanathapuram": {
+          "total_accidents_india_three_years": 3849,
+          "total_fatal_accidents_india_three_years": 1181,
+          "total_grievous_accidents_india_three_years": 642
+        },
+        "ranipet": {
+          "total_accidents_india_three_years": 2864,
+          "total_fatal_accidents_india_three_years": 752,
+          "total_grievous_accidents_india_three_years": 985
+        },
+        "salem": {
+          "total_accidents_india_three_years": 6817,
+          "total_fatal_accidents_india_three_years": 1524,
+          "total_grievous_accidents_india_three_years": 1341
+        },
+        "salem city": {
+          "total_accidents_india_three_years": 3055,
+          "total_fatal_accidents_india_three_years": 688,
+          "total_grievous_accidents_india_three_years": 829
+        },
+        "sivagangai": {
+          "total_accidents_india_three_years": 3638,
+          "total_fatal_accidents_india_three_years": 1125,
+          "total_grievous_accidents_india_three_years": 541
+        },
+        "tambaram": {
+          "total_accidents_india_three_years": 3659,
+          "total_fatal_accidents_india_three_years": 939,
+          "total_grievous_accidents_india_three_years": 1960
+        },
+        "tambaram city-tiw": {
+          "total_accidents_india_three_years": 2501,
+          "total_fatal_accidents_india_three_years": 505,
+          "total_grievous_accidents_india_three_years": 1148
+        },
+        "tenkasi": {
+          "total_accidents_india_three_years": 3221,
+          "total_fatal_accidents_india_three_years": 793,
+          "total_grievous_accidents_india_three_years": 427
+        },
+        "thanjavur": {
+          "total_accidents_india_three_years": 7401,
+          "total_fatal_accidents_india_three_years": 1778,
+          "total_grievous_accidents_india_three_years": 1508
+        },
+        "theni": {
+          "total_accidents_india_three_years": 3703,
+          "total_fatal_accidents_india_three_years": 1069,
+          "total_grievous_accidents_india_three_years": 777
+        },
+        "thoothukudi": {
+          "total_accidents_india_three_years": 4295,
+          "total_fatal_accidents_india_three_years": 1394,
+          "total_grievous_accidents_india_three_years": 560
+        },
+        "tirunelveli": {
+          "total_accidents_india_three_years": 3103,
+          "total_fatal_accidents_india_three_years": 803,
+          "total_grievous_accidents_india_three_years": 288
+        },
+        "tirunelveli city": {
+          "total_accidents_india_three_years": 1396,
+          "total_fatal_accidents_india_three_years": 298,
+          "total_grievous_accidents_india_three_years": 289
+        },
+        "tirupathur": {
+          "total_accidents_india_three_years": 2247,
+          "total_fatal_accidents_india_three_years": 714,
+          "total_grievous_accidents_india_three_years": 522
+        },
+        "tiruppur": {
+          "total_accidents_india_three_years": 7378,
+          "total_fatal_accidents_india_three_years": 2052,
+          "total_grievous_accidents_india_three_years": 1748
+        },
+        "tiruppur city": {
+          "total_accidents_india_three_years": 2387,
+          "total_fatal_accidents_india_three_years": 497,
+          "total_grievous_accidents_india_three_years": 659
+        },
+        "tiruvallur": {
+          "total_accidents_india_three_years": 3342,
+          "total_fatal_accidents_india_three_years": 822,
+          "total_grievous_accidents_india_three_years": 1249
+        },
+        "tiruvannamalai": {
+          "total_accidents_india_three_years": 6198,
+          "total_fatal_accidents_india_three_years": 1981,
+          "total_grievous_accidents_india_three_years": 1703
+        },
+        "tiruvarur": {
+          "total_accidents_india_three_years": 2749,
+          "total_fatal_accidents_india_three_years": 682,
+          "total_grievous_accidents_india_three_years": 798
+        },
+        "trichy": {
+          "total_accidents_india_three_years": 5226,
+          "total_fatal_accidents_india_three_years": 1615,
+          "total_grievous_accidents_india_three_years": 1066
+        },
+        "trichy city": {
+          "total_accidents_india_three_years": 1764,
+          "total_fatal_accidents_india_three_years": 492,
+          "total_grievous_accidents_india_three_years": 250
+        },
+        "vellore": {
+          "total_accidents_india_three_years": 2929,
+          "total_fatal_accidents_india_three_years": 957,
+          "total_grievous_accidents_india_three_years": 671
+        },
+        "villupuram": {
+          "total_accidents_india_three_years": 8230,
+          "total_fatal_accidents_india_three_years": 1737,
+          "total_grievous_accidents_india_three_years": 2385
+        },
+        "virudhunagar": {
+          "total_accidents_india_three_years": 4831,
+          "total_fatal_accidents_india_three_years": 1475,
+          "total_grievous_accidents_india_three_years": 1409
+        }
+      }
+    },
+    "telangana": {
+      "districts": {
+        "adilabad": {
+          "total_accidents_india_three_years": 981,
+          "total_fatal_accidents_india_three_years": 350,
+          "total_grievous_accidents_india_three_years": 115
+        },
+        "bhadradri kothagudem": {
+          "total_accidents_india_three_years": 1597,
+          "total_fatal_accidents_india_three_years": 693,
+          "total_grievous_accidents_india_three_years": 318
+        },
+        "cyberabad": {
+          "total_accidents_india_three_years": 11462,
+          "total_fatal_accidents_india_three_years": 2239,
+          "total_grievous_accidents_india_three_years": 2708
+        },
+        "hyderabad southeast zone": {
+          "total_accidents_india_three_years": 368,
+          "total_fatal_accidents_india_three_years": 34,
+          "total_grievous_accidents_india_three_years": 53
+        },
+        "hyderabad southwest zone": {
+          "total_accidents_india_three_years": 278,
+          "total_fatal_accidents_india_three_years": 23,
+          "total_grievous_accidents_india_three_years": 64
+        },
+        "hyderabadcentralzone": {
+          "total_accidents_india_three_years": 404,
+          "total_fatal_accidents_india_three_years": 43,
+          "total_grievous_accidents_india_three_years": 46
+        },
+        "hyderabadeastzone": {
+          "total_accidents_india_three_years": 600,
+          "total_fatal_accidents_india_three_years": 46,
+          "total_grievous_accidents_india_three_years": 57
+        },
+        "hyderabadnorthzone": {
+          "total_accidents_india_three_years": 474,
+          "total_fatal_accidents_india_three_years": 42,
+          "total_grievous_accidents_india_three_years": 122
+        },
+        "hyderabadsouthzone": {
+          "total_accidents_india_three_years": 162,
+          "total_fatal_accidents_india_three_years": 13,
+          "total_grievous_accidents_india_three_years": 28
+        },
+        "hyderabadwestzone": {
+          "total_accidents_india_three_years": 684,
+          "total_fatal_accidents_india_three_years": 15,
+          "total_grievous_accidents_india_three_years": 88
+        },
+        "jagtial": {
+          "total_accidents_india_three_years": 1449,
+          "total_fatal_accidents_india_three_years": 525,
+          "total_grievous_accidents_india_three_years": 447
+        },
+        "jayashankar bhupalpally": {
+          "total_accidents_india_three_years": 650,
+          "total_fatal_accidents_india_three_years": 241,
+          "total_grievous_accidents_india_three_years": 76
+        },
+        "jogulamba gadwal": {
+          "total_accidents_india_three_years": 658,
+          "total_fatal_accidents_india_three_years": 361,
+          "total_grievous_accidents_india_three_years": 107
+        },
+        "kamareddy": {
+          "total_accidents_india_three_years": 1623,
+          "total_fatal_accidents_india_three_years": 705,
+          "total_grievous_accidents_india_three_years": 201
+        },
+        "karimnagar": {
+          "total_accidents_india_three_years": 2345,
+          "total_fatal_accidents_india_three_years": 560,
+          "total_grievous_accidents_india_three_years": 503
+        },
+        "khammam": {
+          "total_accidents_india_three_years": 2603,
+          "total_fatal_accidents_india_three_years": 820,
+          "total_grievous_accidents_india_three_years": 199
+        },
+        "kumram bheem asifabad": {
+          "total_accidents_india_three_years": 437,
+          "total_fatal_accidents_india_three_years": 189,
+          "total_grievous_accidents_india_three_years": 40
+        },
+        "mahabubabad": {
+          "total_accidents_india_three_years": 873,
+          "total_fatal_accidents_india_three_years": 376,
+          "total_grievous_accidents_india_three_years": 63
+        },
+        "mahabubnagar": {
+          "total_accidents_india_three_years": 1754,
+          "total_fatal_accidents_india_three_years": 739,
+          "total_grievous_accidents_india_three_years": 298
+        },
+        "medak": {
+          "total_accidents_india_three_years": 1873,
+          "total_fatal_accidents_india_three_years": 870,
+          "total_grievous_accidents_india_three_years": 335
+        },
+        "mulugu": {
+          "total_accidents_india_three_years": 526,
+          "total_fatal_accidents_india_three_years": 232,
+          "total_grievous_accidents_india_three_years": 79
+        },
+        "nagarkurnool": {
+          "total_accidents_india_three_years": 1172,
+          "total_fatal_accidents_india_three_years": 548,
+          "total_grievous_accidents_india_three_years": 140
+        },
+        "nalgonda": {
+          "total_accidents_india_three_years": 2742,
+          "total_fatal_accidents_india_three_years": 1100,
+          "total_grievous_accidents_india_three_years": 636
+        },
+        "narayanpet": {
+          "total_accidents_india_three_years": 607,
+          "total_fatal_accidents_india_three_years": 293,
+          "total_grievous_accidents_india_three_years": 157
+        },
+        "nirmal": {
+          "total_accidents_india_three_years": 1268,
+          "total_fatal_accidents_india_three_years": 399,
+          "total_grievous_accidents_india_three_years": 279
+        },
+        "nizamabad": {
+          "total_accidents_india_three_years": 2436,
+          "total_fatal_accidents_india_three_years": 939,
+          "total_grievous_accidents_india_three_years": 583
+        },
+        "rachakonda": {
+          "total_accidents_india_three_years": 10944,
+          "total_fatal_accidents_india_three_years": 2148,
+          "total_grievous_accidents_india_three_years": 2251
+        },
+        "rajanna sircilla": {
+          "total_accidents_india_three_years": 934,
+          "total_fatal_accidents_india_three_years": 255,
+          "total_grievous_accidents_india_three_years": 146
+        },
+        "ramagundam commissionerate": {
+          "total_accidents_india_three_years": 2457,
+          "total_fatal_accidents_india_three_years": 778,
+          "total_grievous_accidents_india_three_years": 449
+        },
+        "sangareddy": {
+          "total_accidents_india_three_years": 2971,
+          "total_fatal_accidents_india_three_years": 1228,
+          "total_grievous_accidents_india_three_years": 560
+        },
+        "siddipet": {
+          "total_accidents_india_three_years": 2021,
+          "total_fatal_accidents_india_three_years": 833,
+          "total_grievous_accidents_india_three_years": 309
+        },
+        "suryapet": {
+          "total_accidents_india_three_years": 1837,
+          "total_fatal_accidents_india_three_years": 686,
+          "total_grievous_accidents_india_three_years": 361
+        },
+        "vikarabad": {
+          "total_accidents_india_three_years": 1011,
+          "total_fatal_accidents_india_three_years": 517,
+          "total_grievous_accidents_india_three_years": 168
+        },
+        "wanaparthy district": {
+          "total_accidents_india_three_years": 804,
+          "total_fatal_accidents_india_three_years": 366,
+          "total_grievous_accidents_india_three_years": 111
+        },
+        "warangal centralzone": {
+          "total_accidents_india_three_years": 1770,
+          "total_fatal_accidents_india_three_years": 401,
+          "total_grievous_accidents_india_three_years": 232
+        },
+        "warangaleastzone": {
+          "total_accidents_india_three_years": 1206,
+          "total_fatal_accidents_india_three_years": 410,
+          "total_grievous_accidents_india_three_years": 259
+        },
+        "warangalwestzone": {
+          "total_accidents_india_three_years": 1241,
+          "total_fatal_accidents_india_three_years": 452,
+          "total_grievous_accidents_india_three_years": 201
+        }
+      }
+    },
+    "tripura": {
+      "districts": {
+        "gomati district": {
+          "total_accidents_india_three_years": 100,
+          "total_fatal_accidents_india_three_years": 32,
+          "total_grievous_accidents_india_three_years": 38
+        },
+        "khowai district": {
+          "total_accidents_india_three_years": 114,
+          "total_fatal_accidents_india_three_years": 55,
+          "total_grievous_accidents_india_three_years": 51
+        },
+        "sepahijala district": {
+          "total_accidents_india_three_years": 204,
+          "total_fatal_accidents_india_three_years": 101,
+          "total_grievous_accidents_india_three_years": 95
+        },
+        "tripura dhalai": {
+          "total_accidents_india_three_years": 126,
+          "total_fatal_accidents_india_three_years": 61,
+          "total_grievous_accidents_india_three_years": 50
+        },
+        "tripura north": {
+          "total_accidents_india_three_years": 124,
+          "total_fatal_accidents_india_three_years": 61,
+          "total_grievous_accidents_india_three_years": 53
+        },
+        "tripura south": {
+          "total_accidents_india_three_years": 188,
+          "total_fatal_accidents_india_three_years": 88,
+          "total_grievous_accidents_india_three_years": 80
+        },
+        "tripura west": {
+          "total_accidents_india_three_years": 456,
+          "total_fatal_accidents_india_three_years": 168,
+          "total_grievous_accidents_india_three_years": 236
+        },
+        "unakoti district": {
+          "total_accidents_india_three_years": 130,
+          "total_fatal_accidents_india_three_years": 52,
+          "total_grievous_accidents_india_three_years": 66
+        }
+      }
+    },
+    "uttar pradesh": {
+      "districts": {
+        "agra": {
+          "total_accidents_india_three_years": 3657,
+          "total_fatal_accidents_india_three_years": 1702,
+          "total_grievous_accidents_india_three_years": 1219
+        },
+        "aligarh": {
+          "total_accidents_india_three_years": 2912,
+          "total_fatal_accidents_india_three_years": 1290,
+          "total_grievous_accidents_india_three_years": 1119
+        },
+        "ambedkar nagar": {
+          "total_accidents_india_three_years": 809,
+          "total_fatal_accidents_india_three_years": 487,
+          "total_grievous_accidents_india_three_years": 284
+        },
+        "amethi": {
+          "total_accidents_india_three_years": 1093,
+          "total_fatal_accidents_india_three_years": 652,
+          "total_grievous_accidents_india_three_years": 296
+        },
+        "amroha": {
+          "total_accidents_india_three_years": 1268,
+          "total_fatal_accidents_india_three_years": 704,
+          "total_grievous_accidents_india_three_years": 418
+        },
+        "auraiya": {
+          "total_accidents_india_three_years": 1325,
+          "total_fatal_accidents_india_three_years": 498,
+          "total_grievous_accidents_india_three_years": 635
+        },
+        "ayodhya": {
+          "total_accidents_india_three_years": 1694,
+          "total_fatal_accidents_india_three_years": 837,
+          "total_grievous_accidents_india_three_years": 554
+        },
+        "azamgarh": {
+          "total_accidents_india_three_years": 2616,
+          "total_fatal_accidents_india_three_years": 1250,
+          "total_grievous_accidents_india_three_years": 974
+        },
+        "badaun": {
+          "total_accidents_india_three_years": 1735,
+          "total_fatal_accidents_india_three_years": 935,
+          "total_grievous_accidents_india_three_years": 608
+        },
+        "baghpat": {
+          "total_accidents_india_three_years": 1102,
+          "total_fatal_accidents_india_three_years": 480,
+          "total_grievous_accidents_india_three_years": 493
+        },
+        "bahraich": {
+          "total_accidents_india_three_years": 1542,
+          "total_fatal_accidents_india_three_years": 837,
+          "total_grievous_accidents_india_three_years": 452
+        },
+        "ballia": {
+          "total_accidents_india_three_years": 1162,
+          "total_fatal_accidents_india_three_years": 745,
+          "total_grievous_accidents_india_three_years": 289
+        },
+        "balrampur": {
+          "total_accidents_india_three_years": 553,
+          "total_fatal_accidents_india_three_years": 330,
+          "total_grievous_accidents_india_three_years": 149
+        },
+        "banda": {
+          "total_accidents_india_three_years": 1510,
+          "total_fatal_accidents_india_three_years": 643,
+          "total_grievous_accidents_india_three_years": 617
+        },
+        "barabanki": {
+          "total_accidents_india_three_years": 2287,
+          "total_fatal_accidents_india_three_years": 1213,
+          "total_grievous_accidents_india_three_years": 748
+        },
+        "bareilly": {
+          "total_accidents_india_three_years": 2738,
+          "total_fatal_accidents_india_three_years": 1074,
+          "total_grievous_accidents_india_three_years": 1206
+        },
+        "basti": {
+          "total_accidents_india_three_years": 1452,
+          "total_fatal_accidents_india_three_years": 892,
+          "total_grievous_accidents_india_three_years": 372
+        },
+        "bhadohi": {
+          "total_accidents_india_three_years": 535,
+          "total_fatal_accidents_india_three_years": 338,
+          "total_grievous_accidents_india_three_years": 166
+        },
+        "bijnor": {
+          "total_accidents_india_three_years": 1858,
+          "total_fatal_accidents_india_three_years": 1002,
+          "total_grievous_accidents_india_three_years": 723
+        },
+        "bulandshahar": {
+          "total_accidents_india_three_years": 3296,
+          "total_fatal_accidents_india_three_years": 1632,
+          "total_grievous_accidents_india_three_years": 1282
+        },
+        "chandauli": {
+          "total_accidents_india_three_years": 694,
+          "total_fatal_accidents_india_three_years": 412,
+          "total_grievous_accidents_india_three_years": 179
+        },
+        "chitrakoot": {
+          "total_accidents_india_three_years": 888,
+          "total_fatal_accidents_india_three_years": 440,
+          "total_grievous_accidents_india_three_years": 339
+        },
+        "deoria": {
+          "total_accidents_india_three_years": 1604,
+          "total_fatal_accidents_india_three_years": 789,
+          "total_grievous_accidents_india_three_years": 686
+        },
+        "etah": {
+          "total_accidents_india_three_years": 1053,
+          "total_fatal_accidents_india_three_years": 511,
+          "total_grievous_accidents_india_three_years": 373
+        },
+        "etawah": {
+          "total_accidents_india_three_years": 1672,
+          "total_fatal_accidents_india_three_years": 759,
+          "total_grievous_accidents_india_three_years": 718
+        },
+        "fatehgarh": {
+          "total_accidents_india_three_years": 1175,
+          "total_fatal_accidents_india_three_years": 579,
+          "total_grievous_accidents_india_three_years": 391
+        },
+        "fatehpur": {
+          "total_accidents_india_three_years": 1921,
+          "total_fatal_accidents_india_three_years": 1063,
+          "total_grievous_accidents_india_three_years": 656
+        },
+        "firozabad": {
+          "total_accidents_india_three_years": 2123,
+          "total_fatal_accidents_india_three_years": 992,
+          "total_grievous_accidents_india_three_years": 800
+        },
+        "gautam buddha nagar": {
+          "total_accidents_india_three_years": 3450,
+          "total_fatal_accidents_india_three_years": 1315,
+          "total_grievous_accidents_india_three_years": 1315
+        },
+        "ghaziabad": {
+          "total_accidents_india_three_years": 3135,
+          "total_fatal_accidents_india_three_years": 995,
+          "total_grievous_accidents_india_three_years": 1051
+        },
+        "ghazipur": {
+          "total_accidents_india_three_years": 1160,
+          "total_fatal_accidents_india_three_years": 698,
+          "total_grievous_accidents_india_three_years": 325
+        },
+        "gonda": {
+          "total_accidents_india_three_years": 1753,
+          "total_fatal_accidents_india_three_years": 949,
+          "total_grievous_accidents_india_three_years": 548
+        },
+        "gorakhpur": {
+          "total_accidents_india_three_years": 4305,
+          "total_fatal_accidents_india_three_years": 1528,
+          "total_grievous_accidents_india_three_years": 1641
+        },
+        "hamirpur": {
+          "total_accidents_india_three_years": 1107,
+          "total_fatal_accidents_india_three_years": 555,
+          "total_grievous_accidents_india_three_years": 398
+        },
+        "hapur": {
+          "total_accidents_india_three_years": 1083,
+          "total_fatal_accidents_india_three_years": 552,
+          "total_grievous_accidents_india_three_years": 377
+        },
+        "hardoi": {
+          "total_accidents_india_three_years": 3285,
+          "total_fatal_accidents_india_three_years": 1749,
+          "total_grievous_accidents_india_three_years": 1193
+        },
+        "hathras": {
+          "total_accidents_india_three_years": 1337,
+          "total_fatal_accidents_india_three_years": 712,
+          "total_grievous_accidents_india_three_years": 510
+        },
+        "jalaun": {
+          "total_accidents_india_three_years": 1221,
+          "total_fatal_accidents_india_three_years": 467,
+          "total_grievous_accidents_india_three_years": 620
+        },
+        "jaunpur": {
+          "total_accidents_india_three_years": 1805,
+          "total_fatal_accidents_india_three_years": 1009,
+          "total_grievous_accidents_india_three_years": 451
+        },
+        "jhansi": {
+          "total_accidents_india_three_years": 1818,
+          "total_fatal_accidents_india_three_years": 754,
+          "total_grievous_accidents_india_three_years": 675
+        },
+        "kannauj": {
+          "total_accidents_india_three_years": 1415,
+          "total_fatal_accidents_india_three_years": 657,
+          "total_grievous_accidents_india_three_years": 589
+        },
+        "kanpur city": {
+          "total_accidents_india_three_years": 4284,
+          "total_fatal_accidents_india_three_years": 1758,
+          "total_grievous_accidents_india_three_years": 1886
+        },
+        "kanpurdehat": {
+          "total_accidents_india_three_years": 2028,
+          "total_fatal_accidents_india_three_years": 985,
+          "total_grievous_accidents_india_three_years": 753
+        },
+        "kasganj": {
+          "total_accidents_india_three_years": 1203,
+          "total_fatal_accidents_india_three_years": 540,
+          "total_grievous_accidents_india_three_years": 483
+        },
+        "kaushambi": {
+          "total_accidents_india_three_years": 832,
+          "total_fatal_accidents_india_three_years": 367,
+          "total_grievous_accidents_india_three_years": 354
+        },
+        "kheri": {
+          "total_accidents_india_three_years": 2258,
+          "total_fatal_accidents_india_three_years": 1297,
+          "total_grievous_accidents_india_three_years": 637
+        },
+        "kushi nagar": {
+          "total_accidents_india_three_years": 1772,
+          "total_fatal_accidents_india_three_years": 988,
+          "total_grievous_accidents_india_three_years": 559
+        },
+        "lalitpur": {
+          "total_accidents_india_three_years": 1027,
+          "total_fatal_accidents_india_three_years": 455,
+          "total_grievous_accidents_india_three_years": 386
+        },
+        "lucknow": {
+          "total_accidents_india_three_years": 1667,
+          "total_fatal_accidents_india_three_years": 631,
+          "total_grievous_accidents_india_three_years": 561
+        },
+        "mahoba": {
+          "total_accidents_india_three_years": 560,
+          "total_fatal_accidents_india_three_years": 282,
+          "total_grievous_accidents_india_three_years": 212
+        },
+        "mahrajganj": {
+          "total_accidents_india_three_years": 1711,
+          "total_fatal_accidents_india_three_years": 882,
+          "total_grievous_accidents_india_three_years": 666
+        },
+        "mainpuri": {
+          "total_accidents_india_three_years": 1839,
+          "total_fatal_accidents_india_three_years": 941,
+          "total_grievous_accidents_india_three_years": 734
+        },
+        "mathura": {
+          "total_accidents_india_three_years": 3154,
+          "total_fatal_accidents_india_three_years": 1625,
+          "total_grievous_accidents_india_three_years": 1171
+        },
+        "mau": {
+          "total_accidents_india_three_years": 970,
+          "total_fatal_accidents_india_three_years": 515,
+          "total_grievous_accidents_india_three_years": 287
+        },
+        "meerut": {
+          "total_accidents_india_three_years": 2866,
+          "total_fatal_accidents_india_three_years": 1084,
+          "total_grievous_accidents_india_three_years": 1370
+        },
+        "mirzapur": {
+          "total_accidents_india_three_years": 1371,
+          "total_fatal_accidents_india_three_years": 904,
+          "total_grievous_accidents_india_three_years": 330
+        },
+        "moradabad": {
+          "total_accidents_india_three_years": 1546,
+          "total_fatal_accidents_india_three_years": 827,
+          "total_grievous_accidents_india_three_years": 597
+        },
+        "muzaffar nagar": {
+          "total_accidents_india_three_years": 1758,
+          "total_fatal_accidents_india_three_years": 883,
+          "total_grievous_accidents_india_three_years": 667
+        },
+        "pilibhit": {
+          "total_accidents_india_three_years": 1440,
+          "total_fatal_accidents_india_three_years": 625,
+          "total_grievous_accidents_india_three_years": 643
+        },
+        "pratapgarh": {
+          "total_accidents_india_three_years": 1489,
+          "total_fatal_accidents_india_three_years": 815,
+          "total_grievous_accidents_india_three_years": 457
+        },
+        "prayagraj": {
+          "total_accidents_india_three_years": 3526,
+          "total_fatal_accidents_india_three_years": 1550,
+          "total_grievous_accidents_india_three_years": 1190
+        },
+        "rae bareli": {
+          "total_accidents_india_three_years": 2229,
+          "total_fatal_accidents_india_three_years": 1127,
+          "total_grievous_accidents_india_three_years": 815
+        },
+        "rampur": {
+          "total_accidents_india_three_years": 1346,
+          "total_fatal_accidents_india_three_years": 792,
+          "total_grievous_accidents_india_three_years": 419
+        },
+        "saharanpur": {
+          "total_accidents_india_three_years": 1683,
+          "total_fatal_accidents_india_three_years": 868,
+          "total_grievous_accidents_india_three_years": 608
+        },
+        "sambhal": {
+          "total_accidents_india_three_years": 1251,
+          "total_fatal_accidents_india_three_years": 775,
+          "total_grievous_accidents_india_three_years": 375
+        },
+        "sant kabeer nagar": {
+          "total_accidents_india_three_years": 918,
+          "total_fatal_accidents_india_three_years": 545,
+          "total_grievous_accidents_india_three_years": 268
+        },
+        "shahjahanpur": {
+          "total_accidents_india_three_years": 2530,
+          "total_fatal_accidents_india_three_years": 1237,
+          "total_grievous_accidents_india_three_years": 1031
+        },
+        "shamli": {
+          "total_accidents_india_three_years": 788,
+          "total_fatal_accidents_india_three_years": 402,
+          "total_grievous_accidents_india_three_years": 320
+        },
+        "shravasti": {
+          "total_accidents_india_three_years": 392,
+          "total_fatal_accidents_india_three_years": 233,
+          "total_grievous_accidents_india_three_years": 116
+        },
+        "sidharth nagar": {
+          "total_accidents_india_three_years": 835,
+          "total_fatal_accidents_india_three_years": 514,
+          "total_grievous_accidents_india_three_years": 211
+        },
+        "sitapur": {
+          "total_accidents_india_three_years": 2918,
+          "total_fatal_accidents_india_three_years": 1665,
+          "total_grievous_accidents_india_three_years": 898
+        },
+        "sonbhadra": {
+          "total_accidents_india_three_years": 1315,
+          "total_fatal_accidents_india_three_years": 844,
+          "total_grievous_accidents_india_three_years": 358
+        },
+        "sultanpur": {
+          "total_accidents_india_three_years": 1456,
+          "total_fatal_accidents_india_three_years": 751,
+          "total_grievous_accidents_india_three_years": 494
+        },
+        "unnao": {
+          "total_accidents_india_three_years": 2942,
+          "total_fatal_accidents_india_three_years": 1532,
+          "total_grievous_accidents_india_three_years": 1118
+        },
+        "varanasi": {
+          "total_accidents_india_three_years": 1600,
+          "total_fatal_accidents_india_three_years": 791,
+          "total_grievous_accidents_india_three_years": 486
+        }
+      }
+    },
+    "uttarakhand": {
+      "districts": {
+        "almora": {
+          "total_accidents_india_three_years": 95,
+          "total_fatal_accidents_india_three_years": 39,
+          "total_grievous_accidents_india_three_years": 33
+        },
+        "bageshwar": {
+          "total_accidents_india_three_years": 35,
+          "total_fatal_accidents_india_three_years": 23,
+          "total_grievous_accidents_india_three_years": 4
+        },
+        "chamoli": {
+          "total_accidents_india_three_years": 161,
+          "total_fatal_accidents_india_three_years": 95,
+          "total_grievous_accidents_india_three_years": 36
+        },
+        "champawat": {
+          "total_accidents_india_three_years": 127,
+          "total_fatal_accidents_india_three_years": 49,
+          "total_grievous_accidents_india_three_years": 40
+        },
+        "dehradun": {
+          "total_accidents_india_three_years": 1360,
+          "total_fatal_accidents_india_three_years": 594,
+          "total_grievous_accidents_india_three_years": 551
+        },
+        "haridwar": {
+          "total_accidents_india_three_years": 1182,
+          "total_fatal_accidents_india_three_years": 727,
+          "total_grievous_accidents_india_three_years": 355
+        },
+        "nainital": {
+          "total_accidents_india_three_years": 671,
+          "total_fatal_accidents_india_three_years": 344,
+          "total_grievous_accidents_india_three_years": 179
+        },
+        "pauri garhwal": {
+          "total_accidents_india_three_years": 112,
+          "total_fatal_accidents_india_three_years": 54,
+          "total_grievous_accidents_india_three_years": 40
+        },
+        "pithoragarh": {
+          "total_accidents_india_three_years": 134,
+          "total_fatal_accidents_india_three_years": 65,
+          "total_grievous_accidents_india_three_years": 38
+        },
+        "rudraprayag": {
+          "total_accidents_india_three_years": 100,
+          "total_fatal_accidents_india_three_years": 68,
+          "total_grievous_accidents_india_three_years": 9
+        },
+        "tehri garhwal": {
+          "total_accidents_india_three_years": 215,
+          "total_fatal_accidents_india_three_years": 124,
+          "total_grievous_accidents_india_three_years": 69
+        },
+        "udham singh nagar": {
+          "total_accidents_india_three_years": 1268,
+          "total_fatal_accidents_india_three_years": 796,
+          "total_grievous_accidents_india_three_years": 380
+        },
+        "uttar kashi": {
+          "total_accidents_india_three_years": 81,
+          "total_fatal_accidents_india_three_years": 42,
+          "total_grievous_accidents_india_three_years": 27
+        }
+      }
+    },
+    "west bengal": {
+      "districts": {
+        "alipurduar": {
+          "total_accidents_india_three_years": 665,
+          "total_fatal_accidents_india_three_years": 420,
+          "total_grievous_accidents_india_three_years": 212
+        },
+        "asansol durgapur police commissionerate": {
+          "total_accidents_india_three_years": 1384,
+          "total_fatal_accidents_india_three_years": 842,
+          "total_grievous_accidents_india_three_years": 440
+        },
+        "bankura": {
+          "total_accidents_india_three_years": 1124,
+          "total_fatal_accidents_india_three_years": 686,
+          "total_grievous_accidents_india_three_years": 371
+        },
+        "barasat police district": {
+          "total_accidents_india_three_years": 1277,
+          "total_fatal_accidents_india_three_years": 299,
+          "total_grievous_accidents_india_three_years": 766
+        },
+        "barrackpore police commissionerate": {
+          "total_accidents_india_three_years": 1198,
+          "total_fatal_accidents_india_three_years": 415,
+          "total_grievous_accidents_india_three_years": 421
+        },
+        "baruipur police district": {
+          "total_accidents_india_three_years": 1259,
+          "total_fatal_accidents_india_three_years": 409,
+          "total_grievous_accidents_india_three_years": 560
+        },
+        "basirhat police district": {
+          "total_accidents_india_three_years": 570,
+          "total_fatal_accidents_india_three_years": 358,
+          "total_grievous_accidents_india_three_years": 169
+        },
+        "bidhannagar police commissionerate": {
+          "total_accidents_india_three_years": 914,
+          "total_fatal_accidents_india_three_years": 176,
+          "total_grievous_accidents_india_three_years": 504
+        },
+        "birbhum": {
+          "total_accidents_india_three_years": 1549,
+          "total_fatal_accidents_india_three_years": 587,
+          "total_grievous_accidents_india_three_years": 866
+        },
+        "bongaon police district": {
+          "total_accidents_india_three_years": 414,
+          "total_fatal_accidents_india_three_years": 219,
+          "total_grievous_accidents_india_three_years": 154
+        },
+        "chandannagar police commissionerate": {
+          "total_accidents_india_three_years": 384,
+          "total_fatal_accidents_india_three_years": 181,
+          "total_grievous_accidents_india_three_years": 144
+        },
+        "cooch behar": {
+          "total_accidents_india_three_years": 1328,
+          "total_fatal_accidents_india_three_years": 656,
+          "total_grievous_accidents_india_three_years": 491
+        },
+        "dakshin dinajpur": {
+          "total_accidents_india_three_years": 850,
+          "total_fatal_accidents_india_three_years": 427,
+          "total_grievous_accidents_india_three_years": 360
+        },
+        "darjeeling": {
+          "total_accidents_india_three_years": 372,
+          "total_fatal_accidents_india_three_years": 201,
+          "total_grievous_accidents_india_three_years": 91
+        },
+        "diamond harbour police district": {
+          "total_accidents_india_three_years": 1351,
+          "total_fatal_accidents_india_three_years": 395,
+          "total_grievous_accidents_india_three_years": 869
+        },
+        "hooghly rural": {
+          "total_accidents_india_three_years": 1224,
+          "total_fatal_accidents_india_three_years": 702,
+          "total_grievous_accidents_india_three_years": 399
+        },
+        "howrah police commisionarate": {
+          "total_accidents_india_three_years": 1281,
+          "total_fatal_accidents_india_three_years": 520,
+          "total_grievous_accidents_india_three_years": 403
+        },
+        "howrah rural": {
+          "total_accidents_india_three_years": 1030,
+          "total_fatal_accidents_india_three_years": 546,
+          "total_grievous_accidents_india_three_years": 372
+        },
+        "islampur police district": {
+          "total_accidents_india_three_years": 990,
+          "total_fatal_accidents_india_three_years": 422,
+          "total_grievous_accidents_india_three_years": 473
+        },
+        "jalpaiguri": {
+          "total_accidents_india_three_years": 1484,
+          "total_fatal_accidents_india_three_years": 420,
+          "total_grievous_accidents_india_three_years": 920
+        },
+        "jangipur police district": {
+          "total_accidents_india_three_years": 517,
+          "total_fatal_accidents_india_three_years": 305,
+          "total_grievous_accidents_india_three_years": 192
+        },
+        "jhargram": {
+          "total_accidents_india_three_years": 370,
+          "total_fatal_accidents_india_three_years": 262,
+          "total_grievous_accidents_india_three_years": 82
+        },
+        "kalimpong": {
+          "total_accidents_india_three_years": 145,
+          "total_fatal_accidents_india_three_years": 43,
+          "total_grievous_accidents_india_three_years": 59
+        },
+        "kolkata bhangar division": {
+          "total_accidents_india_three_years": 47,
+          "total_fatal_accidents_india_three_years": 30,
+          "total_grievous_accidents_india_three_years": 11
+        },
+        "kolkata central division": {
+          "total_accidents_india_three_years": 456,
+          "total_fatal_accidents_india_three_years": 50,
+          "total_grievous_accidents_india_three_years": 196
+        },
+        "kolkata east division": {
+          "total_accidents_india_three_years": 245,
+          "total_fatal_accidents_india_three_years": 57,
+          "total_grievous_accidents_india_three_years": 78
+        },
+        "kolkata eastern suburban division": {
+          "total_accidents_india_three_years": 193,
+          "total_fatal_accidents_india_three_years": 51,
+          "total_grievous_accidents_india_three_years": 37
+        },
+        "kolkata north  north suburban division": {
+          "total_accidents_india_three_years": 360,
+          "total_fatal_accidents_india_three_years": 63,
+          "total_grievous_accidents_india_three_years": 139
+        },
+        "kolkata port division": {
+          "total_accidents_india_three_years": 300,
+          "total_fatal_accidents_india_three_years": 63,
+          "total_grievous_accidents_india_three_years": 80
+        },
+        "kolkata south division": {
+          "total_accidents_india_three_years": 487,
+          "total_fatal_accidents_india_three_years": 73,
+          "total_grievous_accidents_india_three_years": 207
+        },
+        "kolkata south east division": {
+          "total_accidents_india_three_years": 365,
+          "total_fatal_accidents_india_three_years": 24,
+          "total_grievous_accidents_india_three_years": 115
+        },
+        "kolkata south suburban division": {
+          "total_accidents_india_three_years": 107,
+          "total_fatal_accidents_india_three_years": 33,
+          "total_grievous_accidents_india_three_years": 16
+        },
+        "kolkata south west division": {
+          "total_accidents_india_three_years": 183,
+          "total_fatal_accidents_india_three_years": 45,
+          "total_grievous_accidents_india_three_years": 71
+        },
+        "krishnanagar police district": {
+          "total_accidents_india_three_years": 1128,
+          "total_fatal_accidents_india_three_years": 563,
+          "total_grievous_accidents_india_three_years": 432
+        },
+        "malda": {
+          "total_accidents_india_three_years": 2439,
+          "total_fatal_accidents_india_three_years": 916,
+          "total_grievous_accidents_india_three_years": 1223
+        },
+        "murshidabad": {
+          "total_accidents_india_three_years": 1604,
+          "total_fatal_accidents_india_three_years": 895,
+          "total_grievous_accidents_india_three_years": 648
+        },
+        "paschim medinipur": {
+          "total_accidents_india_three_years": 2302,
+          "total_fatal_accidents_india_three_years": 1391,
+          "total_grievous_accidents_india_three_years": 762
+        },
+        "purba bardhaman": {
+          "total_accidents_india_three_years": 2376,
+          "total_fatal_accidents_india_three_years": 1026,
+          "total_grievous_accidents_india_three_years": 1155
+        },
+        "purba mednipur": {
+          "total_accidents_india_three_years": 2509,
+          "total_fatal_accidents_india_three_years": 1372,
+          "total_grievous_accidents_india_three_years": 966
+        },
+        "purulia": {
+          "total_accidents_india_three_years": 780,
+          "total_fatal_accidents_india_three_years": 547,
+          "total_grievous_accidents_india_three_years": 176
+        },
+        "raiganj police district": {
+          "total_accidents_india_three_years": 858,
+          "total_fatal_accidents_india_three_years": 527,
+          "total_grievous_accidents_india_three_years": 284
+        },
+        "ranaghat police district": {
+          "total_accidents_india_three_years": 896,
+          "total_fatal_accidents_india_three_years": 390,
+          "total_grievous_accidents_india_three_years": 434
+        },
+        "siliguri police commissionerate": {
+          "total_accidents_india_three_years": 866,
+          "total_fatal_accidents_india_three_years": 327,
+          "total_grievous_accidents_india_three_years": 323
+        },
+        "sundarban police district": {
+          "total_accidents_india_three_years": 559,
+          "total_fatal_accidents_india_three_years": 227,
+          "total_grievous_accidents_india_three_years": 263
+        }
+      }
+    }
+  }
+}

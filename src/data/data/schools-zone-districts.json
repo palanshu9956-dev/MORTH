@@ -1,0 +1,3084 @@
+{
+  "district_data_by_state": {
+    "ANDHRA PRADESH": {
+      "YSR KADAPA": {
+        "total_fatalities": 0,
+        "total_grievous": 0,
+        "total_fg": 0,
+        "fg_covered": 0,
+        "school_zone_metrics": {
+          "total_school_zones": 1,
+          "total_accidents": 1,
+          "pedestrian_accidents": 1,
+          "accidents_age_6_18": 0
+        },
+        "time_window_accidents": [
+          {
+            "label": "Other (Off-Hours)",
+            "value": 1
+          }
+        ]
+      }
+    },
+    "ASSAM": {
+      "BISWANATH": {
+        "total_fatalities": 38,
+        "total_grievous": 71,
+        "total_fg": 109,
+        "fg_covered": 80,
+        "school_zone_metrics": {
+          "total_school_zones": 22,
+          "total_accidents": 89,
+          "pedestrian_accidents": 36,
+          "accidents_age_6_18": 5
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 6
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 29
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 12
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 42
+          }
+        ]
+      },
+      "DARRANG": {
+        "total_fatalities": 64,
+        "total_grievous": 252,
+        "total_fg": 316,
+        "fg_covered": 218,
+        "school_zone_metrics": {
+          "total_school_zones": 32,
+          "total_accidents": 266,
+          "pedestrian_accidents": 108,
+          "accidents_age_6_18": 36
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 34
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 70
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 51
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 111
+          }
+        ]
+      },
+      "DHEMAJI": {
+        "total_fatalities": 20,
+        "total_grievous": 32,
+        "total_fg": 52,
+        "fg_covered": 41,
+        "school_zone_metrics": {
+          "total_school_zones": 13,
+          "total_accidents": 53,
+          "pedestrian_accidents": 19,
+          "accidents_age_6_18": 9
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 4
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 9
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 10
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 30
+          }
+        ]
+      },
+      "DIBRUGARH": {
+        "total_fatalities": 3,
+        "total_grievous": 8,
+        "total_fg": 11,
+        "fg_covered": 8,
+        "school_zone_metrics": {
+          "total_school_zones": 1,
+          "total_accidents": 15,
+          "pedestrian_accidents": 1,
+          "accidents_age_6_18": 0
+        },
+        "time_window_accidents": [
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 5
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 4
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 6
+          }
+        ]
+      },
+      "KAMRUP": {
+        "total_fatalities": 8,
+        "total_grievous": 38,
+        "total_fg": 46,
+        "fg_covered": 39,
+        "school_zone_metrics": {
+          "total_school_zones": 7,
+          "total_accidents": 51,
+          "pedestrian_accidents": 18,
+          "accidents_age_6_18": 2
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 2
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 12
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 6
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 31
+          }
+        ]
+      },
+      "LAKHIMPUR": {
+        "total_fatalities": 42,
+        "total_grievous": 96,
+        "total_fg": 138,
+        "fg_covered": 94,
+        "school_zone_metrics": {
+          "total_school_zones": 24,
+          "total_accidents": 159,
+          "pedestrian_accidents": 22,
+          "accidents_age_6_18": 29
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 19
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 24
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 16
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 100
+          }
+        ]
+      },
+      "SONITPUR": {
+        "total_fatalities": 66,
+        "total_grievous": 172,
+        "total_fg": 238,
+        "fg_covered": 173,
+        "school_zone_metrics": {
+          "total_school_zones": 24,
+          "total_accidents": 208,
+          "pedestrian_accidents": 65,
+          "accidents_age_6_18": 9
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 31
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 36
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 33
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 108
+          }
+        ]
+      },
+      "TINSUKIA": {
+        "total_fatalities": 9,
+        "total_grievous": 10,
+        "total_fg": 19,
+        "fg_covered": 10,
+        "school_zone_metrics": {
+          "total_school_zones": 6,
+          "total_accidents": 10,
+          "pedestrian_accidents": 3,
+          "accidents_age_6_18": 1
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 2
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 2
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 1
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 5
+          }
+        ]
+      },
+      "UDALGURI": {
+        "total_fatalities": 4,
+        "total_grievous": 2,
+        "total_fg": 6,
+        "fg_covered": 5,
+        "school_zone_metrics": {
+          "total_school_zones": 1,
+          "total_accidents": 7,
+          "pedestrian_accidents": 4,
+          "accidents_age_6_18": 0
+        },
+        "time_window_accidents": [
+          {
+            "label": "Other (Off-Hours)",
+            "value": 7
+          }
+        ]
+      }
+    },
+    "MAHARASHTRA": {
+      "AKOLA": {
+        "total_fatalities": 6,
+        "total_grievous": 3,
+        "total_fg": 9,
+        "fg_covered": 7,
+        "school_zone_metrics": {
+          "total_school_zones": 1,
+          "total_accidents": 8,
+          "pedestrian_accidents": 1,
+          "accidents_age_6_18": 1
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 1
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 1
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 2
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 4
+          }
+        ]
+      },
+      "AMRAVATI CITY": {
+        "total_fatalities": 11,
+        "total_grievous": 23,
+        "total_fg": 34,
+        "fg_covered": 26,
+        "school_zone_metrics": {
+          "total_school_zones": 9,
+          "total_accidents": 52,
+          "pedestrian_accidents": 12,
+          "accidents_age_6_18": 8
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 4
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 12
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 12
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 24
+          }
+        ]
+      },
+      "AMRAVATI RURAL": {
+        "total_fatalities": 3,
+        "total_grievous": 6,
+        "total_fg": 9,
+        "fg_covered": 6,
+        "school_zone_metrics": {
+          "total_school_zones": 3,
+          "total_accidents": 6,
+          "pedestrian_accidents": 2,
+          "accidents_age_6_18": 1
+        },
+        "time_window_accidents": [
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 1
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 5
+          }
+        ]
+      },
+      "BHANDARA": {
+        "total_fatalities": 24,
+        "total_grievous": 48,
+        "total_fg": 72,
+        "fg_covered": 52,
+        "school_zone_metrics": {
+          "total_school_zones": 12,
+          "total_accidents": 66,
+          "pedestrian_accidents": 10,
+          "accidents_age_6_18": 8
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 11
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 19
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 13
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 23
+          }
+        ]
+      },
+      "BULDHANA": {
+        "total_fatalities": 4,
+        "total_grievous": 5,
+        "total_fg": 9,
+        "fg_covered": 7,
+        "school_zone_metrics": {
+          "total_school_zones": 1,
+          "total_accidents": 10,
+          "pedestrian_accidents": 1,
+          "accidents_age_6_18": 1
+        },
+        "time_window_accidents": [
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 1
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 2
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 7
+          }
+        ]
+      },
+      "DHULE": {
+        "total_fatalities": 38,
+        "total_grievous": 68,
+        "total_fg": 106,
+        "fg_covered": 81,
+        "school_zone_metrics": {
+          "total_school_zones": 24,
+          "total_accidents": 98,
+          "pedestrian_accidents": 28,
+          "accidents_age_6_18": 9
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 9
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 27
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 12
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 50
+          }
+        ]
+      },
+      "GONDIA": {
+        "total_fatalities": 5,
+        "total_grievous": 13,
+        "total_fg": 18,
+        "fg_covered": 6,
+        "school_zone_metrics": {
+          "total_school_zones": 2,
+          "total_accidents": 6,
+          "pedestrian_accidents": 0,
+          "accidents_age_6_18": 0
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 1
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 1
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 2
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 2
+          }
+        ]
+      },
+      "JALGAON": {
+        "total_fatalities": 77,
+        "total_grievous": 89,
+        "total_fg": 166,
+        "fg_covered": 122,
+        "school_zone_metrics": {
+          "total_school_zones": 30,
+          "total_accidents": 157,
+          "pedestrian_accidents": 40,
+          "accidents_age_6_18": 11
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 16
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 30
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 30
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 81
+          }
+        ]
+      },
+      "KOLHAPUR": {
+        "total_fatalities": 26,
+        "total_grievous": 40,
+        "total_fg": 66,
+        "fg_covered": 54,
+        "school_zone_metrics": {
+          "total_school_zones": 7,
+          "total_accidents": 78,
+          "pedestrian_accidents": 15,
+          "accidents_age_6_18": 11
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 13
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 19
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 12
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 34
+          }
+        ]
+      },
+      "Mira-Bhainder, Vasai-Virar PC": {
+        "total_fatalities": 40,
+        "total_grievous": 131,
+        "total_fg": 171,
+        "fg_covered": 145,
+        "school_zone_metrics": {
+          "total_school_zones": 11,
+          "total_accidents": 174,
+          "pedestrian_accidents": 63,
+          "accidents_age_6_18": 20
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 28
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 30
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 17
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 99
+          }
+        ]
+      },
+      "MUMBAI CITY": {
+        "total_fatalities": 168,
+        "total_grievous": 728,
+        "total_fg": 896,
+        "fg_covered": 735,
+        "school_zone_metrics": {
+          "total_school_zones": 41,
+          "total_accidents": 870,
+          "pedestrian_accidents": 337,
+          "accidents_age_6_18": 91
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 101
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 186
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 119
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 464
+          }
+        ]
+      },
+      "NAGPUR CITY": {
+        "total_fatalities": 5,
+        "total_grievous": 21,
+        "total_fg": 26,
+        "fg_covered": 23,
+        "school_zone_metrics": {
+          "total_school_zones": 1,
+          "total_accidents": 42,
+          "pedestrian_accidents": 9,
+          "accidents_age_6_18": 3
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 1
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 10
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 6
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 25
+          }
+        ]
+      },
+      "NAGPUR RURAL": {
+        "total_fatalities": 10,
+        "total_grievous": 18,
+        "total_fg": 28,
+        "fg_covered": 23,
+        "school_zone_metrics": {
+          "total_school_zones": 5,
+          "total_accidents": 29,
+          "pedestrian_accidents": 9,
+          "accidents_age_6_18": 2
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 3
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 2
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 3
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 21
+          }
+        ]
+      },
+      "NAVI  MUMBAI": {
+        "total_fatalities": 58,
+        "total_grievous": 85,
+        "total_fg": 143,
+        "fg_covered": 128,
+        "school_zone_metrics": {
+          "total_school_zones": 15,
+          "total_accidents": 146,
+          "pedestrian_accidents": 45,
+          "accidents_age_6_18": 10
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 15
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 25
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 26
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 80
+          }
+        ]
+      },
+      "PALGHAR": {
+        "total_fatalities": 28,
+        "total_grievous": 32,
+        "total_fg": 60,
+        "fg_covered": 39,
+        "school_zone_metrics": {
+          "total_school_zones": 8,
+          "total_accidents": 49,
+          "pedestrian_accidents": 10,
+          "accidents_age_6_18": 18
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 5
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 7
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 6
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 31
+          }
+        ]
+      },
+      "PIMPR-CHINCHWAD": {
+        "total_fatalities": 36,
+        "total_grievous": 53,
+        "total_fg": 89,
+        "fg_covered": 73,
+        "school_zone_metrics": {
+          "total_school_zones": 9,
+          "total_accidents": 80,
+          "pedestrian_accidents": 20,
+          "accidents_age_6_18": 6
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 11
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 12
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 5
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 52
+          }
+        ]
+      },
+      "PUNE CITY": {
+        "total_fatalities": 54,
+        "total_grievous": 61,
+        "total_fg": 115,
+        "fg_covered": 81,
+        "school_zone_metrics": {
+          "total_school_zones": 10,
+          "total_accidents": 106,
+          "pedestrian_accidents": 28,
+          "accidents_age_6_18": 4
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 16
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 13
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 6
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 71
+          }
+        ]
+      },
+      "PUNE RURAL": {
+        "total_fatalities": 50,
+        "total_grievous": 94,
+        "total_fg": 144,
+        "fg_covered": 91,
+        "school_zone_metrics": {
+          "total_school_zones": 14,
+          "total_accidents": 155,
+          "pedestrian_accidents": 42,
+          "accidents_age_6_18": 11
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 21
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 22
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 25
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 87
+          }
+        ]
+      },
+      "RAIGAD": {
+        "total_fatalities": 2,
+        "total_grievous": 3,
+        "total_fg": 5,
+        "fg_covered": 5,
+        "school_zone_metrics": {
+          "total_school_zones": 1,
+          "total_accidents": 7,
+          "pedestrian_accidents": 4,
+          "accidents_age_6_18": 3
+        },
+        "time_window_accidents": [
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 1
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 2
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 4
+          }
+        ]
+      },
+      "SANGLI": {
+        "total_fatalities": 15,
+        "total_grievous": 4,
+        "total_fg": 19,
+        "fg_covered": 17,
+        "school_zone_metrics": {
+          "total_school_zones": 4,
+          "total_accidents": 21,
+          "pedestrian_accidents": 2,
+          "accidents_age_6_18": 0
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 5
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 5
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 2
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 9
+          }
+        ]
+      },
+      "SATARA": {
+        "total_fatalities": 44,
+        "total_grievous": 33,
+        "total_fg": 77,
+        "fg_covered": 62,
+        "school_zone_metrics": {
+          "total_school_zones": 14,
+          "total_accidents": 77,
+          "pedestrian_accidents": 18,
+          "accidents_age_6_18": 10
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 9
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 9
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 12
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 47
+          }
+        ]
+      },
+      "THANE CITY": {
+        "total_fatalities": 57,
+        "total_grievous": 127,
+        "total_fg": 184,
+        "fg_covered": 159,
+        "school_zone_metrics": {
+          "total_school_zones": 27,
+          "total_accidents": 191,
+          "pedestrian_accidents": 65,
+          "accidents_age_6_18": 16
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 32
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 39
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 27
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 93
+          }
+        ]
+      },
+      "THANE RURAL": {
+        "total_fatalities": 1,
+        "total_grievous": 0,
+        "total_fg": 1,
+        "fg_covered": 1,
+        "school_zone_metrics": {
+          "total_school_zones": 1,
+          "total_accidents": 1,
+          "pedestrian_accidents": 0,
+          "accidents_age_6_18": 0
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 1
+          }
+        ]
+      },
+      "WARDHA": {
+        "total_fatalities": 6,
+        "total_grievous": 16,
+        "total_fg": 22,
+        "fg_covered": 9,
+        "school_zone_metrics": {
+          "total_school_zones": 3,
+          "total_accidents": 9,
+          "pedestrian_accidents": 1,
+          "accidents_age_6_18": 0
+        },
+        "time_window_accidents": [
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 2
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 1
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 6
+          }
+        ]
+      }
+    },
+    "RAJASTHAN": {
+      "AJMER": {
+        "total_fatalities": 27,
+        "total_grievous": 35,
+        "total_fg": 62,
+        "fg_covered": 50,
+        "school_zone_metrics": {
+          "total_school_zones": 11,
+          "total_accidents": 62,
+          "pedestrian_accidents": 18,
+          "accidents_age_6_18": 9
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 8
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 11
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 12
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 31
+          }
+        ]
+      },
+      "BARAN": {
+        "total_fatalities": 13,
+        "total_grievous": 14,
+        "total_fg": 27,
+        "fg_covered": 14,
+        "school_zone_metrics": {
+          "total_school_zones": 11,
+          "total_accidents": 22,
+          "pedestrian_accidents": 3,
+          "accidents_age_6_18": 3
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 1
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 7
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 4
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 10
+          }
+        ]
+      },
+      "BEAWAR": {
+        "total_fatalities": 15,
+        "total_grievous": 18,
+        "total_fg": 33,
+        "fg_covered": 25,
+        "school_zone_metrics": {
+          "total_school_zones": 4,
+          "total_accidents": 30,
+          "pedestrian_accidents": 9,
+          "accidents_age_6_18": 6
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 2
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 8
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 6
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 14
+          }
+        ]
+      },
+      "BHILWARA": {
+        "total_fatalities": 4,
+        "total_grievous": 4,
+        "total_fg": 8,
+        "fg_covered": 6,
+        "school_zone_metrics": {
+          "total_school_zones": 2,
+          "total_accidents": 7,
+          "pedestrian_accidents": 2,
+          "accidents_age_6_18": 0
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 2
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 1
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 1
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 3
+          }
+        ]
+      },
+      "BIKANER": {
+        "total_fatalities": 37,
+        "total_grievous": 39,
+        "total_fg": 76,
+        "fg_covered": 66,
+        "school_zone_metrics": {
+          "total_school_zones": 23,
+          "total_accidents": 92,
+          "pedestrian_accidents": 24,
+          "accidents_age_6_18": 9
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 11
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 21
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 14
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 46
+          }
+        ]
+      },
+      "BUNDI": {
+        "total_fatalities": 2,
+        "total_grievous": 4,
+        "total_fg": 6,
+        "fg_covered": 5,
+        "school_zone_metrics": {
+          "total_school_zones": 2,
+          "total_accidents": 5,
+          "pedestrian_accidents": 2,
+          "accidents_age_6_18": 0
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 1
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 1
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 3
+          }
+        ]
+      },
+      "CHITTORGARH": {
+        "total_fatalities": 4,
+        "total_grievous": 3,
+        "total_fg": 7,
+        "fg_covered": 6,
+        "school_zone_metrics": {
+          "total_school_zones": 4,
+          "total_accidents": 7,
+          "pedestrian_accidents": 1,
+          "accidents_age_6_18": 1
+        },
+        "time_window_accidents": [
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 1
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 1
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 5
+          }
+        ]
+      },
+      "CHURU": {
+        "total_fatalities": 23,
+        "total_grievous": 14,
+        "total_fg": 37,
+        "fg_covered": 22,
+        "school_zone_metrics": {
+          "total_school_zones": 8,
+          "total_accidents": 24,
+          "pedestrian_accidents": 7,
+          "accidents_age_6_18": 3
+        },
+        "time_window_accidents": [
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 3
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 4
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 17
+          }
+        ]
+      },
+      "DIDWANA KUCHAMAN": {
+        "total_fatalities": 5,
+        "total_grievous": 2,
+        "total_fg": 7,
+        "fg_covered": 5,
+        "school_zone_metrics": {
+          "total_school_zones": 3,
+          "total_accidents": 9,
+          "pedestrian_accidents": 2,
+          "accidents_age_6_18": 1
+        },
+        "time_window_accidents": [
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 3
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 6
+          }
+        ]
+      },
+      "DUNGARPUR": {
+        "total_fatalities": 4,
+        "total_grievous": 4,
+        "total_fg": 8,
+        "fg_covered": 6,
+        "school_zone_metrics": {
+          "total_school_zones": 2,
+          "total_accidents": 6,
+          "pedestrian_accidents": 4,
+          "accidents_age_6_18": 1
+        },
+        "time_window_accidents": [
+          {
+            "label": "Other (Off-Hours)",
+            "value": 6
+          }
+        ]
+      },
+      "JAIPUR RURAL": {
+        "total_fatalities": 33,
+        "total_grievous": 44,
+        "total_fg": 77,
+        "fg_covered": 59,
+        "school_zone_metrics": {
+          "total_school_zones": 5,
+          "total_accidents": 66,
+          "pedestrian_accidents": 35,
+          "accidents_age_6_18": 4
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 14
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 14
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 12
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 26
+          }
+        ]
+      },
+      "Jaipur(East)": {
+        "total_fatalities": 19,
+        "total_grievous": 32,
+        "total_fg": 51,
+        "fg_covered": 44,
+        "school_zone_metrics": {
+          "total_school_zones": 3,
+          "total_accidents": 194,
+          "pedestrian_accidents": 26,
+          "accidents_age_6_18": 5
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 19
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 45
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 41
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 89
+          }
+        ]
+      },
+      "Jaipur(South)": {
+        "total_fatalities": 13,
+        "total_grievous": 28,
+        "total_fg": 41,
+        "fg_covered": 35,
+        "school_zone_metrics": {
+          "total_school_zones": 2,
+          "total_accidents": 169,
+          "pedestrian_accidents": 10,
+          "accidents_age_6_18": 8
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 23
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 43
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 27
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 76
+          }
+        ]
+      },
+      "Jaipur(West)": {
+        "total_fatalities": 77,
+        "total_grievous": 130,
+        "total_fg": 207,
+        "fg_covered": 166,
+        "school_zone_metrics": {
+          "total_school_zones": 10,
+          "total_accidents": 460,
+          "pedestrian_accidents": 70,
+          "accidents_age_6_18": 17
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 48
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 107
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 71
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 234
+          }
+        ]
+      },
+      "JHALAWAR": {
+        "total_fatalities": 12,
+        "total_grievous": 14,
+        "total_fg": 26,
+        "fg_covered": 18,
+        "school_zone_metrics": {
+          "total_school_zones": 7,
+          "total_accidents": 32,
+          "pedestrian_accidents": 5,
+          "accidents_age_6_18": 2
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 2
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 6
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 5
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 19
+          }
+        ]
+      },
+      "JHUNJHUNU": {
+        "total_fatalities": 32,
+        "total_grievous": 58,
+        "total_fg": 90,
+        "fg_covered": 65,
+        "school_zone_metrics": {
+          "total_school_zones": 32,
+          "total_accidents": 86,
+          "pedestrian_accidents": 26,
+          "accidents_age_6_18": 10
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 9
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 21
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 21
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 35
+          }
+        ]
+      },
+      "JODHPUR EAST": {
+        "total_fatalities": 15,
+        "total_grievous": 13,
+        "total_fg": 28,
+        "fg_covered": 26,
+        "school_zone_metrics": {
+          "total_school_zones": 6,
+          "total_accidents": 69,
+          "pedestrian_accidents": 16,
+          "accidents_age_6_18": 4
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 8
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 12
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 12
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 37
+          }
+        ]
+      },
+      "JODHPUR WEST": {
+        "total_fatalities": 10,
+        "total_grievous": 0,
+        "total_fg": 10,
+        "fg_covered": 10,
+        "school_zone_metrics": {
+          "total_school_zones": 2,
+          "total_accidents": 29,
+          "pedestrian_accidents": 5,
+          "accidents_age_6_18": 1
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 2
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 4
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 8
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 15
+          }
+        ]
+      },
+      "KOTA CITY": {
+        "total_fatalities": 17,
+        "total_grievous": 35,
+        "total_fg": 52,
+        "fg_covered": 41,
+        "school_zone_metrics": {
+          "total_school_zones": 4,
+          "total_accidents": 57,
+          "pedestrian_accidents": 21,
+          "accidents_age_6_18": 10
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 7
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 13
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 7
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 30
+          }
+        ]
+      },
+      "KOTA RURAL": {
+        "total_fatalities": 2,
+        "total_grievous": 7,
+        "total_fg": 9,
+        "fg_covered": 7,
+        "school_zone_metrics": {
+          "total_school_zones": 2,
+          "total_accidents": 9,
+          "pedestrian_accidents": 2,
+          "accidents_age_6_18": 0
+        },
+        "time_window_accidents": [
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 2
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 3
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 4
+          }
+        ]
+      },
+      "KOTPUTLI BEHROR": {
+        "total_fatalities": 3,
+        "total_grievous": 7,
+        "total_fg": 10,
+        "fg_covered": 8,
+        "school_zone_metrics": {
+          "total_school_zones": 1,
+          "total_accidents": 15,
+          "pedestrian_accidents": 7,
+          "accidents_age_6_18": 1
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 4
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 2
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 3
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 6
+          }
+        ]
+      },
+      "NAGAUR": {
+        "total_fatalities": 8,
+        "total_grievous": 3,
+        "total_fg": 11,
+        "fg_covered": 10,
+        "school_zone_metrics": {
+          "total_school_zones": 7,
+          "total_accidents": 12,
+          "pedestrian_accidents": 1,
+          "accidents_age_6_18": 2
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 2
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 2
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 3
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 5
+          }
+        ]
+      },
+      "RAJASAMAND": {
+        "total_fatalities": 41,
+        "total_grievous": 38,
+        "total_fg": 79,
+        "fg_covered": 66,
+        "school_zone_metrics": {
+          "total_school_zones": 16,
+          "total_accidents": 87,
+          "pedestrian_accidents": 27,
+          "accidents_age_6_18": 6
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 6
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 25
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 15
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 41
+          }
+        ]
+      },
+      "SALUMBAR": {
+        "total_fatalities": 13,
+        "total_grievous": 9,
+        "total_fg": 22,
+        "fg_covered": 16,
+        "school_zone_metrics": {
+          "total_school_zones": 1,
+          "total_accidents": 17,
+          "pedestrian_accidents": 2,
+          "accidents_age_6_18": 4
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 1
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 2
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 2
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 12
+          }
+        ]
+      },
+      "SIKAR": {
+        "total_fatalities": 49,
+        "total_grievous": 38,
+        "total_fg": 87,
+        "fg_covered": 48,
+        "school_zone_metrics": {
+          "total_school_zones": 20,
+          "total_accidents": 59,
+          "pedestrian_accidents": 12,
+          "accidents_age_6_18": 15
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 10
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 9
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 10
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 30
+          }
+        ]
+      },
+      "SIROHI": {
+        "total_fatalities": 23,
+        "total_grievous": 23,
+        "total_fg": 46,
+        "fg_covered": 33,
+        "school_zone_metrics": {
+          "total_school_zones": 7,
+          "total_accidents": 40,
+          "pedestrian_accidents": 15,
+          "accidents_age_6_18": 2
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 2
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 7
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 10
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 21
+          }
+        ]
+      },
+      "Sri Ganganagar": {
+        "total_fatalities": 8,
+        "total_grievous": 3,
+        "total_fg": 11,
+        "fg_covered": 8,
+        "school_zone_metrics": {
+          "total_school_zones": 3,
+          "total_accidents": 8,
+          "pedestrian_accidents": 3,
+          "accidents_age_6_18": 1
+        },
+        "time_window_accidents": [
+          {
+            "label": "Other (Off-Hours)",
+            "value": 8
+          }
+        ]
+      },
+      "TONK": {
+        "total_fatalities": 5,
+        "total_grievous": 6,
+        "total_fg": 11,
+        "fg_covered": 8,
+        "school_zone_metrics": {
+          "total_school_zones": 4,
+          "total_accidents": 10,
+          "pedestrian_accidents": 2,
+          "accidents_age_6_18": 0
+        },
+        "time_window_accidents": [
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 3
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 1
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 6
+          }
+        ]
+      },
+      "UDAIPUR": {
+        "total_fatalities": 35,
+        "total_grievous": 36,
+        "total_fg": 71,
+        "fg_covered": 56,
+        "school_zone_metrics": {
+          "total_school_zones": 10,
+          "total_accidents": 66,
+          "pedestrian_accidents": 22,
+          "accidents_age_6_18": 10
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 9
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 14
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 10
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 33
+          }
+        ]
+      }
+    },
+    "TAMIL NADU": {
+      "CUDDALORE": {
+        "total_fatalities": 14,
+        "total_grievous": 17,
+        "total_fg": 31,
+        "fg_covered": 27,
+        "school_zone_metrics": {
+          "total_school_zones": 2,
+          "total_accidents": 34,
+          "pedestrian_accidents": 12,
+          "accidents_age_6_18": 2
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 1
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 3
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 6
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 24
+          }
+        ]
+      },
+      "DHARMAPURI": {
+        "total_fatalities": 18,
+        "total_grievous": 10,
+        "total_fg": 28,
+        "fg_covered": 24,
+        "school_zone_metrics": {
+          "total_school_zones": 6,
+          "total_accidents": 55,
+          "pedestrian_accidents": 10,
+          "accidents_age_6_18": 8
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 16
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 9
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 6
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 24
+          }
+        ]
+      },
+      "DINDIGUL": {
+        "total_fatalities": 31,
+        "total_grievous": 58,
+        "total_fg": 89,
+        "fg_covered": 72,
+        "school_zone_metrics": {
+          "total_school_zones": 4,
+          "total_accidents": 86,
+          "pedestrian_accidents": 16,
+          "accidents_age_6_18": 5
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 17
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 17
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 21
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 31
+          }
+        ]
+      },
+      "KANYAKUMARI": {
+        "total_fatalities": 18,
+        "total_grievous": 2,
+        "total_fg": 20,
+        "fg_covered": 19,
+        "school_zone_metrics": {
+          "total_school_zones": 4,
+          "total_accidents": 35,
+          "pedestrian_accidents": 9,
+          "accidents_age_6_18": 4
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 4
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 5
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 3
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 23
+          }
+        ]
+      },
+      "KRISHNAGIRI": {
+        "total_fatalities": 30,
+        "total_grievous": 20,
+        "total_fg": 50,
+        "fg_covered": 40,
+        "school_zone_metrics": {
+          "total_school_zones": 4,
+          "total_accidents": 118,
+          "pedestrian_accidents": 31,
+          "accidents_age_6_18": 13
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 12
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 20
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 23
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 63
+          }
+        ]
+      },
+      "MADURAI": {
+        "total_fatalities": 67,
+        "total_grievous": 43,
+        "total_fg": 110,
+        "fg_covered": 94,
+        "school_zone_metrics": {
+          "total_school_zones": 11,
+          "total_accidents": 182,
+          "pedestrian_accidents": 42,
+          "accidents_age_6_18": 17
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 27
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 26
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 26
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 103
+          }
+        ]
+      },
+      "MADURAI CITY": {
+        "total_fatalities": 20,
+        "total_grievous": 1,
+        "total_fg": 21,
+        "fg_covered": 20,
+        "school_zone_metrics": {
+          "total_school_zones": 3,
+          "total_accidents": 44,
+          "pedestrian_accidents": 7,
+          "accidents_age_6_18": 1
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 7
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 7
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 4
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 26
+          }
+        ]
+      },
+      "NAMAKKAL": {
+        "total_fatalities": 27,
+        "total_grievous": 12,
+        "total_fg": 39,
+        "fg_covered": 32,
+        "school_zone_metrics": {
+          "total_school_zones": 6,
+          "total_accidents": 87,
+          "pedestrian_accidents": 18,
+          "accidents_age_6_18": 8
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 10
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 19
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 11
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 47
+          }
+        ]
+      },
+      "PERAMBALUR": {
+        "total_fatalities": 30,
+        "total_grievous": 21,
+        "total_fg": 51,
+        "fg_covered": 38,
+        "school_zone_metrics": {
+          "total_school_zones": 10,
+          "total_accidents": 77,
+          "pedestrian_accidents": 6,
+          "accidents_age_6_18": 6
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 8
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 15
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 16
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 38
+          }
+        ]
+      },
+      "PUDUKKOTTAI": {
+        "total_fatalities": 9,
+        "total_grievous": 6,
+        "total_fg": 15,
+        "fg_covered": 11,
+        "school_zone_metrics": {
+          "total_school_zones": 3,
+          "total_accidents": 36,
+          "pedestrian_accidents": 7,
+          "accidents_age_6_18": 1
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 4
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 4
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 5
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 23
+          }
+        ]
+      },
+      "SALEM": {
+        "total_fatalities": 37,
+        "total_grievous": 46,
+        "total_fg": 83,
+        "fg_covered": 73,
+        "school_zone_metrics": {
+          "total_school_zones": 11,
+          "total_accidents": 180,
+          "pedestrian_accidents": 44,
+          "accidents_age_6_18": 6
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 28
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 41
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 28
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 83
+          }
+        ]
+      },
+      "SALEM CITY": {
+        "total_fatalities": 26,
+        "total_grievous": 36,
+        "total_fg": 62,
+        "fg_covered": 60,
+        "school_zone_metrics": {
+          "total_school_zones": 2,
+          "total_accidents": 84,
+          "pedestrian_accidents": 32,
+          "accidents_age_6_18": 1
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 13
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 18
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 10
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 43
+          }
+        ]
+      },
+      "THOOTHUKUDI": {
+        "total_fatalities": 23,
+        "total_grievous": 6,
+        "total_fg": 29,
+        "fg_covered": 24,
+        "school_zone_metrics": {
+          "total_school_zones": 6,
+          "total_accidents": 40,
+          "pedestrian_accidents": 8,
+          "accidents_age_6_18": 4
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 7
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 8
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 3
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 22
+          }
+        ]
+      },
+      "TIRUNELVELI": {
+        "total_fatalities": 6,
+        "total_grievous": 2,
+        "total_fg": 8,
+        "fg_covered": 8,
+        "school_zone_metrics": {
+          "total_school_zones": 4,
+          "total_accidents": 22,
+          "pedestrian_accidents": 3,
+          "accidents_age_6_18": 8
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 3
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 2
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 3
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 14
+          }
+        ]
+      },
+      "TIRUNELVELI CITY": {
+        "total_fatalities": 4,
+        "total_grievous": 0,
+        "total_fg": 4,
+        "fg_covered": 4,
+        "school_zone_metrics": {
+          "total_school_zones": 1,
+          "total_accidents": 5,
+          "pedestrian_accidents": 1,
+          "accidents_age_6_18": 0
+        },
+        "time_window_accidents": [
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 2
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 3
+          }
+        ]
+      },
+      "Tiruvannamalai": {
+        "total_fatalities": 48,
+        "total_grievous": 71,
+        "total_fg": 119,
+        "fg_covered": 93,
+        "school_zone_metrics": {
+          "total_school_zones": 12,
+          "total_accidents": 115,
+          "pedestrian_accidents": 21,
+          "accidents_age_6_18": 10
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 13
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 21
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 21
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 60
+          }
+        ]
+      },
+      "TRICHY": {
+        "total_fatalities": 28,
+        "total_grievous": 16,
+        "total_fg": 44,
+        "fg_covered": 41,
+        "school_zone_metrics": {
+          "total_school_zones": 6,
+          "total_accidents": 78,
+          "pedestrian_accidents": 31,
+          "accidents_age_6_18": 14
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 16
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 11
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 12
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 39
+          }
+        ]
+      },
+      "VELLORE": {
+        "total_fatalities": 87,
+        "total_grievous": 7,
+        "total_fg": 94,
+        "fg_covered": 90,
+        "school_zone_metrics": {
+          "total_school_zones": 35,
+          "total_accidents": 344,
+          "pedestrian_accidents": 90,
+          "accidents_age_6_18": 33
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 52
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 76
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 38
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 178
+          }
+        ]
+      },
+      "VILLUPURAM": {
+        "total_fatalities": 47,
+        "total_grievous": 58,
+        "total_fg": 105,
+        "fg_covered": 74,
+        "school_zone_metrics": {
+          "total_school_zones": 6,
+          "total_accidents": 136,
+          "pedestrian_accidents": 40,
+          "accidents_age_6_18": 12
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 17
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 23
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 17
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 79
+          }
+        ]
+      },
+      "VIRUDHUNAGAR": {
+        "total_fatalities": 48,
+        "total_grievous": 58,
+        "total_fg": 106,
+        "fg_covered": 89,
+        "school_zone_metrics": {
+          "total_school_zones": 11,
+          "total_accidents": 135,
+          "pedestrian_accidents": 23,
+          "accidents_age_6_18": 17
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 16
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 31
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 20
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 68
+          }
+        ]
+      }
+    },
+    "UTTAR PRADESH": {
+      "AGRA": {
+        "total_fatalities": 153,
+        "total_grievous": 151,
+        "total_fg": 304,
+        "fg_covered": 232,
+        "school_zone_metrics": {
+          "total_school_zones": 31,
+          "total_accidents": 341,
+          "pedestrian_accidents": 114,
+          "accidents_age_6_18": 27
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 41
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 58
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 46
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 196
+          }
+        ]
+      },
+      "AURAIYA": {
+        "total_fatalities": 3,
+        "total_grievous": 12,
+        "total_fg": 15,
+        "fg_covered": 13,
+        "school_zone_metrics": {
+          "total_school_zones": 2,
+          "total_accidents": 15,
+          "pedestrian_accidents": 3,
+          "accidents_age_6_18": 1
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 2
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 2
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 3
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 8
+          }
+        ]
+      },
+      "BANDA": {
+        "total_fatalities": 36,
+        "total_grievous": 70,
+        "total_fg": 106,
+        "fg_covered": 72,
+        "school_zone_metrics": {
+          "total_school_zones": 13,
+          "total_accidents": 87,
+          "pedestrian_accidents": 33,
+          "accidents_age_6_18": 10
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 4
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 13
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 17
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 53
+          }
+        ]
+      },
+      "BAREILLY": {
+        "total_fatalities": 4,
+        "total_grievous": 5,
+        "total_fg": 9,
+        "fg_covered": 8,
+        "school_zone_metrics": {
+          "total_school_zones": 3,
+          "total_accidents": 10,
+          "pedestrian_accidents": 5,
+          "accidents_age_6_18": 0
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 2
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 3
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 5
+          }
+        ]
+      },
+      "BHADOHI": {
+        "total_fatalities": 23,
+        "total_grievous": 16,
+        "total_fg": 39,
+        "fg_covered": 29,
+        "school_zone_metrics": {
+          "total_school_zones": 7,
+          "total_accidents": 32,
+          "pedestrian_accidents": 21,
+          "accidents_age_6_18": 1
+        },
+        "time_window_accidents": [
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 7
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 1
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 24
+          }
+        ]
+      },
+      "CHANDAULI": {
+        "total_fatalities": 23,
+        "total_grievous": 22,
+        "total_fg": 45,
+        "fg_covered": 30,
+        "school_zone_metrics": {
+          "total_school_zones": 9,
+          "total_accidents": 34,
+          "pedestrian_accidents": 8,
+          "accidents_age_6_18": 1
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 3
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 3
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 8
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 20
+          }
+        ]
+      },
+      "CHITRAKOOT": {
+        "total_fatalities": 23,
+        "total_grievous": 29,
+        "total_fg": 52,
+        "fg_covered": 40,
+        "school_zone_metrics": {
+          "total_school_zones": 12,
+          "total_accidents": 45,
+          "pedestrian_accidents": 21,
+          "accidents_age_6_18": 5
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 2
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 9
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 13
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 21
+          }
+        ]
+      },
+      "ETAWAH": {
+        "total_fatalities": 65,
+        "total_grievous": 84,
+        "total_fg": 149,
+        "fg_covered": 108,
+        "school_zone_metrics": {
+          "total_school_zones": 12,
+          "total_accidents": 119,
+          "pedestrian_accidents": 61,
+          "accidents_age_6_18": 12
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 9
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 28
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 21
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 61
+          }
+        ]
+      },
+      "FATEHPUR": {
+        "total_fatalities": 12,
+        "total_grievous": 9,
+        "total_fg": 21,
+        "fg_covered": 16,
+        "school_zone_metrics": {
+          "total_school_zones": 4,
+          "total_accidents": 18,
+          "pedestrian_accidents": 6,
+          "accidents_age_6_18": 0
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 2
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 3
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 4
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 9
+          }
+        ]
+      },
+      "FIROZABAD": {
+        "total_fatalities": 104,
+        "total_grievous": 102,
+        "total_fg": 206,
+        "fg_covered": 163,
+        "school_zone_metrics": {
+          "total_school_zones": 17,
+          "total_accidents": 180,
+          "pedestrian_accidents": 105,
+          "accidents_age_6_18": 1
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 11
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 34
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 34
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 101
+          }
+        ]
+      },
+      "HARDOI": {
+        "total_fatalities": 6,
+        "total_grievous": 2,
+        "total_fg": 8,
+        "fg_covered": 4,
+        "school_zone_metrics": {
+          "total_school_zones": 1,
+          "total_accidents": 5,
+          "pedestrian_accidents": 0,
+          "accidents_age_6_18": 0
+        },
+        "time_window_accidents": [
+          {
+            "label": "Other (Off-Hours)",
+            "value": 5
+          }
+        ]
+      },
+      "KANPUR CITY": {
+        "total_fatalities": 106,
+        "total_grievous": 81,
+        "total_fg": 187,
+        "fg_covered": 147,
+        "school_zone_metrics": {
+          "total_school_zones": 12,
+          "total_accidents": 184,
+          "pedestrian_accidents": 55,
+          "accidents_age_6_18": 5
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 22
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 34
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 30
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 98
+          }
+        ]
+      },
+      "KANPURDEHAT": {
+        "total_fatalities": 63,
+        "total_grievous": 42,
+        "total_fg": 105,
+        "fg_covered": 87,
+        "school_zone_metrics": {
+          "total_school_zones": 8,
+          "total_accidents": 102,
+          "pedestrian_accidents": 48,
+          "accidents_age_6_18": 5
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 11
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 27
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 18
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 46
+          }
+        ]
+      },
+      "KAUSHAMBI": {
+        "total_fatalities": 3,
+        "total_grievous": 1,
+        "total_fg": 4,
+        "fg_covered": 3,
+        "school_zone_metrics": {
+          "total_school_zones": 1,
+          "total_accidents": 3,
+          "pedestrian_accidents": 0,
+          "accidents_age_6_18": 1
+        },
+        "time_window_accidents": [
+          {
+            "label": "Other (Off-Hours)",
+            "value": 3
+          }
+        ]
+      },
+      "KHERI": {
+        "total_fatalities": 11,
+        "total_grievous": 18,
+        "total_fg": 29,
+        "fg_covered": 19,
+        "school_zone_metrics": {
+          "total_school_zones": 2,
+          "total_accidents": 19,
+          "pedestrian_accidents": 7,
+          "accidents_age_6_18": 1
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 1
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 3
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 5
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 10
+          }
+        ]
+      },
+      "LUCKNOW": {
+        "total_fatalities": 12,
+        "total_grievous": 8,
+        "total_fg": 20,
+        "fg_covered": 19,
+        "school_zone_metrics": {
+          "total_school_zones": 8,
+          "total_accidents": 30,
+          "pedestrian_accidents": 11,
+          "accidents_age_6_18": 4
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 4
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 4
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 6
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 16
+          }
+        ]
+      },
+      "MAHOBA": {
+        "total_fatalities": 0,
+        "total_grievous": 2,
+        "total_fg": 2,
+        "fg_covered": 1,
+        "school_zone_metrics": {
+          "total_school_zones": 1,
+          "total_accidents": 1,
+          "pedestrian_accidents": 0,
+          "accidents_age_6_18": 0
+        },
+        "time_window_accidents": [
+          {
+            "label": "Other (Off-Hours)",
+            "value": 1
+          }
+        ]
+      },
+      "MAINPURI": {
+        "total_fatalities": 2,
+        "total_grievous": 2,
+        "total_fg": 4,
+        "fg_covered": 4,
+        "school_zone_metrics": {
+          "total_school_zones": 1,
+          "total_accidents": 5,
+          "pedestrian_accidents": 4,
+          "accidents_age_6_18": 0
+        },
+        "time_window_accidents": [
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 2
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 2
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 1
+          }
+        ]
+      },
+      "MIRZAPUR": {
+        "total_fatalities": 73,
+        "total_grievous": 52,
+        "total_fg": 125,
+        "fg_covered": 73,
+        "school_zone_metrics": {
+          "total_school_zones": 17,
+          "total_accidents": 81,
+          "pedestrian_accidents": 29,
+          "accidents_age_6_18": 6
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 8
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 20
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 13
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 40
+          }
+        ]
+      },
+      "PRATAPGARH": {
+        "total_fatalities": 10,
+        "total_grievous": 5,
+        "total_fg": 15,
+        "fg_covered": 9,
+        "school_zone_metrics": {
+          "total_school_zones": 2,
+          "total_accidents": 13,
+          "pedestrian_accidents": 5,
+          "accidents_age_6_18": 3
+        },
+        "time_window_accidents": [
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 3
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 2
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 8
+          }
+        ]
+      },
+      "PRAYAGRAJ": {
+        "total_fatalities": 84,
+        "total_grievous": 98,
+        "total_fg": 182,
+        "fg_covered": 143,
+        "school_zone_metrics": {
+          "total_school_zones": 29,
+          "total_accidents": 210,
+          "pedestrian_accidents": 69,
+          "accidents_age_6_18": 19
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 31
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 43
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 31
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 105
+          }
+        ]
+      },
+      "RAE BARELI": {
+        "total_fatalities": 101,
+        "total_grievous": 117,
+        "total_fg": 218,
+        "fg_covered": 191,
+        "school_zone_metrics": {
+          "total_school_zones": 12,
+          "total_accidents": 223,
+          "pedestrian_accidents": 33,
+          "accidents_age_6_18": 4
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 22
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 36
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 44
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 121
+          }
+        ]
+      },
+      "SHAHJAHANPUR": {
+        "total_fatalities": 26,
+        "total_grievous": 35,
+        "total_fg": 61,
+        "fg_covered": 34,
+        "school_zone_metrics": {
+          "total_school_zones": 5,
+          "total_accidents": 36,
+          "pedestrian_accidents": 6,
+          "accidents_age_6_18": 0
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 7
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 3
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 2
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 24
+          }
+        ]
+      },
+      "SITAPUR": {
+        "total_fatalities": 41,
+        "total_grievous": 44,
+        "total_fg": 85,
+        "fg_covered": 68,
+        "school_zone_metrics": {
+          "total_school_zones": 5,
+          "total_accidents": 78,
+          "pedestrian_accidents": 34,
+          "accidents_age_6_18": 1
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 13
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 11
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 10
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 44
+          }
+        ]
+      },
+      "VARANASI": {
+        "total_fatalities": 40,
+        "total_grievous": 20,
+        "total_fg": 60,
+        "fg_covered": 43,
+        "school_zone_metrics": {
+          "total_school_zones": 10,
+          "total_accidents": 52,
+          "pedestrian_accidents": 13,
+          "accidents_age_6_18": 1
+        },
+        "time_window_accidents": [
+          {
+            "label": "07:00-09:00 (Morning)",
+            "value": 2
+          },
+          {
+            "label": "10:00-13:00 (Mid-Day)",
+            "value": 6
+          },
+          {
+            "label": "14:00-16:00 (Afternoon)",
+            "value": 8
+          },
+          {
+            "label": "Other (Off-Hours)",
+            "value": 36
+          }
+        ]
+      }
+    }
+  }
+}

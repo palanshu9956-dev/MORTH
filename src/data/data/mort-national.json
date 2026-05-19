@@ -1,0 +1,1655 @@
+{
+  "meta": {
+    "level": "national",
+    "category": "mort",
+    "last_updated": "2026-04-14"
+  },
+  "summary": {
+    "corridors": 6358,
+    "total_length_processed": 6409.7,
+    "fatal_grievous_covered": 72933,
+    "total_accident_count": 72933,
+    "blackspots": 1087,
+    "total_fatalities": 37164,
+    "fg_coverage": 92912,
+    "total_fatal_accidents": 33415,
+    "total_grievous_accidents": 39518
+  },
+  "india_summary": {
+    "total_accidents_india_three_years": 1449052,
+    "total_fatal_accidents_india_three_years": 472187,
+    "total_grievous_accidents_india_three_years": 472106,
+    "total_fatalities_india_three_years": 523239
+  },
+  "agencies": [
+    {
+      "name": "NHAI",
+      "length": 5053.6,
+      "corridors": 4898,
+      "accidents": 58657,
+      "fatalities": 30689
+    },
+    {
+      "name": "State PWD",
+      "length": 1217.4,
+      "corridors": 1302,
+      "accidents": 12954,
+      "fatalities": 5899
+    },
+    {
+      "name": "NHIDCL",
+      "length": 133.1,
+      "corridors": 151,
+      "accidents": 1290,
+      "fatalities": 520
+    },
+    {
+      "name": "BRO",
+      "length": 5.6,
+      "corridors": 7,
+      "accidents": 32,
+      "fatalities": 56
+    }
+  ],
+  "top_corridors": [
+    {
+      "rank": 1,
+      "corridor_name": "BS-NH-544-2023-2025-KL-0001",
+      "road_name": "NH-544",
+      "state": "KERALA",
+      "district": "THRISSUR RURAL, ERNAKULAM RURAL, ERNAKULAM CITY",
+      "fatal_grievous_accidents": 1161,
+      "fatalities": 127,
+      "length_km": 36.10
+    },
+    {
+      "rank": 2,
+      "corridor_name": "BS-NH-32-2023-2025-TN-0001",
+      "road_name": "NH-32",
+      "state": "TAMIL NADU",
+      "district": "TAMBARAM",
+      "fatal_grievous_accidents": 681,
+      "fatalities": 242,
+      "length_km": 17.40
+    },
+    {
+      "rank": 3,
+      "corridor_name": "BS-NH-66-2023-2025-KL-0001",
+      "road_name": "NH-66",
+      "state": "KERALA",
+      "district": "THIRUVANANTHAPURAM RURAL, THIRUVANANTHAPURAM CITY",
+      "fatal_grievous_accidents": 637,
+      "fatalities": 73,
+      "length_km": 26.00
+    },
+    {
+      "rank": 4,
+      "corridor_name": "BS-NH-66-2023-2025-KL-0008",
+      "road_name": "NH-66",
+      "state": "KERALA",
+      "district": "ERNAKULAM CITY",
+      "fatal_grievous_accidents": 575,
+      "fatalities": 43,
+      "length_km": 15.20
+    },
+    {
+      "rank": 5,
+      "corridor_name": "BS-NH-66-2023-2025-KL-0002",
+      "road_name": "NH-66",
+      "state": "KERALA",
+      "district": "ALAPPUZHA",
+      "fatal_grievous_accidents": 519,
+      "fatalities": 71,
+      "length_km": 21.40
+    },
+    {
+      "rank": 6,
+      "corridor_name": "BS-NH-27-2023-2025-AS-0001",
+      "road_name": "NH-27",
+      "state": "ASSAM",
+      "district": "GUWAHATI CITY",
+      "fatal_grievous_accidents": 456,
+      "fatalities": 206,
+      "length_km": 18.50
+    },
+    {
+      "rank": 7,
+      "corridor_name": "BS-NH-66-2023-2025-KL-0004",
+      "road_name": "NH-66",
+      "state": "KERALA",
+      "district": "THRISSUR RURAL",
+      "fatal_grievous_accidents": 409,
+      "fatalities": 57,
+      "length_km": 20.00
+    },
+    {
+      "rank": 8,
+      "corridor_name": "BS-NH-66-2023-2025-KL-0003",
+      "road_name": "NH-66",
+      "state": "KERALA",
+      "district": "KOLLAM CITY",
+      "fatal_grievous_accidents": 395,
+      "fatalities": 57,
+      "length_km": 15.80
+    },
+    {
+      "rank": 9,
+      "corridor_name": "BS-NH-66-2023-2025-KL-0006",
+      "road_name": "NH-66",
+      "state": "KERALA",
+      "district": "KOLLAM CITY, THIRUVANANTHAPURAM RURAL",
+      "fatal_grievous_accidents": 384,
+      "fatalities": 48,
+      "length_km": 18.00
+    },
+    {
+      "rank": 10,
+      "corridor_name": "BS-NH-66-2023-2025-KL-0007",
+      "road_name": "NH-66",
+      "state": "KERALA",
+      "district": "ALAPPUZHA",
+      "fatal_grievous_accidents": 378,
+      "fatalities": 47,
+      "length_km": 16.60
+    },
+    {
+      "rank": 11,
+      "corridor_name": "BS-NH-66-2023-2025-KL-0005",
+      "road_name": "NH-66",
+      "state": "KERALA",
+      "district": "ALAPPUZHA",
+      "fatal_grievous_accidents": 372,
+      "fatalities": 52,
+      "length_km": 14.90
+    },
+    {
+      "rank": 12,
+      "corridor_name": "BS-NH-48-2023-2025-KA-0001",
+      "road_name": "NH-48",
+      "state": "KARNATAKA",
+      "district": "BANGALORE",
+      "fatal_grievous_accidents": 287,
+      "fatalities": 78,
+      "length_km": 11.40
+    },
+    {
+      "rank": 13,
+      "corridor_name": "BS-NH-44-2023-2025-KA-0001",
+      "road_name": "NH-44",
+      "state": "KARNATAKA",
+      "district": "BANGALORE CITY",
+      "fatal_grievous_accidents": 257,
+      "fatalities": 111,
+      "length_km": 12.50
+    },
+    {
+      "rank": 14,
+      "corridor_name": "BS-NH-66-2023-2025-KL-0009",
+      "road_name": "NH-66",
+      "state": "KERALA",
+      "district": "ALAPPUZHA",
+      "fatal_grievous_accidents": 248,
+      "fatalities": 31,
+      "length_km": 8.70
+    },
+    {
+      "rank": 15,
+      "corridor_name": "BS-NH-65-2023-2025-TS-0001",
+      "road_name": "NH-65",
+      "state": "TELANGANA",
+      "district": "RACHAKONDA",
+      "fatal_grievous_accidents": 226,
+      "fatalities": 66,
+      "length_km": 9.70
+    },
+    {
+      "rank": 16,
+      "corridor_name": "BS-NH-66-2023-2025-KL-0011",
+      "road_name": "NH-66",
+      "state": "KERALA",
+      "district": "KOZHIKODE RURAL",
+      "fatal_grievous_accidents": 207,
+      "fatalities": 27,
+      "length_km": 10.90
+    },
+    {
+      "rank": 17,
+      "corridor_name": "BS-NH-66-2023-2025-KL-0013",
+      "road_name": "NH-66",
+      "state": "KERALA",
+      "district": "ALAPPUZHA, KOLLAM CITY",
+      "fatal_grievous_accidents": 204,
+      "fatalities": 23,
+      "length_km": 11.10
+    },
+    {
+      "rank": 18,
+      "corridor_name": "BS-NH-65-2023-2025-TS-0002",
+      "road_name": "NH-65",
+      "state": "TELANGANA",
+      "district": "CYBERABAD, SANGAREDDY",
+      "fatal_grievous_accidents": 199,
+      "fatalities": 60,
+      "length_km": 8.90
+    },
+    {
+      "rank": 19,
+      "corridor_name": "BS-NH-544-2023-2025-KL-0002",
+      "road_name": "NH-544",
+      "state": "KERALA",
+      "district": "THRISSUR RURAL, THRISSUR CITY",
+      "fatal_grievous_accidents": 198,
+      "fatalities": 27,
+      "length_km": 7.00
+    },
+    {
+      "rank": 20,
+      "corridor_name": "BS-NH-744-2023-2025-KL-0001",
+      "road_name": "NH-744",
+      "state": "KERALA",
+      "district": "KOLLAM RURAL, KOLLAM CITY",
+      "fatal_grievous_accidents": 198,
+      "fatalities": 15,
+      "length_km": 7.50
+    }
+  ],
+  "bars": [
+    {
+      "title": "Corridor Length Distribution",
+      "rows": [
+        {
+          "label": "0-500 m",
+          "value": 1087
+        },
+        {
+          "label": "501-1000 m",
+          "value": 3970
+        },
+        {
+          "label": "1001-2000 m",
+          "value": 980
+        },
+        {
+          "label": "2001-5000 m",
+          "value": 264
+        },
+        {
+          "label": "5001-6000 m",
+          "value": 16
+        },
+        {
+          "label": "6001-7000 m",
+          "value": 10
+        },
+        {
+          "label": "7001-8000 m",
+          "value": 7
+        },
+        {
+          "label": "8001-9000 m",
+          "value": 4
+        },
+        {
+          "label": "9001-10000 m",
+          "value": 4
+        },
+        {
+          "label": ">10000 m",
+          "value": 16
+        }
+      ]
+    },
+    {
+      "title": "Crashes per Corridor",
+      "rows": [
+        {
+          "label": "1-10",
+          "value": 4835
+        },
+        {
+          "label": "11-20",
+          "value": 1055
+        },
+        {
+          "label": "21+",
+          "value": 468
+        }
+      ]
+    },
+    {
+      "title": "Fatalities per Corridor",
+      "rows": [
+        {
+          "label": "0-5",
+          "value": 4043
+        },
+        {
+          "label": "6-15",
+          "value": 2068
+        },
+        {
+          "label": "16+",
+          "value": 247
+        }
+      ]
+    },
+    {
+      "title": "Crashes by Time",
+      "rows": [
+        {
+          "label": "Morning 5 am-10 am",
+          "value": 12824
+        },
+        {
+          "label": "Afternoon 10 am-4 pm",
+          "value": 20456
+        },
+        {
+          "label": "Evening 4 pm-8 pm",
+          "value": 18445
+        },
+        {
+          "label": "Night 8 pm-5 am",
+          "value": 21208
+        }
+      ]
+    },
+    {
+      "title": "Crashes by Junction Type",
+      "rows": [
+        {
+          "label": "T – Junction",
+          "value": 795
+        },
+        {
+          "label": "Y – Junction",
+          "value": 289
+        },
+        {
+          "label": "Four-arm Square Junction",
+          "value": 231
+        },
+        {
+          "label": "Four-arm Cross  Junction",
+          "value": 215
+        },
+        {
+          "label": "Staggered",
+          "value": 108
+        },
+        {
+          "label": "Roundabout",
+          "value": 85
+        },
+        {
+          "label": "Elevated Junction (3- arm / 4-arm)",
+          "value": 19
+        },
+        {
+          "label": "More than Four-arm",
+          "value": 6
+        },
+        {
+          "label": "Unguarded Level Crossing",
+          "value": 3
+        },
+        {
+          "label": "Guarded Level  Crossing",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "title": "Crashes by Vehicle Pair",
+      "rows": [
+        {
+          "label": "Car/Jeep/Van/Taxi + Two Wheeler",
+          "value": 11329
+        },
+        {
+          "label": "Truck/Lorry + Two Wheeler",
+          "value": 7353
+        },
+        {
+          "label": "Others + Two Wheeler",
+          "value": 3717
+        },
+        {
+          "label": "Bus + Two Wheeler",
+          "value": 1897
+        },
+        {
+          "label": "Car/Jeep/Van/Taxi + Truck/Lorry",
+          "value": 1653
+        },
+        {
+          "label": "Auto Rickshaw + Two Wheeler",
+          "value": 913
+        },
+        {
+          "label": "Tempo/Tractor + Two Wheeler",
+          "value": 860
+        },
+        {
+          "label": "Car/Jeep/Van/Taxi + Others",
+          "value": 770
+        },
+        {
+          "label": "Others + Truck/Lorry",
+          "value": 687
+        },
+        {
+          "label": "Auto Rickshaw + Car/Jeep/Van/Taxi",
+          "value": 637
+        },
+        {
+          "label": "Bus + Truck/Lorry",
+          "value": 350
+        },
+        {
+          "label": "Auto Rickshaw + Truck/Lorry",
+          "value": 342
+        },
+        {
+          "label": "Bus + Car/Jeep/Van/Taxi",
+          "value": 324
+        },
+        {
+          "label": "Tempo/Tractor + Truck/Lorry",
+          "value": 296
+        },
+        {
+          "label": "Bicycle + Two Wheeler",
+          "value": 288
+        },
+        {
+          "label": "Bicycle + Car/Jeep/Van/Taxi",
+          "value": 232
+        },
+        {
+          "label": "Blanks + Two Wheeler",
+          "value": 221
+        },
+        {
+          "label": "Car/Jeep/Van/Taxi + Tempo/Tractor",
+          "value": 208
+        },
+        {
+          "label": "Car/Jeep/Van/Taxi + Truck/Lorry + Two Wheeler",
+          "value": 162
+        },
+        {
+          "label": "Bicycle + Truck/Lorry",
+          "value": 161
+        },
+        {
+          "label": "Auto Rickshaw + Others",
+          "value": 144
+        },
+        {
+          "label": "Bus + Others",
+          "value": 140
+        },
+        {
+          "label": "Construction Vehicle + Two Wheeler",
+          "value": 121
+        },
+        {
+          "label": "Auto Rickshaw + Bus",
+          "value": 117
+        },
+        {
+          "label": "Bicycle + Others",
+          "value": 107
+        },
+        {
+          "label": "Heavy Articulated Vehicle/Trolley + Two Wheeler",
+          "value": 88
+        },
+        {
+          "label": "Others + Tempo/Tractor",
+          "value": 62
+        },
+        {
+          "label": "Bus + Tempo/Tractor",
+          "value": 56
+        },
+        {
+          "label": "Bus + Car/Jeep/Van/Taxi + Two Wheeler",
+          "value": 53
+        },
+        {
+          "label": "Auto Rickshaw + Tempo/Tractor",
+          "value": 45
+        },
+        {
+          "label": "Bicycle + Bus",
+          "value": 45
+        },
+        {
+          "label": "Auto Rickshaw + Car/Jeep/Van/Taxi + Two Wheeler",
+          "value": 42
+        },
+        {
+          "label": "Car/Jeep/Van/Taxi + Others + Two Wheeler",
+          "value": 40
+        },
+        {
+          "label": "Car/Jeep/Van/Taxi + Cycle Rickshaw",
+          "value": 39
+        },
+        {
+          "label": "Bus + Truck/Lorry + Two Wheeler",
+          "value": 34
+        },
+        {
+          "label": "Heavy Articulated Vehicle/Trolley + Truck/Lorry",
+          "value": 32
+        },
+        {
+          "label": "Bus + Car/Jeep/Van/Taxi + Truck/Lorry",
+          "value": 28
+        },
+        {
+          "label": "Others + Truck/Lorry + Two Wheeler",
+          "value": 23
+        },
+        {
+          "label": "Blanks + Car/Jeep/Van/Taxi",
+          "value": 21
+        },
+        {
+          "label": "Auto Rickshaw + Bicycle",
+          "value": 19
+        },
+        {
+          "label": "Heavy Articulated Vehicle/Trolley + Others",
+          "value": 19
+        },
+        {
+          "label": "Blanks + Truck/Lorry",
+          "value": 17
+        },
+        {
+          "label": "Car/Jeep/Van/Taxi + Construction Vehicle",
+          "value": 17
+        },
+        {
+          "label": "Car/Jeep/Van/Taxi + Others + Truck/Lorry",
+          "value": 16
+        },
+        {
+          "label": "Car/Jeep/Van/Taxi + Tempo/Tractor + Two Wheeler",
+          "value": 16
+        },
+        {
+          "label": "Cycle Rickshaw + Two Wheeler",
+          "value": 16
+        },
+        {
+          "label": "Tempo/Tractor + Truck/Lorry + Two Wheeler",
+          "value": 15
+        },
+        {
+          "label": "Cycle Rickshaw + Truck/Lorry",
+          "value": 15
+        },
+        {
+          "label": "Construction Vehicle + Truck/Lorry",
+          "value": 14
+        },
+        {
+          "label": "Car/Jeep/Van/Taxi + Heavy Articulated Vehicle/Trolley",
+          "value": 13
+        },
+        {
+          "label": "Auto Rickshaw + Truck/Lorry + Two Wheeler",
+          "value": 13
+        },
+        {
+          "label": "Bicycle + Tempo/Tractor",
+          "value": 11
+        },
+        {
+          "label": "Auto Rickshaw + Car/Jeep/Van/Taxi + Truck/Lorry",
+          "value": 11
+        },
+        {
+          "label": "Auto Rickshaw + Bus + Two Wheeler",
+          "value": 10
+        },
+        {
+          "label": "Car/Jeep/Van/Taxi + Tempo/Tractor + Truck/Lorry",
+          "value": 10
+        },
+        {
+          "label": "Bicycle + Blanks",
+          "value": 9
+        },
+        {
+          "label": "Hand Drawn Cart + Two Wheeler",
+          "value": 8
+        },
+        {
+          "label": "Auto Rickshaw + Blanks",
+          "value": 8
+        },
+        {
+          "label": "Bus + Car/Jeep/Van/Taxi + Others",
+          "value": 8
+        },
+        {
+          "label": "Construction Vehicle + Others",
+          "value": 8
+        },
+        {
+          "label": "Cycle Rickshaw + Others",
+          "value": 8
+        },
+        {
+          "label": "Bus + Car/Jeep/Van/Taxi + Truck/Lorry + Two Wheeler",
+          "value": 7
+        },
+        {
+          "label": "Bus + Cycle Rickshaw",
+          "value": 7
+        },
+        {
+          "label": "Bus + Tempo/Tractor + Two Wheeler",
+          "value": 7
+        },
+        {
+          "label": "Car/Jeep/Van/Taxi + Others + Truck/Lorry + Two Wheeler",
+          "value": 6
+        },
+        {
+          "label": "Bicycle + Car/Jeep/Van/Taxi + Two Wheeler",
+          "value": 6
+        },
+        {
+          "label": "Animal Drawn Cart + Two Wheeler",
+          "value": 6
+        },
+        {
+          "label": "Bus + Others + Truck/Lorry",
+          "value": 6
+        },
+        {
+          "label": "Auto Rickshaw + Car/Jeep/Van/Taxi + Truck/Lorry + Two Wheeler",
+          "value": 5
+        },
+        {
+          "label": "Others + Tempo/Tractor + Two Wheeler",
+          "value": 5
+        },
+        {
+          "label": "Heavy Articulated Vehicle/Trolley + Truck/Lorry + Two Wheeler",
+          "value": 5
+        },
+        {
+          "label": "Car/Jeep/Van/Taxi + Others + Tempo/Tractor",
+          "value": 5
+        },
+        {
+          "label": "Auto Rickshaw + Others + Two Wheeler",
+          "value": 5
+        },
+        {
+          "label": "Animal Drawn Cart + Car/Jeep/Van/Taxi",
+          "value": 4
+        },
+        {
+          "label": "Bus + Construction Vehicle",
+          "value": 4
+        },
+        {
+          "label": "Bus + Others + Two Wheeler",
+          "value": 4
+        },
+        {
+          "label": "Auto Rickshaw + Bus + Truck/Lorry",
+          "value": 4
+        },
+        {
+          "label": "Auto Rickshaw + Construction Vehicle",
+          "value": 3
+        },
+        {
+          "label": "Bus + Car/Jeep/Van/Taxi + Tempo/Tractor",
+          "value": 3
+        },
+        {
+          "label": "Car/Jeep/Van/Taxi + Tempo/Tractor + Truck/Lorry + Two Wheeler",
+          "value": 3
+        },
+        {
+          "label": "Auto Rickshaw + Car/Jeep/Van/Taxi + Tempo/Tractor + Two Wheeler",
+          "value": 3
+        },
+        {
+          "label": "Construction Vehicle + Tempo/Tractor",
+          "value": 3
+        },
+        {
+          "label": "Auto Rickshaw + Car/Jeep/Van/Taxi + Others",
+          "value": 3
+        },
+        {
+          "label": "Two Wheeler + Vehicle With Agriculture Implements",
+          "value": 3
+        },
+        {
+          "label": "Blanks + Others",
+          "value": 3
+        },
+        {
+          "label": "Hand Drawn Cart + Truck/Lorry",
+          "value": 3
+        },
+        {
+          "label": "Auto Rickshaw + Bicycle + Two Wheeler",
+          "value": 3
+        },
+        {
+          "label": "Car/Jeep/Van/Taxi + Hand Drawn Cart",
+          "value": 3
+        },
+        {
+          "label": "Animal Drawn Cart + Truck/Lorry",
+          "value": 3
+        },
+        {
+          "label": "Bicycle + Truck/Lorry + Two Wheeler",
+          "value": 3
+        },
+        {
+          "label": "Blanks + Bus",
+          "value": 3
+        },
+        {
+          "label": "Bicycle + Bus + Car/Jeep/Van/Taxi",
+          "value": 2
+        },
+        {
+          "label": "Auto Rickshaw + Others + Truck/Lorry",
+          "value": 2
+        },
+        {
+          "label": "Construction Vehicle + Truck/Lorry + Two Wheeler",
+          "value": 2
+        },
+        {
+          "label": "Bus + Car/Jeep/Van/Taxi + Heavy Articulated Vehicle/Trolley + Two Wheeler",
+          "value": 2
+        },
+        {
+          "label": "Auto Rickshaw + Bus + Car/Jeep/Van/Taxi",
+          "value": 2
+        },
+        {
+          "label": "Car/Jeep/Van/Taxi + Heavy Articulated Vehicle/Trolley + Others",
+          "value": 2
+        },
+        {
+          "label": "Others + Tempo/Tractor + Truck/Lorry",
+          "value": 2
+        },
+        {
+          "label": "Bicycle + Construction Vehicle + Two Wheeler",
+          "value": 2
+        },
+        {
+          "label": "Car/Jeep/Van/Taxi + Cycle Rickshaw + Two Wheeler",
+          "value": 2
+        },
+        {
+          "label": "Bus + Heavy Articulated Vehicle/Trolley",
+          "value": 2
+        },
+        {
+          "label": "Auto Rickshaw + Cycle Rickshaw",
+          "value": 2
+        },
+        {
+          "label": "Bus + Car/Jeep/Van/Taxi + Others + Two Wheeler",
+          "value": 2
+        },
+        {
+          "label": "Cycle Rickshaw + Tempo/Tractor",
+          "value": 2
+        },
+        {
+          "label": "Auto Rickshaw + Tempo/Tractor + Two Wheeler",
+          "value": 2
+        },
+        {
+          "label": "Animal Drawn Cart + Others",
+          "value": 2
+        },
+        {
+          "label": "Hand Drawn Cart + Others",
+          "value": 2
+        },
+        {
+          "label": "Bicycle + Construction Vehicle",
+          "value": 2
+        },
+        {
+          "label": "Animal Drawn Cart + Bus",
+          "value": 2
+        },
+        {
+          "label": "Auto Rickshaw + Bus + Car/Jeep/Van/Taxi + Two Wheeler",
+          "value": 2
+        },
+        {
+          "label": "Auto Rickshaw + Car/Jeep/Van/Taxi + Tempo/Tractor",
+          "value": 1
+        },
+        {
+          "label": "Blanks + Others + Two Wheeler",
+          "value": 1
+        },
+        {
+          "label": "Blanks + Tempo/Tractor",
+          "value": 1
+        },
+        {
+          "label": "Blanks + Tempo/Tractor + Two Wheeler",
+          "value": 1
+        },
+        {
+          "label": "Blanks + Truck/Lorry + Two Wheeler",
+          "value": 1
+        },
+        {
+          "label": "Bus + Car/Jeep/Van/Taxi + Heavy Articulated Vehicle/Trolley",
+          "value": 1
+        },
+        {
+          "label": "Bus + Car/Jeep/Van/Taxi + Others + Tempo/Tractor + Truck/Lorry + Two Wheeler",
+          "value": 1
+        },
+        {
+          "label": "Bus + Car/Jeep/Van/Taxi + Others + Truck/Lorry",
+          "value": 1
+        },
+        {
+          "label": "Bus + Car/Jeep/Van/Taxi + Tempo/Tractor + Truck/Lorry",
+          "value": 1
+        },
+        {
+          "label": "Bus + Car/Jeep/Van/Taxi + Tempo/Tractor + Truck/Lorry + Two Wheeler",
+          "value": 1
+        },
+        {
+          "label": "Bus + Car/Jeep/Van/Taxi + Tempo/Tractor + Two Wheeler",
+          "value": 1
+        },
+        {
+          "label": "Bicycle + Car/Jeep/Van/Taxi + Truck/Lorry",
+          "value": 1
+        },
+        {
+          "label": "Bicycle + Car/Jeep/Van/Taxi + Others",
+          "value": 1
+        },
+        {
+          "label": "Bus + Hand Drawn Cart",
+          "value": 1
+        },
+        {
+          "label": "Bus + Heavy Articulated Vehicle/Trolley + Tempo/Tractor",
+          "value": 1
+        },
+        {
+          "label": "Bus + Heavy Articulated Vehicle/Trolley + Truck/Lorry",
+          "value": 1
+        },
+        {
+          "label": "Bicycle + Car/Jeep/Van/Taxi + Cycle Rickshaw",
+          "value": 1
+        },
+        {
+          "label": "Bicycle + Bus + Cycle Rickshaw",
+          "value": 1
+        },
+        {
+          "label": "Bus + Tempo/Tractor + Truck/Lorry",
+          "value": 1
+        },
+        {
+          "label": "Bus + Tempo/Tractor + Truck/Lorry + Two Wheeler",
+          "value": 1
+        },
+        {
+          "label": "Auto Rickshaw + Tempo/Tractor + Truck/Lorry",
+          "value": 1
+        },
+        {
+          "label": "Car/Jeep/Van/Taxi + Construction Vehicle + Truck/Lorry",
+          "value": 1
+        },
+        {
+          "label": "Car/Jeep/Van/Taxi + Construction Vehicle + Two Wheeler",
+          "value": 1
+        },
+        {
+          "label": "Car/Jeep/Van/Taxi + Cycle Rickshaw + Others",
+          "value": 1
+        },
+        {
+          "label": "Auto Rickshaw + Heavy Articulated Vehicle/Trolley + Others + Truck/Lorry",
+          "value": 1
+        },
+        {
+          "label": "Car/Jeep/Van/Taxi + Heavy Articulated Vehicle/Trolley + Truck/Lorry",
+          "value": 1
+        },
+        {
+          "label": "Auto Rickshaw + Heavy Articulated Vehicle/Trolley",
+          "value": 1
+        },
+        {
+          "label": "Car/Jeep/Van/Taxi + Others + Tempo/Tractor + Truck/Lorry",
+          "value": 1
+        },
+        {
+          "label": "Car/Jeep/Van/Taxi + Others + Tempo/Tractor + Truck/Lorry + Two Wheeler",
+          "value": 1
+        },
+        {
+          "label": "Auto Rickshaw + Construction Vehicle + Two Wheeler",
+          "value": 1
+        },
+        {
+          "label": "Auto Rickshaw + Car/Jeep/Van/Taxi + Tempo/Tractor + Truck/Lorry",
+          "value": 1
+        },
+        {
+          "label": "Blanks + Cycle Rickshaw",
+          "value": 1
+        },
+        {
+          "label": "Auto Rickshaw + Car/Jeep/Van/Taxi + Others + Tempo/Tractor",
+          "value": 1
+        },
+        {
+          "label": "Car/Jeep/Van/Taxi + Vehicle With Agriculture Implements",
+          "value": 1
+        },
+        {
+          "label": "Truck/Lorry + Vehicle With Agriculture Implements",
+          "value": 1
+        },
+        {
+          "label": "Auto Rickshaw + Car/Jeep/Van/Taxi + Heavy Articulated Vehicle/Trolley + Tempo/Tractor",
+          "value": 1
+        },
+        {
+          "label": "Cycle Rickshaw + Heavy Articulated Vehicle/Trolley + Two Wheeler",
+          "value": 1
+        },
+        {
+          "label": "Cycle Rickshaw + Others + Truck/Lorry",
+          "value": 1
+        },
+        {
+          "label": "Cycle Rickshaw + Truck/Lorry + Two Wheeler",
+          "value": 1
+        },
+        {
+          "label": "Auto Rickshaw + Bus + Others",
+          "value": 1
+        },
+        {
+          "label": "Heavy Articulated Vehicle/Trolley + Others + Tempo/Tractor",
+          "value": 1
+        },
+        {
+          "label": "Heavy Articulated Vehicle/Trolley + Tempo/Tractor",
+          "value": 1
+        },
+        {
+          "label": "Auto Rickshaw + Bus + Car/Jeep/Van/Taxi + Truck/Lorry",
+          "value": 1
+        },
+        {
+          "label": "Auto Rickshaw + Bicycle + Truck/Lorry",
+          "value": 1
+        },
+        {
+          "label": "Auto Rickshaw + Bicycle + Car/Jeep/Van/Taxi + Two Wheeler",
+          "value": 1
+        },
+        {
+          "label": "Animal Drawn Cart + Car/Jeep/Van/Taxi + Tempo/Tractor",
+          "value": 1
+        },
+        {
+          "label": "Tempo/Tractor + Two Wheeler + Vehicle With Agriculture Implements",
+          "value": 1
+        },
+        {
+          "label": "Bicycle + Heavy Articulated Vehicle/Trolley",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "title": "Crashes by Year",
+      "rows": [
+        {
+          "label": "2025",
+          "value": 24911
+        },
+        {
+          "label": "2024",
+          "value": 24363
+        },
+        {
+          "label": "2023",
+          "value": 23659
+        }
+      ]
+    },
+    {
+      "title": "Pedestrian Accidents Involvement by Vehicle Type",
+      "rows": [
+        {
+          "label": "Two Wheeler",
+          "value": 7005
+        },
+        {
+          "label": "Car/Jeep/Van/Taxi",
+          "value": 5188
+        },
+        {
+          "label": "Others",
+          "value": 4145
+        },
+        {
+          "label": "Truck/Lorry",
+          "value": 2745
+        },
+        {
+          "label": "Bus",
+          "value": 1090
+        },
+        {
+          "label": "Auto Rickshaw",
+          "value": 445
+        },
+        {
+          "label": "Tempo/Tractor",
+          "value": 337
+        },
+        {
+          "label": "Blanks",
+          "value": 251
+        },
+        {
+          "label": "Construction Vehicle",
+          "value": 62
+        },
+        {
+          "label": "Heavy Articulated Vehicle/Trolley",
+          "value": 37
+        },
+        {
+          "label": "Bicycle",
+          "value": 13
+        },
+        {
+          "label": "Cycle Rickshaw",
+          "value": 7
+        },
+        {
+          "label": "Vehicle With Agriculture Implements",
+          "value": 4
+        },
+        {
+          "label": "Hand Drawn Cart",
+          "value": 2
+        },
+        {
+          "label": "Animal Drawn Cart",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "title": "Pedestrian Fatalities by Vehicle Type",
+      "rows": [
+        {
+          "label": "Others",
+          "value": 3041
+        },
+        {
+          "label": "Car/Jeep/Van/Taxi",
+          "value": 2933
+        },
+        {
+          "label": "Two Wheeler",
+          "value": 2355
+        },
+        {
+          "label": "Truck/Lorry",
+          "value": 1941
+        },
+        {
+          "label": "Bus",
+          "value": 686
+        },
+        {
+          "label": "Blanks",
+          "value": 206
+        },
+        {
+          "label": "Tempo/Tractor",
+          "value": 199
+        },
+        {
+          "label": "Auto Rickshaw",
+          "value": 139
+        },
+        {
+          "label": "Construction Vehicle",
+          "value": 42
+        },
+        {
+          "label": "Heavy Articulated Vehicle/Trolley",
+          "value": 31
+        },
+        {
+          "label": "Vehicle With Agriculture Implements",
+          "value": 4
+        },
+        {
+          "label": "Cycle Rickshaw",
+          "value": 2
+        },
+        {
+          "label": "Hand Drawn Cart",
+          "value": 2
+        },
+        {
+          "label": "Bicycle",
+          "value": 1
+        },
+        {
+          "label": "Animal Drawn Cart",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "title": "Crashes by Type",
+      "rows": [
+        {
+          "label": "Vehicle to Vehicle",
+          "value": 43555
+        },
+        {
+          "label": "Vehicle to Pedestrian",
+          "value": 21078
+        },
+        {
+          "label": "No Collision",
+          "value": 2626
+        },
+        {
+          "label": "Vehicle to Object / Property",
+          "value": 2407
+        },
+        {
+          "label": "Vehicle to Bicycle",
+          "value": 2168
+        },
+        {
+          "label": "Fallen down while Boarding / Alighting",
+          "value": 1211
+        },
+        {
+          "label": "Vehicle to Animal",
+          "value": 267
+        },
+        {
+          "label": "Vehicle to Tricycle",
+          "value": 252
+        },
+        {
+          "label": "Vehicle to Animal Driven Cart",
+          "value": 120
+        }
+      ]
+    },
+    {
+      "title": "Crashes by Nature",
+      "rows": [
+        {
+          "label": "Hit from Back",
+          "value": 28718
+        },
+        {
+          "label": "Hit from Side",
+          "value": 23263
+        },
+        {
+          "label": "Head on Collision",
+          "value": 16410
+        },
+        {
+          "label": "Sideswipe",
+          "value": 1568
+        },
+        {
+          "label": "No Collision",
+          "value": 1536
+        },
+        {
+          "label": "Skidding / Overturn",
+          "value": 1351
+        },
+        {
+          "label": "Blanks",
+          "value": 1181
+        },
+        {
+          "label": "Hit Fixed / Stationary Object",
+          "value": 969
+        },
+        {
+          "label": "Hit Parked Vehicle",
+          "value": 885
+        },
+        {
+          "label": "Run off Road",
+          "value": 872
+        },
+        {
+          "label": "Overturn",
+          "value": 554
+        },
+        {
+          "label": "Vehicle Fell in Gorge/Ditch/Well",
+          "value": 222
+        },
+        {
+          "label": "Hit tree",
+          "value": 166
+        },
+        {
+          "label": "Landslide",
+          "value": 54
+        },
+        {
+          "label": "Vehicle Fell in River",
+          "value": 27
+        }
+      ]
+    }
+  ],
+  "national_insights": {
+    "top_states": {
+      "fatalities": [
+        {
+          "name": "TAMIL NADU",
+          "value": 6666
+        },
+        {
+          "name": "UTTAR PRADESH",
+          "value": 4206
+        },
+        {
+          "name": "KARNATAKA",
+          "value": 3343
+        },
+        {
+          "name": "MAHARASHTRA",
+          "value": 2660
+        },
+        {
+          "name": "ANDHRA PRADESH",
+          "value": 2295
+        },
+        {
+          "name": "TELANGANA",
+          "value": 2171
+        },
+        {
+          "name": "WEST BENGAL",
+          "value": 1996
+        },
+        {
+          "name": "KERALA",
+          "value": 1842
+        },
+        {
+          "name": "RAJASTHAN",
+          "value": 1841
+        },
+        {
+          "name": "HARYANA",
+          "value": 1706
+        },
+        {
+          "name": "MADHYA PRADESH",
+          "value": 1444
+        },
+        {
+          "name": "ASSAM",
+          "value": 1432
+        },
+        {
+          "name": "GUJARAT, DAMAN AND DIU AND DADRA AND NAGAR HAVELI",
+          "value": 1387
+        },
+        {
+          "name": "BIHAR",
+          "value": 1085
+        },
+        {
+          "name": "ODISHA",
+          "value": 943
+        },
+        {
+          "name": "JHARKHAND",
+          "value": 529
+        },
+        {
+          "name": "CHHATTISGARH",
+          "value": 506
+        },
+        {
+          "name": "JAMMU AND KASHMIR",
+          "value": 309
+        },
+        {
+          "name": "UTTARAKHAND",
+          "value": 291
+        },
+        {
+          "name": "PUNJAB",
+          "value": 200
+        },
+        {
+          "name": "DELHI",
+          "value": 135
+        },
+        {
+          "name": "MANIPUR",
+          "value": 46
+        },
+        {
+          "name": "HIMACHAL PRADESH",
+          "value": 38
+        },
+        {
+          "name": "GOA",
+          "value": 31
+        },
+        {
+          "name": "NAGALAND",
+          "value": 16
+        },
+        {
+          "name": "TRIPURA",
+          "value": 15
+        },
+        {
+          "name": "LADAKH",
+          "value": 11
+        },
+        {
+          "name": "PUDUCHERRY",
+          "value": 9
+        },
+        {
+          "name": "MEGHALAYA",
+          "value": 5
+        },
+        {
+          "name": "SIKKIM",
+          "value": 3
+        },
+        {
+          "name": "ARUNACHAL PRADESH",
+          "value": 3
+        }
+      ],
+      "fatal_grievous": [
+        {
+          "name": "KERALA",
+          "value": 14618
+        },
+        {
+          "name": "TAMIL NADU",
+          "value": 11828
+        },
+        {
+          "name": "KARNATAKA",
+          "value": 7737
+        },
+        {
+          "name": "UTTAR PRADESH",
+          "value": 5967
+        },
+        {
+          "name": "MAHARASHTRA",
+          "value": 4096
+        },
+        {
+          "name": "WEST BENGAL",
+          "value": 3592
+        },
+        {
+          "name": "ASSAM",
+          "value": 3450
+        },
+        {
+          "name": "ANDHRA PRADESH",
+          "value": 3417
+        },
+        {
+          "name": "TELANGANA",
+          "value": 3388
+        },
+        {
+          "name": "RAJASTHAN",
+          "value": 2681
+        },
+        {
+          "name": "HARYANA",
+          "value": 2414
+        },
+        {
+          "name": "MADHYA PRADESH",
+          "value": 2337
+        },
+        {
+          "name": "GUJARAT, DAMAN AND DIU AND DADRA AND NAGAR HAVELI",
+          "value": 1681
+        },
+        {
+          "name": "ODISHA",
+          "value": 1431
+        },
+        {
+          "name": "BIHAR",
+          "value": 1162
+        },
+        {
+          "name": "JAMMU AND KASHMIR",
+          "value": 772
+        },
+        {
+          "name": "CHHATTISGARH",
+          "value": 672
+        },
+        {
+          "name": "JHARKHAND",
+          "value": 533
+        },
+        {
+          "name": "UTTARAKHAND",
+          "value": 329
+        },
+        {
+          "name": "PUNJAB",
+          "value": 219
+        },
+        {
+          "name": "DELHI",
+          "value": 212
+        },
+        {
+          "name": "MANIPUR",
+          "value": 137
+        },
+        {
+          "name": "HIMACHAL PRADESH",
+          "value": 77
+        },
+        {
+          "name": "GOA",
+          "value": 52
+        },
+        {
+          "name": "TRIPURA",
+          "value": 40
+        },
+        {
+          "name": "NAGALAND",
+          "value": 29
+        },
+        {
+          "name": "PUDUCHERRY",
+          "value": 23
+        },
+        {
+          "name": "MEGHALAYA",
+          "value": 17
+        },
+        {
+          "name": "SIKKIM",
+          "value": 10
+        },
+        {
+          "name": "ARUNACHAL PRADESH",
+          "value": 10
+        },
+        {
+          "name": "LADAKH",
+          "value": 2
+        }
+      ]
+    },
+    "top_violations": [
+      {
+        "name": "No Violation",
+        "value": 46167
+      },
+      {
+        "name": "High Speed",
+        "value": 15685
+      },
+      {
+        "name": "Rash Driving",
+        "value": 9953
+      },
+      {
+        "name": "Dangerous Overtaking",
+        "value": 2547
+      },
+      {
+        "name": "Changing lane without care",
+        "value": 1821
+      },
+      {
+        "name": "Blanks",
+        "value": 1774
+      },
+      {
+        "name": "Driving against flow of traffic",
+        "value": 716
+      },
+      {
+        "name": "Non-respect of Right of Way (ROW) rules",
+        "value": 480
+      },
+      {
+        "name": "Illegal Parking on Road",
+        "value": 411
+      },
+      {
+        "name": "Drunken Driving / Consumption of Alcohol",
+        "value": 311
+      },
+      {
+        "name": "Carrying people in Load vehicle",
+        "value": 220
+      },
+      {
+        "name": "Over speed while crossing Speed breaker",
+        "value": 219
+      },
+      {
+        "name": "Over speed while crossing Zebra crossing",
+        "value": 171
+      },
+      {
+        "name": "Violating the Mandatory signs",
+        "value": 165
+      },
+      {
+        "name": "Travel without Seatbelt / Helmet",
+        "value": 151
+      },
+      {
+        "name": "No indication of Vehicle parking along the road",
+        "value": 129
+      },
+      {
+        "name": "Improper use of horn",
+        "value": 109
+      },
+      {
+        "name": "Parking in No Parking area",
+        "value": 97
+      },
+      {
+        "name": "Overloaded",
+        "value": 83
+      },
+      {
+        "name": "Red Light jumping",
+        "value": 74
+      },
+      {
+        "name": "Tripling on Two wheeler",
+        "value": 57
+      },
+      {
+        "name": "Improper use of headlight/ taillight",
+        "value": 29
+      },
+      {
+        "name": "Using Phone while driving",
+        "value": 26
+      },
+      {
+        "name": "Drugs abuse",
+        "value": 17
+      },
+      {
+        "name": "Juvenile driving",
+        "value": 13
+      },
+      {
+        "name": "Driving body altered vehicle",
+        "value": 10
+      }
+    ]
+  }
+}

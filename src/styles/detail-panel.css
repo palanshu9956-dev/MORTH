@@ -1,0 +1,299 @@
+/* State Detail Panel */
+.state-detail-panel {
+  padding: 16px;
+  overflow-y: auto;
+  height: 100%;
+}
+
+.state-detail-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #1a1a2e;
+  margin: 0 0 16px 0;
+  padding-bottom: 12px;
+  border-bottom: 2px solid #f0f0f0;
+}
+
+/* Detail Summary */
+.detail-summary {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-bottom: 20px;
+  background: #f9f9f9;
+  padding: 12px;
+  border-radius: 6px;
+}
+
+.detail-metric {
+  display: flex;
+  flex-direction: column;
+}
+
+.detail-metric-label {
+  font-size: 11px;
+  color: #999;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.detail-metric-value {
+  font-size: 16px;
+  font-weight: 700;
+  color: #1a1a2e;
+}
+
+/* Detail Sections */
+.detail-section {
+  margin-bottom: 20px;
+  background: white;
+  border: 1px solid #e0e0e0;
+  border-radius: 6px;
+  padding: 12px;
+}
+
+.detail-section-title {
+  font-size: 12px;
+  font-weight: 700;
+  color: #1a1a2e;
+  margin: 0 0 12px 0;
+  text-transform: uppercase;
+  border-bottom: 1px solid #f0f0f0;
+  padding-bottom: 8px;
+}
+
+/* Mini Bar Rows */
+.mini-bar-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 10px;
+  font-size: 12px;
+}
+
+.mini-bar-label {
+  min-width: 50px;
+  color: #666;
+  font-weight: 500;
+}
+
+.mini-bar-track {
+  flex: 1;
+  height: 18px;
+  background: #f0f0f0;
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.mini-bar-fill {
+  height: 100%;
+  transition: width 0.3s ease;
+}
+
+.mini-bar-value {
+  min-width: 45px;
+  text-align: right;
+  color: #1a1a2e;
+  font-weight: 600;
+  font-size: 11px;
+}
+
+/* Data List Items */
+.data-list-item {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 12px;
+  align-items: flex-start;
+}
+
+.data-list-bar-track {
+  flex-shrink: 0;
+  width: 8px;
+  height: 40px;
+  background: #f0f0f0;
+  border-radius: 2px;
+  overflow: hidden;
+  margin-top: 2px;
+}
+
+.data-list-bar-fill {
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+
+.data-list-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.data-list-name {
+  font-size: 12px;
+  font-weight: 600;
+  color: #1a1a2e;
+  line-height: 1.2;
+}
+
+.data-list-stats {
+  font-size: 11px;
+  color: #999;
+}
+
+.data-list-pct {
+  color: #666;
+  font-weight: 500;
+}
+
+@media (max-width: 768px) {
+  .detail-summary {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* School Zones Detail Panel */
+.schools-zone-detail-panel {
+  background: #e9ecf3;
+}
+
+.schools-zone-detail-panel .state-detail-title {
+  border-bottom: none;
+  margin-bottom: 12px;
+  padding-bottom: 0;
+  font-size: 28px;
+}
+
+.school-zone-summary-cards {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.school-zone-metric-card {
+  background: #fff;
+  border: 1px solid #dce3ef;
+  border-radius: 12px;
+  padding: 14px;
+  box-shadow: 0 1px 2px rgba(16, 24, 40, 0.06);
+}
+
+.school-zone-metric-title {
+  display: block;
+  color: #2d3748;
+  font-size: 14px;
+  margin-bottom: 6px;
+  font-weight: 600;
+}
+
+.school-zone-metric-value {
+  font-size: 32px;
+  font-weight: 800;
+  line-height: 1;
+  color: #111827;
+}
+
+.school-zone-metric-value.danger {
+  color: #dc2626;
+}
+
+.school-zone-metric-value.success {
+  color: #16a34a;
+}
+
+.school-zone-top-card {
+  background: #fff;
+  border: 1px solid #dce3ef;
+  border-radius: 12px;
+  padding: 12px 14px;
+  margin-bottom: 12px;
+}
+
+.school-zone-top-title {
+  margin: 0 0 8px;
+  font-size: 20px;
+  font-weight: 700;
+  color: #111827;
+}
+
+.school-zone-top-list {
+  display: grid;
+  gap: 4px;
+}
+
+.school-zone-top-item {
+  color: #1f2937;
+  font-weight: 600;
+  font-size: 17px;
+}
+
+.school-zone-chart-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.school-zone-chart-card {
+  background: #fff;
+  border: 1px solid #dce3ef;
+  border-radius: 12px;
+  padding: 12px 14px;
+}
+
+.school-zone-chart-title {
+  margin: 0 0 12px;
+  font-size: 18px;
+  color: #1f2937;
+  font-weight: 700;
+}
+
+.school-zone-bars {
+  display: grid;
+  gap: 8px;
+}
+
+.school-zone-bar-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.school-zone-bar-label {
+  min-width: 72px;
+  color: #4b5563;
+  font-weight: 600;
+}
+
+.school-zone-bar-track {
+  flex: 1;
+  height: 14px;
+  border-radius: 4px;
+  background: #eff4fb;
+  overflow: hidden;
+}
+
+.school-zone-bar-fill {
+  height: 100%;
+  background: rgba(96, 165, 250, 0.7);
+}
+
+.school-zone-bar-value {
+  min-width: 26px;
+  text-align: right;
+  color: #4b5563;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+@media (max-width: 1100px) {
+  .school-zone-summary-cards,
+  .school-zone-chart-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .schools-zone-detail-panel .state-detail-title {
+    font-size: 22px;
+  }
+}

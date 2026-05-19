@@ -1,0 +1,160 @@
+{
+  "summary": {
+    "total_length_processed": "25410.0",
+    "fatal_grievous_covered": "59640",
+    "blackspots": "11240",
+    "fg_coverage": "59640",
+    "total_school_zones": "0",
+    "total_accidents": "59640",
+    "accidents_age_6_18": "0",
+    "pedestrian_accidents": "16490"
+  },
+  "agencies": [
+    {
+      "name": "NH Wing",
+      "length": "11240.0",
+      "corridors": "3980",
+      "accidents": "18,940",
+      "fatalities": "6,940"
+    },
+    {
+      "name": "State PWD",
+      "length": "8730.0",
+      "corridors": "3120",
+      "accidents": "16,410",
+      "fatalities": "5,580"
+    },
+    {
+      "name": "Urban Roads",
+      "length": "3560.0",
+      "corridors": "1760",
+      "accidents": "13,190",
+      "fatalities": "4,170"
+    },
+    {
+      "name": "District Roads",
+      "length": "1880.0",
+      "corridors": "980",
+      "accidents": "11,100",
+      "fatalities": "3,320"
+    }
+  ],
+  "rankings": [
+    {
+      "title": "Top States (IRC Critical Sites)",
+      "rows": [
+        {
+          "name": "UTTAR PRADESH",
+          "value": "12,640"
+        },
+        {
+          "name": "MAHARASHTRA",
+          "value": "11,970"
+        },
+        {
+          "name": "TAMIL NADU",
+          "value": "10,580"
+        }
+      ]
+    },
+    {
+      "title": "Top Severity States",
+      "rows": [
+        {
+          "name": "UTTAR PRADESH",
+          "value": "5,110"
+        },
+        {
+          "name": "MAHARASHTRA",
+          "value": "4,932"
+        },
+        {
+          "name": "RAJASTHAN",
+          "value": "3,722"
+        }
+      ]
+    }
+  ],
+  "bars": [
+    {
+      "title": "IRC Site Severity Bands",
+      "rows": [
+        {
+          "label": "Very High",
+          "value": 10120
+        },
+        {
+          "label": "High",
+          "value": 15890
+        },
+        {
+          "label": "Medium",
+          "value": 17780
+        },
+        {
+          "label": "Low",
+          "value": 15850
+        }
+      ]
+    },
+    {
+      "title": "Crashes by Time",
+      "rows": [
+        {
+          "label": "Morning",
+          "value": 12280
+        },
+        {
+          "label": "Afternoon",
+          "value": 13610
+        },
+        {
+          "label": "Evening",
+          "value": 33750
+        }
+      ]
+    },
+    {
+      "title": "Crashes by Junction Type",
+      "rows": [
+        {
+          "label": "Intersection Cross Road",
+          "value": 14280
+        },
+        {
+          "label": "T-Junction",
+          "value": 12460
+        },
+        {
+          "label": "Y-Junction",
+          "value": 8450
+        },
+        {
+          "label": "Roundabout",
+          "value": 6210
+        }
+      ]
+    },
+    {
+      "title": "Crashes by Vehicle Pair",
+      "rows": [
+        {
+          "label": "Bike + Car",
+          "value": 13220
+        },
+        {
+          "label": "Car + Truck",
+          "value": 10890
+        },
+        {
+          "label": "Bike + Pedestrian",
+          "value": 10080
+        },
+        {
+          "label": "Auto + Bike",
+          "value": 7240
+        }
+      ]
+    }
+  ]
+}

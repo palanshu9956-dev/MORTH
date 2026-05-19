@@ -1,0 +1,7864 @@
+{
+  "default": [
+    {
+      "title": "Crashes by Time",
+      "rows": [
+        {
+          "label": "Afternoon (10am–4pm)",
+          "value": 51507
+        },
+        {
+          "label": "Night (8pm–5am)",
+          "value": 46311
+        },
+        {
+          "label": "Evening (4pm–8pm)",
+          "value": 42375
+        },
+        {
+          "label": "Morning (5am–10am)",
+          "value": 27512
+        }
+      ]
+    },
+    {
+      "title": "Crashes by Junction Type",
+      "rows": [
+        {
+          "label": "T – Junction",
+          "value": 522
+        },
+        {
+          "label": "Y – Junction ",
+          "value": 221
+        },
+        {
+          "label": "Four-arm Square Junction ",
+          "value": 204
+        },
+        {
+          "label": "Roundabout ",
+          "value": 142
+        }
+      ],
+      "rows_expanded": [
+        {
+          "label": "T – Junction",
+          "value": 522
+        },
+        {
+          "label": "Y – Junction ",
+          "value": 221
+        },
+        {
+          "label": "Four-arm Square Junction ",
+          "value": 204
+        },
+        {
+          "label": "Roundabout ",
+          "value": 142
+        },
+        {
+          "label": "Four-arm Cross  Junction ",
+          "value": 76
+        },
+        {
+          "label": "Staggered",
+          "value": 54
+        },
+        {
+          "label": "More than Four-arm",
+          "value": 14
+        },
+        {
+          "label": "Elevated Junction (3- arm / 4-arm) ",
+          "value": 9
+        },
+        {
+          "label": "Guarded Level  Crossing",
+          "value": 6
+        },
+        {
+          "label": "Unguarded Level Crossing ",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "title": "Crashes by Vehicle Pair",
+      "rows": [
+        {
+          "label": "Scooter + Side Car",
+          "value": 25675
+        },
+        {
+          "label": "Scooter + Scooter",
+          "value": 22400
+        },
+        {
+          "label": "Goods Carriage + Scooter",
+          "value": 7918
+        },
+        {
+          "label": "Auto Rickshaw + Scooter",
+          "value": 7497
+        }
+      ],
+      "rows_expanded": [
+        {
+          "label": "Scooter + Side Car",
+          "value": 25675
+        },
+        {
+          "label": "Scooter + Scooter",
+          "value": 22400
+        },
+        {
+          "label": "Goods Carriage + Scooter",
+          "value": 7918
+        },
+        {
+          "label": "Auto Rickshaw + Scooter",
+          "value": 7497
+        },
+        {
+          "label": "Side Car + Side Car",
+          "value": 6541
+        },
+        {
+          "label": "Goods Carriage + Goods Carriage",
+          "value": 4200
+        },
+        {
+          "label": "Scooter + Three Wheeler",
+          "value": 4192
+        },
+        {
+          "label": "Moped + Scooter",
+          "value": 4158
+        },
+        {
+          "label": "Auto Rickshaw + Side Car",
+          "value": 3602
+        },
+        {
+          "label": "Goods Carriage + Side Car",
+          "value": 2735
+        }
+      ]
+    }
+  ],
+  "states": {
+    "kerala": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 2710
+          },
+          {
+            "label": "Grievous",
+            "value": 28674
+          },
+          {
+            "label": "Minor",
+            "value": 6992
+          },
+          {
+            "label": "No Injury",
+            "value": 2689
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Afternoon (10am–4pm)",
+            "value": 12985
+          },
+          {
+            "label": "Evening (4pm–8pm)",
+            "value": 11391
+          },
+          {
+            "label": "Night (8pm–5am)",
+            "value": 8950
+          },
+          {
+            "label": "Morning (5am–10am)",
+            "value": 7739
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 8773
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 7686
+          },
+          {
+            "label": "Moped + Scooter",
+            "value": 1823
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 1703
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 8773
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 7686
+          },
+          {
+            "label": "Moped + Scooter",
+            "value": 1823
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 1703
+          },
+          {
+            "label": "Scooter + Three Wheeler",
+            "value": 1587
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 1529
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 1285
+          },
+          {
+            "label": "Side Car + Three Wheeler",
+            "value": 776
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 630
+          },
+          {
+            "label": "Moped + Side Car",
+            "value": 624
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Junction Type",
+        "rows": [
+          {
+            "label": "T – Junction",
+            "value": 43
+          },
+          {
+            "label": "Y – Junction ",
+            "value": 15
+          },
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 11
+          },
+          {
+            "label": "Staggered",
+            "value": 6
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "T – Junction",
+            "value": 43
+          },
+          {
+            "label": "Y – Junction ",
+            "value": 15
+          },
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 11
+          },
+          {
+            "label": "Staggered",
+            "value": 6
+          },
+          {
+            "label": "Roundabout ",
+            "value": 5
+          },
+          {
+            "label": "Guarded Level  Crossing",
+            "value": 4
+          },
+          {
+            "label": "Four-arm Cross  Junction ",
+            "value": 3
+          },
+          {
+            "label": "More than Four-arm",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Accidents Involvement by Vehicle Type",
+        "rows": [
+          {
+            "label": "Scooter",
+            "value": 5223
+          },
+          {
+            "label": "Side Car",
+            "value": 2270
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 620
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 561
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter",
+            "value": 5223
+          },
+          {
+            "label": "Side Car",
+            "value": 2270
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 620
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 561
+          },
+          {
+            "label": "Moped",
+            "value": 533
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 389
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 44
+          },
+          {
+            "label": "Tourist Maxi Cab",
+            "value": 4
+          },
+          {
+            "label": "Car",
+            "value": 3
+          },
+          {
+            "label": "All India Tourist Vehicle",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Fatalities by Vehicle Type",
+        "rows": [
+          {
+            "label": "Scooter",
+            "value": 327
+          },
+          {
+            "label": "Side Car",
+            "value": 249
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 110
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 77
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter",
+            "value": 327
+          },
+          {
+            "label": "Side Car",
+            "value": 249
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 110
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 77
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 66
+          },
+          {
+            "label": "Moped",
+            "value": 61
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 9
+          },
+          {
+            "label": "Car",
+            "value": 1
+          },
+          {
+            "label": "Ambulance",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2023",
+            "value": 20580
+          },
+          {
+            "label": "2024",
+            "value": 20485
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 0
+          },
+          {
+            "label": "Outside School Zone",
+            "value": 57619
+          }
+        ]
+      }
+    ],
+    "tamilnadu": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 6499
+          },
+          {
+            "label": "Grievous",
+            "value": 7294
+          },
+          {
+            "label": "Minor",
+            "value": 16265
+          },
+          {
+            "label": "No Injury",
+            "value": 614
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Afternoon (10am–4pm)",
+            "value": 8748
+          },
+          {
+            "label": "Evening (4pm–8pm)",
+            "value": 8150
+          },
+          {
+            "label": "Night (8pm–5am)",
+            "value": 7826
+          },
+          {
+            "label": "Morning (5am–10am)",
+            "value": 5948
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Scooter",
+            "value": 5205
+          },
+          {
+            "label": "Scooter + Side Car",
+            "value": 4784
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 1965
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 1132
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter + Scooter",
+            "value": 5205
+          },
+          {
+            "label": "Scooter + Side Car",
+            "value": 4784
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 1965
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 1132
+          },
+          {
+            "label": "Scooter + Three Wheeler",
+            "value": 1074
+          },
+          {
+            "label": "Moped + Scooter",
+            "value": 718
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 436
+          },
+          {
+            "label": "Goods Carriage + Goods Carriage",
+            "value": 364
+          },
+          {
+            "label": "Scooter + Tourist Motor Cab",
+            "value": 310
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 303
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Junction Type",
+        "rows": [
+          {
+            "label": "T – Junction",
+            "value": 225
+          },
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 93
+          },
+          {
+            "label": "Y – Junction ",
+            "value": 79
+          },
+          {
+            "label": "Roundabout ",
+            "value": 51
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "T – Junction",
+            "value": 225
+          },
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 93
+          },
+          {
+            "label": "Y – Junction ",
+            "value": 79
+          },
+          {
+            "label": "Roundabout ",
+            "value": 51
+          },
+          {
+            "label": "Four-arm Cross  Junction ",
+            "value": 37
+          },
+          {
+            "label": "Staggered",
+            "value": 27
+          },
+          {
+            "label": "More than Four-arm",
+            "value": 4
+          },
+          {
+            "label": "Elevated Junction (3- arm / 4-arm) ",
+            "value": 2
+          },
+          {
+            "label": "Unguarded Level Crossing ",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Accidents Involvement by Vehicle Type",
+        "rows": [
+          {
+            "label": "Scooter",
+            "value": 4574
+          },
+          {
+            "label": "Side Car",
+            "value": 1407
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 901
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 674
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter",
+            "value": 4574
+          },
+          {
+            "label": "Side Car",
+            "value": 1407
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 901
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 674
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 433
+          },
+          {
+            "label": "Moped",
+            "value": 293
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 78
+          },
+          {
+            "label": "Ambulance",
+            "value": 15
+          },
+          {
+            "label": "Car",
+            "value": 8
+          },
+          {
+            "label": "Tourist Maxi Cab",
+            "value": 8
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Fatalities by Vehicle Type",
+        "rows": [
+          {
+            "label": "Scooter",
+            "value": 820
+          },
+          {
+            "label": "Side Car",
+            "value": 384
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 262
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 228
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter",
+            "value": 820
+          },
+          {
+            "label": "Side Car",
+            "value": 384
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 262
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 228
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 164
+          },
+          {
+            "label": "Moped",
+            "value": 69
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 25
+          },
+          {
+            "label": "Ambulance",
+            "value": 7
+          },
+          {
+            "label": "Car",
+            "value": 5
+          },
+          {
+            "label": "All India Tourist Vehicle",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2023",
+            "value": 15550
+          },
+          {
+            "label": "2024",
+            "value": 15122
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 164
+          },
+          {
+            "label": "Not in School Zone",
+            "value": 30508
+          }
+        ]
+      }
+    ],
+    "madhyapradesh": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 3002
+          },
+          {
+            "label": "Grievous",
+            "value": 4510
+          },
+          {
+            "label": "Minor",
+            "value": 14506
+          },
+          {
+            "label": "No Injury",
+            "value": 3529
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Afternoon (10am–4pm)",
+            "value": 8445
+          },
+          {
+            "label": "Night (8pm–5am)",
+            "value": 7657
+          },
+          {
+            "label": "Evening (4pm–8pm)",
+            "value": 6628
+          },
+          {
+            "label": "Morning (5am–10am)",
+            "value": 2817
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Scooter",
+            "value": 3544
+          },
+          {
+            "label": "Scooter + Side Car",
+            "value": 3128
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 1299
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 1165
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter + Scooter",
+            "value": 3544
+          },
+          {
+            "label": "Scooter + Side Car",
+            "value": 3128
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 1299
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 1165
+          },
+          {
+            "label": "Goods Carriage + Goods Carriage",
+            "value": 866
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 611
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 569
+          },
+          {
+            "label": "Goods Carriage + Side Car",
+            "value": 473
+          },
+          {
+            "label": "Moped + Scooter",
+            "value": 412
+          },
+          {
+            "label": "Scooter + Three Wheeler",
+            "value": 248
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Junction Type",
+        "rows": [
+          {
+            "label": "T – Junction",
+            "value": 14
+          },
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 5
+          },
+          {
+            "label": "Staggered",
+            "value": 3
+          },
+          {
+            "label": "Y – Junction ",
+            "value": 2
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "T – Junction",
+            "value": 14
+          },
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 5
+          },
+          {
+            "label": "Staggered",
+            "value": 3
+          },
+          {
+            "label": "Y – Junction ",
+            "value": 2
+          },
+          {
+            "label": "Guarded Level  Crossing",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Accidents Involvement by Vehicle Type",
+        "rows": [
+          {
+            "label": "Scooter",
+            "value": 1952
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 962
+          },
+          {
+            "label": "Side Car",
+            "value": 918
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 262
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter",
+            "value": 1952
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 962
+          },
+          {
+            "label": "Side Car",
+            "value": 918
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 262
+          },
+          {
+            "label": "Moped",
+            "value": 170
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 133
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 96
+          },
+          {
+            "label": "Tourist Maxi Cab",
+            "value": 10
+          },
+          {
+            "label": "All India Tourist Vehicle",
+            "value": 7
+          },
+          {
+            "label": "Car",
+            "value": 7
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Fatalities by Vehicle Type",
+        "rows": [
+          {
+            "label": "Goods Carriage",
+            "value": 161
+          },
+          {
+            "label": "Scooter",
+            "value": 141
+          },
+          {
+            "label": "Side Car",
+            "value": 133
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 101
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Goods Carriage",
+            "value": 161
+          },
+          {
+            "label": "Scooter",
+            "value": 141
+          },
+          {
+            "label": "Side Car",
+            "value": 133
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 101
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 35
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 22
+          },
+          {
+            "label": "Moped",
+            "value": 12
+          },
+          {
+            "label": "All India Tourist Vehicle",
+            "value": 2
+          },
+          {
+            "label": "Tourist Maxi Cab",
+            "value": 2
+          },
+          {
+            "label": "Car",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2023",
+            "value": 12910
+          },
+          {
+            "label": "2024",
+            "value": 12637
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 0
+          },
+          {
+            "label": "Outside School Zone",
+            "value": 39439
+          }
+        ]
+      }
+    ],
+    "karnataka": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 2312
+          },
+          {
+            "label": "Grievous",
+            "value": 4371
+          },
+          {
+            "label": "Minor",
+            "value": 4638
+          },
+          {
+            "label": "No Injury",
+            "value": 1292
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Afternoon (10am–4pm)",
+            "value": 4004
+          },
+          {
+            "label": "Night (8pm–5am)",
+            "value": 3377
+          },
+          {
+            "label": "Evening (4pm–8pm)",
+            "value": 3213
+          },
+          {
+            "label": "Morning (5am–10am)",
+            "value": 2019
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 1944
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 1471
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 728
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 542
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 1944
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 1471
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 728
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 542
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 484
+          },
+          {
+            "label": "Scooter + Three Wheeler",
+            "value": 358
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 355
+          },
+          {
+            "label": "Goods Carriage + Goods Carriage",
+            "value": 329
+          },
+          {
+            "label": "Moped + Scooter",
+            "value": 285
+          },
+          {
+            "label": "Goods Carriage + Side Car",
+            "value": 206
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Junction Type",
+        "rows": [
+          {
+            "label": "T – Junction",
+            "value": 34
+          },
+          {
+            "label": "Y – Junction ",
+            "value": 31
+          },
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 12
+          },
+          {
+            "label": "Four-arm Cross  Junction ",
+            "value": 8
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "T – Junction",
+            "value": 34
+          },
+          {
+            "label": "Y – Junction ",
+            "value": 31
+          },
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 12
+          },
+          {
+            "label": "Four-arm Cross  Junction ",
+            "value": 8
+          },
+          {
+            "label": "Roundabout ",
+            "value": 3
+          },
+          {
+            "label": "Staggered",
+            "value": 1
+          },
+          {
+            "label": "More than Four-arm",
+            "value": 1
+          },
+          {
+            "label": "Elevated Junction (3- arm / 4-arm) ",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Accidents Involvement by Vehicle Type",
+        "rows": [
+          {
+            "label": "Scooter",
+            "value": 1545
+          },
+          {
+            "label": "Side Car",
+            "value": 637
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 523
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 314
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter",
+            "value": 1545
+          },
+          {
+            "label": "Side Car",
+            "value": 637
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 523
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 314
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 194
+          },
+          {
+            "label": "Moped",
+            "value": 135
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 67
+          },
+          {
+            "label": "Car",
+            "value": 4
+          },
+          {
+            "label": "Tourist Maxi Cab",
+            "value": 3
+          },
+          {
+            "label": "All India Tourist Vehicle",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Fatalities by Vehicle Type",
+        "rows": [
+          {
+            "label": "Scooter",
+            "value": 232
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 164
+          },
+          {
+            "label": "Side Car",
+            "value": 141
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 118
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter",
+            "value": 232
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 164
+          },
+          {
+            "label": "Side Car",
+            "value": 141
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 118
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 71
+          },
+          {
+            "label": "Moped",
+            "value": 26
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 23
+          },
+          {
+            "label": "Ambulance",
+            "value": 1
+          },
+          {
+            "label": "Tourist Maxi Cab",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2023",
+            "value": 6294
+          },
+          {
+            "label": "2024",
+            "value": 6319
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 0
+          },
+          {
+            "label": "Outside School Zone",
+            "value": 17953
+          }
+        ]
+      }
+    ],
+    "gujarat": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 1003
+          },
+          {
+            "label": "Grievous",
+            "value": 1845
+          },
+          {
+            "label": "Minor",
+            "value": 3919
+          },
+          {
+            "label": "No Injury",
+            "value": 3194
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Afternoon (10am–4pm)",
+            "value": 3185
+          },
+          {
+            "label": "Night (8pm–5am)",
+            "value": 3179
+          },
+          {
+            "label": "Evening (4pm–8pm)",
+            "value": 2154
+          },
+          {
+            "label": "Morning (5am–10am)",
+            "value": 1443
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 1179
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 963
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 659
+          },
+          {
+            "label": "Goods Carriage + Goods Carriage",
+            "value": 642
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 1179
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 963
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 659
+          },
+          {
+            "label": "Goods Carriage + Goods Carriage",
+            "value": 642
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 608
+          },
+          {
+            "label": "Goods Carriage + Side Car",
+            "value": 390
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 381
+          },
+          {
+            "label": "Moped + Scooter",
+            "value": 228
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 222
+          },
+          {
+            "label": "Moped + Side Car",
+            "value": 210
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Junction Type",
+        "rows": [
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 2
+          },
+          {
+            "label": "More than Four-arm",
+            "value": 1
+          },
+          {
+            "label": "Roundabout ",
+            "value": 1
+          },
+          {
+            "label": "Staggered",
+            "value": 1
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 2
+          },
+          {
+            "label": "More than Four-arm",
+            "value": 1
+          },
+          {
+            "label": "Roundabout ",
+            "value": 1
+          },
+          {
+            "label": "Staggered",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Accidents Involvement by Vehicle Type",
+        "rows": [
+          {
+            "label": "Scooter",
+            "value": 654
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 636
+          },
+          {
+            "label": "Side Car",
+            "value": 320
+          },
+          {
+            "label": "Moped",
+            "value": 150
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter",
+            "value": 654
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 636
+          },
+          {
+            "label": "Side Car",
+            "value": 320
+          },
+          {
+            "label": "Moped",
+            "value": 150
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 94
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 87
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 33
+          },
+          {
+            "label": "Tourist Maxi Cab",
+            "value": 4
+          },
+          {
+            "label": "Ambulance",
+            "value": 2
+          },
+          {
+            "label": "Car",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Fatalities by Vehicle Type",
+        "rows": [
+          {
+            "label": "Goods Carriage",
+            "value": 142
+          },
+          {
+            "label": "Side Car",
+            "value": 100
+          },
+          {
+            "label": "Scooter",
+            "value": 65
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 45
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Goods Carriage",
+            "value": 142
+          },
+          {
+            "label": "Side Car",
+            "value": 100
+          },
+          {
+            "label": "Scooter",
+            "value": 65
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 45
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 35
+          },
+          {
+            "label": "Moped",
+            "value": 17
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 10
+          },
+          {
+            "label": "Ambulance",
+            "value": 2
+          },
+          {
+            "label": "Car",
+            "value": 1
+          },
+          {
+            "label": "Tourist Maxi Cab",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2023",
+            "value": 5601
+          },
+          {
+            "label": "2024",
+            "value": 4360
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 0
+          },
+          {
+            "label": "Outside School Zone",
+            "value": 14081
+          }
+        ]
+      }
+    ],
+    "telangana": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 1440
+          },
+          {
+            "label": "Grievous",
+            "value": 1667
+          },
+          {
+            "label": "Minor",
+            "value": 3368
+          },
+          {
+            "label": "No Injury",
+            "value": 1210
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Afternoon (10am–4pm)",
+            "value": 2343
+          },
+          {
+            "label": "Night (8pm–5am)",
+            "value": 2258
+          },
+          {
+            "label": "Evening (4pm–8pm)",
+            "value": 1799
+          },
+          {
+            "label": "Morning (5am–10am)",
+            "value": 1285
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 1025
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 758
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 413
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 376
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 1025
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 758
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 413
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 376
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 354
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 302
+          },
+          {
+            "label": "Goods Carriage + Goods Carriage",
+            "value": 258
+          },
+          {
+            "label": "Moped + Scooter",
+            "value": 197
+          },
+          {
+            "label": "Scooter + Three Wheeler",
+            "value": 148
+          },
+          {
+            "label": "Goods Carriage + Side Car",
+            "value": 135
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Junction Type",
+        "rows": [
+          {
+            "label": "T – Junction",
+            "value": 1
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "T – Junction",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Accidents Involvement by Vehicle Type",
+        "rows": [
+          {
+            "label": "Scooter",
+            "value": 661
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 428
+          },
+          {
+            "label": "Side Car",
+            "value": 343
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 119
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter",
+            "value": 661
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 428
+          },
+          {
+            "label": "Side Car",
+            "value": 343
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 119
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 118
+          },
+          {
+            "label": "Moped",
+            "value": 105
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 18
+          },
+          {
+            "label": "Ambulance",
+            "value": 5
+          },
+          {
+            "label": "Tourist Maxi Cab",
+            "value": 3
+          },
+          {
+            "label": "Car",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Fatalities by Vehicle Type",
+        "rows": [
+          {
+            "label": "Goods Carriage",
+            "value": 121
+          },
+          {
+            "label": "Scooter",
+            "value": 92
+          },
+          {
+            "label": "Side Car",
+            "value": 88
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 56
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Goods Carriage",
+            "value": 121
+          },
+          {
+            "label": "Scooter",
+            "value": 92
+          },
+          {
+            "label": "Side Car",
+            "value": 88
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 56
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 44
+          },
+          {
+            "label": "Moped",
+            "value": 19
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 5
+          },
+          {
+            "label": "Ambulance",
+            "value": 3
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2023",
+            "value": 3686
+          },
+          {
+            "label": "2024",
+            "value": 3999
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 0
+          },
+          {
+            "label": "Outside School Zone",
+            "value": 10804
+          }
+        ]
+      }
+    ],
+    "maharashtra": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 1718
+          },
+          {
+            "label": "Grievous",
+            "value": 3421
+          },
+          {
+            "label": "Minor",
+            "value": 1261
+          },
+          {
+            "label": "No Injury",
+            "value": 614
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Night (8pm–5am)",
+            "value": 2370
+          },
+          {
+            "label": "Afternoon (10am–4pm)",
+            "value": 2120
+          },
+          {
+            "label": "Evening (4pm–8pm)",
+            "value": 1407
+          },
+          {
+            "label": "Morning (5am–10am)",
+            "value": 1117
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 942
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 568
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 422
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 368
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 942
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 568
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 422
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 368
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 244
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 174
+          },
+          {
+            "label": "Scooter + Tourist Motor Cab",
+            "value": 166
+          },
+          {
+            "label": "Goods Carriage + Goods Carriage",
+            "value": 161
+          },
+          {
+            "label": "Moped + Scooter",
+            "value": 128
+          },
+          {
+            "label": "Goods Carriage + Side Car",
+            "value": 120
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Junction Type",
+        "rows": [
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 5
+          },
+          {
+            "label": "T – Junction",
+            "value": 3
+          },
+          {
+            "label": "Y – Junction ",
+            "value": 2
+          },
+          {
+            "label": "More than Four-arm",
+            "value": 1
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 5
+          },
+          {
+            "label": "T – Junction",
+            "value": 3
+          },
+          {
+            "label": "Y – Junction ",
+            "value": 2
+          },
+          {
+            "label": "More than Four-arm",
+            "value": 1
+          },
+          {
+            "label": "Four-arm Cross  Junction ",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Accidents Involvement by Vehicle Type",
+        "rows": [
+          {
+            "label": "Scooter",
+            "value": 631
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 452
+          },
+          {
+            "label": "Side Car",
+            "value": 438
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 167
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter",
+            "value": 631
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 452
+          },
+          {
+            "label": "Side Car",
+            "value": 438
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 167
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 149
+          },
+          {
+            "label": "Moped",
+            "value": 123
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 95
+          },
+          {
+            "label": "Ambulance",
+            "value": 21
+          },
+          {
+            "label": "Tourist Maxi Cab",
+            "value": 8
+          },
+          {
+            "label": "Car",
+            "value": 5
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Fatalities by Vehicle Type",
+        "rows": [
+          {
+            "label": "Goods Carriage",
+            "value": 154
+          },
+          {
+            "label": "Side Car",
+            "value": 94
+          },
+          {
+            "label": "Scooter",
+            "value": 92
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 82
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Goods Carriage",
+            "value": 154
+          },
+          {
+            "label": "Side Car",
+            "value": 94
+          },
+          {
+            "label": "Scooter",
+            "value": 92
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 82
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 49
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 30
+          },
+          {
+            "label": "Moped",
+            "value": 24
+          },
+          {
+            "label": "Ambulance",
+            "value": 13
+          },
+          {
+            "label": "Car",
+            "value": 3
+          },
+          {
+            "label": "Tourist Maxi Cab",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2023",
+            "value": 3520
+          },
+          {
+            "label": "2024",
+            "value": 3494
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 615
+          },
+          {
+            "label": "Not in School Zone",
+            "value": 6399
+          }
+        ]
+      }
+    ],
+    "uttarpradesh": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 2555
+          },
+          {
+            "label": "Grievous",
+            "value": 2804
+          },
+          {
+            "label": "Minor",
+            "value": 894
+          },
+          {
+            "label": "No Injury",
+            "value": 484
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Night (8pm–5am)",
+            "value": 2190
+          },
+          {
+            "label": "Afternoon (10am–4pm)",
+            "value": 1896
+          },
+          {
+            "label": "Evening (4pm–8pm)",
+            "value": 1698
+          },
+          {
+            "label": "Morning (5am–10am)",
+            "value": 953
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 619
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 425
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 408
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 352
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 619
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 425
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 408
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 352
+          },
+          {
+            "label": "Goods Carriage + Goods Carriage",
+            "value": 306
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 204
+          },
+          {
+            "label": "Goods Carriage + Side Car",
+            "value": 158
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 136
+          },
+          {
+            "label": "Scooter + Tourist Motor Cab",
+            "value": 79
+          },
+          {
+            "label": "Auto Rickshaw + Goods Carriage",
+            "value": 70
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Junction Type",
+        "rows": [
+          {
+            "label": "T – Junction",
+            "value": 16
+          },
+          {
+            "label": "Four-arm Cross  Junction ",
+            "value": 3
+          },
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 2
+          },
+          {
+            "label": "Y – Junction ",
+            "value": 2
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "T – Junction",
+            "value": 16
+          },
+          {
+            "label": "Four-arm Cross  Junction ",
+            "value": 3
+          },
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 2
+          },
+          {
+            "label": "Y – Junction ",
+            "value": 2
+          },
+          {
+            "label": "Staggered",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Accidents Involvement by Vehicle Type",
+        "rows": [
+          {
+            "label": "Goods Carriage",
+            "value": 683
+          },
+          {
+            "label": "Scooter",
+            "value": 665
+          },
+          {
+            "label": "Side Car",
+            "value": 502
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 269
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Goods Carriage",
+            "value": 683
+          },
+          {
+            "label": "Scooter",
+            "value": 665
+          },
+          {
+            "label": "Side Car",
+            "value": 502
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 269
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 102
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 66
+          },
+          {
+            "label": "Moped",
+            "value": 59
+          },
+          {
+            "label": "Tourist Maxi Cab",
+            "value": 9
+          },
+          {
+            "label": "Car",
+            "value": 8
+          },
+          {
+            "label": "Ambulance",
+            "value": 8
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Fatalities by Vehicle Type",
+        "rows": [
+          {
+            "label": "Goods Carriage",
+            "value": 296
+          },
+          {
+            "label": "Scooter",
+            "value": 207
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 149
+          },
+          {
+            "label": "Side Car",
+            "value": 133
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Goods Carriage",
+            "value": 296
+          },
+          {
+            "label": "Scooter",
+            "value": 207
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 149
+          },
+          {
+            "label": "Side Car",
+            "value": 133
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 45
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 31
+          },
+          {
+            "label": "Moped",
+            "value": 13
+          },
+          {
+            "label": "Ambulance",
+            "value": 5
+          },
+          {
+            "label": "All India Tourist Vehicle",
+            "value": 2
+          },
+          {
+            "label": "Tourist Maxi Cab",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2023",
+            "value": 3424
+          },
+          {
+            "label": "2024",
+            "value": 3313
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 210
+          },
+          {
+            "label": "Not in School Zone",
+            "value": 6527
+          }
+        ]
+      }
+    ],
+    "delhi": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 1271
+          },
+          {
+            "label": "Grievous",
+            "value": 974
+          },
+          {
+            "label": "Minor",
+            "value": 2758
+          },
+          {
+            "label": "No Injury",
+            "value": 314
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Night (8pm–5am)",
+            "value": 2171
+          },
+          {
+            "label": "Afternoon (10am–4pm)",
+            "value": 1279
+          },
+          {
+            "label": "Morning (5am–10am)",
+            "value": 965
+          },
+          {
+            "label": "Evening (4pm–8pm)",
+            "value": 902
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 564
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 438
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 202
+          },
+          {
+            "label": "Goods Carriage + Goods Carriage",
+            "value": 194
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 564
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 438
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 202
+          },
+          {
+            "label": "Goods Carriage + Goods Carriage",
+            "value": 194
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 178
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 168
+          },
+          {
+            "label": "Goods Carriage + Side Car",
+            "value": 120
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 98
+          },
+          {
+            "label": "Scooter + Three Wheeler",
+            "value": 94
+          },
+          {
+            "label": "Scooter + Tourist Motor Cab",
+            "value": 67
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Junction Type",
+        "rows": [
+          {
+            "label": "Y – Junction ",
+            "value": 1
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Y – Junction ",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Accidents Involvement by Vehicle Type",
+        "rows": [
+          {
+            "label": "Goods Carriage",
+            "value": 751
+          },
+          {
+            "label": "Scooter",
+            "value": 405
+          },
+          {
+            "label": "Side Car",
+            "value": 390
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 105
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Goods Carriage",
+            "value": 751
+          },
+          {
+            "label": "Scooter",
+            "value": 405
+          },
+          {
+            "label": "Side Car",
+            "value": 390
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 105
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 94
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 46
+          },
+          {
+            "label": "Moped",
+            "value": 40
+          },
+          {
+            "label": "All India Tourist Vehicle",
+            "value": 10
+          },
+          {
+            "label": "Ambulance",
+            "value": 7
+          },
+          {
+            "label": "Taxi",
+            "value": 3
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Fatalities by Vehicle Type",
+        "rows": [
+          {
+            "label": "Goods Carriage",
+            "value": 221
+          },
+          {
+            "label": "Side Car",
+            "value": 69
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 55
+          },
+          {
+            "label": "Scooter",
+            "value": 52
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Goods Carriage",
+            "value": 221
+          },
+          {
+            "label": "Side Car",
+            "value": 69
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 55
+          },
+          {
+            "label": "Scooter",
+            "value": 52
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 24
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 17
+          },
+          {
+            "label": "Moped",
+            "value": 11
+          },
+          {
+            "label": "Ambulance",
+            "value": 4
+          },
+          {
+            "label": "Car",
+            "value": 2
+          },
+          {
+            "label": "All India Tourist Vehicle",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2023",
+            "value": 2834
+          },
+          {
+            "label": "2024",
+            "value": 2483
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 0
+          },
+          {
+            "label": "Outside School Zone",
+            "value": 8359
+          }
+        ]
+      }
+    ],
+    "rajasthan": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 929
+          },
+          {
+            "label": "Grievous",
+            "value": 1579
+          },
+          {
+            "label": "Minor",
+            "value": 1284
+          },
+          {
+            "label": "No Injury",
+            "value": 1302
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Afternoon (10am–4pm)",
+            "value": 1722
+          },
+          {
+            "label": "Night (8pm–5am)",
+            "value": 1398
+          },
+          {
+            "label": "Evening (4pm–8pm)",
+            "value": 1226
+          },
+          {
+            "label": "Morning (5am–10am)",
+            "value": 748
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 729
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 340
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 303
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 284
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 729
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 340
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 303
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 284
+          },
+          {
+            "label": "Goods Carriage + Goods Carriage",
+            "value": 163
+          },
+          {
+            "label": "Goods Carriage + Side Car",
+            "value": 151
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 140
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 139
+          },
+          {
+            "label": "Scooter + Three Wheeler",
+            "value": 92
+          },
+          {
+            "label": "Side Car + Three Wheeler",
+            "value": 61
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Junction Type",
+        "rows": [
+          {
+            "label": "T – Junction",
+            "value": 11
+          },
+          {
+            "label": "Y – Junction ",
+            "value": 5
+          },
+          {
+            "label": "Four-arm Cross  Junction ",
+            "value": 2
+          },
+          {
+            "label": "Guarded Level  Crossing",
+            "value": 1
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "T – Junction",
+            "value": 11
+          },
+          {
+            "label": "Y – Junction ",
+            "value": 5
+          },
+          {
+            "label": "Four-arm Cross  Junction ",
+            "value": 2
+          },
+          {
+            "label": "Guarded Level  Crossing",
+            "value": 1
+          },
+          {
+            "label": "Roundabout ",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Accidents Involvement by Vehicle Type",
+        "rows": [
+          {
+            "label": "Scooter",
+            "value": 274
+          },
+          {
+            "label": "Side Car",
+            "value": 254
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 204
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 61
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter",
+            "value": 274
+          },
+          {
+            "label": "Side Car",
+            "value": 254
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 204
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 61
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 59
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 30
+          },
+          {
+            "label": "Moped",
+            "value": 26
+          },
+          {
+            "label": "Ambulance",
+            "value": 3
+          },
+          {
+            "label": "Car",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Fatalities by Vehicle Type",
+        "rows": [
+          {
+            "label": "Goods Carriage",
+            "value": 78
+          },
+          {
+            "label": "Side Car",
+            "value": 75
+          },
+          {
+            "label": "Scooter",
+            "value": 45
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 28
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Goods Carriage",
+            "value": 78
+          },
+          {
+            "label": "Side Car",
+            "value": 75
+          },
+          {
+            "label": "Scooter",
+            "value": 45
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 28
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 18
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 14
+          },
+          {
+            "label": "Moped",
+            "value": 5
+          },
+          {
+            "label": "Ambulance",
+            "value": 3
+          },
+          {
+            "label": "Car",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2023",
+            "value": 2929
+          },
+          {
+            "label": "2024",
+            "value": 2165
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 78
+          },
+          {
+            "label": "Not in School Zone",
+            "value": 5016
+          }
+        ]
+      }
+    ],
+    "andhrapradesh": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 876
+          },
+          {
+            "label": "Grievous",
+            "value": 792
+          },
+          {
+            "label": "Minor",
+            "value": 1608
+          },
+          {
+            "label": "No Injury",
+            "value": 325
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Afternoon (10am–4pm)",
+            "value": 1042
+          },
+          {
+            "label": "Night (8pm–5am)",
+            "value": 992
+          },
+          {
+            "label": "Evening (4pm–8pm)",
+            "value": 917
+          },
+          {
+            "label": "Morning (5am–10am)",
+            "value": 650
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Scooter",
+            "value": 492
+          },
+          {
+            "label": "Scooter + Side Car",
+            "value": 413
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 214
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 192
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter + Scooter",
+            "value": 492
+          },
+          {
+            "label": "Scooter + Side Car",
+            "value": 413
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 214
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 192
+          },
+          {
+            "label": "Moped + Scooter",
+            "value": 149
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 118
+          },
+          {
+            "label": "Goods Carriage + Goods Carriage",
+            "value": 108
+          },
+          {
+            "label": "Scooter + Three Wheeler",
+            "value": 89
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 64
+          },
+          {
+            "label": "Moped + Side Car",
+            "value": 48
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Junction Type",
+        "rows": [
+          {
+            "label": "T – Junction",
+            "value": 65
+          },
+          {
+            "label": "Y – Junction ",
+            "value": 44
+          },
+          {
+            "label": "Roundabout ",
+            "value": 28
+          },
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 25
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "T – Junction",
+            "value": 65
+          },
+          {
+            "label": "Y – Junction ",
+            "value": 44
+          },
+          {
+            "label": "Roundabout ",
+            "value": 28
+          },
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 25
+          },
+          {
+            "label": "Four-arm Cross  Junction ",
+            "value": 8
+          },
+          {
+            "label": "Elevated Junction (3- arm / 4-arm) ",
+            "value": 2
+          },
+          {
+            "label": "Staggered",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Accidents Involvement by Vehicle Type",
+        "rows": [
+          {
+            "label": "Scooter",
+            "value": 402
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 201
+          },
+          {
+            "label": "Side Car",
+            "value": 151
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 78
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter",
+            "value": 402
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 201
+          },
+          {
+            "label": "Side Car",
+            "value": 151
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 78
+          },
+          {
+            "label": "Moped",
+            "value": 73
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 56
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 3
+          },
+          {
+            "label": "All India Tourist Vehicle",
+            "value": 2
+          },
+          {
+            "label": "Tourist Maxi Cab",
+            "value": 2
+          },
+          {
+            "label": "Ambulance",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Fatalities by Vehicle Type",
+        "rows": [
+          {
+            "label": "Scooter",
+            "value": 85
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 64
+          },
+          {
+            "label": "Side Car",
+            "value": 42
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 37
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter",
+            "value": 85
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 64
+          },
+          {
+            "label": "Side Car",
+            "value": 42
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 37
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 23
+          },
+          {
+            "label": "Moped",
+            "value": 17
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 3
+          },
+          {
+            "label": "Car",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2023",
+            "value": 1890
+          },
+          {
+            "label": "2024",
+            "value": 1711
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 0
+          },
+          {
+            "label": "Outside School Zone",
+            "value": 5302
+          }
+        ]
+      }
+    ],
+    "chhattisgarh": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 455
+          },
+          {
+            "label": "Grievous",
+            "value": 310
+          },
+          {
+            "label": "Minor",
+            "value": 1034
+          },
+          {
+            "label": "No Injury",
+            "value": 666
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Afternoon (10am–4pm)",
+            "value": 821
+          },
+          {
+            "label": "Night (8pm–5am)",
+            "value": 727
+          },
+          {
+            "label": "Evening (4pm–8pm)",
+            "value": 633
+          },
+          {
+            "label": "Morning (5am–10am)",
+            "value": 284
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Scooter",
+            "value": 364
+          },
+          {
+            "label": "Scooter + Side Car",
+            "value": 334
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 212
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 168
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter + Scooter",
+            "value": 364
+          },
+          {
+            "label": "Scooter + Side Car",
+            "value": 334
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 212
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 168
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 142
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 117
+          },
+          {
+            "label": "Goods Carriage + Side Car",
+            "value": 63
+          },
+          {
+            "label": "Goods Carriage + Goods Carriage",
+            "value": 40
+          },
+          {
+            "label": "Moped + Scooter",
+            "value": 29
+          },
+          {
+            "label": "",
+            "value": 29
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Junction Type",
+        "rows": [
+          {
+            "label": "T – Junction",
+            "value": 6
+          },
+          {
+            "label": "Y – Junction ",
+            "value": 5
+          },
+          {
+            "label": "More than Four-arm",
+            "value": 1
+          },
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 1
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "T – Junction",
+            "value": 6
+          },
+          {
+            "label": "Y – Junction ",
+            "value": 5
+          },
+          {
+            "label": "More than Four-arm",
+            "value": 1
+          },
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 1
+          },
+          {
+            "label": "Roundabout ",
+            "value": 1
+          },
+          {
+            "label": "Four-arm Cross  Junction ",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Accidents Involvement by Vehicle Type",
+        "rows": [
+          {
+            "label": "Scooter",
+            "value": 117
+          },
+          {
+            "label": "Side Car",
+            "value": 76
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 53
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 18
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter",
+            "value": 117
+          },
+          {
+            "label": "Side Car",
+            "value": 76
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 53
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 18
+          },
+          {
+            "label": "Moped",
+            "value": 9
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 4
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 3
+          },
+          {
+            "label": "Ambulance",
+            "value": 1
+          },
+          {
+            "label": "Omni Bus",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Fatalities by Vehicle Type",
+        "rows": [
+          {
+            "label": "Scooter",
+            "value": 22
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 19
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 11
+          },
+          {
+            "label": "Side Car",
+            "value": 11
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter",
+            "value": 22
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 19
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 11
+          },
+          {
+            "label": "Side Car",
+            "value": 11
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2023",
+            "value": 1206
+          },
+          {
+            "label": "2024",
+            "value": 1259
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 0
+          },
+          {
+            "label": "Outside School Zone",
+            "value": 3281
+          }
+        ]
+      }
+    ],
+    "westbengal": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 438
+          },
+          {
+            "label": "Grievous",
+            "value": 727
+          },
+          {
+            "label": "Minor",
+            "value": 376
+          },
+          {
+            "label": "No Injury",
+            "value": 293
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Afternoon (10am–4pm)",
+            "value": 578
+          },
+          {
+            "label": "Night (8pm–5am)",
+            "value": 573
+          },
+          {
+            "label": "Evening (4pm–8pm)",
+            "value": 381
+          },
+          {
+            "label": "Morning (5am–10am)",
+            "value": 302
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 127
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 117
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 80
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 73
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 127
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 117
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 80
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 73
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 68
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 62
+          },
+          {
+            "label": "Scooter + Three Wheeler",
+            "value": 55
+          },
+          {
+            "label": "Scooter + Tourist Maxi Cab",
+            "value": 31
+          },
+          {
+            "label": "Goods Carriage + Side Car",
+            "value": 29
+          },
+          {
+            "label": "Side Car + Three Wheeler",
+            "value": 28
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Junction Type",
+        "rows": [
+          {
+            "label": "T – Junction",
+            "value": 3
+          },
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 2
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "T – Junction",
+            "value": 3
+          },
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Accidents Involvement by Vehicle Type",
+        "rows": [
+          {
+            "label": "Scooter",
+            "value": 190
+          },
+          {
+            "label": "Side Car",
+            "value": 139
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 129
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 113
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter",
+            "value": 190
+          },
+          {
+            "label": "Side Car",
+            "value": 139
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 129
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 113
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 104
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 8
+          },
+          {
+            "label": "Moped",
+            "value": 7
+          },
+          {
+            "label": "Tourist Maxi Cab",
+            "value": 7
+          },
+          {
+            "label": "All India Tourist Vehicle",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Fatalities by Vehicle Type",
+        "rows": [
+          {
+            "label": "Auto Rickshaw",
+            "value": 54
+          },
+          {
+            "label": "Scooter",
+            "value": 53
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 39
+          },
+          {
+            "label": "Side Car",
+            "value": 33
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Auto Rickshaw",
+            "value": 54
+          },
+          {
+            "label": "Scooter",
+            "value": 53
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 39
+          },
+          {
+            "label": "Side Car",
+            "value": 33
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 27
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 3
+          },
+          {
+            "label": "Moped",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2023",
+            "value": 979
+          },
+          {
+            "label": "2024",
+            "value": 855
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 0
+          },
+          {
+            "label": "Outside School Zone",
+            "value": 1871
+          }
+        ]
+      }
+    ],
+    "assam": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 248
+          },
+          {
+            "label": "Grievous",
+            "value": 703
+          },
+          {
+            "label": "Minor",
+            "value": 225
+          },
+          {
+            "label": "No Injury",
+            "value": 202
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Night (8pm–5am)",
+            "value": 485
+          },
+          {
+            "label": "Afternoon (10am–4pm)",
+            "value": 400
+          },
+          {
+            "label": "Evening (4pm–8pm)",
+            "value": 312
+          },
+          {
+            "label": "Morning (5am–10am)",
+            "value": 181
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 178
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 108
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 85
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 67
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 178
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 108
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 85
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 67
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 54
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 38
+          },
+          {
+            "label": "Goods Carriage + Side Car",
+            "value": 27
+          },
+          {
+            "label": "Moped + Scooter",
+            "value": 16
+          },
+          {
+            "label": "Moped + Side Car",
+            "value": 15
+          },
+          {
+            "label": "Goods Carriage + Goods Carriage",
+            "value": 14
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Junction Type",
+        "rows": [
+          {
+            "label": "T – Junction",
+            "value": 27
+          },
+          {
+            "label": "Y – Junction ",
+            "value": 14
+          },
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 5
+          },
+          {
+            "label": "Four-arm Cross  Junction ",
+            "value": 3
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "T – Junction",
+            "value": 27
+          },
+          {
+            "label": "Y – Junction ",
+            "value": 14
+          },
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 5
+          },
+          {
+            "label": "Four-arm Cross  Junction ",
+            "value": 3
+          },
+          {
+            "label": "Roundabout ",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Accidents Involvement by Vehicle Type",
+        "rows": [
+          {
+            "label": "Scooter",
+            "value": 163
+          },
+          {
+            "label": "Side Car",
+            "value": 70
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 26
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 14
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter",
+            "value": 163
+          },
+          {
+            "label": "Side Car",
+            "value": 70
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 26
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 14
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 11
+          },
+          {
+            "label": "Moped",
+            "value": 3
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 3
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Fatalities by Vehicle Type",
+        "rows": [
+          {
+            "label": "Scooter",
+            "value": 36
+          },
+          {
+            "label": "Side Car",
+            "value": 19
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 13
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 7
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter",
+            "value": 36
+          },
+          {
+            "label": "Side Car",
+            "value": 19
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 13
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 7
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 3
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 2
+          },
+          {
+            "label": "Moped",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2023",
+            "value": 547
+          },
+          {
+            "label": "2024",
+            "value": 831
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 46
+          },
+          {
+            "label": "Not in School Zone",
+            "value": 1332
+          }
+        ]
+      }
+    ],
+    "goa": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 92
+          },
+          {
+            "label": "Grievous",
+            "value": 110
+          },
+          {
+            "label": "Minor",
+            "value": 428
+          },
+          {
+            "label": "No Injury",
+            "value": 572
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Night (8pm–5am)",
+            "value": 376
+          },
+          {
+            "label": "Afternoon (10am–4pm)",
+            "value": 355
+          },
+          {
+            "label": "Evening (4pm–8pm)",
+            "value": 262
+          },
+          {
+            "label": "Morning (5am–10am)",
+            "value": 209
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 249
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 206
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 123
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 33
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 249
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 206
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 123
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 33
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 32
+          },
+          {
+            "label": "Goods Carriage + Side Car",
+            "value": 29
+          },
+          {
+            "label": "Side Car + Three Wheeler",
+            "value": 28
+          },
+          {
+            "label": "Scooter + Three Wheeler",
+            "value": 26
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 19
+          },
+          {
+            "label": "Side Car + Tourist Motor Cab",
+            "value": 15
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Junction Type",
+        "rows": [
+          {
+            "label": "T – Junction",
+            "value": 30
+          },
+          {
+            "label": "Roundabout ",
+            "value": 22
+          },
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 12
+          },
+          {
+            "label": "Staggered",
+            "value": 8
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "T – Junction",
+            "value": 30
+          },
+          {
+            "label": "Roundabout ",
+            "value": 22
+          },
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 12
+          },
+          {
+            "label": "Staggered",
+            "value": 8
+          },
+          {
+            "label": "Y – Junction ",
+            "value": 3
+          },
+          {
+            "label": "Four-arm Cross  Junction ",
+            "value": 3
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Accidents Involvement by Vehicle Type",
+        "rows": [
+          {
+            "label": "Scooter",
+            "value": 38
+          },
+          {
+            "label": "Side Car",
+            "value": 35
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 15
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 13
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter",
+            "value": 38
+          },
+          {
+            "label": "Side Car",
+            "value": 35
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 15
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 13
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 5
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 1
+          },
+          {
+            "label": "Car",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Fatalities by Vehicle Type",
+        "rows": [
+          {
+            "label": "Three Wheeler",
+            "value": 4
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 3
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 3
+          },
+          {
+            "label": "Scooter",
+            "value": 3
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Three Wheeler",
+            "value": 4
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 3
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 3
+          },
+          {
+            "label": "Scooter",
+            "value": 3
+          },
+          {
+            "label": "Side Car",
+            "value": 3
+          },
+          {
+            "label": "Car",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2023",
+            "value": 645
+          },
+          {
+            "label": "2024",
+            "value": 557
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 0
+          },
+          {
+            "label": "Outside School Zone",
+            "value": 1810
+          }
+        ]
+      }
+    ],
+    "haryana": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 400
+          },
+          {
+            "label": "Grievous",
+            "value": 371
+          },
+          {
+            "label": "Minor",
+            "value": 306
+          },
+          {
+            "label": "No Injury",
+            "value": 61
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Night (8pm–5am)",
+            "value": 410
+          },
+          {
+            "label": "Afternoon (10am–4pm)",
+            "value": 291
+          },
+          {
+            "label": "Evening (4pm–8pm)",
+            "value": 258
+          },
+          {
+            "label": "Morning (5am–10am)",
+            "value": 179
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 177
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 125
+          },
+          {
+            "label": "Goods Carriage + Goods Carriage",
+            "value": 84
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 61
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 177
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 125
+          },
+          {
+            "label": "Goods Carriage + Goods Carriage",
+            "value": 84
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 61
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 48
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 44
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 33
+          },
+          {
+            "label": "Goods Carriage + Side Car",
+            "value": 29
+          },
+          {
+            "label": "Scooter + Three Wheeler",
+            "value": 19
+          },
+          {
+            "label": "Moped + Side Car",
+            "value": 15
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Junction Type",
+        "rows": [
+          {
+            "label": "T – Junction",
+            "value": 14
+          },
+          {
+            "label": "Y – Junction ",
+            "value": 6
+          },
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 5
+          },
+          {
+            "label": "Roundabout ",
+            "value": 3
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "T – Junction",
+            "value": 14
+          },
+          {
+            "label": "Y – Junction ",
+            "value": 6
+          },
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 5
+          },
+          {
+            "label": "Roundabout ",
+            "value": 3
+          },
+          {
+            "label": "More than Four-arm",
+            "value": 1
+          },
+          {
+            "label": "Four-arm Cross  Junction ",
+            "value": 1
+          },
+          {
+            "label": "Elevated Junction (3- arm / 4-arm) ",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Accidents Involvement by Vehicle Type",
+        "rows": [
+          {
+            "label": "Goods Carriage",
+            "value": 131
+          },
+          {
+            "label": "Side Car",
+            "value": 87
+          },
+          {
+            "label": "Scooter",
+            "value": 61
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 23
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Goods Carriage",
+            "value": 131
+          },
+          {
+            "label": "Side Car",
+            "value": 87
+          },
+          {
+            "label": "Scooter",
+            "value": 61
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 23
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 18
+          },
+          {
+            "label": "Moped",
+            "value": 8
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 2
+          },
+          {
+            "label": "Ambulance",
+            "value": 1
+          },
+          {
+            "label": "Car",
+            "value": 1
+          },
+          {
+            "label": "Tourist Maxi Cab",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Fatalities by Vehicle Type",
+        "rows": [
+          {
+            "label": "Goods Carriage",
+            "value": 82
+          },
+          {
+            "label": "Side Car",
+            "value": 33
+          },
+          {
+            "label": "Scooter",
+            "value": 13
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 7
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Goods Carriage",
+            "value": 82
+          },
+          {
+            "label": "Side Car",
+            "value": 33
+          },
+          {
+            "label": "Scooter",
+            "value": 13
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 7
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 7
+          },
+          {
+            "label": "Moped",
+            "value": 2
+          },
+          {
+            "label": "Car",
+            "value": 1
+          },
+          {
+            "label": "Ambulance",
+            "value": 1
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2023",
+            "value": 650
+          },
+          {
+            "label": "2024",
+            "value": 488
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 0
+          },
+          {
+            "label": "Outside School Zone",
+            "value": 1899
+          }
+        ]
+      }
+    ],
+    "puducherry": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 95
+          },
+          {
+            "label": "Grievous",
+            "value": 152
+          },
+          {
+            "label": "Minor",
+            "value": 626
+          },
+          {
+            "label": "No Injury",
+            "value": 37
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Afternoon (10am–4pm)",
+            "value": 314
+          },
+          {
+            "label": "Night (8pm–5am)",
+            "value": 227
+          },
+          {
+            "label": "Evening (4pm–8pm)",
+            "value": 205
+          },
+          {
+            "label": "Morning (5am–10am)",
+            "value": 164
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Scooter",
+            "value": 259
+          },
+          {
+            "label": "Scooter + Side Car",
+            "value": 144
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 49
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 38
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter + Scooter",
+            "value": 259
+          },
+          {
+            "label": "Scooter + Side Car",
+            "value": 144
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 49
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 38
+          },
+          {
+            "label": "Scooter + Three Wheeler",
+            "value": 34
+          },
+          {
+            "label": "Moped + Scooter",
+            "value": 23
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 18
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 9
+          },
+          {
+            "label": "Goods Carriage + Three Wheeler",
+            "value": 8
+          },
+          {
+            "label": "Scooter + Tourist Maxi Cab",
+            "value": 6
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Junction Type",
+        "rows": [
+          {
+            "label": "T – Junction",
+            "value": 4
+          },
+          {
+            "label": "Y – Junction ",
+            "value": 3
+          },
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 2
+          },
+          {
+            "label": "Roundabout ",
+            "value": 1
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "T – Junction",
+            "value": 4
+          },
+          {
+            "label": "Y – Junction ",
+            "value": 3
+          },
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 2
+          },
+          {
+            "label": "Roundabout ",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Accidents Involvement by Vehicle Type",
+        "rows": [
+          {
+            "label": "Scooter",
+            "value": 128
+          },
+          {
+            "label": "Side Car",
+            "value": 37
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 19
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 14
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter",
+            "value": 128
+          },
+          {
+            "label": "Side Car",
+            "value": 37
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 19
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 14
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 14
+          },
+          {
+            "label": "Moped",
+            "value": 5
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 4
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Fatalities by Vehicle Type",
+        "rows": [
+          {
+            "label": "Scooter",
+            "value": 13
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 4
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 4
+          },
+          {
+            "label": "Side Car",
+            "value": 3
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter",
+            "value": 13
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 4
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 4
+          },
+          {
+            "label": "Side Car",
+            "value": 3
+          },
+          {
+            "label": "Moped",
+            "value": 2
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2023",
+            "value": 477
+          },
+          {
+            "label": "2024",
+            "value": 433
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 0
+          },
+          {
+            "label": "Outside School Zone",
+            "value": 1250
+          }
+        ]
+      }
+    ],
+    "jammukashmir": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 99
+          },
+          {
+            "label": "Grievous",
+            "value": 341
+          },
+          {
+            "label": "Minor",
+            "value": 373
+          },
+          {
+            "label": "No Injury",
+            "value": 95
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Afternoon (10am–4pm)",
+            "value": 283
+          },
+          {
+            "label": "Evening (4pm–8pm)",
+            "value": 252
+          },
+          {
+            "label": "Night (8pm–5am)",
+            "value": 249
+          },
+          {
+            "label": "Morning (5am–10am)",
+            "value": 124
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 99
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 58
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 39
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 39
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 99
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 58
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 39
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 39
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 26
+          },
+          {
+            "label": "Scooter + Three Wheeler",
+            "value": 21
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 18
+          },
+          {
+            "label": "Goods Carriage + Goods Carriage",
+            "value": 16
+          },
+          {
+            "label": "Auto Rickshaw + Auto Rickshaw",
+            "value": 15
+          },
+          {
+            "label": "Goods Carriage + Side Car",
+            "value": 11
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Junction Type",
+        "rows": [
+          {
+            "label": "Roundabout ",
+            "value": 5
+          },
+          {
+            "label": "T – Junction",
+            "value": 5
+          },
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 4
+          },
+          {
+            "label": "Y – Junction ",
+            "value": 3
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Roundabout ",
+            "value": 5
+          },
+          {
+            "label": "T – Junction",
+            "value": 5
+          },
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 4
+          },
+          {
+            "label": "Y – Junction ",
+            "value": 3
+          },
+          {
+            "label": "Four-arm Cross  Junction ",
+            "value": 2
+          },
+          {
+            "label": "Staggered",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Accidents Involvement by Vehicle Type",
+        "rows": [
+          {
+            "label": "Side Car",
+            "value": 90
+          },
+          {
+            "label": "Scooter",
+            "value": 87
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 86
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 24
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Side Car",
+            "value": 90
+          },
+          {
+            "label": "Scooter",
+            "value": 87
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 86
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 24
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 15
+          },
+          {
+            "label": "Moped",
+            "value": 7
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 4
+          },
+          {
+            "label": "Ambulance",
+            "value": 1
+          },
+          {
+            "label": "Tourist Maxi Cab",
+            "value": 1
+          },
+          {
+            "label": "Omni Bus",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Fatalities by Vehicle Type",
+        "rows": [
+          {
+            "label": "Goods Carriage",
+            "value": 10
+          },
+          {
+            "label": "Side Car",
+            "value": 6
+          },
+          {
+            "label": "Scooter",
+            "value": 6
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 5
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Goods Carriage",
+            "value": 10
+          },
+          {
+            "label": "Side Car",
+            "value": 6
+          },
+          {
+            "label": "Scooter",
+            "value": 6
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 5
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 2
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2023",
+            "value": 480
+          },
+          {
+            "label": "2024",
+            "value": 428
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 0
+          },
+          {
+            "label": "Outside School Zone",
+            "value": 1166
+          }
+        ]
+      }
+    ],
+    "punjab": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 406
+          },
+          {
+            "label": "Grievous",
+            "value": 178
+          },
+          {
+            "label": "Minor",
+            "value": 21
+          },
+          {
+            "label": "No Injury",
+            "value": 16
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Night (8pm–5am)",
+            "value": 269
+          },
+          {
+            "label": "Afternoon (10am–4pm)",
+            "value": 139
+          },
+          {
+            "label": "Evening (4pm–8pm)",
+            "value": 137
+          },
+          {
+            "label": "Morning (5am–10am)",
+            "value": 76
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 47
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 16
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 14
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 14
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 47
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 16
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 14
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 14
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 11
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 8
+          },
+          {
+            "label": "Side Car + Tourist Maxi Cab",
+            "value": 6
+          },
+          {
+            "label": "Scooter + Three Wheeler",
+            "value": 5
+          },
+          {
+            "label": "Goods Carriage + Goods Carriage",
+            "value": 4
+          },
+          {
+            "label": "Auto Rickshaw + Tourist Maxi Cab",
+            "value": 4
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Accidents Involvement by Vehicle Type",
+        "rows": [
+          {
+            "label": "Scooter",
+            "value": 13
+          },
+          {
+            "label": "Side Car",
+            "value": 7
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 5
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 5
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter",
+            "value": 13
+          },
+          {
+            "label": "Side Car",
+            "value": 7
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 5
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 5
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 3
+          },
+          {
+            "label": "Ambulance",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Fatalities by Vehicle Type",
+        "rows": [
+          {
+            "label": "Scooter",
+            "value": 7
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 5
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 4
+          },
+          {
+            "label": "Side Car",
+            "value": 4
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter",
+            "value": 7
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 5
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 4
+          },
+          {
+            "label": "Side Car",
+            "value": 4
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 2
+          },
+          {
+            "label": "Ambulance",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2023",
+            "value": 364
+          },
+          {
+            "label": "2024",
+            "value": 257
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 0
+          },
+          {
+            "label": "Outside School Zone",
+            "value": 909
+          }
+        ]
+      }
+    ],
+    "bihar": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 355
+          },
+          {
+            "label": "Grievous",
+            "value": 123
+          },
+          {
+            "label": "Minor",
+            "value": 28
+          },
+          {
+            "label": "No Injury",
+            "value": 49
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Afternoon (10am–4pm)",
+            "value": 178
+          },
+          {
+            "label": "Night (8pm–5am)",
+            "value": 161
+          },
+          {
+            "label": "Evening (4pm–8pm)",
+            "value": 127
+          },
+          {
+            "label": "Morning (5am–10am)",
+            "value": 89
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 62
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 38
+          },
+          {
+            "label": "Scooter + Side Car",
+            "value": 34
+          },
+          {
+            "label": "Goods Carriage + Goods Carriage",
+            "value": 26
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 62
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 38
+          },
+          {
+            "label": "Scooter + Side Car",
+            "value": 34
+          },
+          {
+            "label": "Goods Carriage + Goods Carriage",
+            "value": 26
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 13
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 12
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 11
+          },
+          {
+            "label": "Goods Carriage + Side Car",
+            "value": 10
+          },
+          {
+            "label": "Scooter + Tourist Motor Cab",
+            "value": 10
+          },
+          {
+            "label": "Auto Rickshaw + Goods Carriage",
+            "value": 8
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Junction Type",
+        "rows": [
+          {
+            "label": "Roundabout ",
+            "value": 14
+          },
+          {
+            "label": "T – Junction",
+            "value": 13
+          },
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 9
+          },
+          {
+            "label": "More than Four-arm",
+            "value": 4
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Roundabout ",
+            "value": 14
+          },
+          {
+            "label": "T – Junction",
+            "value": 13
+          },
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 9
+          },
+          {
+            "label": "More than Four-arm",
+            "value": 4
+          },
+          {
+            "label": "Elevated Junction (3- arm / 4-arm) ",
+            "value": 3
+          },
+          {
+            "label": "Staggered",
+            "value": 2
+          },
+          {
+            "label": "Y – Junction ",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Accidents Involvement by Vehicle Type",
+        "rows": [
+          {
+            "label": "Goods Carriage",
+            "value": 106
+          },
+          {
+            "label": "Scooter",
+            "value": 35
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 33
+          },
+          {
+            "label": "Side Car",
+            "value": 23
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Goods Carriage",
+            "value": 106
+          },
+          {
+            "label": "Scooter",
+            "value": 35
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 33
+          },
+          {
+            "label": "Side Car",
+            "value": 23
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 9
+          },
+          {
+            "label": "Moped",
+            "value": 9
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 8
+          },
+          {
+            "label": "All India Tourist Vehicle",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Fatalities by Vehicle Type",
+        "rows": [
+          {
+            "label": "Goods Carriage",
+            "value": 80
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 27
+          },
+          {
+            "label": "Scooter",
+            "value": 20
+          },
+          {
+            "label": "Side Car",
+            "value": 14
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Goods Carriage",
+            "value": 80
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 27
+          },
+          {
+            "label": "Scooter",
+            "value": 20
+          },
+          {
+            "label": "Side Car",
+            "value": 14
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 7
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 6
+          },
+          {
+            "label": "Moped",
+            "value": 5
+          },
+          {
+            "label": "All India Tourist Vehicle",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2023",
+            "value": 269
+          },
+          {
+            "label": "2024",
+            "value": 286
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 0
+          },
+          {
+            "label": "Outside School Zone",
+            "value": 849
+          }
+        ]
+      }
+    ],
+    "chandigarh": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 64
+          },
+          {
+            "label": "Grievous",
+            "value": 108
+          },
+          {
+            "label": "Minor",
+            "value": 207
+          },
+          {
+            "label": "No Injury",
+            "value": 145
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Night (8pm–5am)",
+            "value": 204
+          },
+          {
+            "label": "Afternoon (10am–4pm)",
+            "value": 148
+          },
+          {
+            "label": "Evening (4pm–8pm)",
+            "value": 93
+          },
+          {
+            "label": "Morning (5am–10am)",
+            "value": 79
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 81
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 61
+          },
+          {
+            "label": "Goods Carriage + Goods Carriage",
+            "value": 46
+          },
+          {
+            "label": "Goods Carriage + Side Car",
+            "value": 37
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 81
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 61
+          },
+          {
+            "label": "Goods Carriage + Goods Carriage",
+            "value": 46
+          },
+          {
+            "label": "Goods Carriage + Side Car",
+            "value": 37
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 27
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 19
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 11
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 10
+          },
+          {
+            "label": "Side Car + Three Wheeler",
+            "value": 8
+          },
+          {
+            "label": "Moped + Side Car",
+            "value": 8
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Junction Type",
+        "rows": [
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 5
+          },
+          {
+            "label": "T – Junction",
+            "value": 5
+          },
+          {
+            "label": "Four-arm Cross  Junction ",
+            "value": 4
+          },
+          {
+            "label": "Roundabout ",
+            "value": 4
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 5
+          },
+          {
+            "label": "T – Junction",
+            "value": 5
+          },
+          {
+            "label": "Four-arm Cross  Junction ",
+            "value": 4
+          },
+          {
+            "label": "Roundabout ",
+            "value": 4
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Accidents Involvement by Vehicle Type",
+        "rows": [
+          {
+            "label": "Side Car",
+            "value": 19
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 15
+          },
+          {
+            "label": "Scooter",
+            "value": 15
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 8
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Side Car",
+            "value": 19
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 15
+          },
+          {
+            "label": "Scooter",
+            "value": 15
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 8
+          },
+          {
+            "label": "Moped",
+            "value": 2
+          },
+          {
+            "label": "Ambulance",
+            "value": 1
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 1
+          },
+          {
+            "label": "All India Tourist Vehicle",
+            "value": 1
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Fatalities by Vehicle Type",
+        "rows": [
+          {
+            "label": "Goods Carriage",
+            "value": 7
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 6
+          },
+          {
+            "label": "Side Car",
+            "value": 3
+          },
+          {
+            "label": "All India Tourist Vehicle",
+            "value": 1
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Goods Carriage",
+            "value": 7
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 6
+          },
+          {
+            "label": "Side Car",
+            "value": 3
+          },
+          {
+            "label": "All India Tourist Vehicle",
+            "value": 1
+          },
+          {
+            "label": "Moped",
+            "value": 1
+          },
+          {
+            "label": "Scooter",
+            "value": 1
+          },
+          {
+            "label": "Ambulance",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2023",
+            "value": 393
+          },
+          {
+            "label": "2024",
+            "value": 131
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 0
+          },
+          {
+            "label": "Outside School Zone",
+            "value": 1913
+          }
+        ]
+      }
+    ],
+    "odisha": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 125
+          },
+          {
+            "label": "Grievous",
+            "value": 166
+          },
+          {
+            "label": "Minor",
+            "value": 75
+          },
+          {
+            "label": "No Injury",
+            "value": 76
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Night (8pm–5am)",
+            "value": 123
+          },
+          {
+            "label": "Afternoon (10am–4pm)",
+            "value": 122
+          },
+          {
+            "label": "Evening (4pm–8pm)",
+            "value": 116
+          },
+          {
+            "label": "Morning (5am–10am)",
+            "value": 81
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 55
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 50
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 45
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 19
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 55
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 50
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 45
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 19
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 19
+          },
+          {
+            "label": "Auto Rickshaw + Auto Rickshaw",
+            "value": 18
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 15
+          },
+          {
+            "label": "Goods Carriage + Goods Carriage",
+            "value": 11
+          },
+          {
+            "label": "Auto Rickshaw + Goods Carriage",
+            "value": 8
+          },
+          {
+            "label": "Moped + Scooter",
+            "value": 8
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Junction Type",
+        "rows": [
+          {
+            "label": "Y – Junction ",
+            "value": 5
+          },
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 4
+          },
+          {
+            "label": "T – Junction",
+            "value": 3
+          },
+          {
+            "label": "Staggered",
+            "value": 2
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Y – Junction ",
+            "value": 5
+          },
+          {
+            "label": "Four-arm Square Junction ",
+            "value": 4
+          },
+          {
+            "label": "T – Junction",
+            "value": 3
+          },
+          {
+            "label": "Staggered",
+            "value": 2
+          },
+          {
+            "label": "Roundabout ",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Accidents Involvement by Vehicle Type",
+        "rows": [
+          {
+            "label": "Scooter",
+            "value": 34
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 17
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 9
+          },
+          {
+            "label": "Side Car",
+            "value": 7
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter",
+            "value": 34
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 17
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 9
+          },
+          {
+            "label": "Side Car",
+            "value": 7
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 5
+          },
+          {
+            "label": "Moped",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Fatalities by Vehicle Type",
+        "rows": [
+          {
+            "label": "Scooter",
+            "value": 13
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 11
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 7
+          },
+          {
+            "label": "Side Car",
+            "value": 2
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter",
+            "value": 13
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 11
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 7
+          },
+          {
+            "label": "Side Car",
+            "value": 2
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2023",
+            "value": 251
+          },
+          {
+            "label": "2024",
+            "value": 191
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 0
+          },
+          {
+            "label": "Outside School Zone",
+            "value": 625
+          }
+        ]
+      }
+    ],
+    "jharkhand": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 142
+          },
+          {
+            "label": "Grievous",
+            "value": 108
+          },
+          {
+            "label": "Minor",
+            "value": 15
+          },
+          {
+            "label": "No Injury",
+            "value": 24
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Night (8pm–5am)",
+            "value": 94
+          },
+          {
+            "label": "Evening (4pm–8pm)",
+            "value": 89
+          },
+          {
+            "label": "Afternoon (10am–4pm)",
+            "value": 68
+          },
+          {
+            "label": "Morning (5am–10am)",
+            "value": 38
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 30
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 23
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 23
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 15
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 30
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 23
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 23
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 15
+          },
+          {
+            "label": "Goods Carriage + Goods Carriage",
+            "value": 8
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 6
+          },
+          {
+            "label": "Scooter + Three Wheeler",
+            "value": 5
+          },
+          {
+            "label": "Auto Rickshaw + Goods Carriage",
+            "value": 4
+          },
+          {
+            "label": "Goods Carriage + Side Car",
+            "value": 4
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 4
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Accidents Involvement by Vehicle Type",
+        "rows": [
+          {
+            "label": "Scooter",
+            "value": 17
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 15
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 13
+          },
+          {
+            "label": "Side Car",
+            "value": 12
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter",
+            "value": 17
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 15
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 13
+          },
+          {
+            "label": "Side Car",
+            "value": 12
+          },
+          {
+            "label": "Moped",
+            "value": 2
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 1
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Fatalities by Vehicle Type",
+        "rows": [
+          {
+            "label": "Auto Rickshaw",
+            "value": 12
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 10
+          },
+          {
+            "label": "Scooter",
+            "value": 10
+          },
+          {
+            "label": "Side Car",
+            "value": 7
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Auto Rickshaw",
+            "value": 12
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 10
+          },
+          {
+            "label": "Scooter",
+            "value": 10
+          },
+          {
+            "label": "Side Car",
+            "value": 7
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 1
+          },
+          {
+            "label": "Tourist Motor Cab",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2023",
+            "value": 141
+          },
+          {
+            "label": "2024",
+            "value": 148
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 0
+          },
+          {
+            "label": "Outside School Zone",
+            "value": 352
+          }
+        ]
+      }
+    ],
+    "uttarakhand": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 16
+          },
+          {
+            "label": "Grievous",
+            "value": 19
+          },
+          {
+            "label": "Minor",
+            "value": 7
+          },
+          {
+            "label": "No Injury",
+            "value": 4
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Afternoon (10am–4pm)",
+            "value": 19
+          },
+          {
+            "label": "Night (8pm–5am)",
+            "value": 13
+          },
+          {
+            "label": "Morning (5am–10am)",
+            "value": 11
+          },
+          {
+            "label": "Evening (4pm–8pm)",
+            "value": 3
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 9
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 5
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 2
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 2
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 9
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 5
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 2
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 2
+          },
+          {
+            "label": "Goods Carriage + Goods Carriage",
+            "value": 2
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 2
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 2
+          },
+          {
+            "label": "Scooter + Three Wheeler",
+            "value": 2
+          },
+          {
+            "label": "Ambulance + Scooter",
+            "value": 1
+          },
+          {
+            "label": "Auto Rickshaw + Three Wheeler",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Accidents Involvement by Vehicle Type",
+        "rows": [
+          {
+            "label": "Scooter",
+            "value": 3
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 2
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 2
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 1
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter",
+            "value": 3
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 2
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 2
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 1
+          },
+          {
+            "label": "Side Car",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Fatalities by Vehicle Type",
+        "rows": [
+          {
+            "label": "Goods Carriage",
+            "value": 2
+          },
+          {
+            "label": "Scooter",
+            "value": 2
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 1
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 1
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Goods Carriage",
+            "value": 2
+          },
+          {
+            "label": "Scooter",
+            "value": 2
+          },
+          {
+            "label": "Three Wheeler",
+            "value": 1
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2023",
+            "value": 33
+          },
+          {
+            "label": "2024",
+            "value": 13
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 0
+          },
+          {
+            "label": "Outside School Zone",
+            "value": 72
+          }
+        ]
+      }
+    ],
+    "himachalpradesh": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 8
+          },
+          {
+            "label": "Grievous",
+            "value": 8
+          },
+          {
+            "label": "Minor",
+            "value": 14
+          },
+          {
+            "label": "No Injury",
+            "value": 3
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Night (8pm–5am)",
+            "value": 12
+          },
+          {
+            "label": "Afternoon (10am–4pm)",
+            "value": 11
+          },
+          {
+            "label": "Evening (4pm–8pm)",
+            "value": 7
+          },
+          {
+            "label": "Morning (5am–10am)",
+            "value": 3
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 5
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 3
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 2
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 1
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 5
+          },
+          {
+            "label": "Auto Rickshaw + Side Car",
+            "value": 3
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 2
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 1
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 1
+          },
+          {
+            "label": "Side Car + Side Car",
+            "value": 1
+          },
+          {
+            "label": "Auto Rickshaw + Three Wheeler",
+            "value": 1
+          },
+          {
+            "label": "Auto Rickshaw + Tourist Motor Cab",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Accidents Involvement by Vehicle Type",
+        "rows": [
+          {
+            "label": "Side Car",
+            "value": 7
+          },
+          {
+            "label": "Scooter",
+            "value": 5
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 1
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 1
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Side Car",
+            "value": 7
+          },
+          {
+            "label": "Scooter",
+            "value": 5
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 1
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Fatalities by Vehicle Type",
+        "rows": [
+          {
+            "label": "Side Car",
+            "value": 2
+          },
+          {
+            "label": "Scooter",
+            "value": 1
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 1
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Side Car",
+            "value": 2
+          },
+          {
+            "label": "Scooter",
+            "value": 1
+          },
+          {
+            "label": "Auto Rickshaw",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2023",
+            "value": 17
+          },
+          {
+            "label": "2024",
+            "value": 16
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 0
+          },
+          {
+            "label": "Outside School Zone",
+            "value": 36
+          }
+        ]
+      }
+    ],
+    "andamannicobar": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 3
+          },
+          {
+            "label": "Grievous",
+            "value": 12
+          },
+          {
+            "label": "Minor",
+            "value": 0
+          },
+          {
+            "label": "No Injury",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Evening (4pm–8pm)",
+            "value": 6
+          },
+          {
+            "label": "Afternoon (10am–4pm)",
+            "value": 5
+          },
+          {
+            "label": "Morning (5am–10am)",
+            "value": 3
+          },
+          {
+            "label": "Night (8pm–5am)",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 2
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 1
+          },
+          {
+            "label": "Goods Carriage + Goods Carriage",
+            "value": 1
+          },
+          {
+            "label": "Goods Carriage + Side Car",
+            "value": 1
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 2
+          },
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 1
+          },
+          {
+            "label": "Goods Carriage + Goods Carriage",
+            "value": 1
+          },
+          {
+            "label": "Goods Carriage + Side Car",
+            "value": 1
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Accidents Involvement by Vehicle Type",
+        "rows": [
+          {
+            "label": "Scooter",
+            "value": 2
+          },
+          {
+            "label": "Side Car",
+            "value": 2
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter",
+            "value": 2
+          },
+          {
+            "label": "Side Car",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2023",
+            "value": 7
+          },
+          {
+            "label": "2024",
+            "value": 9
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 0
+          },
+          {
+            "label": "Outside School Zone",
+            "value": 18
+          }
+        ]
+      }
+    ],
+    "nagaland": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 1
+          },
+          {
+            "label": "Grievous",
+            "value": 1
+          },
+          {
+            "label": "Minor",
+            "value": 5
+          },
+          {
+            "label": "No Injury",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Night (8pm–5am)",
+            "value": 4
+          },
+          {
+            "label": "Evening (4pm–8pm)",
+            "value": 2
+          },
+          {
+            "label": "Morning (5am–10am)",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Goods Carriage + Goods Carriage",
+            "value": 2
+          },
+          {
+            "label": "Scooter + Side Car",
+            "value": 1
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 1
+          },
+          {
+            "label": "Moped + Taxi",
+            "value": 1
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Goods Carriage + Goods Carriage",
+            "value": 2
+          },
+          {
+            "label": "Scooter + Side Car",
+            "value": 1
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 1
+          },
+          {
+            "label": "Moped + Taxi",
+            "value": 1
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Accidents Involvement by Vehicle Type",
+        "rows": [
+          {
+            "label": "Auto Rickshaw",
+            "value": 1
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Auto Rickshaw",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Fatalities by Vehicle Type",
+        "rows": [
+          {
+            "label": "Auto Rickshaw",
+            "value": 1
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Auto Rickshaw",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2023",
+            "value": 6
+          },
+          {
+            "label": "2024",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 0
+          },
+          {
+            "label": "Outside School Zone",
+            "value": 16
+          }
+        ]
+      }
+    ],
+    "dadraandnagarhavelianddamananddiu": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 1
+          },
+          {
+            "label": "Grievous",
+            "value": 6
+          },
+          {
+            "label": "Minor",
+            "value": 1
+          },
+          {
+            "label": "No Injury",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Night (8pm–5am)",
+            "value": 4
+          },
+          {
+            "label": "Morning (5am–10am)",
+            "value": 2
+          },
+          {
+            "label": "Evening (4pm–8pm)",
+            "value": 1
+          },
+          {
+            "label": "Afternoon (10am–4pm)",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Tourist Motor Cab",
+            "value": 1
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 1
+          },
+          {
+            "label": "Scooter + Side Car",
+            "value": 1
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter + Tourist Motor Cab",
+            "value": 1
+          },
+          {
+            "label": "Goods Carriage + Scooter",
+            "value": 1
+          },
+          {
+            "label": "Scooter + Side Car",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Accidents Involvement by Vehicle Type",
+        "rows": [
+          {
+            "label": "Scooter",
+            "value": 1
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 1
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter",
+            "value": 1
+          },
+          {
+            "label": "Goods Carriage",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2023",
+            "value": 4
+          },
+          {
+            "label": "2024",
+            "value": 4
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 0
+          },
+          {
+            "label": "Outside School Zone",
+            "value": 12
+          }
+        ]
+      }
+    ],
+    "mizoram": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 2
+          },
+          {
+            "label": "Grievous",
+            "value": 2
+          },
+          {
+            "label": "Minor",
+            "value": 0
+          },
+          {
+            "label": "No Injury",
+            "value": 3
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Afternoon (10am–4pm)",
+            "value": 3
+          },
+          {
+            "label": "Night (8pm–5am)",
+            "value": 3
+          },
+          {
+            "label": "Evening (4pm–8pm)",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 2
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Auto Rickshaw + Scooter",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2024",
+            "value": 7
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 0
+          },
+          {
+            "label": "Outside School Zone",
+            "value": 9
+          }
+        ]
+      }
+    ],
+    "tripura": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 3
+          },
+          {
+            "label": "Grievous",
+            "value": 3
+          },
+          {
+            "label": "Minor",
+            "value": 0
+          },
+          {
+            "label": "No Injury",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Evening (4pm–8pm)",
+            "value": 3
+          },
+          {
+            "label": "Night (8pm–5am)",
+            "value": 2
+          },
+          {
+            "label": "Morning (5am–10am)",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Accidents Involvement by Vehicle Type",
+        "rows": [
+          {
+            "label": "Side Car",
+            "value": 2
+          },
+          {
+            "label": "Scooter",
+            "value": 1
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Side Car",
+            "value": 2
+          },
+          {
+            "label": "Scooter",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Fatalities by Vehicle Type",
+        "rows": [
+          {
+            "label": "Side Car",
+            "value": 2
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Side Car",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2023",
+            "value": 1
+          },
+          {
+            "label": "2024",
+            "value": 5
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 0
+          },
+          {
+            "label": "Outside School Zone",
+            "value": 10
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Scooter",
+            "value": 2
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter + Scooter",
+            "value": 2
+          }
+        ]
+      }
+    ],
+    "ladakh": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 0
+          },
+          {
+            "label": "Grievous",
+            "value": 2
+          },
+          {
+            "label": "Minor",
+            "value": 3
+          },
+          {
+            "label": "No Injury",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Night (8pm–5am)",
+            "value": 5
+          },
+          {
+            "label": "Afternoon (10am–4pm)",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Pedestrian Accidents Involvement by Vehicle Type",
+        "rows": [
+          {
+            "label": "Side Car",
+            "value": 1
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Side Car",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2023",
+            "value": 5
+          },
+          {
+            "label": "2024",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 0
+          },
+          {
+            "label": "Outside School Zone",
+            "value": 6
+          }
+        ]
+      }
+    ],
+    "manipur": [
+      {
+        "title": "Accident Severity",
+        "rows": [
+          {
+            "label": "Fatal",
+            "value": 0
+          },
+          {
+            "label": "Grievous",
+            "value": 2
+          },
+          {
+            "label": "Minor",
+            "value": 1
+          },
+          {
+            "label": "No Injury",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Time",
+        "rows": [
+          {
+            "label": "Evening (4pm–8pm)",
+            "value": 2
+          },
+          {
+            "label": "Afternoon (10am–4pm)",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Crashes by Vehicle Pair",
+        "rows": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 2
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 1
+          }
+        ],
+        "rows_expanded": [
+          {
+            "label": "Scooter + Side Car",
+            "value": 2
+          },
+          {
+            "label": "Scooter + Scooter",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "title": "Year-wise Crashes",
+        "rows": [
+          {
+            "label": "2023",
+            "value": 1
+          },
+          {
+            "label": "2024",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "title": "DBSCAN & School Zone - Accidents Overlap",
+        "rows": [
+          {
+            "label": "In School Zone",
+            "value": 0
+          },
+          {
+            "label": "Outside School Zone",
+            "value": 5
+          }
+        ]
+      }
+    ]
+  }
+}

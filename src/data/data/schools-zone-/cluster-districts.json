@@ -1,0 +1,35 @@
+{
+  "default_factor": 0.16,
+  "district_factors_by_state": {
+    "maharashtra": {
+      "MUMBAI": 0.23,
+      "PUNE": 0.19,
+      "NAGPUR": 0.14,
+      "NASHIK": 0.12
+    },
+    "uttar pradesh": {
+      "LUCKNOW": 0.21,
+      "KANPUR CITY": 0.17,
+      "AGRA": 0.13,
+      "MEERUT": 0.11
+    },
+    "tamil nadu": {
+      "CHENNAI": 0.22,
+      "COIMBATORE": 0.16,
+      "MADURAI": 0.13,
+      "TRICHY": 0.09
+    },
+    "gujarat": {
+      "AHMEDABAD CITY": 0.24,
+      "SURAT CITY": 0.17,
+      "VADODARA CITY": 0.14,
+      "RAJKOT CITY": 0.10
+    },
+    "andhra pradesh": {
+      "VISAKHAPATNAM CITY": 0.21,
+      "VIJAYAWADA CITY": 0.16,
+      "GUNTUR": 0.13,
+      "TIRUPATI": 0.08
+    }
+  }
+}

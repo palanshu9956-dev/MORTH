@@ -1,0 +1,1090 @@
+{
+  "meta": {
+    "level": "national",
+    "category": "mort",
+    "last_updated": "2026-04-14"
+  },
+  "summary": {
+    "corridors": 9421,
+    "total_length_processed": 9644.2,
+    "fatal_grievous_covered": 111373,
+    "total_accident_count": 111373,
+    "blackspots": 1506,
+    "total_fatalities": 56596,
+    "fg_coverage": 141632,
+    "total_fatal_accidents": 50985,
+    "total_grievous_accidents": 60388
+  },
+  "india_summary": {
+    "total_accidents_india_three_years": 1449052,
+    "total_fatal_accidents_india_three_years": 472187,
+    "total_grievous_accidents_india_three_years": 472106,
+    "total_fatalities_india_three_years": 523239
+  },
+  "agencies": [
+    {
+      "name": "NHAI",
+      "length": 6915.2,
+      "corridors": 6442,
+      "accidents": 82650,
+      "fatalities": 42262
+    },
+    {
+      "name": "State PWD",
+      "length": 2606.1,
+      "corridors": 2850,
+      "accidents": 27488,
+      "fatalities": 13933
+    },
+    {
+      "name": "NHIDCL",
+      "length": 122.9,
+      "corridors": 129,
+      "accidents": 1235,
+      "fatalities": 401
+    }
+  ],
+  "top_corridors": [
+    {
+      "rank": 1,
+      "corridor_name": "NH-544__30m__CORRIDOR_1",
+      "road_name": "NH-544",
+      "state": "KERALA",
+      "district": "THRISSUR RURAL, ERNAKULAM CITY, ERNAKULAM RURAL",
+      "fatal_grievous_accidents": 1259,
+      "fatalities": 133,
+      "length_km": 36.10
+    },
+    {
+      "rank": 2,
+      "corridor_name": "NH-66__30m__CORRIDOR_14",
+      "road_name": "NH-66",
+      "state": "KERALA",
+      "district": "THIRUVANANTHAPURAM RURAL, THIRUVANANTHAPURAM CITY",
+      "fatal_grievous_accidents": 791,
+      "fatalities": 84,
+      "length_km": 26.00
+    },
+    {
+      "rank": 3,
+      "corridor_name": "NH-32__30m__CORRIDOR_116",
+      "road_name": "NH-32",
+      "state": "TAMIL NADU",
+      "district": "TAMBARAM",
+      "fatal_grievous_accidents": 753,
+      "fatalities": 260,
+      "length_km": 17.40
+    },
+    {
+      "rank": 4,
+      "corridor_name": "NH-66__30m__CORRIDOR_40",
+      "road_name": "NH-66",
+      "state": "KERALA",
+      "district": "ERNAKULAM CITY",
+      "fatal_grievous_accidents": 674,
+      "fatalities": 46,
+      "length_km": 15.20
+    },
+    {
+      "rank": 5,
+      "corridor_name": "NH-183__30m__CORRIDOR_24",
+      "road_name": "NH-183",
+      "state": "KERALA",
+      "district": "KOTTAYAM, PATHANAMTHITTA",
+      "fatal_grievous_accidents": 587,
+      "fatalities": 70,
+      "length_km": 24.40
+    },
+    {
+      "rank": 6,
+      "corridor_name": "NH-66__30m__CORRIDOR_31",
+      "road_name": "NH-66",
+      "state": "KERALA",
+      "district": "ALAPPUZHA",
+      "fatal_grievous_accidents": 543,
+      "fatalities": 73,
+      "length_km": 22.20
+    },
+    {
+      "rank": 7,
+      "corridor_name": "NH-27__30m__CORRIDOR_347",
+      "road_name": "NH-27",
+      "state": "ASSAM",
+      "district": "GUWAHATI CITY",
+      "fatal_grievous_accidents": 517,
+      "fatalities": 226,
+      "length_km": 20.30
+    },
+    {
+      "rank": 8,
+      "corridor_name": "NH-183__30m__CORRIDOR_20",
+      "road_name": "NH-183",
+      "state": "KERALA",
+      "district": "PATHANAMTHITTA, ALAPPUZHA",
+      "fatal_grievous_accidents": 439,
+      "fatalities": 30,
+      "length_km": 15.70
+    },
+    {
+      "rank": 9,
+      "corridor_name": "NH-66__30m__CORRIDOR_52",
+      "road_name": "NH-66",
+      "state": "KERALA",
+      "district": "THRISSUR RURAL",
+      "fatal_grievous_accidents": 420,
+      "fatalities": 59,
+      "length_km": 20.00
+    },
+    {
+      "rank": 10,
+      "corridor_name": "NH-66__30m__CORRIDOR_20",
+      "road_name": "NH-66",
+      "state": "KERALA",
+      "district": "KOLLAM CITY",
+      "fatal_grievous_accidents": 411,
+      "fatalities": 59,
+      "length_km": 15.80
+    },
+    {
+      "rank": 11,
+      "corridor_name": "NH-66__30m__CORRIDOR_18",
+      "road_name": "NH-66",
+      "state": "KERALA",
+      "district": "KOLLAM CITY, THIRUVANANTHAPURAM RURAL, KOLLAM RURAL",
+      "fatal_grievous_accidents": 407,
+      "fatalities": 52,
+      "length_km": 18.00
+    },
+    {
+      "rank": 12,
+      "corridor_name": "NH-66__30m__CORRIDOR_24",
+      "road_name": "NH-66",
+      "state": "KERALA",
+      "district": "ALAPPUZHA",
+      "fatal_grievous_accidents": 392,
+      "fatalities": 47,
+      "length_km": 16.70
+    },
+    {
+      "rank": 13,
+      "corridor_name": "NH-66__30m__CORRIDOR_28",
+      "road_name": "NH-66",
+      "state": "KERALA",
+      "district": "ALAPPUZHA",
+      "fatal_grievous_accidents": 390,
+      "fatalities": 55,
+      "length_km": 14.90
+    },
+    {
+      "rank": 14,
+      "corridor_name": "NH-48__30m__CORRIDOR_104",
+      "road_name": "NH-48",
+      "state": "KARNATAKA",
+      "district": "BANGALORE",
+      "fatal_grievous_accidents": 293,
+      "fatalities": 81,
+      "length_km": 11.40
+    },
+    {
+      "rank": 15,
+      "corridor_name": "NH-44__30m__CORRIDOR_188",
+      "road_name": "NH-44",
+      "state": "KARNATAKA",
+      "district": "BANGALORE CITY",
+      "fatal_grievous_accidents": 290,
+      "fatalities": 121,
+      "length_km": 13.60
+    },
+    {
+      "rank": 16,
+      "corridor_name": "NH-66__30m__CORRIDOR_89",
+      "road_name": "NH-66",
+      "state": "KERALA",
+      "district": "KOZHIKODE CITY, MALAPPURAM",
+      "fatal_grievous_accidents": 290,
+      "fatalities": 39,
+      "length_km": 14.90
+    },
+    {
+      "rank": 17,
+      "corridor_name": "NH-65__30m__CORRIDOR_71",
+      "road_name": "NH-65",
+      "state": "TELANGANA",
+      "district": "CYBERABAD, SANGAREDDY",
+      "fatal_grievous_accidents": 267,
+      "fatalities": 87,
+      "length_km": 12.20
+    },
+    {
+      "rank": 18,
+      "corridor_name": "NH-32__30m__CORRIDOR_51",
+      "road_name": "NH-32",
+      "state": "TAMIL NADU",
+      "district": "CUDDALORE",
+      "fatal_grievous_accidents": 254,
+      "fatalities": 31,
+      "length_km": 9.70
+    },
+    {
+      "rank": 19,
+      "corridor_name": "NH-66__30m__CORRIDOR_32",
+      "road_name": "NH-66",
+      "state": "KERALA",
+      "district": "ALAPPUZHA",
+      "fatal_grievous_accidents": 252,
+      "fatalities": 32,
+      "length_km": 8.70
+    },
+    {
+      "rank": 20,
+      "corridor_name": "NH-66__30m__CORRIDOR_13",
+      "road_name": "NH-66",
+      "state": "KERALA",
+      "district": "THIRUVANANTHAPURAM CITY",
+      "fatal_grievous_accidents": 237,
+      "fatalities": 27,
+      "length_km": 7.30
+    }
+  ],
+  "rankings": [
+    {
+      "title": "Top NH (Longest Length)",
+      "rows": [
+        {
+          "name": "NH-44",
+          "value": 755.0
+        },
+        {
+          "name": "NH-48",
+          "value": 675.0
+        },
+        {
+          "name": "NH-66",
+          "value": 505.0
+        }
+      ]
+    },
+    {
+      "title": "Top NH (Fatal + Grievous)",
+      "rows": [
+        {
+          "name": "NH-66",
+          "value": 9653
+        },
+        {
+          "name": "NH-44",
+          "value": 8639
+        },
+        {
+          "name": "NH-48",
+          "value": 7748
+        }
+      ]
+    }
+  ],
+  "bars": [
+    {
+      "title": "Corridor Length Distribution",
+      "rows": [
+        {
+          "label": "0-500 m",
+          "value": 1506
+        },
+        {
+          "label": "501-1000 m",
+          "value": 5873
+        },
+        {
+          "label": "1001-2000 m",
+          "value": 1533
+        },
+        {
+          "label": "2001-5000 m",
+          "value": 418
+        },
+        {
+          "label": "5001-6000 m",
+          "value": 25
+        },
+        {
+          "label": "6001-7000 m",
+          "value": 15
+        },
+        {
+          "label": "7001-8000 m",
+          "value": 11
+        },
+        {
+          "label": "8001-9000 m",
+          "value": 10
+        },
+        {
+          "label": "9001-10000 m",
+          "value": 9
+        },
+        {
+          "label": ">10000 m",
+          "value": 21
+        }
+      ]
+    },
+    {
+      "title": "Crashes per Corridor",
+      "rows": [
+        {
+          "label": "1-10",
+          "value": 7071
+        },
+        {
+          "label": "11-20",
+          "value": 1571
+        },
+        {
+          "label": "21+",
+          "value": 779
+        }
+      ]
+    },
+    {
+      "title": "Fatalities per Corridor",
+      "rows": [
+        {
+          "label": "0-5",
+          "value": 5883
+        },
+        {
+          "label": "6-15",
+          "value": 3138
+        },
+        {
+          "label": "16+",
+          "value": 400
+        }
+      ]
+    },
+    {
+      "title": "Crashes by Time",
+      "rows": [
+        {
+          "label": "Morning 5 am-10 am",
+          "value": 18978
+        },
+        {
+          "label": "Afternoon 10 am-4 pm",
+          "value": 31420
+        },
+        {
+          "label": "Evening 4 pm-8 pm",
+          "value": 28301
+        },
+        {
+          "label": "Night 8 pm-5 am",
+          "value": 32674
+        }
+      ]
+    },
+    {
+      "title": "Crashes by Junction Type",
+      "rows": [
+        {
+          "label": "T – Junction",
+          "value": 973
+        },
+        {
+          "label": "Y – Junction",
+          "value": 367
+        },
+        {
+          "label": "Four-arm Square Junction",
+          "value": 282
+        },
+        {
+          "label": "Four-arm Cross  Junction",
+          "value": 255
+        },
+        {
+          "label": "Staggered",
+          "value": 120
+        },
+        {
+          "label": "Roundabout",
+          "value": 109
+        },
+        {
+          "label": "Elevated Junction (3- arm / 4-arm)",
+          "value": 23
+        },
+        {
+          "label": "More than Four-arm",
+          "value": 13
+        },
+        {
+          "label": "Unguarded Level Crossing",
+          "value": 3
+        },
+        {
+          "label": "Guarded Level  Crossing",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "title": "Crashes by Vehicle Pair",
+      "rows": [
+        {
+          "label": "Scooter + Side Car",
+          "value": 16215
+        },
+        {
+          "label": "Auto Rickshaw + Scooter",
+          "value": 10430
+        },
+        {
+          "label": "Goods Carriage + Scooter",
+          "value": 5543
+        },
+        {
+          "label": "Scooter + Three Wheeler",
+          "value": 2804
+        },
+        {
+          "label": "Auto Rickshaw + Side Car",
+          "value": 2123
+        },
+        {
+          "label": "Scooter + Tourist Motor Cab",
+          "value": 1426
+        },
+        {
+          "label": "Moped + Scooter",
+          "value": 1369
+        },
+        {
+          "label": "Goods Carriage + Side Car",
+          "value": 1047
+        },
+        {
+          "label": "Auto Rickshaw + Goods Carriage",
+          "value": 936
+        },
+        {
+          "label": "Moped + Side Car",
+          "value": 876
+        }
+      ]
+    },
+    {
+      "title": "Crashes by Year",
+      "rows": [
+        {
+          "label": "2025",
+          "value": 38525
+        },
+        {
+          "label": "2024",
+          "value": 37361
+        },
+        {
+          "label": "2023",
+          "value": 35487
+        }
+      ]
+    },
+    {
+      "title": "Pedestrian Accidents Involvement by Vehicle Type",
+      "rows": [
+        {
+          "label": "Scooter",
+          "value": 10434
+        },
+        {
+          "label": "Side Car",
+          "value": 7263
+        },
+        {
+          "label": "Goods Carriage",
+          "value": 5934
+        },
+        {
+          "label": "Auto Rickshaw",
+          "value": 3993
+        },
+        {
+          "label": "Three Wheeler",
+          "value": 1693
+        },
+        {
+          "label": "Moped",
+          "value": 708
+        },
+        {
+          "label": "Tourist Motor Cab",
+          "value": 559
+        },
+        {
+          "label": "Ambulance",
+          "value": 86
+        },
+        {
+          "label": "Car",
+          "value": 62
+        },
+        {
+          "label": "Tourist Maxi Cab",
+          "value": 33
+        },
+        {
+          "label": "All India Tourist Vehicle",
+          "value": 18
+        },
+        {
+          "label": "Taxi",
+          "value": 8
+        },
+        {
+          "label": "Omni Bus",
+          "value": 6
+        },
+        {
+          "label": "Radio Taxi",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "title": "Pedestrian Fatalities by Vehicle Type",
+      "rows": [
+        {
+          "label": "Goods Carriage",
+          "value": 4197
+        },
+        {
+          "label": "Side Car",
+          "value": 3937
+        },
+        {
+          "label": "Scooter",
+          "value": 3520
+        },
+        {
+          "label": "Auto Rickshaw",
+          "value": 2815
+        },
+        {
+          "label": "Three Wheeler",
+          "value": 1039
+        },
+        {
+          "label": "Tourist Motor Cab",
+          "value": 333
+        },
+        {
+          "label": "Moped",
+          "value": 231
+        },
+        {
+          "label": "Ambulance",
+          "value": 57
+        },
+        {
+          "label": "Car",
+          "value": 48
+        },
+        {
+          "label": "All India Tourist Vehicle",
+          "value": 6
+        },
+        {
+          "label": "Omni Bus",
+          "value": 6
+        },
+        {
+          "label": "Tourist Maxi Cab",
+          "value": 5
+        },
+        {
+          "label": "Taxi",
+          "value": 4
+        },
+        {
+          "label": "Radio Taxi",
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "national_insights": {
+    "top_states": {
+      "fatalities": [
+        {
+          "name": "TAMIL NADU",
+          "value": 9682
+        },
+        {
+          "name": "UTTAR PRADESH",
+          "value": 8937
+        },
+        {
+          "name": "MAHARASHTRA",
+          "value": 5177
+        },
+        {
+          "name": "KARNATAKA",
+          "value": 4382
+        },
+        {
+          "name": "MADHYA PRADESH",
+          "value": 2873
+        },
+        {
+          "name": "RAJASTHAN",
+          "value": 2805
+        },
+        {
+          "name": "ANDHRA PRADESH",
+          "value": 2784
+        },
+        {
+          "name": "TELANGANA",
+          "value": 2750
+        },
+        {
+          "name": "WEST BENGAL",
+          "value": 2685
+        },
+        {
+          "name": "KERALA",
+          "value": 2197
+        },
+        {
+          "name": "HARYANA",
+          "value": 2155
+        },
+        {
+          "name": "GUJARAT",
+          "value": 1900
+        },
+        {
+          "name": "ASSAM",
+          "value": 1864
+        },
+        {
+          "name": "BIHAR",
+          "value": 1442
+        },
+        {
+          "name": "ODISHA",
+          "value": 1179
+        },
+        {
+          "name": "JHARKHAND",
+          "value": 1013
+        },
+        {
+          "name": "CHHATTISGARH",
+          "value": 832
+        },
+        {
+          "name": "UTTARAKHAND",
+          "value": 368
+        },
+        {
+          "name": "JAMMU & KASHMIR",
+          "value": 348
+        },
+        {
+          "name": "DELHI",
+          "value": 332
+        },
+        {
+          "name": "PUNJAB",
+          "value": 308
+        },
+        {
+          "name": "PUDUCHERRY",
+          "value": 209
+        },
+        {
+          "name": "GOA",
+          "value": 54
+        },
+        {
+          "name": "HIMACHAL PRADESH",
+          "value": 50
+        },
+        {
+          "name": "MANIPUR",
+          "value": 47
+        },
+        {
+          "name": "TRIPURA",
+          "value": 46
+        },
+        {
+          "name": "PUDUCHERRY, TAMIL NADU",
+          "value": 26
+        },
+        {
+          "name": "TAMIL NADU, PUDUCHERRY",
+          "value": 23
+        },
+        {
+          "name": "DELHI, UTTAR PRADESH",
+          "value": 19
+        },
+        {
+          "name": "NAGALAND",
+          "value": 18
+        },
+        {
+          "name": "LADAKH",
+          "value": 14
+        },
+        {
+          "name": "HARYANA, DELHI",
+          "value": 13
+        },
+        {
+          "name": "KARNATAKA, TAMIL NADU",
+          "value": 9
+        },
+        {
+          "name": "CHANDIGARH",
+          "value": 8
+        },
+        {
+          "name": "MEGHALAYA",
+          "value": 8
+        },
+        {
+          "name": "HARYANA, RAJASTHAN",
+          "value": 8
+        },
+        {
+          "name": "KARNATAKA, KERALA",
+          "value": 7
+        },
+        {
+          "name": "KERALA, TAMIL NADU",
+          "value": 4
+        },
+        {
+          "name": "ARUNACHAL PRADESH",
+          "value": 4
+        },
+        {
+          "name": "PUDUCHERRY, ANDHRA PRADESH",
+          "value": 3
+        },
+        {
+          "name": "DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+          "value": 3
+        },
+        {
+          "name": "WEST BENGAL, BIHAR",
+          "value": 3
+        },
+        {
+          "name": "SIKKIM",
+          "value": 3
+        },
+        {
+          "name": "ODISHA, ANDHRA PRADESH",
+          "value": 2
+        },
+        {
+          "name": "MADHYA PRADESH, RAJASTHAN",
+          "value": 2
+        }
+      ],
+      "fatal_grievous": [
+        {
+          "name": "KERALA",
+          "value": 18479
+        },
+        {
+          "name": "TAMIL NADU",
+          "value": 17942
+        },
+        {
+          "name": "UTTAR PRADESH",
+          "value": 13353
+        },
+        {
+          "name": "KARNATAKA",
+          "value": 10224
+        },
+        {
+          "name": "MAHARASHTRA",
+          "value": 8431
+        },
+        {
+          "name": "WEST BENGAL",
+          "value": 5052
+        },
+        {
+          "name": "ASSAM",
+          "value": 4987
+        },
+        {
+          "name": "MADHYA PRADESH",
+          "value": 4841
+        },
+        {
+          "name": "RAJASTHAN",
+          "value": 4609
+        },
+        {
+          "name": "TELANGANA",
+          "value": 4332
+        },
+        {
+          "name": "ANDHRA PRADESH",
+          "value": 4206
+        },
+        {
+          "name": "HARYANA",
+          "value": 3196
+        },
+        {
+          "name": "GUJARAT",
+          "value": 2516
+        },
+        {
+          "name": "ODISHA",
+          "value": 1793
+        },
+        {
+          "name": "BIHAR",
+          "value": 1548
+        },
+        {
+          "name": "JHARKHAND",
+          "value": 1143
+        },
+        {
+          "name": "CHHATTISGARH",
+          "value": 1126
+        },
+        {
+          "name": "JAMMU & KASHMIR",
+          "value": 870
+        },
+        {
+          "name": "DELHI",
+          "value": 539
+        },
+        {
+          "name": "PUDUCHERRY",
+          "value": 500
+        },
+        {
+          "name": "UTTARAKHAND",
+          "value": 435
+        },
+        {
+          "name": "PUNJAB",
+          "value": 360
+        },
+        {
+          "name": "PUDUCHERRY, TAMIL NADU",
+          "value": 149
+        },
+        {
+          "name": "MANIPUR",
+          "value": 147
+        },
+        {
+          "name": "GOA",
+          "value": 109
+        },
+        {
+          "name": "TRIPURA",
+          "value": 96
+        },
+        {
+          "name": "HIMACHAL PRADESH",
+          "value": 95
+        },
+        {
+          "name": "TAMIL NADU, PUDUCHERRY",
+          "value": 60
+        },
+        {
+          "name": "NAGALAND",
+          "value": 40
+        },
+        {
+          "name": "DELHI, UTTAR PRADESH",
+          "value": 31
+        },
+        {
+          "name": "MEGHALAYA",
+          "value": 21
+        },
+        {
+          "name": "HARYANA, DELHI",
+          "value": 20
+        },
+        {
+          "name": "KARNATAKA, KERALA",
+          "value": 17
+        },
+        {
+          "name": "ARUNACHAL PRADESH",
+          "value": 15
+        },
+        {
+          "name": "KARNATAKA, TAMIL NADU",
+          "value": 15
+        },
+        {
+          "name": "HARYANA, RAJASTHAN",
+          "value": 13
+        },
+        {
+          "name": "SIKKIM",
+          "value": 11
+        },
+        {
+          "name": "CHANDIGARH",
+          "value": 10
+        },
+        {
+          "name": "PUDUCHERRY, ANDHRA PRADESH",
+          "value": 8
+        },
+        {
+          "name": "LADAKH",
+          "value": 7
+        },
+        {
+          "name": "MADHYA PRADESH, RAJASTHAN",
+          "value": 7
+        },
+        {
+          "name": "DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+          "value": 5
+        },
+        {
+          "name": "ODISHA, ANDHRA PRADESH",
+          "value": 5
+        },
+        {
+          "name": "KERALA, TAMIL NADU",
+          "value": 5
+        },
+        {
+          "name": "WEST BENGAL, BIHAR",
+          "value": 5
+        }
+      ]
+    },
+    "violations": [
+      {
+        "name": "No Violation",
+        "value": 68019
+      },
+      {
+        "name": "High Speed",
+        "value": 22191
+      },
+      {
+        "name": "Rash Driving",
+        "value": 13360
+      },
+      {
+        "name": "Unknown/Missing",
+        "value": 8193
+      },
+      {
+        "name": "Dangerous Overtaking",
+        "value": 3565
+      },
+      {
+        "name": "Changing lane without care",
+        "value": 2664
+      },
+      {
+        "name": "Driving against flow of traffic",
+        "value": 1054
+      },
+      {
+        "name": "Non-respect of Right of Way (ROW) rules",
+        "value": 676
+      },
+      {
+        "name": "Illegal Parking on Road",
+        "value": 533
+      },
+      {
+        "name": "Drunken Driving / Consumption of Alcohol",
+        "value": 509
+      },
+      {
+        "name": "Carrying people in Load vehicle",
+        "value": 405
+      },
+      {
+        "name": "Over speed while crossing Speed breaker",
+        "value": 327
+      },
+      {
+        "name": "Over speed while crossing Zebra crossing",
+        "value": 232
+      },
+      {
+        "name": "Violating the Mandatory signs",
+        "value": 220
+      },
+      {
+        "name": "Travel without Seatbelt / Helmet",
+        "value": 182
+      },
+      {
+        "name": "Improper use of horn",
+        "value": 179
+      },
+      {
+        "name": "No indication of Vehicle parking along the road",
+        "value": 163
+      },
+      {
+        "name": "Overloaded",
+        "value": 122
+      },
+      {
+        "name": "Parking in No Parking area",
+        "value": 120
+      },
+      {
+        "name": "Red Light jumping",
+        "value": 94
+      },
+      {
+        "name": "Tripling on Two wheeler",
+        "value": 80
+      },
+      {
+        "name": "Improper use of headlight/ taillight",
+        "value": 43
+      },
+      {
+        "name": "Drugs abuse",
+        "value": 37
+      },
+      {
+        "name": "Using Phone while driving",
+        "value": 34
+      },
+      {
+        "name": "Juvenile driving",
+        "value": 27
+      },
+      {
+        "name": "Driving body altered vehicle",
+        "value": 19
+      }
+    ]
+  }
+}

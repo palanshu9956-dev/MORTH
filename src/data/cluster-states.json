@@ -1,0 +1,8364 @@
+[
+  {
+    "name": "KERALA",
+    "fg_covered": 31384,
+    "blackspots": 4525,
+    "corridors": 4525,
+    "total_fatalities": 2844,
+    "total_grievous": 30800,
+    "total_fg": 31384,
+    "total_accidents": 41065,
+    "fatal_accidents": 2710,
+    "grievous_accidents": 28674,
+    "minor_accidents": 6992,
+    "no_injury_accidents": 2689,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 4316
+      },
+      {
+        "label": "25-50",
+        "value": 142
+      },
+      {
+        "label": "50-100",
+        "value": 53
+      },
+      {
+        "label": "100+",
+        "value": 14
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 24210,
+        "pct": 57.6
+      },
+      {
+        "name": "Rash Driving",
+        "count": 8448,
+        "pct": 20.1
+      },
+      {
+        "name": "High Speed",
+        "count": 5529,
+        "pct": 13.2
+      },
+      {
+        "name": "Dangerous Overtaking",
+        "count": 1633,
+        "pct": 3.9
+      },
+      {
+        "name": "Changing lane without care",
+        "count": 1114,
+        "pct": 2.7
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 27551,
+        "pct": 72.6
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 9474,
+        "pct": 25.0
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 907,
+        "pct": 2.4
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Side",
+        "count": 17766,
+        "pct": 43.4
+      },
+      {
+        "name": "Head on Collision",
+        "count": 10693,
+        "pct": 26.1
+      },
+      {
+        "name": "Hit from Back",
+        "count": 9132,
+        "pct": 22.3
+      },
+      {
+        "name": "No Collision",
+        "count": 681,
+        "pct": 1.7
+      },
+      {
+        "name": "Skidding / Overturn",
+        "count": 659,
+        "pct": 1.6
+      },
+      {
+        "name": "Hit Fixed / Stationary Object",
+        "count": 507,
+        "pct": 1.2
+      },
+      {
+        "name": "Hit Parked Vehicle",
+        "count": 464,
+        "pct": 1.1
+      },
+      {
+        "name": "Sideswipe",
+        "count": 412,
+        "pct": 1.0
+      },
+      {
+        "name": "Run off Road",
+        "count": 230,
+        "pct": 0.6
+      },
+      {
+        "name": "Overturn",
+        "count": 216,
+        "pct": 0.5
+      },
+      {
+        "name": "Hit tree",
+        "count": 74,
+        "pct": 0.2
+      },
+      {
+        "name": "Vehicle Fell in Gorge/Ditch/Well",
+        "count": 45,
+        "pct": 0.1
+      },
+      {
+        "name": "Landslide",
+        "count": 23,
+        "pct": 0.1
+      },
+      {
+        "name": "Vehicle Fell in River",
+        "count": 16,
+        "pct": 0.0
+      }
+    ],
+    "total_fatal_all_roads": 11474,
+    "total_grievous_all_roads": 109166,
+    "total_clusters": 4525,
+    "time_distribution": [
+      {
+        "label": "Afternoon (10am–4pm)",
+        "value": 12985
+      },
+      {
+        "label": "Evening (4pm–8pm)",
+        "value": 11391
+      },
+      {
+        "label": "Night (8pm–5am)",
+        "value": 8950
+      },
+      {
+        "label": "Morning (5am–10am)",
+        "value": 7739
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2023,
+        "value": 20580
+      },
+      {
+        "label": 2024,
+        "value": 20485
+      }
+    ],
+    "vehicle_pairs": [
+      {
+        "name": "Scooter + Side Car",
+        "count": 8773
+      },
+      {
+        "name": "Scooter + Scooter",
+        "count": 7686
+      },
+      {
+        "name": "Moped + Scooter",
+        "count": 1823
+      },
+      {
+        "name": "Auto Rickshaw + Scooter",
+        "count": 1703
+      },
+      {
+        "name": "Scooter + Three Wheeler",
+        "count": 1587
+      },
+      {
+        "name": "Goods Carriage + Scooter",
+        "count": 1529
+      },
+      {
+        "name": "Side Car + Side Car",
+        "count": 1285
+      },
+      {
+        "name": "Side Car + Three Wheeler",
+        "count": 776
+      },
+      {
+        "name": "Auto Rickshaw + Side Car",
+        "count": 630
+      },
+      {
+        "name": "Moped + Side Car",
+        "count": 624
+      }
+    ],
+    "junction_types": [
+      {
+        "name": "T – Junction",
+        "count": 43
+      },
+      {
+        "name": "Y – Junction ",
+        "count": 15
+      },
+      {
+        "name": "Four-arm Square Junction ",
+        "count": 11
+      },
+      {
+        "name": "Staggered",
+        "count": 6
+      },
+      {
+        "name": "Roundabout ",
+        "count": 5
+      },
+      {
+        "name": "Guarded Level  Crossing",
+        "count": 4
+      },
+      {
+        "name": "Four-arm Cross  Junction ",
+        "count": 3
+      },
+      {
+        "name": "More than Four-arm",
+        "count": 1
+      }
+    ],
+    "pedestrian_accidents": [
+      {
+        "name": "Scooter",
+        "count": 5223
+      },
+      {
+        "name": "Side Car",
+        "count": 2270
+      },
+      {
+        "name": "Goods Carriage",
+        "count": 620
+      },
+      {
+        "name": "Three Wheeler",
+        "count": 561
+      },
+      {
+        "name": "Moped",
+        "count": 533
+      },
+      {
+        "name": "Auto Rickshaw",
+        "count": 389
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "count": 44
+      },
+      {
+        "name": "Tourist Maxi Cab",
+        "count": 4
+      },
+      {
+        "name": "Car",
+        "count": 3
+      },
+      {
+        "name": "All India Tourist Vehicle",
+        "count": 2
+      }
+    ],
+    "pedestrian_deaths": [
+      {
+        "name": "Scooter",
+        "value": 336
+      },
+      {
+        "name": "Side Car",
+        "value": 260
+      },
+      {
+        "name": "Three Wheeler",
+        "value": 119
+      },
+      {
+        "name": "Auto Rickshaw",
+        "value": 83
+      },
+      {
+        "name": "Goods Carriage",
+        "value": 69
+      },
+      {
+        "name": "Moped",
+        "value": 66
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "value": 10
+      },
+      {
+        "name": "Ambulance",
+        "value": 3
+      },
+      {
+        "name": "Car",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "TAMIL NADU",
+    "fg_covered": 13793,
+    "blackspots": 4275,
+    "corridors": 4275,
+    "total_fatalities": 6843,
+    "total_grievous": 8456,
+    "total_fg": 13793,
+    "total_accidents": 30672,
+    "fatal_accidents": 6499,
+    "grievous_accidents": 7294,
+    "minor_accidents": 16265,
+    "no_injury_accidents": 614,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 4175
+      },
+      {
+        "label": "25-50",
+        "value": 69
+      },
+      {
+        "label": "50-100",
+        "value": 22
+      },
+      {
+        "label": "100+",
+        "value": 9
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 19850,
+        "pct": 67.7
+      },
+      {
+        "name": "High Speed",
+        "count": 5594,
+        "pct": 19.1
+      },
+      {
+        "name": "Rash Driving",
+        "count": 1333,
+        "pct": 4.5
+      },
+      {
+        "name": "Dangerous Overtaking",
+        "count": 807,
+        "pct": 2.8
+      },
+      {
+        "name": "Changing lane without care",
+        "count": 561,
+        "pct": 1.9
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 17061,
+        "pct": 65.5
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 8321,
+        "pct": 32.0
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 655,
+        "pct": 2.5
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Head on Collision",
+        "count": 9671,
+        "pct": 32.4
+      },
+      {
+        "name": "Hit from Side",
+        "count": 9255,
+        "pct": 31.0
+      },
+      {
+        "name": "Hit from Back",
+        "count": 7732,
+        "pct": 25.9
+      },
+      {
+        "name": "Skidding / Overturn",
+        "count": 729,
+        "pct": 2.4
+      },
+      {
+        "name": "No Collision",
+        "count": 711,
+        "pct": 2.4
+      },
+      {
+        "name": "Sideswipe",
+        "count": 485,
+        "pct": 1.6
+      },
+      {
+        "name": "Run off Road",
+        "count": 435,
+        "pct": 1.5
+      },
+      {
+        "name": "Hit Fixed / Stationary Object",
+        "count": 243,
+        "pct": 0.8
+      },
+      {
+        "name": "Hit Parked Vehicle",
+        "count": 187,
+        "pct": 0.6
+      },
+      {
+        "name": "Overturn",
+        "count": 170,
+        "pct": 0.6
+      },
+      {
+        "name": "Vehicle Fell in Gorge/Ditch/Well",
+        "count": 109,
+        "pct": 0.4
+      },
+      {
+        "name": "Hit tree",
+        "count": 72,
+        "pct": 0.2
+      },
+      {
+        "name": "Landslide",
+        "count": 31,
+        "pct": 0.1
+      },
+      {
+        "name": "Vehicle Fell in River",
+        "count": 11,
+        "pct": 0.0
+      }
+    ],
+    "total_fatal_all_roads": 52051,
+    "total_grievous_all_roads": 47392,
+    "total_clusters": 4275,
+    "time_distribution": [
+      {
+        "label": "Afternoon (10am–4pm)",
+        "value": 8748
+      },
+      {
+        "label": "Evening (4pm–8pm)",
+        "value": 8150
+      },
+      {
+        "label": "Night (8pm–5am)",
+        "value": 7826
+      },
+      {
+        "label": "Morning (5am–10am)",
+        "value": 5948
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2023,
+        "value": 15550
+      },
+      {
+        "label": 2024,
+        "value": 15122
+      }
+    ],
+    "vehicle_pairs": [
+      {
+        "name": "Scooter + Scooter",
+        "count": 5205
+      },
+      {
+        "name": "Scooter + Side Car",
+        "count": 4784
+      },
+      {
+        "name": "Auto Rickshaw + Scooter",
+        "count": 1965
+      },
+      {
+        "name": "Goods Carriage + Scooter",
+        "count": 1132
+      },
+      {
+        "name": "Scooter + Three Wheeler",
+        "count": 1074
+      },
+      {
+        "name": "Moped + Scooter",
+        "count": 718
+      },
+      {
+        "name": "Side Car + Side Car",
+        "count": 436
+      },
+      {
+        "name": "Goods Carriage + Goods Carriage",
+        "count": 364
+      },
+      {
+        "name": "Scooter + Tourist Motor Cab",
+        "count": 310
+      },
+      {
+        "name": "Auto Rickshaw + Side Car",
+        "count": 303
+      }
+    ],
+    "junction_types": [
+      {
+        "name": "T – Junction",
+        "count": 225
+      },
+      {
+        "name": "Four-arm Square Junction ",
+        "count": 93
+      },
+      {
+        "name": "Y – Junction ",
+        "count": 79
+      },
+      {
+        "name": "Roundabout ",
+        "count": 51
+      },
+      {
+        "name": "Four-arm Cross  Junction ",
+        "count": 37
+      },
+      {
+        "name": "Staggered",
+        "count": 27
+      },
+      {
+        "name": "More than Four-arm",
+        "count": 4
+      },
+      {
+        "name": "Elevated Junction (3- arm / 4-arm) ",
+        "count": 2
+      },
+      {
+        "name": "Unguarded Level Crossing ",
+        "count": 1
+      }
+    ],
+    "pedestrian_accidents": [
+      {
+        "name": "Scooter",
+        "count": 4574
+      },
+      {
+        "name": "Side Car",
+        "count": 1407
+      },
+      {
+        "name": "Goods Carriage",
+        "count": 901
+      },
+      {
+        "name": "Three Wheeler",
+        "count": 674
+      },
+      {
+        "name": "Auto Rickshaw",
+        "count": 433
+      },
+      {
+        "name": "Moped",
+        "count": 293
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "count": 78
+      },
+      {
+        "name": "Ambulance",
+        "count": 15
+      },
+      {
+        "name": "Car",
+        "count": 8
+      },
+      {
+        "name": "Tourist Maxi Cab",
+        "count": 8
+      }
+    ],
+    "pedestrian_deaths": [
+      {
+        "name": "Scooter",
+        "value": 870
+      },
+      {
+        "name": "Side Car",
+        "value": 405
+      },
+      {
+        "name": "Goods Carriage",
+        "value": 275
+      },
+      {
+        "name": "Three Wheeler",
+        "value": 237
+      },
+      {
+        "name": "Auto Rickshaw",
+        "value": 175
+      },
+      {
+        "name": "Moped",
+        "value": 75
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "value": 25
+      },
+      {
+        "name": "Car",
+        "value": 8
+      },
+      {
+        "name": "Ambulance",
+        "value": 8
+      },
+      {
+        "name": "Tourist Maxi Cab",
+        "value": 2
+      }
+    ],
+    "school_in_zone": 164
+  },
+  {
+    "name": "MADHYA PRADESH",
+    "fg_covered": 7512,
+    "blackspots": 2885,
+    "corridors": 2885,
+    "total_fatalities": 3416,
+    "total_grievous": 5511,
+    "total_fg": 7512,
+    "total_accidents": 25547,
+    "fatal_accidents": 3002,
+    "grievous_accidents": 4510,
+    "minor_accidents": 14506,
+    "no_injury_accidents": 3529,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 2742
+      },
+      {
+        "label": "25-50",
+        "value": 84
+      },
+      {
+        "label": "50-100",
+        "value": 41
+      },
+      {
+        "label": "100+",
+        "value": 18
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 14427,
+        "pct": 70.6
+      },
+      {
+        "name": "High Speed",
+        "count": 3799,
+        "pct": 18.6
+      },
+      {
+        "name": "Rash Driving",
+        "count": 656,
+        "pct": 3.2
+      },
+      {
+        "name": "Changing lane without care",
+        "count": 472,
+        "pct": 2.3
+      },
+      {
+        "name": "Dangerous Overtaking",
+        "count": 403,
+        "pct": 2.0
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 15212,
+        "pct": 75.0
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 4605,
+        "pct": 22.7
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 469,
+        "pct": 2.3
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 8832,
+        "pct": 40.3
+      },
+      {
+        "name": "Head on Collision",
+        "count": 6707,
+        "pct": 30.6
+      },
+      {
+        "name": "Hit from Side",
+        "count": 4334,
+        "pct": 19.8
+      },
+      {
+        "name": "Sideswipe",
+        "count": 791,
+        "pct": 3.6
+      },
+      {
+        "name": "No Collision",
+        "count": 299,
+        "pct": 1.4
+      },
+      {
+        "name": "Hit Parked Vehicle",
+        "count": 215,
+        "pct": 1.0
+      },
+      {
+        "name": "Run off Road",
+        "count": 210,
+        "pct": 1.0
+      },
+      {
+        "name": "Overturn",
+        "count": 191,
+        "pct": 0.9
+      },
+      {
+        "name": "Hit Fixed / Stationary Object",
+        "count": 150,
+        "pct": 0.7
+      },
+      {
+        "name": "Skidding / Overturn",
+        "count": 110,
+        "pct": 0.5
+      },
+      {
+        "name": "Hit tree",
+        "count": 52,
+        "pct": 0.2
+      },
+      {
+        "name": "Vehicle Fell in Gorge/Ditch/Well",
+        "count": 29,
+        "pct": 0.1
+      },
+      {
+        "name": "Landslide",
+        "count": 11,
+        "pct": 0.1
+      },
+      {
+        "name": "Vehicle Fell in River",
+        "count": 4,
+        "pct": 0.0
+      }
+    ],
+    "total_fatal_all_roads": 36565,
+    "total_grievous_all_roads": 33732,
+    "total_clusters": 2885,
+    "time_distribution": [
+      {
+        "label": "Afternoon (10am–4pm)",
+        "value": 8445
+      },
+      {
+        "label": "Night (8pm–5am)",
+        "value": 7657
+      },
+      {
+        "label": "Evening (4pm–8pm)",
+        "value": 6628
+      },
+      {
+        "label": "Morning (5am–10am)",
+        "value": 2817
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2023,
+        "value": 12910
+      },
+      {
+        "label": 2024,
+        "value": 12637
+      }
+    ],
+    "vehicle_pairs": [
+      {
+        "name": "Scooter + Scooter",
+        "count": 3544
+      },
+      {
+        "name": "Scooter + Side Car",
+        "count": 3128
+      },
+      {
+        "name": "Goods Carriage + Scooter",
+        "count": 1299
+      },
+      {
+        "name": "Side Car + Side Car",
+        "count": 1165
+      },
+      {
+        "name": "Goods Carriage + Goods Carriage",
+        "count": 866
+      },
+      {
+        "name": "Auto Rickshaw + Scooter",
+        "count": 611
+      },
+      {
+        "name": "Auto Rickshaw + Side Car",
+        "count": 569
+      },
+      {
+        "name": "Goods Carriage + Side Car",
+        "count": 473
+      },
+      {
+        "name": "Moped + Scooter",
+        "count": 412
+      },
+      {
+        "name": "Scooter + Three Wheeler",
+        "count": 248
+      }
+    ],
+    "junction_types": [
+      {
+        "name": "T – Junction",
+        "count": 14
+      },
+      {
+        "name": "Four-arm Square Junction ",
+        "count": 5
+      },
+      {
+        "name": "Staggered",
+        "count": 3
+      },
+      {
+        "name": "Y – Junction ",
+        "count": 2
+      },
+      {
+        "name": "Guarded Level  Crossing",
+        "count": 1
+      }
+    ],
+    "pedestrian_accidents": [
+      {
+        "name": "Scooter",
+        "count": 1952
+      },
+      {
+        "name": "Goods Carriage",
+        "count": 962
+      },
+      {
+        "name": "Side Car",
+        "count": 918
+      },
+      {
+        "name": "Auto Rickshaw",
+        "count": 262
+      },
+      {
+        "name": "Moped",
+        "count": 170
+      },
+      {
+        "name": "Three Wheeler",
+        "count": 133
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "count": 96
+      },
+      {
+        "name": "Tourist Maxi Cab",
+        "count": 10
+      },
+      {
+        "name": "All India Tourist Vehicle",
+        "count": 7
+      },
+      {
+        "name": "Car",
+        "count": 7
+      }
+    ],
+    "pedestrian_deaths": [
+      {
+        "name": "Goods Carriage",
+        "value": 177
+      },
+      {
+        "name": "Scooter",
+        "value": 163
+      },
+      {
+        "name": "Side Car",
+        "value": 142
+      },
+      {
+        "name": "Auto Rickshaw",
+        "value": 113
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "value": 35
+      },
+      {
+        "name": "Three Wheeler",
+        "value": 23
+      },
+      {
+        "name": "Moped",
+        "value": 13
+      },
+      {
+        "name": "Ambulance",
+        "value": 3
+      },
+      {
+        "name": "All India Tourist Vehicle",
+        "value": 2
+      },
+      {
+        "name": "Tourist Maxi Cab",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "name": "KARNATAKA",
+    "fg_covered": 6683,
+    "blackspots": 2006,
+    "corridors": 2006,
+    "total_fatalities": 2459,
+    "total_grievous": 4616,
+    "total_fg": 6683,
+    "total_accidents": 12613,
+    "fatal_accidents": 2312,
+    "grievous_accidents": 4371,
+    "minor_accidents": 4638,
+    "no_injury_accidents": 1292,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 1978
+      },
+      {
+        "label": "25-50",
+        "value": 21
+      },
+      {
+        "label": "50-100",
+        "value": 7
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 4624,
+        "pct": 35.7
+      },
+      {
+        "name": "High Speed",
+        "count": 4579,
+        "pct": 35.4
+      },
+      {
+        "name": "Rash Driving",
+        "count": 2648,
+        "pct": 20.5
+      },
+      {
+        "name": "Dangerous Overtaking",
+        "count": 342,
+        "pct": 2.6
+      },
+      {
+        "name": "Changing lane without care",
+        "count": 213,
+        "pct": 1.6
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 7458,
+        "pct": 67.9
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 3372,
+        "pct": 30.7
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 152,
+        "pct": 1.4
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Side",
+        "count": 4217,
+        "pct": 32.8
+      },
+      {
+        "name": "Hit from Back",
+        "count": 4000,
+        "pct": 31.1
+      },
+      {
+        "name": "Head on Collision",
+        "count": 2687,
+        "pct": 20.9
+      },
+      {
+        "name": "Skidding / Overturn",
+        "count": 463,
+        "pct": 3.6
+      },
+      {
+        "name": "Sideswipe",
+        "count": 368,
+        "pct": 2.9
+      },
+      {
+        "name": "Run off Road",
+        "count": 323,
+        "pct": 2.5
+      },
+      {
+        "name": "No Collision",
+        "count": 312,
+        "pct": 2.4
+      },
+      {
+        "name": "Hit Fixed / Stationary Object",
+        "count": 160,
+        "pct": 1.2
+      },
+      {
+        "name": "Overturn",
+        "count": 154,
+        "pct": 1.2
+      },
+      {
+        "name": "Hit Parked Vehicle",
+        "count": 87,
+        "pct": 0.7
+      },
+      {
+        "name": "Vehicle Fell in Gorge/Ditch/Well",
+        "count": 49,
+        "pct": 0.4
+      },
+      {
+        "name": "Hit tree",
+        "count": 34,
+        "pct": 0.3
+      },
+      {
+        "name": "Landslide",
+        "count": 10,
+        "pct": 0.1
+      },
+      {
+        "name": "Vehicle Fell in River",
+        "count": 5,
+        "pct": 0.0
+      }
+    ],
+    "total_fatal_all_roads": 32457,
+    "total_grievous_all_roads": 45906,
+    "total_clusters": 2006,
+    "time_distribution": [
+      {
+        "label": "Afternoon (10am–4pm)",
+        "value": 4004
+      },
+      {
+        "label": "Night (8pm–5am)",
+        "value": 3377
+      },
+      {
+        "label": "Evening (4pm–8pm)",
+        "value": 3213
+      },
+      {
+        "label": "Morning (5am–10am)",
+        "value": 2019
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2023,
+        "value": 6294
+      },
+      {
+        "label": 2024,
+        "value": 6319
+      }
+    ],
+    "vehicle_pairs": [
+      {
+        "name": "Scooter + Side Car",
+        "count": 1944
+      },
+      {
+        "name": "Scooter + Scooter",
+        "count": 1471
+      },
+      {
+        "name": "Auto Rickshaw + Scooter",
+        "count": 728
+      },
+      {
+        "name": "Goods Carriage + Scooter",
+        "count": 542
+      },
+      {
+        "name": "Side Car + Side Car",
+        "count": 484
+      },
+      {
+        "name": "Scooter + Three Wheeler",
+        "count": 358
+      },
+      {
+        "name": "Auto Rickshaw + Side Car",
+        "count": 355
+      },
+      {
+        "name": "Goods Carriage + Goods Carriage",
+        "count": 329
+      },
+      {
+        "name": "Moped + Scooter",
+        "count": 285
+      },
+      {
+        "name": "Goods Carriage + Side Car",
+        "count": 206
+      }
+    ],
+    "junction_types": [
+      {
+        "name": "T – Junction",
+        "count": 34
+      },
+      {
+        "name": "Y – Junction ",
+        "count": 31
+      },
+      {
+        "name": "Four-arm Square Junction ",
+        "count": 12
+      },
+      {
+        "name": "Four-arm Cross  Junction ",
+        "count": 8
+      },
+      {
+        "name": "Roundabout ",
+        "count": 3
+      },
+      {
+        "name": "Staggered",
+        "count": 1
+      },
+      {
+        "name": "More than Four-arm",
+        "count": 1
+      },
+      {
+        "name": "Elevated Junction (3- arm / 4-arm) ",
+        "count": 1
+      }
+    ],
+    "pedestrian_accidents": [
+      {
+        "name": "Scooter",
+        "count": 1545
+      },
+      {
+        "name": "Side Car",
+        "count": 637
+      },
+      {
+        "name": "Goods Carriage",
+        "count": 523
+      },
+      {
+        "name": "Three Wheeler",
+        "count": 314
+      },
+      {
+        "name": "Auto Rickshaw",
+        "count": 194
+      },
+      {
+        "name": "Moped",
+        "count": 135
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "count": 67
+      },
+      {
+        "name": "Car",
+        "count": 4
+      },
+      {
+        "name": "Tourist Maxi Cab",
+        "count": 3
+      },
+      {
+        "name": "All India Tourist Vehicle",
+        "count": 2
+      }
+    ],
+    "pedestrian_deaths": [
+      {
+        "name": "Scooter",
+        "value": 243
+      },
+      {
+        "name": "Goods Carriage",
+        "value": 174
+      },
+      {
+        "name": "Side Car",
+        "value": 144
+      },
+      {
+        "name": "Three Wheeler",
+        "value": 122
+      },
+      {
+        "name": "Auto Rickshaw",
+        "value": 73
+      },
+      {
+        "name": "Moped",
+        "value": 27
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "value": 24
+      },
+      {
+        "name": "Ambulance",
+        "value": 1
+      },
+      {
+        "name": "Tourist Maxi Cab",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "GUJARAT",
+    "fg_covered": 2848,
+    "blackspots": 778,
+    "corridors": 778,
+    "total_fatalities": 1079,
+    "total_grievous": 1962,
+    "total_fg": 2848,
+    "total_accidents": 9961,
+    "fatal_accidents": 1003,
+    "grievous_accidents": 1845,
+    "minor_accidents": 3919,
+    "no_injury_accidents": 3194,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 723
+      },
+      {
+        "label": "25-50",
+        "value": 33
+      },
+      {
+        "label": "50-100",
+        "value": 11
+      },
+      {
+        "label": "100+",
+        "value": 11
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 6546,
+        "pct": 69.1
+      },
+      {
+        "name": "High Speed",
+        "count": 1577,
+        "pct": 16.6
+      },
+      {
+        "name": "Dangerous Overtaking",
+        "count": 308,
+        "pct": 3.2
+      },
+      {
+        "name": "Changing lane without care",
+        "count": 291,
+        "pct": 3.1
+      },
+      {
+        "name": "Non-respect of Right of Way (ROW) rules",
+        "count": 282,
+        "pct": 3.0
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 6256,
+        "pct": 74.4
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 1962,
+        "pct": 23.3
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 194,
+        "pct": 2.3
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Side",
+        "count": 3679,
+        "pct": 36.9
+      },
+      {
+        "name": "Hit from Back",
+        "count": 3114,
+        "pct": 31.3
+      },
+      {
+        "name": "Head on Collision",
+        "count": 1272,
+        "pct": 12.8
+      },
+      {
+        "name": "Skidding / Overturn",
+        "count": 425,
+        "pct": 4.3
+      },
+      {
+        "name": "Sideswipe",
+        "count": 386,
+        "pct": 3.9
+      },
+      {
+        "name": "Overturn",
+        "count": 340,
+        "pct": 3.4
+      },
+      {
+        "name": "No Collision",
+        "count": 340,
+        "pct": 3.4
+      },
+      {
+        "name": "Run off Road",
+        "count": 123,
+        "pct": 1.2
+      },
+      {
+        "name": "Hit Parked Vehicle",
+        "count": 114,
+        "pct": 1.1
+      },
+      {
+        "name": "Hit Fixed / Stationary Object",
+        "count": 111,
+        "pct": 1.1
+      },
+      {
+        "name": "Hit tree",
+        "count": 33,
+        "pct": 0.3
+      },
+      {
+        "name": "Landslide",
+        "count": 16,
+        "pct": 0.2
+      },
+      {
+        "name": "Vehicle Fell in Gorge/Ditch/Well",
+        "count": 8,
+        "pct": 0.1
+      },
+      {
+        "name": "Vehicle Fell in River",
+        "count": 1,
+        "pct": 0.0
+      }
+    ],
+    "total_fatal_all_roads": 22134,
+    "total_grievous_all_roads": 16935,
+    "total_clusters": 778,
+    "time_distribution": [
+      {
+        "label": "Afternoon (10am–4pm)",
+        "value": 3185
+      },
+      {
+        "label": "Night (8pm–5am)",
+        "value": 3179
+      },
+      {
+        "label": "Evening (4pm–8pm)",
+        "value": 2154
+      },
+      {
+        "label": "Morning (5am–10am)",
+        "value": 1443
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2023,
+        "value": 5601
+      },
+      {
+        "label": 2024,
+        "value": 4360
+      }
+    ],
+    "vehicle_pairs": [
+      {
+        "name": "Scooter + Side Car",
+        "count": 1179
+      },
+      {
+        "name": "Side Car + Side Car",
+        "count": 963
+      },
+      {
+        "name": "Scooter + Scooter",
+        "count": 659
+      },
+      {
+        "name": "Goods Carriage + Goods Carriage",
+        "count": 642
+      },
+      {
+        "name": "Goods Carriage + Scooter",
+        "count": 608
+      },
+      {
+        "name": "Goods Carriage + Side Car",
+        "count": 390
+      },
+      {
+        "name": "Auto Rickshaw + Side Car",
+        "count": 381
+      },
+      {
+        "name": "Moped + Scooter",
+        "count": 228
+      },
+      {
+        "name": "Auto Rickshaw + Scooter",
+        "count": 222
+      },
+      {
+        "name": "Moped + Side Car",
+        "count": 210
+      }
+    ],
+    "junction_types": [
+      {
+        "name": "Four-arm Square Junction ",
+        "count": 2
+      },
+      {
+        "name": "More than Four-arm",
+        "count": 1
+      },
+      {
+        "name": "Roundabout ",
+        "count": 1
+      },
+      {
+        "name": "Staggered",
+        "count": 1
+      }
+    ],
+    "pedestrian_accidents": [
+      {
+        "name": "Scooter",
+        "count": 654
+      },
+      {
+        "name": "Goods Carriage",
+        "count": 636
+      },
+      {
+        "name": "Side Car",
+        "count": 320
+      },
+      {
+        "name": "Moped",
+        "count": 150
+      },
+      {
+        "name": "Three Wheeler",
+        "count": 94
+      },
+      {
+        "name": "Auto Rickshaw",
+        "count": 87
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "count": 33
+      },
+      {
+        "name": "Tourist Maxi Cab",
+        "count": 4
+      },
+      {
+        "name": "Ambulance",
+        "count": 2
+      },
+      {
+        "name": "Car",
+        "count": 1
+      }
+    ],
+    "pedestrian_deaths": [
+      {
+        "name": "Goods Carriage",
+        "value": 152
+      },
+      {
+        "name": "Side Car",
+        "value": 104
+      },
+      {
+        "name": "Scooter",
+        "value": 69
+      },
+      {
+        "name": "Auto Rickshaw",
+        "value": 53
+      },
+      {
+        "name": "Three Wheeler",
+        "value": 44
+      },
+      {
+        "name": "Moped",
+        "value": 18
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "value": 10
+      },
+      {
+        "name": "Ambulance",
+        "value": 3
+      },
+      {
+        "name": "Car",
+        "value": 1
+      },
+      {
+        "name": "Tourist Maxi Cab",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "TELANGANA",
+    "fg_covered": 3107,
+    "blackspots": 930,
+    "corridors": 930,
+    "total_fatalities": 1540,
+    "total_grievous": 1941,
+    "total_fg": 3107,
+    "total_accidents": 7685,
+    "fatal_accidents": 1440,
+    "grievous_accidents": 1667,
+    "minor_accidents": 3368,
+    "no_injury_accidents": 1210,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 898
+      },
+      {
+        "label": "25-50",
+        "value": 26
+      },
+      {
+        "label": "50-100",
+        "value": 4
+      },
+      {
+        "label": "100+",
+        "value": 2
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 4513,
+        "pct": 55.6
+      },
+      {
+        "name": "High Speed",
+        "count": 1625,
+        "pct": 20.0
+      },
+      {
+        "name": "Rash Driving",
+        "count": 1164,
+        "pct": 14.3
+      },
+      {
+        "name": "Dangerous Overtaking",
+        "count": 273,
+        "pct": 3.4
+      },
+      {
+        "name": "Changing lane without care",
+        "count": 129,
+        "pct": 1.6
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 4763,
+        "pct": 71.7
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 1790,
+        "pct": 26.9
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 91,
+        "pct": 1.4
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 2819,
+        "pct": 37.1
+      },
+      {
+        "name": "Hit from Side",
+        "count": 2445,
+        "pct": 32.1
+      },
+      {
+        "name": "Head on Collision",
+        "count": 1570,
+        "pct": 20.6
+      },
+      {
+        "name": "No Collision",
+        "count": 180,
+        "pct": 2.4
+      },
+      {
+        "name": "Sideswipe",
+        "count": 129,
+        "pct": 1.7
+      },
+      {
+        "name": "Skidding / Overturn",
+        "count": 124,
+        "pct": 1.6
+      },
+      {
+        "name": "Hit Fixed / Stationary Object",
+        "count": 120,
+        "pct": 1.6
+      },
+      {
+        "name": "Hit Parked Vehicle",
+        "count": 66,
+        "pct": 0.9
+      },
+      {
+        "name": "Run off Road",
+        "count": 58,
+        "pct": 0.8
+      },
+      {
+        "name": "Overturn",
+        "count": 41,
+        "pct": 0.5
+      },
+      {
+        "name": "Vehicle Fell in Gorge/Ditch/Well",
+        "count": 25,
+        "pct": 0.3
+      },
+      {
+        "name": "Hit tree",
+        "count": 20,
+        "pct": 0.3
+      },
+      {
+        "name": "Vehicle Fell in River",
+        "count": 6,
+        "pct": 0.1
+      },
+      {
+        "name": "Landslide",
+        "count": 5,
+        "pct": 0.1
+      }
+    ],
+    "total_fatal_all_roads": 20455,
+    "total_grievous_all_roads": 12824,
+    "total_clusters": 930,
+    "time_distribution": [
+      {
+        "label": "Afternoon (10am–4pm)",
+        "value": 2343
+      },
+      {
+        "label": "Night (8pm–5am)",
+        "value": 2258
+      },
+      {
+        "label": "Evening (4pm–8pm)",
+        "value": 1799
+      },
+      {
+        "label": "Morning (5am–10am)",
+        "value": 1285
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2023,
+        "value": 3686
+      },
+      {
+        "label": 2024,
+        "value": 3999
+      }
+    ],
+    "vehicle_pairs": [
+      {
+        "name": "Scooter + Side Car",
+        "count": 1025
+      },
+      {
+        "name": "Scooter + Scooter",
+        "count": 758
+      },
+      {
+        "name": "Goods Carriage + Scooter",
+        "count": 413
+      },
+      {
+        "name": "Side Car + Side Car",
+        "count": 376
+      },
+      {
+        "name": "Auto Rickshaw + Scooter",
+        "count": 354
+      },
+      {
+        "name": "Auto Rickshaw + Side Car",
+        "count": 302
+      },
+      {
+        "name": "Goods Carriage + Goods Carriage",
+        "count": 258
+      },
+      {
+        "name": "Moped + Scooter",
+        "count": 197
+      },
+      {
+        "name": "Scooter + Three Wheeler",
+        "count": 148
+      },
+      {
+        "name": "Goods Carriage + Side Car",
+        "count": 135
+      }
+    ],
+    "junction_types": [
+      {
+        "name": "T – Junction",
+        "count": 1
+      }
+    ],
+    "pedestrian_accidents": [
+      {
+        "name": "Scooter",
+        "count": 661
+      },
+      {
+        "name": "Goods Carriage",
+        "count": 428
+      },
+      {
+        "name": "Side Car",
+        "count": 343
+      },
+      {
+        "name": "Three Wheeler",
+        "count": 119
+      },
+      {
+        "name": "Auto Rickshaw",
+        "count": 118
+      },
+      {
+        "name": "Moped",
+        "count": 105
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "count": 18
+      },
+      {
+        "name": "Ambulance",
+        "count": 5
+      },
+      {
+        "name": "Tourist Maxi Cab",
+        "count": 3
+      },
+      {
+        "name": "Car",
+        "count": 1
+      }
+    ],
+    "pedestrian_deaths": [
+      {
+        "name": "Goods Carriage",
+        "value": 127
+      },
+      {
+        "name": "Scooter",
+        "value": 98
+      },
+      {
+        "name": "Side Car",
+        "value": 89
+      },
+      {
+        "name": "Auto Rickshaw",
+        "value": 56
+      },
+      {
+        "name": "Three Wheeler",
+        "value": 45
+      },
+      {
+        "name": "Moped",
+        "value": 19
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "value": 6
+      },
+      {
+        "name": "Ambulance",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "name": "MAHARASHTRA",
+    "fg_covered": 5139,
+    "blackspots": 1090,
+    "corridors": 1090,
+    "total_fatalities": 1891,
+    "total_grievous": 4186,
+    "total_fg": 5139,
+    "total_accidents": 7014,
+    "fatal_accidents": 1718,
+    "grievous_accidents": 3421,
+    "minor_accidents": 1261,
+    "no_injury_accidents": 614,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 1070
+      },
+      {
+        "label": "25-50",
+        "value": 15
+      },
+      {
+        "label": "50-100",
+        "value": 5
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 4013,
+        "pct": 54.1
+      },
+      {
+        "name": "High Speed",
+        "count": 1190,
+        "pct": 16.0
+      },
+      {
+        "name": "Rash Driving",
+        "count": 724,
+        "pct": 9.8
+      },
+      {
+        "name": "Dangerous Overtaking",
+        "count": 421,
+        "pct": 5.7
+      },
+      {
+        "name": "Changing lane without care",
+        "count": 354,
+        "pct": 4.8
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 3848,
+        "pct": 61.5
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 2082,
+        "pct": 33.3
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 323,
+        "pct": 5.2
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 2523,
+        "pct": 35.0
+      },
+      {
+        "name": "Hit from Side",
+        "count": 2430,
+        "pct": 33.8
+      },
+      {
+        "name": "Head on Collision",
+        "count": 1216,
+        "pct": 16.9
+      },
+      {
+        "name": "Sideswipe",
+        "count": 231,
+        "pct": 3.2
+      },
+      {
+        "name": "Run off Road",
+        "count": 204,
+        "pct": 2.8
+      },
+      {
+        "name": "No Collision",
+        "count": 185,
+        "pct": 2.6
+      },
+      {
+        "name": "Hit Fixed / Stationary Object",
+        "count": 116,
+        "pct": 1.6
+      },
+      {
+        "name": "Skidding / Overturn",
+        "count": 91,
+        "pct": 1.3
+      },
+      {
+        "name": "Overturn",
+        "count": 78,
+        "pct": 1.1
+      },
+      {
+        "name": "Hit Parked Vehicle",
+        "count": 73,
+        "pct": 1.0
+      },
+      {
+        "name": "Hit tree",
+        "count": 34,
+        "pct": 0.5
+      },
+      {
+        "name": "Vehicle Fell in Gorge/Ditch/Well",
+        "count": 13,
+        "pct": 0.2
+      },
+      {
+        "name": "Landslide",
+        "count": 3,
+        "pct": 0.0
+      },
+      {
+        "name": "Vehicle Fell in River",
+        "count": 3,
+        "pct": 0.0
+      }
+    ],
+    "total_fatal_all_roads": 44253,
+    "total_grievous_all_roads": 37158,
+    "total_clusters": 1090,
+    "time_distribution": [
+      {
+        "label": "Night (8pm–5am)",
+        "value": 2370
+      },
+      {
+        "label": "Afternoon (10am–4pm)",
+        "value": 2120
+      },
+      {
+        "label": "Evening (4pm–8pm)",
+        "value": 1407
+      },
+      {
+        "label": "Morning (5am–10am)",
+        "value": 1117
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2023,
+        "value": 3520
+      },
+      {
+        "label": 2024,
+        "value": 3494
+      }
+    ],
+    "vehicle_pairs": [
+      {
+        "name": "Scooter + Side Car",
+        "count": 942
+      },
+      {
+        "name": "Scooter + Scooter",
+        "count": 568
+      },
+      {
+        "name": "Auto Rickshaw + Scooter",
+        "count": 422
+      },
+      {
+        "name": "Goods Carriage + Scooter",
+        "count": 368
+      },
+      {
+        "name": "Side Car + Side Car",
+        "count": 244
+      },
+      {
+        "name": "Auto Rickshaw + Side Car",
+        "count": 174
+      },
+      {
+        "name": "Scooter + Tourist Motor Cab",
+        "count": 166
+      },
+      {
+        "name": "Goods Carriage + Goods Carriage",
+        "count": 161
+      },
+      {
+        "name": "Moped + Scooter",
+        "count": 128
+      },
+      {
+        "name": "Goods Carriage + Side Car",
+        "count": 120
+      }
+    ],
+    "junction_types": [
+      {
+        "name": "Four-arm Square Junction ",
+        "count": 5
+      },
+      {
+        "name": "T – Junction",
+        "count": 3
+      },
+      {
+        "name": "Y – Junction ",
+        "count": 2
+      },
+      {
+        "name": "More than Four-arm",
+        "count": 1
+      },
+      {
+        "name": "Four-arm Cross  Junction ",
+        "count": 1
+      }
+    ],
+    "pedestrian_accidents": [
+      {
+        "name": "Scooter",
+        "count": 631
+      },
+      {
+        "name": "Goods Carriage",
+        "count": 452
+      },
+      {
+        "name": "Side Car",
+        "count": 438
+      },
+      {
+        "name": "Auto Rickshaw",
+        "count": 167
+      },
+      {
+        "name": "Three Wheeler",
+        "count": 149
+      },
+      {
+        "name": "Moped",
+        "count": 123
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "count": 95
+      },
+      {
+        "name": "Ambulance",
+        "count": 21
+      },
+      {
+        "name": "Tourist Maxi Cab",
+        "count": 8
+      },
+      {
+        "name": "Car",
+        "count": 5
+      }
+    ],
+    "pedestrian_deaths": [
+      {
+        "name": "Goods Carriage",
+        "value": 166
+      },
+      {
+        "name": "Side Car",
+        "value": 99
+      },
+      {
+        "name": "Scooter",
+        "value": 96
+      },
+      {
+        "name": "Auto Rickshaw",
+        "value": 86
+      },
+      {
+        "name": "Three Wheeler",
+        "value": 51
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "value": 33
+      },
+      {
+        "name": "Moped",
+        "value": 25
+      },
+      {
+        "name": "Ambulance",
+        "value": 14
+      },
+      {
+        "name": "Car",
+        "value": 3
+      },
+      {
+        "name": "Tourist Maxi Cab",
+        "value": 1
+      }
+    ],
+    "school_in_zone": 615
+  },
+  {
+    "name": "UTTAR PRADESH",
+    "fg_covered": 5359,
+    "blackspots": 1270,
+    "corridors": 1270,
+    "total_fatalities": 2897,
+    "total_grievous": 3405,
+    "total_fg": 5359,
+    "total_accidents": 6737,
+    "fatal_accidents": 2555,
+    "grievous_accidents": 2804,
+    "minor_accidents": 894,
+    "no_injury_accidents": 484,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 1253
+      },
+      {
+        "label": "25-50",
+        "value": 13
+      },
+      {
+        "label": "50-100",
+        "value": 4
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 4253,
+        "pct": 67.7
+      },
+      {
+        "name": "High Speed",
+        "count": 768,
+        "pct": 12.2
+      },
+      {
+        "name": "Rash Driving",
+        "count": 315,
+        "pct": 5.0
+      },
+      {
+        "name": "Changing lane without care",
+        "count": 239,
+        "pct": 3.8
+      },
+      {
+        "name": "Dangerous Overtaking",
+        "count": 230,
+        "pct": 3.7
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 3523,
+        "pct": 57.1
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 2346,
+        "pct": 38.0
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 300,
+        "pct": 4.9
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 2914,
+        "pct": 41.8
+      },
+      {
+        "name": "Hit from Side",
+        "count": 1935,
+        "pct": 27.7
+      },
+      {
+        "name": "Head on Collision",
+        "count": 1480,
+        "pct": 21.2
+      },
+      {
+        "name": "Sideswipe",
+        "count": 222,
+        "pct": 3.2
+      },
+      {
+        "name": "No Collision",
+        "count": 116,
+        "pct": 1.7
+      },
+      {
+        "name": "Hit Parked Vehicle",
+        "count": 81,
+        "pct": 1.2
+      },
+      {
+        "name": "Run off Road",
+        "count": 81,
+        "pct": 1.2
+      },
+      {
+        "name": "Overturn",
+        "count": 46,
+        "pct": 0.7
+      },
+      {
+        "name": "Hit Fixed / Stationary Object",
+        "count": 32,
+        "pct": 0.5
+      },
+      {
+        "name": "Skidding / Overturn",
+        "count": 32,
+        "pct": 0.5
+      },
+      {
+        "name": "Hit tree",
+        "count": 12,
+        "pct": 0.2
+      },
+      {
+        "name": "Vehicle Fell in Gorge/Ditch/Well",
+        "count": 10,
+        "pct": 0.1
+      },
+      {
+        "name": "Landslide",
+        "count": 9,
+        "pct": 0.1
+      },
+      {
+        "name": "Vehicle Fell in River",
+        "count": 4,
+        "pct": 0.1
+      }
+    ],
+    "total_fatal_all_roads": 65068,
+    "total_grievous_all_roads": 49449,
+    "total_clusters": 1270,
+    "time_distribution": [
+      {
+        "label": "Night (8pm–5am)",
+        "value": 2190
+      },
+      {
+        "label": "Afternoon (10am–4pm)",
+        "value": 1896
+      },
+      {
+        "label": "Evening (4pm–8pm)",
+        "value": 1698
+      },
+      {
+        "label": "Morning (5am–10am)",
+        "value": 953
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2023,
+        "value": 3424
+      },
+      {
+        "label": 2024,
+        "value": 3313
+      }
+    ],
+    "vehicle_pairs": [
+      {
+        "name": "Scooter + Side Car",
+        "count": 619
+      },
+      {
+        "name": "Goods Carriage + Scooter",
+        "count": 425
+      },
+      {
+        "name": "Scooter + Scooter",
+        "count": 408
+      },
+      {
+        "name": "Auto Rickshaw + Scooter",
+        "count": 352
+      },
+      {
+        "name": "Goods Carriage + Goods Carriage",
+        "count": 306
+      },
+      {
+        "name": "Side Car + Side Car",
+        "count": 204
+      },
+      {
+        "name": "Goods Carriage + Side Car",
+        "count": 158
+      },
+      {
+        "name": "Auto Rickshaw + Side Car",
+        "count": 136
+      },
+      {
+        "name": "Scooter + Tourist Motor Cab",
+        "count": 79
+      },
+      {
+        "name": "Auto Rickshaw + Goods Carriage",
+        "count": 70
+      }
+    ],
+    "junction_types": [
+      {
+        "name": "T – Junction",
+        "count": 16
+      },
+      {
+        "name": "Four-arm Cross  Junction ",
+        "count": 3
+      },
+      {
+        "name": "Four-arm Square Junction ",
+        "count": 2
+      },
+      {
+        "name": "Y – Junction ",
+        "count": 2
+      },
+      {
+        "name": "Staggered",
+        "count": 1
+      }
+    ],
+    "pedestrian_accidents": [
+      {
+        "name": "Goods Carriage",
+        "count": 683
+      },
+      {
+        "name": "Scooter",
+        "count": 665
+      },
+      {
+        "name": "Side Car",
+        "count": 502
+      },
+      {
+        "name": "Auto Rickshaw",
+        "count": 269
+      },
+      {
+        "name": "Three Wheeler",
+        "count": 102
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "count": 66
+      },
+      {
+        "name": "Moped",
+        "count": 59
+      },
+      {
+        "name": "Tourist Maxi Cab",
+        "count": 9
+      },
+      {
+        "name": "Car",
+        "count": 8
+      },
+      {
+        "name": "Ambulance",
+        "count": 8
+      }
+    ],
+    "pedestrian_deaths": [
+      {
+        "name": "Goods Carriage",
+        "value": 324
+      },
+      {
+        "name": "Scooter",
+        "value": 221
+      },
+      {
+        "name": "Auto Rickshaw",
+        "value": 164
+      },
+      {
+        "name": "Side Car",
+        "value": 150
+      },
+      {
+        "name": "Three Wheeler",
+        "value": 48
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "value": 33
+      },
+      {
+        "name": "Moped",
+        "value": 16
+      },
+      {
+        "name": "Ambulance",
+        "value": 6
+      },
+      {
+        "name": "All India Tourist Vehicle",
+        "value": 3
+      },
+      {
+        "name": "Car",
+        "value": 1
+      }
+    ],
+    "school_in_zone": 210
+  },
+  {
+    "name": "DELHI",
+    "fg_covered": 2245,
+    "blackspots": 686,
+    "corridors": 686,
+    "total_fatalities": 1368,
+    "total_grievous": 1221,
+    "total_fg": 2245,
+    "total_accidents": 5317,
+    "fatal_accidents": 1271,
+    "grievous_accidents": 974,
+    "minor_accidents": 2758,
+    "no_injury_accidents": 314,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 661
+      },
+      {
+        "label": "25-50",
+        "value": 20
+      },
+      {
+        "label": "50-100",
+        "value": 5
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 3526,
+        "pct": 63.7
+      },
+      {
+        "name": "High Speed",
+        "count": 855,
+        "pct": 15.4
+      },
+      {
+        "name": "Rash Driving",
+        "count": 583,
+        "pct": 10.5
+      },
+      {
+        "name": "Dangerous Overtaking",
+        "count": 143,
+        "pct": 2.6
+      },
+      {
+        "name": "Changing lane without care",
+        "count": 133,
+        "pct": 2.4
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 2662,
+        "pct": 57.4
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 1827,
+        "pct": 39.4
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 147,
+        "pct": 3.2
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 2098,
+        "pct": 38.3
+      },
+      {
+        "name": "Hit from Side",
+        "count": 1952,
+        "pct": 35.6
+      },
+      {
+        "name": "Head on Collision",
+        "count": 724,
+        "pct": 13.2
+      },
+      {
+        "name": "No Collision",
+        "count": 212,
+        "pct": 3.9
+      },
+      {
+        "name": "Sideswipe",
+        "count": 120,
+        "pct": 2.2
+      },
+      {
+        "name": "Hit Fixed / Stationary Object",
+        "count": 79,
+        "pct": 1.4
+      },
+      {
+        "name": "Skidding / Overturn",
+        "count": 76,
+        "pct": 1.4
+      },
+      {
+        "name": "Run off Road",
+        "count": 72,
+        "pct": 1.3
+      },
+      {
+        "name": "Overturn",
+        "count": 61,
+        "pct": 1.1
+      },
+      {
+        "name": "Hit Parked Vehicle",
+        "count": 35,
+        "pct": 0.6
+      },
+      {
+        "name": "Hit tree",
+        "count": 21,
+        "pct": 0.4
+      },
+      {
+        "name": "Vehicle Fell in Gorge/Ditch/Well",
+        "count": 17,
+        "pct": 0.3
+      },
+      {
+        "name": "Landslide",
+        "count": 6,
+        "pct": 0.1
+      },
+      {
+        "name": "Vehicle Fell in River",
+        "count": 3,
+        "pct": 0.1
+      }
+    ],
+    "total_fatal_all_roads": 4036,
+    "total_grievous_all_roads": 3580,
+    "total_clusters": 686,
+    "time_distribution": [
+      {
+        "label": "Night (8pm–5am)",
+        "value": 2171
+      },
+      {
+        "label": "Afternoon (10am–4pm)",
+        "value": 1279
+      },
+      {
+        "label": "Morning (5am–10am)",
+        "value": 965
+      },
+      {
+        "label": "Evening (4pm–8pm)",
+        "value": 902
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2023,
+        "value": 2834
+      },
+      {
+        "label": 2024,
+        "value": 2483
+      }
+    ],
+    "vehicle_pairs": [
+      {
+        "name": "Scooter + Side Car",
+        "count": 564
+      },
+      {
+        "name": "Goods Carriage + Scooter",
+        "count": 438
+      },
+      {
+        "name": "Auto Rickshaw + Scooter",
+        "count": 202
+      },
+      {
+        "name": "Goods Carriage + Goods Carriage",
+        "count": 194
+      },
+      {
+        "name": "Side Car + Side Car",
+        "count": 178
+      },
+      {
+        "name": "Scooter + Scooter",
+        "count": 168
+      },
+      {
+        "name": "Goods Carriage + Side Car",
+        "count": 120
+      },
+      {
+        "name": "Auto Rickshaw + Side Car",
+        "count": 98
+      },
+      {
+        "name": "Scooter + Three Wheeler",
+        "count": 94
+      },
+      {
+        "name": "Scooter + Tourist Motor Cab",
+        "count": 67
+      }
+    ],
+    "junction_types": [
+      {
+        "name": "Y – Junction ",
+        "count": 1
+      }
+    ],
+    "pedestrian_accidents": [
+      {
+        "name": "Goods Carriage",
+        "count": 751
+      },
+      {
+        "name": "Scooter",
+        "count": 405
+      },
+      {
+        "name": "Side Car",
+        "count": 390
+      },
+      {
+        "name": "Auto Rickshaw",
+        "count": 105
+      },
+      {
+        "name": "Three Wheeler",
+        "count": 94
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "count": 46
+      },
+      {
+        "name": "Moped",
+        "count": 40
+      },
+      {
+        "name": "All India Tourist Vehicle",
+        "count": 10
+      },
+      {
+        "name": "Ambulance",
+        "count": 7
+      },
+      {
+        "name": "Taxi",
+        "count": 3
+      }
+    ],
+    "pedestrian_deaths": [
+      {
+        "name": "Goods Carriage",
+        "value": 239
+      },
+      {
+        "name": "Side Car",
+        "value": 73
+      },
+      {
+        "name": "Auto Rickshaw",
+        "value": 56
+      },
+      {
+        "name": "Scooter",
+        "value": 55
+      },
+      {
+        "name": "Three Wheeler",
+        "value": 24
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "value": 17
+      },
+      {
+        "name": "Moped",
+        "value": 11
+      },
+      {
+        "name": "Ambulance",
+        "value": 5
+      },
+      {
+        "name": "Car",
+        "value": 3
+      },
+      {
+        "name": "All India Tourist Vehicle",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "RAJASTHAN",
+    "fg_covered": 2508,
+    "blackspots": 727,
+    "corridors": 727,
+    "total_fatalities": 1015,
+    "total_grievous": 1775,
+    "total_fg": 2508,
+    "total_accidents": 5094,
+    "fatal_accidents": 929,
+    "grievous_accidents": 1579,
+    "minor_accidents": 1284,
+    "no_injury_accidents": 1302,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 709
+      },
+      {
+        "label": "25-50",
+        "value": 10
+      },
+      {
+        "label": "50-100",
+        "value": 6
+      },
+      {
+        "label": "100+",
+        "value": 2
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 2623,
+        "pct": 64.0
+      },
+      {
+        "name": "High Speed",
+        "count": 782,
+        "pct": 19.1
+      },
+      {
+        "name": "Changing lane without care",
+        "count": 245,
+        "pct": 6.0
+      },
+      {
+        "name": "Dangerous Overtaking",
+        "count": 133,
+        "pct": 3.2
+      },
+      {
+        "name": "Non-respect of Right of Way (ROW) rules",
+        "count": 62,
+        "pct": 1.5
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 2974,
+        "pct": 74.4
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 946,
+        "pct": 23.7
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 75,
+        "pct": 1.9
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 1690,
+        "pct": 38.3
+      },
+      {
+        "name": "Hit from Side",
+        "count": 1333,
+        "pct": 30.2
+      },
+      {
+        "name": "Head on Collision",
+        "count": 814,
+        "pct": 18.4
+      },
+      {
+        "name": "Sideswipe",
+        "count": 176,
+        "pct": 4.0
+      },
+      {
+        "name": "Run off Road",
+        "count": 149,
+        "pct": 3.4
+      },
+      {
+        "name": "Hit Parked Vehicle",
+        "count": 60,
+        "pct": 1.4
+      },
+      {
+        "name": "Hit Fixed / Stationary Object",
+        "count": 55,
+        "pct": 1.2
+      },
+      {
+        "name": "No Collision",
+        "count": 54,
+        "pct": 1.2
+      },
+      {
+        "name": "Overturn",
+        "count": 32,
+        "pct": 0.7
+      },
+      {
+        "name": "Skidding / Overturn",
+        "count": 29,
+        "pct": 0.7
+      },
+      {
+        "name": "Hit tree",
+        "count": 10,
+        "pct": 0.2
+      },
+      {
+        "name": "Landslide",
+        "count": 7,
+        "pct": 0.2
+      },
+      {
+        "name": "Vehicle Fell in Gorge/Ditch/Well",
+        "count": 3,
+        "pct": 0.1
+      },
+      {
+        "name": "Vehicle Fell in River",
+        "count": 3,
+        "pct": 0.1
+      }
+    ],
+    "total_fatal_all_roads": 31315,
+    "total_grievous_all_roads": 24492,
+    "total_clusters": 727,
+    "time_distribution": [
+      {
+        "label": "Afternoon (10am–4pm)",
+        "value": 1722
+      },
+      {
+        "label": "Night (8pm–5am)",
+        "value": 1398
+      },
+      {
+        "label": "Evening (4pm–8pm)",
+        "value": 1226
+      },
+      {
+        "label": "Morning (5am–10am)",
+        "value": 748
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2023,
+        "value": 2929
+      },
+      {
+        "label": 2024,
+        "value": 2165
+      }
+    ],
+    "vehicle_pairs": [
+      {
+        "name": "Scooter + Side Car",
+        "count": 729
+      },
+      {
+        "name": "Side Car + Side Car",
+        "count": 340
+      },
+      {
+        "name": "Scooter + Scooter",
+        "count": 303
+      },
+      {
+        "name": "Goods Carriage + Scooter",
+        "count": 284
+      },
+      {
+        "name": "Goods Carriage + Goods Carriage",
+        "count": 163
+      },
+      {
+        "name": "Goods Carriage + Side Car",
+        "count": 151
+      },
+      {
+        "name": "Auto Rickshaw + Side Car",
+        "count": 140
+      },
+      {
+        "name": "Auto Rickshaw + Scooter",
+        "count": 139
+      },
+      {
+        "name": "Scooter + Three Wheeler",
+        "count": 92
+      },
+      {
+        "name": "Side Car + Three Wheeler",
+        "count": 61
+      }
+    ],
+    "junction_types": [
+      {
+        "name": "T – Junction",
+        "count": 11
+      },
+      {
+        "name": "Y – Junction ",
+        "count": 5
+      },
+      {
+        "name": "Four-arm Cross  Junction ",
+        "count": 2
+      },
+      {
+        "name": "Guarded Level  Crossing",
+        "count": 1
+      },
+      {
+        "name": "Roundabout ",
+        "count": 1
+      }
+    ],
+    "pedestrian_accidents": [
+      {
+        "name": "Scooter",
+        "count": 274
+      },
+      {
+        "name": "Side Car",
+        "count": 254
+      },
+      {
+        "name": "Goods Carriage",
+        "count": 204
+      },
+      {
+        "name": "Auto Rickshaw",
+        "count": 61
+      },
+      {
+        "name": "Three Wheeler",
+        "count": 59
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "count": 30
+      },
+      {
+        "name": "Moped",
+        "count": 26
+      },
+      {
+        "name": "Ambulance",
+        "count": 3
+      },
+      {
+        "name": "Car",
+        "count": 1
+      }
+    ],
+    "pedestrian_deaths": [
+      {
+        "name": "Goods Carriage",
+        "value": 83
+      },
+      {
+        "name": "Side Car",
+        "value": 79
+      },
+      {
+        "name": "Scooter",
+        "value": 55
+      },
+      {
+        "name": "Auto Rickshaw",
+        "value": 30
+      },
+      {
+        "name": "Three Wheeler",
+        "value": 20
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "value": 16
+      },
+      {
+        "name": "Moped",
+        "value": 5
+      },
+      {
+        "name": "Ambulance",
+        "value": 3
+      },
+      {
+        "name": "Car",
+        "value": 1
+      }
+    ],
+    "school_in_zone": 78
+  },
+  {
+    "name": "ANDHRA PRADESH",
+    "fg_covered": 1668,
+    "blackspots": 569,
+    "corridors": 569,
+    "total_fatalities": 952,
+    "total_grievous": 874,
+    "total_fg": 1668,
+    "total_accidents": 3601,
+    "fatal_accidents": 876,
+    "grievous_accidents": 792,
+    "minor_accidents": 1608,
+    "no_injury_accidents": 325,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 559
+      },
+      {
+        "label": "25-50",
+        "value": 8
+      },
+      {
+        "label": "50-100",
+        "value": 2
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 2485,
+        "pct": 67.3
+      },
+      {
+        "name": "High Speed",
+        "count": 683,
+        "pct": 18.5
+      },
+      {
+        "name": "Rash Driving",
+        "count": 284,
+        "pct": 7.7
+      },
+      {
+        "name": "Dangerous Overtaking",
+        "count": 77,
+        "pct": 2.1
+      },
+      {
+        "name": "Changing lane without care",
+        "count": 44,
+        "pct": 1.2
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 2177,
+        "pct": 67.9
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 960,
+        "pct": 30.0
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 68,
+        "pct": 2.1
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Side",
+        "count": 1192,
+        "pct": 33.0
+      },
+      {
+        "name": "Hit from Back",
+        "count": 1066,
+        "pct": 29.5
+      },
+      {
+        "name": "Head on Collision",
+        "count": 981,
+        "pct": 27.2
+      },
+      {
+        "name": "No Collision",
+        "count": 88,
+        "pct": 2.4
+      },
+      {
+        "name": "Skidding / Overturn",
+        "count": 67,
+        "pct": 1.9
+      },
+      {
+        "name": "Sideswipe",
+        "count": 66,
+        "pct": 1.8
+      },
+      {
+        "name": "Hit Fixed / Stationary Object",
+        "count": 48,
+        "pct": 1.3
+      },
+      {
+        "name": "Overturn",
+        "count": 40,
+        "pct": 1.1
+      },
+      {
+        "name": "Run off Road",
+        "count": 23,
+        "pct": 0.6
+      },
+      {
+        "name": "Hit Parked Vehicle",
+        "count": 22,
+        "pct": 0.6
+      },
+      {
+        "name": "Vehicle Fell in Gorge/Ditch/Well",
+        "count": 10,
+        "pct": 0.3
+      },
+      {
+        "name": "Hit tree",
+        "count": 4,
+        "pct": 0.1
+      },
+      {
+        "name": "Vehicle Fell in River",
+        "count": 2,
+        "pct": 0.1
+      },
+      {
+        "name": "Landslide",
+        "count": 1,
+        "pct": 0.0
+      }
+    ],
+    "total_fatal_all_roads": 22296,
+    "total_grievous_all_roads": 10714,
+    "total_clusters": 569,
+    "time_distribution": [
+      {
+        "label": "Afternoon (10am–4pm)",
+        "value": 1042
+      },
+      {
+        "label": "Night (8pm–5am)",
+        "value": 992
+      },
+      {
+        "label": "Evening (4pm–8pm)",
+        "value": 917
+      },
+      {
+        "label": "Morning (5am–10am)",
+        "value": 650
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2023,
+        "value": 1890
+      },
+      {
+        "label": 2024,
+        "value": 1711
+      }
+    ],
+    "vehicle_pairs": [
+      {
+        "name": "Scooter + Scooter",
+        "count": 492
+      },
+      {
+        "name": "Scooter + Side Car",
+        "count": 413
+      },
+      {
+        "name": "Auto Rickshaw + Scooter",
+        "count": 214
+      },
+      {
+        "name": "Goods Carriage + Scooter",
+        "count": 192
+      },
+      {
+        "name": "Moped + Scooter",
+        "count": 149
+      },
+      {
+        "name": "Auto Rickshaw + Side Car",
+        "count": 118
+      },
+      {
+        "name": "Goods Carriage + Goods Carriage",
+        "count": 108
+      },
+      {
+        "name": "Scooter + Three Wheeler",
+        "count": 89
+      },
+      {
+        "name": "Side Car + Side Car",
+        "count": 64
+      },
+      {
+        "name": "Moped + Side Car",
+        "count": 48
+      }
+    ],
+    "junction_types": [
+      {
+        "name": "T – Junction",
+        "count": 65
+      },
+      {
+        "name": "Y – Junction ",
+        "count": 44
+      },
+      {
+        "name": "Roundabout ",
+        "count": 28
+      },
+      {
+        "name": "Four-arm Square Junction ",
+        "count": 25
+      },
+      {
+        "name": "Four-arm Cross  Junction ",
+        "count": 8
+      },
+      {
+        "name": "Elevated Junction (3- arm / 4-arm) ",
+        "count": 2
+      },
+      {
+        "name": "Staggered",
+        "count": 2
+      }
+    ],
+    "pedestrian_accidents": [
+      {
+        "name": "Scooter",
+        "count": 402
+      },
+      {
+        "name": "Goods Carriage",
+        "count": 201
+      },
+      {
+        "name": "Side Car",
+        "count": 151
+      },
+      {
+        "name": "Three Wheeler",
+        "count": 78
+      },
+      {
+        "name": "Moped",
+        "count": 73
+      },
+      {
+        "name": "Auto Rickshaw",
+        "count": 56
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "count": 3
+      },
+      {
+        "name": "All India Tourist Vehicle",
+        "count": 2
+      },
+      {
+        "name": "Tourist Maxi Cab",
+        "count": 2
+      },
+      {
+        "name": "Ambulance",
+        "count": 1
+      }
+    ],
+    "pedestrian_deaths": [
+      {
+        "name": "Scooter",
+        "value": 90
+      },
+      {
+        "name": "Goods Carriage",
+        "value": 72
+      },
+      {
+        "name": "Side Car",
+        "value": 44
+      },
+      {
+        "name": "Three Wheeler",
+        "value": 39
+      },
+      {
+        "name": "Auto Rickshaw",
+        "value": 28
+      },
+      {
+        "name": "Moped",
+        "value": 17
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "value": 5
+      },
+      {
+        "name": "Car",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "CHHATTISGARH",
+    "fg_covered": 765,
+    "blackspots": 349,
+    "corridors": 349,
+    "total_fatalities": 513,
+    "total_grievous": 416,
+    "total_fg": 765,
+    "total_accidents": 2465,
+    "fatal_accidents": 455,
+    "grievous_accidents": 310,
+    "minor_accidents": 1034,
+    "no_injury_accidents": 666,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 340
+      },
+      {
+        "label": "25-50",
+        "value": 6
+      },
+      {
+        "label": "50-100",
+        "value": 3
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 1645,
+        "pct": 73.2
+      },
+      {
+        "name": "High Speed",
+        "count": 404,
+        "pct": 18.0
+      },
+      {
+        "name": "Rash Driving",
+        "count": 62,
+        "pct": 2.8
+      },
+      {
+        "name": "Dangerous Overtaking",
+        "count": 53,
+        "pct": 2.4
+      },
+      {
+        "name": "Changing lane without care",
+        "count": 21,
+        "pct": 0.9
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 1682,
+        "pct": 82.2
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 290,
+        "pct": 14.2
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 75,
+        "pct": 3.7
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 847,
+        "pct": 37.3
+      },
+      {
+        "name": "Head on Collision",
+        "count": 639,
+        "pct": 28.2
+      },
+      {
+        "name": "Hit from Side",
+        "count": 547,
+        "pct": 24.1
+      },
+      {
+        "name": "Sideswipe",
+        "count": 111,
+        "pct": 4.9
+      },
+      {
+        "name": "Hit Parked Vehicle",
+        "count": 34,
+        "pct": 1.5
+      },
+      {
+        "name": "No Collision",
+        "count": 23,
+        "pct": 1.0
+      },
+      {
+        "name": "Hit Fixed / Stationary Object",
+        "count": 23,
+        "pct": 1.0
+      },
+      {
+        "name": "Skidding / Overturn",
+        "count": 19,
+        "pct": 0.8
+      },
+      {
+        "name": "Run off Road",
+        "count": 10,
+        "pct": 0.4
+      },
+      {
+        "name": "Overturn",
+        "count": 9,
+        "pct": 0.4
+      },
+      {
+        "name": "Hit tree",
+        "count": 6,
+        "pct": 0.3
+      },
+      {
+        "name": "Vehicle Fell in Gorge/Ditch/Well",
+        "count": 1,
+        "pct": 0.0
+      }
+    ],
+    "total_fatal_all_roads": 16347,
+    "total_grievous_all_roads": 7205,
+    "total_clusters": 349,
+    "time_distribution": [
+      {
+        "label": "Afternoon (10am–4pm)",
+        "value": 821
+      },
+      {
+        "label": "Night (8pm–5am)",
+        "value": 727
+      },
+      {
+        "label": "Evening (4pm–8pm)",
+        "value": 633
+      },
+      {
+        "label": "Morning (5am–10am)",
+        "value": 284
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2023,
+        "value": 1206
+      },
+      {
+        "label": 2024,
+        "value": 1259
+      }
+    ],
+    "vehicle_pairs": [
+      {
+        "name": "Scooter + Scooter",
+        "count": 364
+      },
+      {
+        "name": "Scooter + Side Car",
+        "count": 334
+      },
+      {
+        "name": "Side Car + Side Car",
+        "count": 212
+      },
+      {
+        "name": "Goods Carriage + Scooter",
+        "count": 168
+      },
+      {
+        "name": "Auto Rickshaw + Side Car",
+        "count": 142
+      },
+      {
+        "name": "Auto Rickshaw + Scooter",
+        "count": 117
+      },
+      {
+        "name": "Goods Carriage + Side Car",
+        "count": 63
+      },
+      {
+        "name": "Goods Carriage + Goods Carriage",
+        "count": 40
+      },
+      {
+        "name": "Moped + Scooter",
+        "count": 29
+      },
+      {
+        "name": "",
+        "count": 29
+      }
+    ],
+    "junction_types": [
+      {
+        "name": "T – Junction",
+        "count": 6
+      },
+      {
+        "name": "Y – Junction ",
+        "count": 5
+      },
+      {
+        "name": "More than Four-arm",
+        "count": 1
+      },
+      {
+        "name": "Four-arm Square Junction ",
+        "count": 1
+      },
+      {
+        "name": "Roundabout ",
+        "count": 1
+      },
+      {
+        "name": "Four-arm Cross  Junction ",
+        "count": 1
+      }
+    ],
+    "pedestrian_accidents": [
+      {
+        "name": "Scooter",
+        "count": 117
+      },
+      {
+        "name": "Side Car",
+        "count": 76
+      },
+      {
+        "name": "Goods Carriage",
+        "count": 53
+      },
+      {
+        "name": "Auto Rickshaw",
+        "count": 18
+      },
+      {
+        "name": "Moped",
+        "count": 9
+      },
+      {
+        "name": "Three Wheeler",
+        "count": 4
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "count": 3
+      },
+      {
+        "name": "Ambulance",
+        "count": 1
+      },
+      {
+        "name": "Omni Bus",
+        "count": 1
+      }
+    ],
+    "pedestrian_deaths": [
+      {
+        "name": "Scooter",
+        "value": 23
+      },
+      {
+        "name": "Goods Carriage",
+        "value": 21
+      },
+      {
+        "name": "Side Car",
+        "value": 14
+      },
+      {
+        "name": "Auto Rickshaw",
+        "value": 12
+      }
+    ]
+  },
+  {
+    "name": "WEST BENGAL",
+    "fg_covered": 1165,
+    "blackspots": 220,
+    "corridors": 220,
+    "total_fatalities": 458,
+    "total_grievous": 966,
+    "total_fg": 1165,
+    "total_accidents": 1834,
+    "fatal_accidents": 438,
+    "grievous_accidents": 727,
+    "minor_accidents": 376,
+    "no_injury_accidents": 293,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 214
+      },
+      {
+        "label": "25-50",
+        "value": 4
+      },
+      {
+        "label": "50-100",
+        "value": 1
+      },
+      {
+        "label": "100+",
+        "value": 1
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 1121,
+        "pct": 59.0
+      },
+      {
+        "name": "Rash Driving",
+        "count": 354,
+        "pct": 18.6
+      },
+      {
+        "name": "High Speed",
+        "count": 192,
+        "pct": 10.1
+      },
+      {
+        "name": "Dangerous Overtaking",
+        "count": 118,
+        "pct": 6.2
+      },
+      {
+        "name": "Changing lane without care",
+        "count": 56,
+        "pct": 2.9
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 782,
+        "pct": 49.0
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 697,
+        "pct": 43.6
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 118,
+        "pct": 7.4
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 750,
+        "pct": 41.6
+      },
+      {
+        "name": "Hit from Side",
+        "count": 628,
+        "pct": 34.9
+      },
+      {
+        "name": "Head on Collision",
+        "count": 243,
+        "pct": 13.5
+      },
+      {
+        "name": "Hit Fixed / Stationary Object",
+        "count": 46,
+        "pct": 2.6
+      },
+      {
+        "name": "No Collision",
+        "count": 43,
+        "pct": 2.4
+      },
+      {
+        "name": "Sideswipe",
+        "count": 35,
+        "pct": 1.9
+      },
+      {
+        "name": "Skidding / Overturn",
+        "count": 14,
+        "pct": 0.8
+      },
+      {
+        "name": "Hit Parked Vehicle",
+        "count": 13,
+        "pct": 0.7
+      },
+      {
+        "name": "Run off Road",
+        "count": 13,
+        "pct": 0.7
+      },
+      {
+        "name": "Overturn",
+        "count": 11,
+        "pct": 0.6
+      },
+      {
+        "name": "Landslide",
+        "count": 3,
+        "pct": 0.2
+      },
+      {
+        "name": "Vehicle Fell in Gorge/Ditch/Well",
+        "count": 2,
+        "pct": 0.1
+      },
+      {
+        "name": "Hit tree",
+        "count": 1,
+        "pct": 0.1
+      }
+    ],
+    "total_fatal_all_roads": 18160,
+    "total_grievous_all_roads": 16966,
+    "total_clusters": 220,
+    "time_distribution": [
+      {
+        "label": "Afternoon (10am–4pm)",
+        "value": 578
+      },
+      {
+        "label": "Night (8pm–5am)",
+        "value": 573
+      },
+      {
+        "label": "Evening (4pm–8pm)",
+        "value": 381
+      },
+      {
+        "label": "Morning (5am–10am)",
+        "value": 302
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2023,
+        "value": 979
+      },
+      {
+        "label": 2024,
+        "value": 855
+      }
+    ],
+    "vehicle_pairs": [
+      {
+        "name": "Scooter + Side Car",
+        "count": 127
+      },
+      {
+        "name": "Auto Rickshaw + Scooter",
+        "count": 117
+      },
+      {
+        "name": "Side Car + Side Car",
+        "count": 80
+      },
+      {
+        "name": "Scooter + Scooter",
+        "count": 73
+      },
+      {
+        "name": "Auto Rickshaw + Side Car",
+        "count": 68
+      },
+      {
+        "name": "Goods Carriage + Scooter",
+        "count": 62
+      },
+      {
+        "name": "Scooter + Three Wheeler",
+        "count": 55
+      },
+      {
+        "name": "Scooter + Tourist Maxi Cab",
+        "count": 31
+      },
+      {
+        "name": "Goods Carriage + Side Car",
+        "count": 29
+      },
+      {
+        "name": "Side Car + Three Wheeler",
+        "count": 28
+      }
+    ],
+    "junction_types": [
+      {
+        "name": "T – Junction",
+        "count": 3
+      },
+      {
+        "name": "Four-arm Square Junction ",
+        "count": 2
+      }
+    ],
+    "pedestrian_accidents": [
+      {
+        "name": "Scooter",
+        "count": 190
+      },
+      {
+        "name": "Side Car",
+        "count": 139
+      },
+      {
+        "name": "Three Wheeler",
+        "count": 129
+      },
+      {
+        "name": "Auto Rickshaw",
+        "count": 113
+      },
+      {
+        "name": "Goods Carriage",
+        "count": 104
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "count": 8
+      },
+      {
+        "name": "Moped",
+        "count": 7
+      },
+      {
+        "name": "Tourist Maxi Cab",
+        "count": 7
+      },
+      {
+        "name": "All India Tourist Vehicle",
+        "count": 2
+      }
+    ],
+    "pedestrian_deaths": [
+      {
+        "name": "Auto Rickshaw",
+        "value": 61
+      },
+      {
+        "name": "Scooter",
+        "value": 60
+      },
+      {
+        "name": "Three Wheeler",
+        "value": 40
+      },
+      {
+        "name": "Side Car",
+        "value": 36
+      },
+      {
+        "name": "Goods Carriage",
+        "value": 34
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "value": 3
+      },
+      {
+        "name": "Moped",
+        "value": 2
+      },
+      {
+        "name": "Tourist Maxi Cab",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "ASSAM",
+    "fg_covered": 951,
+    "blackspots": 211,
+    "corridors": 211,
+    "total_fatalities": 270,
+    "total_grievous": 898,
+    "total_fg": 951,
+    "total_accidents": 1378,
+    "fatal_accidents": 248,
+    "grievous_accidents": 703,
+    "minor_accidents": 225,
+    "no_injury_accidents": 202,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 209
+      },
+      {
+        "label": "25-50",
+        "value": 2
+      },
+      {
+        "label": "50-100",
+        "value": 0
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 789,
+        "pct": 62.3
+      },
+      {
+        "name": "High Speed",
+        "count": 276,
+        "pct": 21.8
+      },
+      {
+        "name": "Rash Driving",
+        "count": 119,
+        "pct": 9.4
+      },
+      {
+        "name": "Changing lane without care",
+        "count": 22,
+        "pct": 1.7
+      },
+      {
+        "name": "Dangerous Overtaking",
+        "count": 17,
+        "pct": 1.3
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 646,
+        "pct": 64.5
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 293,
+        "pct": 29.2
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 63,
+        "pct": 6.3
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Side",
+        "count": 416,
+        "pct": 33.5
+      },
+      {
+        "name": "Hit from Back",
+        "count": 412,
+        "pct": 33.1
+      },
+      {
+        "name": "Head on Collision",
+        "count": 255,
+        "pct": 20.5
+      },
+      {
+        "name": "Hit Fixed / Stationary Object",
+        "count": 45,
+        "pct": 3.6
+      },
+      {
+        "name": "No Collision",
+        "count": 33,
+        "pct": 2.7
+      },
+      {
+        "name": "Sideswipe",
+        "count": 21,
+        "pct": 1.7
+      },
+      {
+        "name": "Overturn",
+        "count": 15,
+        "pct": 1.2
+      },
+      {
+        "name": "Skidding / Overturn",
+        "count": 15,
+        "pct": 1.2
+      },
+      {
+        "name": "Hit Parked Vehicle",
+        "count": 12,
+        "pct": 1.0
+      },
+      {
+        "name": "Run off Road",
+        "count": 10,
+        "pct": 0.8
+      },
+      {
+        "name": "Vehicle Fell in Gorge/Ditch/Well",
+        "count": 7,
+        "pct": 0.6
+      },
+      {
+        "name": "Vehicle Fell in River",
+        "count": 1,
+        "pct": 0.1
+      },
+      {
+        "name": "Hit tree",
+        "count": 1,
+        "pct": 0.1
+      }
+    ],
+    "total_fatal_all_roads": 9848,
+    "total_grievous_all_roads": 18660,
+    "total_clusters": 211,
+    "time_distribution": [
+      {
+        "label": "Night (8pm–5am)",
+        "value": 485
+      },
+      {
+        "label": "Afternoon (10am–4pm)",
+        "value": 400
+      },
+      {
+        "label": "Evening (4pm–8pm)",
+        "value": 312
+      },
+      {
+        "label": "Morning (5am–10am)",
+        "value": 181
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2023,
+        "value": 547
+      },
+      {
+        "label": 2024,
+        "value": 831
+      }
+    ],
+    "vehicle_pairs": [
+      {
+        "name": "Scooter + Side Car",
+        "count": 178
+      },
+      {
+        "name": "Scooter + Scooter",
+        "count": 108
+      },
+      {
+        "name": "Side Car + Side Car",
+        "count": 85
+      },
+      {
+        "name": "Goods Carriage + Scooter",
+        "count": 67
+      },
+      {
+        "name": "Auto Rickshaw + Scooter",
+        "count": 54
+      },
+      {
+        "name": "Auto Rickshaw + Side Car",
+        "count": 38
+      },
+      {
+        "name": "Goods Carriage + Side Car",
+        "count": 27
+      },
+      {
+        "name": "Moped + Scooter",
+        "count": 16
+      },
+      {
+        "name": "Moped + Side Car",
+        "count": 15
+      },
+      {
+        "name": "Goods Carriage + Goods Carriage",
+        "count": 14
+      }
+    ],
+    "junction_types": [
+      {
+        "name": "T – Junction",
+        "count": 27
+      },
+      {
+        "name": "Y – Junction ",
+        "count": 14
+      },
+      {
+        "name": "Four-arm Square Junction ",
+        "count": 5
+      },
+      {
+        "name": "Four-arm Cross  Junction ",
+        "count": 3
+      },
+      {
+        "name": "Roundabout ",
+        "count": 2
+      }
+    ],
+    "pedestrian_accidents": [
+      {
+        "name": "Scooter",
+        "count": 163
+      },
+      {
+        "name": "Side Car",
+        "count": 70
+      },
+      {
+        "name": "Goods Carriage",
+        "count": 26
+      },
+      {
+        "name": "Auto Rickshaw",
+        "count": 14
+      },
+      {
+        "name": "Three Wheeler",
+        "count": 11
+      },
+      {
+        "name": "Moped",
+        "count": 3
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "count": 3
+      }
+    ],
+    "pedestrian_deaths": [
+      {
+        "name": "Scooter",
+        "value": 40
+      },
+      {
+        "name": "Side Car",
+        "value": 20
+      },
+      {
+        "name": "Goods Carriage",
+        "value": 13
+      },
+      {
+        "name": "Auto Rickshaw",
+        "value": 8
+      },
+      {
+        "name": "Three Wheeler",
+        "value": 3
+      },
+      {
+        "name": "Moped",
+        "value": 2
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "value": 2
+      }
+    ],
+    "school_in_zone": 46
+  },
+  {
+    "name": "GOA",
+    "fg_covered": 202,
+    "blackspots": 174,
+    "corridors": 174,
+    "total_fatalities": 102,
+    "total_grievous": 136,
+    "total_fg": 202,
+    "total_accidents": 1202,
+    "fatal_accidents": 92,
+    "grievous_accidents": 110,
+    "minor_accidents": 428,
+    "no_injury_accidents": 572,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 167
+      },
+      {
+        "label": "25-50",
+        "value": 5
+      },
+      {
+        "label": "50-100",
+        "value": 2
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 613,
+        "pct": 57.0
+      },
+      {
+        "name": "Rash Driving",
+        "count": 257,
+        "pct": 23.9
+      },
+      {
+        "name": "High Speed",
+        "count": 82,
+        "pct": 7.6
+      },
+      {
+        "name": "Changing lane without care",
+        "count": 51,
+        "pct": 4.7
+      },
+      {
+        "name": "Dangerous Overtaking",
+        "count": 33,
+        "pct": 3.1
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 757,
+        "pct": 86.3
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 107,
+        "pct": 12.2
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 13,
+        "pct": 1.5
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Side",
+        "count": 403,
+        "pct": 37.7
+      },
+      {
+        "name": "Head on Collision",
+        "count": 256,
+        "pct": 24.0
+      },
+      {
+        "name": "Hit from Back",
+        "count": 244,
+        "pct": 22.8
+      },
+      {
+        "name": "Hit Fixed / Stationary Object",
+        "count": 49,
+        "pct": 4.6
+      },
+      {
+        "name": "Hit Parked Vehicle",
+        "count": 34,
+        "pct": 3.2
+      },
+      {
+        "name": "No Collision",
+        "count": 28,
+        "pct": 2.6
+      },
+      {
+        "name": "Skidding / Overturn",
+        "count": 21,
+        "pct": 2.0
+      },
+      {
+        "name": "Sideswipe",
+        "count": 13,
+        "pct": 1.2
+      },
+      {
+        "name": "Run off Road",
+        "count": 10,
+        "pct": 0.9
+      },
+      {
+        "name": "Vehicle Fell in Gorge/Ditch/Well",
+        "count": 4,
+        "pct": 0.4
+      },
+      {
+        "name": "Hit tree",
+        "count": 3,
+        "pct": 0.3
+      },
+      {
+        "name": "Overturn",
+        "count": 3,
+        "pct": 0.3
+      }
+    ],
+    "total_fatal_all_roads": 781,
+    "total_grievous_all_roads": 929,
+    "total_clusters": 174,
+    "time_distribution": [
+      {
+        "label": "Night (8pm–5am)",
+        "value": 376
+      },
+      {
+        "label": "Afternoon (10am–4pm)",
+        "value": 355
+      },
+      {
+        "label": "Evening (4pm–8pm)",
+        "value": 262
+      },
+      {
+        "label": "Morning (5am–10am)",
+        "value": 209
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2023,
+        "value": 645
+      },
+      {
+        "label": 2024,
+        "value": 557
+      }
+    ],
+    "vehicle_pairs": [
+      {
+        "name": "Scooter + Side Car",
+        "count": 249
+      },
+      {
+        "name": "Side Car + Side Car",
+        "count": 206
+      },
+      {
+        "name": "Scooter + Scooter",
+        "count": 123
+      },
+      {
+        "name": "Auto Rickshaw + Side Car",
+        "count": 33
+      },
+      {
+        "name": "Auto Rickshaw + Scooter",
+        "count": 32
+      },
+      {
+        "name": "Goods Carriage + Side Car",
+        "count": 29
+      },
+      {
+        "name": "Side Car + Three Wheeler",
+        "count": 28
+      },
+      {
+        "name": "Scooter + Three Wheeler",
+        "count": 26
+      },
+      {
+        "name": "Goods Carriage + Scooter",
+        "count": 19
+      },
+      {
+        "name": "Side Car + Tourist Motor Cab",
+        "count": 15
+      }
+    ],
+    "junction_types": [
+      {
+        "name": "T – Junction",
+        "count": 30
+      },
+      {
+        "name": "Roundabout ",
+        "count": 22
+      },
+      {
+        "name": "Four-arm Square Junction ",
+        "count": 12
+      },
+      {
+        "name": "Staggered",
+        "count": 8
+      },
+      {
+        "name": "Y – Junction ",
+        "count": 3
+      },
+      {
+        "name": "Four-arm Cross  Junction ",
+        "count": 3
+      }
+    ],
+    "pedestrian_accidents": [
+      {
+        "name": "Scooter",
+        "count": 38
+      },
+      {
+        "name": "Side Car",
+        "count": 35
+      },
+      {
+        "name": "Three Wheeler",
+        "count": 15
+      },
+      {
+        "name": "Goods Carriage",
+        "count": 13
+      },
+      {
+        "name": "Auto Rickshaw",
+        "count": 5
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "count": 1
+      },
+      {
+        "name": "Car",
+        "count": 1
+      }
+    ],
+    "pedestrian_deaths": [
+      {
+        "name": "Three Wheeler",
+        "value": 8
+      },
+      {
+        "name": "Auto Rickshaw",
+        "value": 3
+      },
+      {
+        "name": "Goods Carriage",
+        "value": 3
+      },
+      {
+        "name": "Scooter",
+        "value": 3
+      },
+      {
+        "name": "Side Car",
+        "value": 3
+      },
+      {
+        "name": "Car",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "HARYANA",
+    "fg_covered": 771,
+    "blackspots": 255,
+    "corridors": 255,
+    "total_fatalities": 428,
+    "total_grievous": 419,
+    "total_fg": 771,
+    "total_accidents": 1138,
+    "fatal_accidents": 400,
+    "grievous_accidents": 371,
+    "minor_accidents": 306,
+    "no_injury_accidents": 61,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 254
+      },
+      {
+        "label": "25-50",
+        "value": 1
+      },
+      {
+        "label": "50-100",
+        "value": 0
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 458,
+        "pct": 33.0
+      },
+      {
+        "name": "High Speed",
+        "count": 428,
+        "pct": 30.8
+      },
+      {
+        "name": "Rash Driving",
+        "count": 327,
+        "pct": 23.6
+      },
+      {
+        "name": "Driving against flow of traffic",
+        "count": 43,
+        "pct": 3.1
+      },
+      {
+        "name": "Dangerous Overtaking",
+        "count": 38,
+        "pct": 2.7
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 713,
+        "pct": 66.2
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 325,
+        "pct": 30.2
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 39,
+        "pct": 3.6
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 476,
+        "pct": 40.9
+      },
+      {
+        "name": "Hit from Side",
+        "count": 312,
+        "pct": 26.8
+      },
+      {
+        "name": "Head on Collision",
+        "count": 291,
+        "pct": 25.0
+      },
+      {
+        "name": "Sideswipe",
+        "count": 29,
+        "pct": 2.5
+      },
+      {
+        "name": "No Collision",
+        "count": 16,
+        "pct": 1.4
+      },
+      {
+        "name": "Hit Parked Vehicle",
+        "count": 13,
+        "pct": 1.1
+      },
+      {
+        "name": "Run off Road",
+        "count": 10,
+        "pct": 0.9
+      },
+      {
+        "name": "Overturn",
+        "count": 7,
+        "pct": 0.6
+      },
+      {
+        "name": "Hit Fixed / Stationary Object",
+        "count": 4,
+        "pct": 0.3
+      },
+      {
+        "name": "Skidding / Overturn",
+        "count": 3,
+        "pct": 0.3
+      },
+      {
+        "name": "Hit tree",
+        "count": 2,
+        "pct": 0.2
+      },
+      {
+        "name": "Vehicle Fell in Gorge/Ditch/Well",
+        "count": 1,
+        "pct": 0.1
+      },
+      {
+        "name": "Vehicle Fell in River",
+        "count": 1,
+        "pct": 0.1
+      }
+    ],
+    "total_fatal_all_roads": 13647,
+    "total_grievous_all_roads": 11124,
+    "total_clusters": 255,
+    "time_distribution": [
+      {
+        "label": "Night (8pm–5am)",
+        "value": 410
+      },
+      {
+        "label": "Afternoon (10am–4pm)",
+        "value": 291
+      },
+      {
+        "label": "Evening (4pm–8pm)",
+        "value": 258
+      },
+      {
+        "label": "Morning (5am–10am)",
+        "value": 179
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2023,
+        "value": 650
+      },
+      {
+        "label": 2024,
+        "value": 488
+      }
+    ],
+    "vehicle_pairs": [
+      {
+        "name": "Scooter + Side Car",
+        "count": 177
+      },
+      {
+        "name": "Goods Carriage + Scooter",
+        "count": 125
+      },
+      {
+        "name": "Goods Carriage + Goods Carriage",
+        "count": 84
+      },
+      {
+        "name": "Auto Rickshaw + Scooter",
+        "count": 61
+      },
+      {
+        "name": "Side Car + Side Car",
+        "count": 48
+      },
+      {
+        "name": "Scooter + Scooter",
+        "count": 44
+      },
+      {
+        "name": "Auto Rickshaw + Side Car",
+        "count": 33
+      },
+      {
+        "name": "Goods Carriage + Side Car",
+        "count": 29
+      },
+      {
+        "name": "Scooter + Three Wheeler",
+        "count": 19
+      },
+      {
+        "name": "Moped + Side Car",
+        "count": 15
+      }
+    ],
+    "junction_types": [
+      {
+        "name": "T – Junction",
+        "count": 14
+      },
+      {
+        "name": "Y – Junction ",
+        "count": 6
+      },
+      {
+        "name": "Four-arm Square Junction ",
+        "count": 5
+      },
+      {
+        "name": "Roundabout ",
+        "count": 3
+      },
+      {
+        "name": "More than Four-arm",
+        "count": 1
+      },
+      {
+        "name": "Four-arm Cross  Junction ",
+        "count": 1
+      },
+      {
+        "name": "Elevated Junction (3- arm / 4-arm) ",
+        "count": 1
+      }
+    ],
+    "pedestrian_accidents": [
+      {
+        "name": "Goods Carriage",
+        "count": 131
+      },
+      {
+        "name": "Side Car",
+        "count": 87
+      },
+      {
+        "name": "Scooter",
+        "count": 61
+      },
+      {
+        "name": "Auto Rickshaw",
+        "count": 23
+      },
+      {
+        "name": "Three Wheeler",
+        "count": 18
+      },
+      {
+        "name": "Moped",
+        "count": 8
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "count": 2
+      },
+      {
+        "name": "Ambulance",
+        "count": 1
+      },
+      {
+        "name": "Car",
+        "count": 1
+      },
+      {
+        "name": "Tourist Maxi Cab",
+        "count": 1
+      }
+    ],
+    "pedestrian_deaths": [
+      {
+        "name": "Goods Carriage",
+        "value": 84
+      },
+      {
+        "name": "Side Car",
+        "value": 33
+      },
+      {
+        "name": "Scooter",
+        "value": 13
+      },
+      {
+        "name": "Auto Rickshaw",
+        "value": 8
+      },
+      {
+        "name": "Three Wheeler",
+        "value": 8
+      },
+      {
+        "name": "Moped",
+        "value": 2
+      },
+      {
+        "name": "Car",
+        "value": 1
+      },
+      {
+        "name": "Ambulance",
+        "value": 1
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "PUDUCHERRY",
+    "fg_covered": 247,
+    "blackspots": 95,
+    "corridors": 95,
+    "total_fatalities": 95,
+    "total_grievous": 148,
+    "total_fg": 247,
+    "total_accidents": 910,
+    "fatal_accidents": 95,
+    "grievous_accidents": 152,
+    "minor_accidents": 626,
+    "no_injury_accidents": 37,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 89
+      },
+      {
+        "label": "25-50",
+        "value": 2
+      },
+      {
+        "label": "50-100",
+        "value": 3
+      },
+      {
+        "label": "100+",
+        "value": 1
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 550,
+        "pct": 59.6
+      },
+      {
+        "name": "High Speed",
+        "count": 163,
+        "pct": 17.7
+      },
+      {
+        "name": "Rash Driving",
+        "count": 74,
+        "pct": 8.0
+      },
+      {
+        "name": "Changing lane without care",
+        "count": 65,
+        "pct": 7.0
+      },
+      {
+        "name": "Carrying people in Load vehicle",
+        "count": 14,
+        "pct": 1.5
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 589,
+        "pct": 70.7
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 219,
+        "pct": 26.3
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 25,
+        "pct": 3.0
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Side",
+        "count": 399,
+        "pct": 39.4
+      },
+      {
+        "name": "Head on Collision",
+        "count": 360,
+        "pct": 35.5
+      },
+      {
+        "name": "Hit from Back",
+        "count": 170,
+        "pct": 16.8
+      },
+      {
+        "name": "Skidding / Overturn",
+        "count": 21,
+        "pct": 2.1
+      },
+      {
+        "name": "Hit Parked Vehicle",
+        "count": 14,
+        "pct": 1.4
+      },
+      {
+        "name": "Sideswipe",
+        "count": 14,
+        "pct": 1.4
+      },
+      {
+        "name": "No Collision",
+        "count": 13,
+        "pct": 1.3
+      },
+      {
+        "name": "Hit Fixed / Stationary Object",
+        "count": 12,
+        "pct": 1.2
+      },
+      {
+        "name": "Overturn",
+        "count": 4,
+        "pct": 0.4
+      },
+      {
+        "name": "Run off Road",
+        "count": 3,
+        "pct": 0.3
+      },
+      {
+        "name": "Hit tree",
+        "count": 3,
+        "pct": 0.3
+      }
+    ],
+    "total_fatal_all_roads": 647,
+    "total_grievous_all_roads": 1023,
+    "total_clusters": 95,
+    "time_distribution": [
+      {
+        "label": "Afternoon (10am–4pm)",
+        "value": 314
+      },
+      {
+        "label": "Night (8pm–5am)",
+        "value": 227
+      },
+      {
+        "label": "Evening (4pm–8pm)",
+        "value": 205
+      },
+      {
+        "label": "Morning (5am–10am)",
+        "value": 164
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2023,
+        "value": 477
+      },
+      {
+        "label": 2024,
+        "value": 433
+      }
+    ],
+    "vehicle_pairs": [
+      {
+        "name": "Scooter + Scooter",
+        "count": 259
+      },
+      {
+        "name": "Scooter + Side Car",
+        "count": 144
+      },
+      {
+        "name": "Auto Rickshaw + Scooter",
+        "count": 49
+      },
+      {
+        "name": "Goods Carriage + Scooter",
+        "count": 38
+      },
+      {
+        "name": "Scooter + Three Wheeler",
+        "count": 34
+      },
+      {
+        "name": "Moped + Scooter",
+        "count": 23
+      },
+      {
+        "name": "Side Car + Side Car",
+        "count": 18
+      },
+      {
+        "name": "Auto Rickshaw + Side Car",
+        "count": 9
+      },
+      {
+        "name": "Goods Carriage + Three Wheeler",
+        "count": 8
+      },
+      {
+        "name": "Scooter + Tourist Maxi Cab",
+        "count": 6
+      }
+    ],
+    "junction_types": [
+      {
+        "name": "T – Junction",
+        "count": 4
+      },
+      {
+        "name": "Y – Junction ",
+        "count": 3
+      },
+      {
+        "name": "Four-arm Square Junction ",
+        "count": 2
+      },
+      {
+        "name": "Roundabout ",
+        "count": 1
+      }
+    ],
+    "pedestrian_accidents": [
+      {
+        "name": "Scooter",
+        "count": 128
+      },
+      {
+        "name": "Side Car",
+        "count": 37
+      },
+      {
+        "name": "Goods Carriage",
+        "count": 19
+      },
+      {
+        "name": "Auto Rickshaw",
+        "count": 14
+      },
+      {
+        "name": "Three Wheeler",
+        "count": 14
+      },
+      {
+        "name": "Moped",
+        "count": 5
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "count": 4
+      }
+    ],
+    "pedestrian_deaths": [
+      {
+        "name": "Scooter",
+        "value": 13
+      },
+      {
+        "name": "Goods Carriage",
+        "value": 4
+      },
+      {
+        "name": "Side Car",
+        "value": 4
+      },
+      {
+        "name": "Three Wheeler",
+        "value": 4
+      },
+      {
+        "name": "Moped",
+        "value": 2
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "JAMMU & KASHMIR",
+    "fg_covered": 440,
+    "blackspots": 132,
+    "corridors": 132,
+    "total_fatalities": 110,
+    "total_grievous": 382,
+    "total_fg": 440,
+    "total_accidents": 908,
+    "fatal_accidents": 99,
+    "grievous_accidents": 341,
+    "minor_accidents": 373,
+    "no_injury_accidents": 95,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 130
+      },
+      {
+        "label": "25-50",
+        "value": 1
+      },
+      {
+        "label": "50-100",
+        "value": 1
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 389,
+        "pct": 37.6
+      },
+      {
+        "name": "High Speed",
+        "count": 324,
+        "pct": 31.3
+      },
+      {
+        "name": "Rash Driving",
+        "count": 260,
+        "pct": 25.1
+      },
+      {
+        "name": "Dangerous Overtaking",
+        "count": 22,
+        "pct": 2.1
+      },
+      {
+        "name": "Changing lane without care",
+        "count": 11,
+        "pct": 1.1
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 373,
+        "pct": 53.0
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 315,
+        "pct": 44.7
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 16,
+        "pct": 2.3
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Side",
+        "count": 252,
+        "pct": 27.4
+      },
+      {
+        "name": "Hit from Back",
+        "count": 247,
+        "pct": 26.8
+      },
+      {
+        "name": "Head on Collision",
+        "count": 230,
+        "pct": 25.0
+      },
+      {
+        "name": "Skidding / Overturn",
+        "count": 49,
+        "pct": 5.3
+      },
+      {
+        "name": "No Collision",
+        "count": 43,
+        "pct": 4.7
+      },
+      {
+        "name": "Hit Fixed / Stationary Object",
+        "count": 23,
+        "pct": 2.5
+      },
+      {
+        "name": "Sideswipe",
+        "count": 21,
+        "pct": 2.3
+      },
+      {
+        "name": "Overturn",
+        "count": 20,
+        "pct": 2.2
+      },
+      {
+        "name": "Run off Road",
+        "count": 17,
+        "pct": 1.8
+      },
+      {
+        "name": "Hit Parked Vehicle",
+        "count": 10,
+        "pct": 1.1
+      },
+      {
+        "name": "Vehicle Fell in Gorge/Ditch/Well",
+        "count": 8,
+        "pct": 0.9
+      }
+    ],
+    "total_fatal_all_roads": 2625,
+    "total_grievous_all_roads": 5451,
+    "total_clusters": 132,
+    "time_distribution": [
+      {
+        "label": "Afternoon (10am–4pm)",
+        "value": 283
+      },
+      {
+        "label": "Evening (4pm–8pm)",
+        "value": 252
+      },
+      {
+        "label": "Night (8pm–5am)",
+        "value": 249
+      },
+      {
+        "label": "Morning (5am–10am)",
+        "value": 124
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2023,
+        "value": 480
+      },
+      {
+        "label": 2024,
+        "value": 428
+      }
+    ],
+    "vehicle_pairs": [
+      {
+        "name": "Scooter + Side Car",
+        "count": 99
+      },
+      {
+        "name": "Goods Carriage + Scooter",
+        "count": 58
+      },
+      {
+        "name": "Side Car + Side Car",
+        "count": 39
+      },
+      {
+        "name": "Scooter + Scooter",
+        "count": 39
+      },
+      {
+        "name": "Auto Rickshaw + Scooter",
+        "count": 26
+      },
+      {
+        "name": "Scooter + Three Wheeler",
+        "count": 21
+      },
+      {
+        "name": "Auto Rickshaw + Side Car",
+        "count": 18
+      },
+      {
+        "name": "Goods Carriage + Goods Carriage",
+        "count": 16
+      },
+      {
+        "name": "Auto Rickshaw + Auto Rickshaw",
+        "count": 15
+      },
+      {
+        "name": "Goods Carriage + Side Car",
+        "count": 11
+      }
+    ],
+    "junction_types": [
+      {
+        "name": "Roundabout ",
+        "count": 5
+      },
+      {
+        "name": "T – Junction",
+        "count": 5
+      },
+      {
+        "name": "Four-arm Square Junction ",
+        "count": 4
+      },
+      {
+        "name": "Y – Junction ",
+        "count": 3
+      },
+      {
+        "name": "Four-arm Cross  Junction ",
+        "count": 2
+      },
+      {
+        "name": "Staggered",
+        "count": 1
+      }
+    ],
+    "pedestrian_accidents": [
+      {
+        "name": "Side Car",
+        "count": 90
+      },
+      {
+        "name": "Scooter",
+        "count": 87
+      },
+      {
+        "name": "Goods Carriage",
+        "count": 86
+      },
+      {
+        "name": "Auto Rickshaw",
+        "count": 24
+      },
+      {
+        "name": "Three Wheeler",
+        "count": 15
+      },
+      {
+        "name": "Moped",
+        "count": 7
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "count": 4
+      },
+      {
+        "name": "Ambulance",
+        "count": 1
+      },
+      {
+        "name": "Tourist Maxi Cab",
+        "count": 1
+      },
+      {
+        "name": "Omni Bus",
+        "count": 1
+      }
+    ],
+    "pedestrian_deaths": [
+      {
+        "name": "Goods Carriage",
+        "value": 11
+      },
+      {
+        "name": "Side Car",
+        "value": 7
+      },
+      {
+        "name": "Auto Rickshaw",
+        "value": 6
+      },
+      {
+        "name": "Scooter",
+        "value": 6
+      },
+      {
+        "name": "Three Wheeler",
+        "value": 2
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "PUNJAB",
+    "fg_covered": 584,
+    "blackspots": 115,
+    "corridors": 115,
+    "total_fatalities": 134,
+    "total_grievous": 115,
+    "total_fg": 584,
+    "total_accidents": 621,
+    "fatal_accidents": 406,
+    "grievous_accidents": 178,
+    "minor_accidents": 21,
+    "no_injury_accidents": 16,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 114
+      },
+      {
+        "label": "25-50",
+        "value": 0
+      },
+      {
+        "label": "50-100",
+        "value": 1
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 121,
+        "pct": 47.3
+      },
+      {
+        "name": "High Speed",
+        "count": 59,
+        "pct": 23.0
+      },
+      {
+        "name": "Rash Driving",
+        "count": 41,
+        "pct": 16.0
+      },
+      {
+        "name": "Dangerous Overtaking",
+        "count": 9,
+        "pct": 3.5
+      },
+      {
+        "name": "Changing lane without care",
+        "count": 8,
+        "pct": 3.1
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 135,
+        "pct": 73.8
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 35,
+        "pct": 19.1
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 13,
+        "pct": 7.1
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 98,
+        "pct": 47.3
+      },
+      {
+        "name": "Hit from Side",
+        "count": 61,
+        "pct": 29.5
+      },
+      {
+        "name": "Head on Collision",
+        "count": 27,
+        "pct": 13.0
+      },
+      {
+        "name": "No Collision",
+        "count": 7,
+        "pct": 3.4
+      },
+      {
+        "name": "Vehicle Fell in Gorge/Ditch/Well",
+        "count": 3,
+        "pct": 1.4
+      },
+      {
+        "name": "Overturn",
+        "count": 2,
+        "pct": 1.0
+      },
+      {
+        "name": "Hit Fixed / Stationary Object",
+        "count": 2,
+        "pct": 1.0
+      },
+      {
+        "name": "Run off Road",
+        "count": 2,
+        "pct": 1.0
+      },
+      {
+        "name": "Sideswipe",
+        "count": 2,
+        "pct": 1.0
+      },
+      {
+        "name": "Skidding / Overturn",
+        "count": 1,
+        "pct": 0.5
+      },
+      {
+        "name": "Hit Parked Vehicle",
+        "count": 1,
+        "pct": 0.5
+      },
+      {
+        "name": "Hit tree",
+        "count": 1,
+        "pct": 0.5
+      }
+    ],
+    "total_fatal_all_roads": 8881,
+    "total_grievous_all_roads": 3128,
+    "total_clusters": 115,
+    "time_distribution": [
+      {
+        "label": "Night (8pm–5am)",
+        "value": 269
+      },
+      {
+        "label": "Afternoon (10am–4pm)",
+        "value": 139
+      },
+      {
+        "label": "Evening (4pm–8pm)",
+        "value": 137
+      },
+      {
+        "label": "Morning (5am–10am)",
+        "value": 76
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2023,
+        "value": 364
+      },
+      {
+        "label": 2024,
+        "value": 257
+      }
+    ],
+    "vehicle_pairs": [
+      {
+        "name": "Scooter + Side Car",
+        "count": 47
+      },
+      {
+        "name": "Scooter + Scooter",
+        "count": 16
+      },
+      {
+        "name": "Auto Rickshaw + Scooter",
+        "count": 14
+      },
+      {
+        "name": "Side Car + Side Car",
+        "count": 14
+      },
+      {
+        "name": "Goods Carriage + Scooter",
+        "count": 11
+      },
+      {
+        "name": "Auto Rickshaw + Side Car",
+        "count": 8
+      },
+      {
+        "name": "Side Car + Tourist Maxi Cab",
+        "count": 6
+      },
+      {
+        "name": "Scooter + Three Wheeler",
+        "count": 5
+      },
+      {
+        "name": "Goods Carriage + Goods Carriage",
+        "count": 4
+      },
+      {
+        "name": "Auto Rickshaw + Tourist Maxi Cab",
+        "count": 4
+      }
+    ],
+    "pedestrian_accidents": [
+      {
+        "name": "Scooter",
+        "count": 13
+      },
+      {
+        "name": "Side Car",
+        "count": 7
+      },
+      {
+        "name": "Goods Carriage",
+        "count": 5
+      },
+      {
+        "name": "Auto Rickshaw",
+        "count": 5
+      },
+      {
+        "name": "Three Wheeler",
+        "count": 3
+      },
+      {
+        "name": "Ambulance",
+        "count": 1
+      }
+    ],
+    "pedestrian_deaths": [
+      {
+        "name": "Scooter",
+        "value": 8
+      },
+      {
+        "name": "Goods Carriage",
+        "value": 7
+      },
+      {
+        "name": "Auto Rickshaw",
+        "value": 5
+      },
+      {
+        "name": "Side Car",
+        "value": 4
+      },
+      {
+        "name": "Three Wheeler",
+        "value": 2
+      },
+      {
+        "name": "Ambulance",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "BIHAR",
+    "fg_covered": 478,
+    "blackspots": 114,
+    "corridors": 114,
+    "total_fatalities": 385,
+    "total_grievous": 190,
+    "total_fg": 478,
+    "total_accidents": 555,
+    "fatal_accidents": 355,
+    "grievous_accidents": 123,
+    "minor_accidents": 28,
+    "no_injury_accidents": 49,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 113
+      },
+      {
+        "label": "25-50",
+        "value": 1
+      },
+      {
+        "label": "50-100",
+        "value": 0
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 375,
+        "pct": 61.0
+      },
+      {
+        "name": "High Speed",
+        "count": 95,
+        "pct": 15.4
+      },
+      {
+        "name": "Rash Driving",
+        "count": 68,
+        "pct": 11.1
+      },
+      {
+        "name": "Dangerous Overtaking",
+        "count": 34,
+        "pct": 5.5
+      },
+      {
+        "name": "Changing lane without care",
+        "count": 20,
+        "pct": 3.3
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 264,
+        "pct": 51.5
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 225,
+        "pct": 43.9
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 24,
+        "pct": 4.7
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 249,
+        "pct": 39.5
+      },
+      {
+        "name": "Hit from Side",
+        "count": 179,
+        "pct": 28.4
+      },
+      {
+        "name": "Head on Collision",
+        "count": 142,
+        "pct": 22.5
+      },
+      {
+        "name": "Sideswipe",
+        "count": 22,
+        "pct": 3.5
+      },
+      {
+        "name": "No Collision",
+        "count": 11,
+        "pct": 1.7
+      },
+      {
+        "name": "Skidding / Overturn",
+        "count": 6,
+        "pct": 1.0
+      },
+      {
+        "name": "Hit Parked Vehicle",
+        "count": 5,
+        "pct": 0.8
+      },
+      {
+        "name": "Run off Road",
+        "count": 4,
+        "pct": 0.6
+      },
+      {
+        "name": "Hit tree",
+        "count": 3,
+        "pct": 0.5
+      },
+      {
+        "name": "Overturn",
+        "count": 3,
+        "pct": 0.5
+      },
+      {
+        "name": "Hit Fixed / Stationary Object",
+        "count": 3,
+        "pct": 0.5
+      },
+      {
+        "name": "Vehicle Fell in Gorge/Ditch/Well",
+        "count": 2,
+        "pct": 0.3
+      },
+      {
+        "name": "Vehicle Fell in River",
+        "count": 1,
+        "pct": 0.2
+      }
+    ],
+    "total_fatal_all_roads": 26413,
+    "total_grievous_all_roads": 5534,
+    "total_clusters": 114,
+    "time_distribution": [
+      {
+        "label": "Afternoon (10am–4pm)",
+        "value": 178
+      },
+      {
+        "label": "Night (8pm–5am)",
+        "value": 161
+      },
+      {
+        "label": "Evening (4pm–8pm)",
+        "value": 127
+      },
+      {
+        "label": "Morning (5am–10am)",
+        "value": 89
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2023,
+        "value": 269
+      },
+      {
+        "label": 2024,
+        "value": 286
+      }
+    ],
+    "vehicle_pairs": [
+      {
+        "name": "Goods Carriage + Scooter",
+        "count": 62
+      },
+      {
+        "name": "Auto Rickshaw + Scooter",
+        "count": 38
+      },
+      {
+        "name": "Scooter + Side Car",
+        "count": 34
+      },
+      {
+        "name": "Goods Carriage + Goods Carriage",
+        "count": 26
+      },
+      {
+        "name": "Auto Rickshaw + Side Car",
+        "count": 13
+      },
+      {
+        "name": "Scooter + Scooter",
+        "count": 12
+      },
+      {
+        "name": "Side Car + Side Car",
+        "count": 11
+      },
+      {
+        "name": "Goods Carriage + Side Car",
+        "count": 10
+      },
+      {
+        "name": "Scooter + Tourist Motor Cab",
+        "count": 10
+      },
+      {
+        "name": "Auto Rickshaw + Goods Carriage",
+        "count": 8
+      }
+    ],
+    "junction_types": [
+      {
+        "name": "Roundabout ",
+        "count": 14
+      },
+      {
+        "name": "T – Junction",
+        "count": 13
+      },
+      {
+        "name": "Four-arm Square Junction ",
+        "count": 9
+      },
+      {
+        "name": "More than Four-arm",
+        "count": 4
+      },
+      {
+        "name": "Elevated Junction (3- arm / 4-arm) ",
+        "count": 3
+      },
+      {
+        "name": "Staggered",
+        "count": 2
+      },
+      {
+        "name": "Y – Junction ",
+        "count": 1
+      }
+    ],
+    "pedestrian_accidents": [
+      {
+        "name": "Goods Carriage",
+        "count": 106
+      },
+      {
+        "name": "Scooter",
+        "count": 35
+      },
+      {
+        "name": "Auto Rickshaw",
+        "count": 33
+      },
+      {
+        "name": "Side Car",
+        "count": 23
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "count": 9
+      },
+      {
+        "name": "Moped",
+        "count": 9
+      },
+      {
+        "name": "Three Wheeler",
+        "count": 8
+      },
+      {
+        "name": "All India Tourist Vehicle",
+        "count": 2
+      }
+    ],
+    "pedestrian_deaths": [
+      {
+        "name": "Goods Carriage",
+        "value": 87
+      },
+      {
+        "name": "Auto Rickshaw",
+        "value": 33
+      },
+      {
+        "name": "Scooter",
+        "value": 20
+      },
+      {
+        "name": "Side Car",
+        "value": 14
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "value": 9
+      },
+      {
+        "name": "Three Wheeler",
+        "value": 6
+      },
+      {
+        "name": "Moped",
+        "value": 5
+      },
+      {
+        "name": "Omni Bus",
+        "value": 1
+      },
+      {
+        "name": "All India Tourist Vehicle",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "CHANDIGARH",
+    "fg_covered": 172,
+    "blackspots": 116,
+    "corridors": 116,
+    "total_fatalities": 66,
+    "total_grievous": 128,
+    "total_fg": 172,
+    "total_accidents": 524,
+    "fatal_accidents": 64,
+    "grievous_accidents": 108,
+    "minor_accidents": 207,
+    "no_injury_accidents": 145,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 116
+      },
+      {
+        "label": "25-50",
+        "value": 0
+      },
+      {
+        "label": "50-100",
+        "value": 0
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 297,
+        "pct": 67.5
+      },
+      {
+        "name": "Changing lane without care",
+        "count": 35,
+        "pct": 8.0
+      },
+      {
+        "name": "High Speed",
+        "count": 30,
+        "pct": 6.8
+      },
+      {
+        "name": "Rash Driving",
+        "count": 18,
+        "pct": 4.1
+      },
+      {
+        "name": "Dangerous Overtaking",
+        "count": 14,
+        "pct": 3.2
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 319,
+        "pct": 77.4
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 62,
+        "pct": 15.0
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 31,
+        "pct": 7.5
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Side",
+        "count": 168,
+        "pct": 33.5
+      },
+      {
+        "name": "Hit from Back",
+        "count": 164,
+        "pct": 32.7
+      },
+      {
+        "name": "Head on Collision",
+        "count": 67,
+        "pct": 13.4
+      },
+      {
+        "name": "Skidding / Overturn",
+        "count": 29,
+        "pct": 5.8
+      },
+      {
+        "name": "Sideswipe",
+        "count": 18,
+        "pct": 3.6
+      },
+      {
+        "name": "No Collision",
+        "count": 15,
+        "pct": 3.0
+      },
+      {
+        "name": "Hit Parked Vehicle",
+        "count": 14,
+        "pct": 2.8
+      },
+      {
+        "name": "Hit Fixed / Stationary Object",
+        "count": 10,
+        "pct": 2.0
+      },
+      {
+        "name": "Overturn",
+        "count": 8,
+        "pct": 1.6
+      },
+      {
+        "name": "Hit tree",
+        "count": 7,
+        "pct": 1.4
+      },
+      {
+        "name": "Run off Road",
+        "count": 1,
+        "pct": 0.2
+      }
+    ],
+    "total_fatal_all_roads": 210,
+    "total_grievous_all_roads": 329,
+    "total_clusters": 116,
+    "time_distribution": [
+      {
+        "label": "Night (8pm–5am)",
+        "value": 204
+      },
+      {
+        "label": "Afternoon (10am–4pm)",
+        "value": 148
+      },
+      {
+        "label": "Evening (4pm–8pm)",
+        "value": 93
+      },
+      {
+        "label": "Morning (5am–10am)",
+        "value": 79
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2023,
+        "value": 393
+      },
+      {
+        "label": 2024,
+        "value": 131
+      }
+    ],
+    "vehicle_pairs": [
+      {
+        "name": "Scooter + Side Car",
+        "count": 81
+      },
+      {
+        "name": "Side Car + Side Car",
+        "count": 61
+      },
+      {
+        "name": "Goods Carriage + Goods Carriage",
+        "count": 46
+      },
+      {
+        "name": "Goods Carriage + Side Car",
+        "count": 37
+      },
+      {
+        "name": "Goods Carriage + Scooter",
+        "count": 27
+      },
+      {
+        "name": "Scooter + Scooter",
+        "count": 19
+      },
+      {
+        "name": "Auto Rickshaw + Scooter",
+        "count": 11
+      },
+      {
+        "name": "Auto Rickshaw + Side Car",
+        "count": 10
+      },
+      {
+        "name": "Side Car + Three Wheeler",
+        "count": 8
+      },
+      {
+        "name": "Moped + Side Car",
+        "count": 8
+      }
+    ],
+    "junction_types": [
+      {
+        "name": "Four-arm Square Junction ",
+        "count": 5
+      },
+      {
+        "name": "T – Junction",
+        "count": 5
+      },
+      {
+        "name": "Four-arm Cross  Junction ",
+        "count": 4
+      },
+      {
+        "name": "Roundabout ",
+        "count": 4
+      }
+    ],
+    "pedestrian_accidents": [
+      {
+        "name": "Side Car",
+        "count": 19
+      },
+      {
+        "name": "Goods Carriage",
+        "count": 15
+      },
+      {
+        "name": "Scooter",
+        "count": 15
+      },
+      {
+        "name": "Auto Rickshaw",
+        "count": 8
+      },
+      {
+        "name": "Moped",
+        "count": 2
+      },
+      {
+        "name": "Ambulance",
+        "count": 1
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "count": 1
+      },
+      {
+        "name": "All India Tourist Vehicle",
+        "count": 1
+      },
+      {
+        "name": "Three Wheeler",
+        "count": 1
+      }
+    ],
+    "pedestrian_deaths": [
+      {
+        "name": "Goods Carriage",
+        "value": 7
+      },
+      {
+        "name": "Auto Rickshaw",
+        "value": 6
+      },
+      {
+        "name": "Side Car",
+        "value": 3
+      },
+      {
+        "name": "Ambulance",
+        "value": 1
+      },
+      {
+        "name": "All India Tourist Vehicle",
+        "value": 1
+      },
+      {
+        "name": "Moped",
+        "value": 1
+      },
+      {
+        "name": "Scooter",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "ODISHA",
+    "fg_covered": 291,
+    "blackspots": 87,
+    "corridors": 87,
+    "total_fatalities": 130,
+    "total_grievous": 189,
+    "total_fg": 291,
+    "total_accidents": 442,
+    "fatal_accidents": 125,
+    "grievous_accidents": 166,
+    "minor_accidents": 75,
+    "no_injury_accidents": 76,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 87
+      },
+      {
+        "label": "25-50",
+        "value": 0
+      },
+      {
+        "label": "50-100",
+        "value": 0
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 213,
+        "pct": 42.8
+      },
+      {
+        "name": "Rash Driving",
+        "count": 96,
+        "pct": 19.3
+      },
+      {
+        "name": "High Speed",
+        "count": 91,
+        "pct": 18.3
+      },
+      {
+        "name": "Drunken Driving / Consumption of Alcohol",
+        "count": 36,
+        "pct": 7.2
+      },
+      {
+        "name": "Dangerous Overtaking",
+        "count": 24,
+        "pct": 4.8
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 266,
+        "pct": 74.7
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 71,
+        "pct": 19.9
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 19,
+        "pct": 5.3
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Back",
+        "count": 146,
+        "pct": 33.0
+      },
+      {
+        "name": "Hit from Side",
+        "count": 134,
+        "pct": 30.3
+      },
+      {
+        "name": "Head on Collision",
+        "count": 83,
+        "pct": 18.8
+      },
+      {
+        "name": "Run off Road",
+        "count": 31,
+        "pct": 7.0
+      },
+      {
+        "name": "Hit Parked Vehicle",
+        "count": 14,
+        "pct": 3.2
+      },
+      {
+        "name": "Hit Fixed / Stationary Object",
+        "count": 9,
+        "pct": 2.0
+      },
+      {
+        "name": "Skidding / Overturn",
+        "count": 9,
+        "pct": 2.0
+      },
+      {
+        "name": "Overturn",
+        "count": 7,
+        "pct": 1.6
+      },
+      {
+        "name": "Sideswipe",
+        "count": 4,
+        "pct": 0.9
+      },
+      {
+        "name": "No Collision",
+        "count": 4,
+        "pct": 0.9
+      },
+      {
+        "name": "Landslide",
+        "count": 1,
+        "pct": 0.2
+      }
+    ],
+    "total_fatal_all_roads": 16179,
+    "total_grievous_all_roads": 9801,
+    "total_clusters": 87,
+    "time_distribution": [
+      {
+        "label": "Night (8pm–5am)",
+        "value": 123
+      },
+      {
+        "label": "Afternoon (10am–4pm)",
+        "value": 122
+      },
+      {
+        "label": "Evening (4pm–8pm)",
+        "value": 116
+      },
+      {
+        "label": "Morning (5am–10am)",
+        "value": 81
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2023,
+        "value": 251
+      },
+      {
+        "label": 2024,
+        "value": 191
+      }
+    ],
+    "vehicle_pairs": [
+      {
+        "name": "Scooter + Side Car",
+        "count": 55
+      },
+      {
+        "name": "Scooter + Scooter",
+        "count": 50
+      },
+      {
+        "name": "Auto Rickshaw + Scooter",
+        "count": 45
+      },
+      {
+        "name": "Side Car + Side Car",
+        "count": 19
+      },
+      {
+        "name": "Goods Carriage + Scooter",
+        "count": 19
+      },
+      {
+        "name": "Auto Rickshaw + Auto Rickshaw",
+        "count": 18
+      },
+      {
+        "name": "Auto Rickshaw + Side Car",
+        "count": 15
+      },
+      {
+        "name": "Goods Carriage + Goods Carriage",
+        "count": 11
+      },
+      {
+        "name": "Auto Rickshaw + Goods Carriage",
+        "count": 8
+      },
+      {
+        "name": "Moped + Scooter",
+        "count": 8
+      }
+    ],
+    "junction_types": [
+      {
+        "name": "Y – Junction ",
+        "count": 5
+      },
+      {
+        "name": "Four-arm Square Junction ",
+        "count": 4
+      },
+      {
+        "name": "T – Junction",
+        "count": 3
+      },
+      {
+        "name": "Staggered",
+        "count": 2
+      },
+      {
+        "name": "Roundabout ",
+        "count": 1
+      }
+    ],
+    "pedestrian_accidents": [
+      {
+        "name": "Scooter",
+        "count": 34
+      },
+      {
+        "name": "Goods Carriage",
+        "count": 17
+      },
+      {
+        "name": "Auto Rickshaw",
+        "count": 9
+      },
+      {
+        "name": "Side Car",
+        "count": 7
+      },
+      {
+        "name": "Three Wheeler",
+        "count": 5
+      },
+      {
+        "name": "Moped",
+        "count": 1
+      }
+    ],
+    "pedestrian_deaths": [
+      {
+        "name": "Scooter",
+        "value": 14
+      },
+      {
+        "name": "Goods Carriage",
+        "value": 11
+      },
+      {
+        "name": "Auto Rickshaw",
+        "value": 7
+      },
+      {
+        "name": "Side Car",
+        "value": 4
+      },
+      {
+        "name": "Three Wheeler",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "JHARKHAND",
+    "fg_covered": 250,
+    "blackspots": 56,
+    "corridors": 56,
+    "total_fatalities": 155,
+    "total_grievous": 157,
+    "total_fg": 250,
+    "total_accidents": 289,
+    "fatal_accidents": 142,
+    "grievous_accidents": 108,
+    "minor_accidents": 15,
+    "no_injury_accidents": 24,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 56
+      },
+      {
+        "label": "25-50",
+        "value": 0
+      },
+      {
+        "label": "50-100",
+        "value": 0
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 125,
+        "pct": 52.7
+      },
+      {
+        "name": "High Speed",
+        "count": 57,
+        "pct": 24.1
+      },
+      {
+        "name": "Rash Driving",
+        "count": 20,
+        "pct": 8.4
+      },
+      {
+        "name": "Dangerous Overtaking",
+        "count": 10,
+        "pct": 4.2
+      },
+      {
+        "name": "Driving against flow of traffic",
+        "count": 9,
+        "pct": 3.8
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 135,
+        "pct": 68.5
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 58,
+        "pct": 29.4
+      },
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 4,
+        "pct": 2.0
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Side",
+        "count": 95,
+        "pct": 38.5
+      },
+      {
+        "name": "Head on Collision",
+        "count": 70,
+        "pct": 28.3
+      },
+      {
+        "name": "Hit from Back",
+        "count": 64,
+        "pct": 25.9
+      },
+      {
+        "name": "Hit Fixed / Stationary Object",
+        "count": 4,
+        "pct": 1.6
+      },
+      {
+        "name": "Run off Road",
+        "count": 4,
+        "pct": 1.6
+      },
+      {
+        "name": "Sideswipe",
+        "count": 3,
+        "pct": 1.2
+      },
+      {
+        "name": "No Collision",
+        "count": 2,
+        "pct": 0.8
+      },
+      {
+        "name": "Hit Parked Vehicle",
+        "count": 2,
+        "pct": 0.8
+      },
+      {
+        "name": "Hit tree",
+        "count": 1,
+        "pct": 0.4
+      },
+      {
+        "name": "Skidding / Overturn",
+        "count": 1,
+        "pct": 0.4
+      },
+      {
+        "name": "Vehicle Fell in Gorge/Ditch/Well",
+        "count": 1,
+        "pct": 0.4
+      }
+    ],
+    "total_fatal_all_roads": 12177,
+    "total_grievous_all_roads": 3529,
+    "total_clusters": 56,
+    "time_distribution": [
+      {
+        "label": "Night (8pm–5am)",
+        "value": 94
+      },
+      {
+        "label": "Evening (4pm–8pm)",
+        "value": 89
+      },
+      {
+        "label": "Afternoon (10am–4pm)",
+        "value": 68
+      },
+      {
+        "label": "Morning (5am–10am)",
+        "value": 38
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2023,
+        "value": 141
+      },
+      {
+        "label": 2024,
+        "value": 148
+      }
+    ],
+    "vehicle_pairs": [
+      {
+        "name": "Scooter + Side Car",
+        "count": 30
+      },
+      {
+        "name": "Scooter + Scooter",
+        "count": 23
+      },
+      {
+        "name": "Goods Carriage + Scooter",
+        "count": 23
+      },
+      {
+        "name": "Auto Rickshaw + Scooter",
+        "count": 15
+      },
+      {
+        "name": "Goods Carriage + Goods Carriage",
+        "count": 8
+      },
+      {
+        "name": "Side Car + Side Car",
+        "count": 6
+      },
+      {
+        "name": "Scooter + Three Wheeler",
+        "count": 5
+      },
+      {
+        "name": "Auto Rickshaw + Goods Carriage",
+        "count": 4
+      },
+      {
+        "name": "Goods Carriage + Side Car",
+        "count": 4
+      },
+      {
+        "name": "Auto Rickshaw + Side Car",
+        "count": 4
+      }
+    ],
+    "pedestrian_accidents": [
+      {
+        "name": "Scooter",
+        "count": 17
+      },
+      {
+        "name": "Goods Carriage",
+        "count": 15
+      },
+      {
+        "name": "Auto Rickshaw",
+        "count": 13
+      },
+      {
+        "name": "Side Car",
+        "count": 12
+      },
+      {
+        "name": "Moped",
+        "count": 2
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "count": 1
+      },
+      {
+        "name": "Three Wheeler",
+        "count": 1
+      }
+    ],
+    "pedestrian_deaths": [
+      {
+        "name": "Auto Rickshaw",
+        "value": 13
+      },
+      {
+        "name": "Goods Carriage",
+        "value": 10
+      },
+      {
+        "name": "Scooter",
+        "value": 10
+      },
+      {
+        "name": "Side Car",
+        "value": 8
+      },
+      {
+        "name": "Three Wheeler",
+        "value": 1
+      },
+      {
+        "name": "Tourist Motor Cab",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "UTTARAKHAND",
+    "fg_covered": 35,
+    "blackspots": 11,
+    "corridors": 11,
+    "total_fatalities": 17,
+    "total_grievous": 19,
+    "total_fg": 35,
+    "total_accidents": 46,
+    "fatal_accidents": 16,
+    "grievous_accidents": 19,
+    "minor_accidents": 7,
+    "no_injury_accidents": 4,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 11
+      },
+      {
+        "label": "25-50",
+        "value": 0
+      },
+      {
+        "label": "50-100",
+        "value": 0
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 15,
+        "pct": 26.8
+      },
+      {
+        "name": "No Violation",
+        "count": 15,
+        "pct": 26.8
+      },
+      {
+        "name": "Dangerous Overtaking",
+        "count": 11,
+        "pct": 19.6
+      },
+      {
+        "name": "Rash Driving",
+        "count": 9,
+        "pct": 16.1
+      },
+      {
+        "name": "Changing lane without care",
+        "count": 2,
+        "pct": 3.6
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 34,
+        "pct": 81.0
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 8,
+        "pct": 19.0
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Side",
+        "count": 17,
+        "pct": 37.8
+      },
+      {
+        "name": "Hit from Back",
+        "count": 14,
+        "pct": 31.1
+      },
+      {
+        "name": "Head on Collision",
+        "count": 11,
+        "pct": 24.4
+      },
+      {
+        "name": "No Collision",
+        "count": 1,
+        "pct": 2.2
+      },
+      {
+        "name": "Run off Road",
+        "count": 1,
+        "pct": 2.2
+      },
+      {
+        "name": "Hit Parked Vehicle",
+        "count": 1,
+        "pct": 2.2
+      }
+    ],
+    "total_fatal_all_roads": 3020,
+    "total_grievous_all_roads": 1818,
+    "total_clusters": 11,
+    "time_distribution": [
+      {
+        "label": "Afternoon (10am–4pm)",
+        "value": 19
+      },
+      {
+        "label": "Night (8pm–5am)",
+        "value": 13
+      },
+      {
+        "label": "Morning (5am–10am)",
+        "value": 11
+      },
+      {
+        "label": "Evening (4pm–8pm)",
+        "value": 3
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2023,
+        "value": 33
+      },
+      {
+        "label": 2024,
+        "value": 13
+      }
+    ],
+    "vehicle_pairs": [
+      {
+        "name": "Scooter + Side Car",
+        "count": 9
+      },
+      {
+        "name": "Goods Carriage + Scooter",
+        "count": 5
+      },
+      {
+        "name": "Side Car + Side Car",
+        "count": 2
+      },
+      {
+        "name": "Auto Rickshaw + Scooter",
+        "count": 2
+      },
+      {
+        "name": "Goods Carriage + Goods Carriage",
+        "count": 2
+      },
+      {
+        "name": "Auto Rickshaw + Side Car",
+        "count": 2
+      },
+      {
+        "name": "Scooter + Scooter",
+        "count": 2
+      },
+      {
+        "name": "Scooter + Three Wheeler",
+        "count": 2
+      },
+      {
+        "name": "Ambulance + Scooter",
+        "count": 1
+      },
+      {
+        "name": "Auto Rickshaw + Three Wheeler",
+        "count": 1
+      }
+    ],
+    "pedestrian_accidents": [
+      {
+        "name": "Scooter",
+        "count": 3
+      },
+      {
+        "name": "Goods Carriage",
+        "count": 2
+      },
+      {
+        "name": "Three Wheeler",
+        "count": 2
+      },
+      {
+        "name": "Auto Rickshaw",
+        "count": 1
+      },
+      {
+        "name": "Side Car",
+        "count": 1
+      }
+    ],
+    "pedestrian_deaths": [
+      {
+        "name": "Goods Carriage",
+        "value": 2
+      },
+      {
+        "name": "Scooter",
+        "value": 2
+      },
+      {
+        "name": "Auto Rickshaw",
+        "value": 1
+      },
+      {
+        "name": "Three Wheeler",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "HIMACHAL PRADESH",
+    "fg_covered": 16,
+    "blackspots": 6,
+    "corridors": 6,
+    "total_fatalities": 8,
+    "total_grievous": 8,
+    "total_fg": 16,
+    "total_accidents": 33,
+    "fatal_accidents": 8,
+    "grievous_accidents": 8,
+    "minor_accidents": 14,
+    "no_injury_accidents": 3,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 6
+      },
+      {
+        "label": "25-50",
+        "value": 0
+      },
+      {
+        "label": "50-100",
+        "value": 0
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 17,
+        "pct": 48.6
+      },
+      {
+        "name": "High Speed",
+        "count": 6,
+        "pct": 17.1
+      },
+      {
+        "name": "Rash Driving",
+        "count": 5,
+        "pct": 14.3
+      },
+      {
+        "name": "Changing lane without care",
+        "count": 2,
+        "pct": 5.7
+      },
+      {
+        "name": "Dangerous Overtaking",
+        "count": 2,
+        "pct": 5.7
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 14,
+        "pct": 50.0
+      },
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 14,
+        "pct": 50.0
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Side",
+        "count": 12,
+        "pct": 35.3
+      },
+      {
+        "name": "Hit from Back",
+        "count": 8,
+        "pct": 23.5
+      },
+      {
+        "name": "Head on Collision",
+        "count": 7,
+        "pct": 20.6
+      },
+      {
+        "name": "Hit Fixed / Stationary Object",
+        "count": 3,
+        "pct": 8.8
+      },
+      {
+        "name": "No Collision",
+        "count": 2,
+        "pct": 5.9
+      },
+      {
+        "name": "Overturn",
+        "count": 1,
+        "pct": 2.9
+      },
+      {
+        "name": "Vehicle Fell in Gorge/Ditch/Well",
+        "count": 1,
+        "pct": 2.9
+      }
+    ],
+    "total_fatal_all_roads": 2136,
+    "total_grievous_all_roads": 1384,
+    "total_clusters": 6,
+    "time_distribution": [
+      {
+        "label": "Night (8pm–5am)",
+        "value": 12
+      },
+      {
+        "label": "Afternoon (10am–4pm)",
+        "value": 11
+      },
+      {
+        "label": "Evening (4pm–8pm)",
+        "value": 7
+      },
+      {
+        "label": "Morning (5am–10am)",
+        "value": 3
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2023,
+        "value": 17
+      },
+      {
+        "label": 2024,
+        "value": 16
+      }
+    ],
+    "vehicle_pairs": [
+      {
+        "name": "Scooter + Side Car",
+        "count": 5
+      },
+      {
+        "name": "Auto Rickshaw + Side Car",
+        "count": 3
+      },
+      {
+        "name": "Goods Carriage + Scooter",
+        "count": 2
+      },
+      {
+        "name": "Scooter + Scooter",
+        "count": 1
+      },
+      {
+        "name": "Auto Rickshaw + Scooter",
+        "count": 1
+      },
+      {
+        "name": "Side Car + Side Car",
+        "count": 1
+      },
+      {
+        "name": "Auto Rickshaw + Three Wheeler",
+        "count": 1
+      },
+      {
+        "name": "Auto Rickshaw + Tourist Motor Cab",
+        "count": 1
+      }
+    ],
+    "pedestrian_accidents": [
+      {
+        "name": "Side Car",
+        "count": 7
+      },
+      {
+        "name": "Scooter",
+        "count": 5
+      },
+      {
+        "name": "Auto Rickshaw",
+        "count": 1
+      },
+      {
+        "name": "Goods Carriage",
+        "count": 1
+      }
+    ],
+    "pedestrian_deaths": [
+      {
+        "name": "Side Car",
+        "value": 2
+      },
+      {
+        "name": "Scooter",
+        "value": 1
+      },
+      {
+        "name": "Auto Rickshaw",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "ANDAMAN & NICOBAR",
+    "fg_covered": 15,
+    "blackspots": 3,
+    "corridors": 3,
+    "total_fatalities": 3,
+    "total_grievous": 13,
+    "total_fg": 15,
+    "total_accidents": 16,
+    "fatal_accidents": 3,
+    "grievous_accidents": 12,
+    "minor_accidents": 0,
+    "no_injury_accidents": 1,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 3
+      },
+      {
+        "label": "25-50",
+        "value": 0
+      },
+      {
+        "label": "50-100",
+        "value": 0
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 4,
+        "pct": 26.7
+      },
+      {
+        "name": "No Violation",
+        "count": 3,
+        "pct": 20.0
+      },
+      {
+        "name": "Rash Driving",
+        "count": 3,
+        "pct": 20.0
+      },
+      {
+        "name": "Driving against flow of traffic",
+        "count": 2,
+        "pct": 13.3
+      },
+      {
+        "name": "Dangerous Overtaking",
+        "count": 1,
+        "pct": 6.7
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 6,
+        "pct": 54.5
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 5,
+        "pct": 45.5
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Side",
+        "count": 5,
+        "pct": 38.5
+      },
+      {
+        "name": "Hit from Back",
+        "count": 4,
+        "pct": 30.8
+      },
+      {
+        "name": "Head on Collision",
+        "count": 2,
+        "pct": 15.4
+      },
+      {
+        "name": "Hit Parked Vehicle",
+        "count": 1,
+        "pct": 7.7
+      },
+      {
+        "name": "No Collision",
+        "count": 1,
+        "pct": 7.7
+      }
+    ],
+    "total_fatal_all_roads": 66,
+    "total_grievous_all_roads": 201,
+    "total_clusters": 3,
+    "time_distribution": [
+      {
+        "label": "Evening (4pm–8pm)",
+        "value": 6
+      },
+      {
+        "label": "Afternoon (10am–4pm)",
+        "value": 5
+      },
+      {
+        "label": "Morning (5am–10am)",
+        "value": 3
+      },
+      {
+        "label": "Night (8pm–5am)",
+        "value": 2
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2023,
+        "value": 7
+      },
+      {
+        "label": 2024,
+        "value": 9
+      }
+    ],
+    "vehicle_pairs": [
+      {
+        "name": "Scooter + Side Car",
+        "count": 2
+      },
+      {
+        "name": "Auto Rickshaw + Scooter",
+        "count": 1
+      },
+      {
+        "name": "Goods Carriage + Goods Carriage",
+        "count": 1
+      },
+      {
+        "name": "Goods Carriage + Side Car",
+        "count": 1
+      },
+      {
+        "name": "Scooter + Scooter",
+        "count": 1
+      }
+    ],
+    "pedestrian_accidents": [
+      {
+        "name": "Scooter",
+        "count": 2
+      },
+      {
+        "name": "Side Car",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "name": "NAGALAND",
+    "fg_covered": 2,
+    "blackspots": 2,
+    "corridors": 2,
+    "total_fatalities": 1,
+    "total_grievous": 1,
+    "total_fg": 2,
+    "total_accidents": 8,
+    "fatal_accidents": 1,
+    "grievous_accidents": 1,
+    "minor_accidents": 5,
+    "no_injury_accidents": 1,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 2
+      },
+      {
+        "label": "25-50",
+        "value": 0
+      },
+      {
+        "label": "50-100",
+        "value": 0
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "High Speed",
+        "count": 4,
+        "pct": 50.0
+      },
+      {
+        "name": "Drunken Driving / Consumption of Alcohol",
+        "count": 2,
+        "pct": 25.0
+      },
+      {
+        "name": "No Violation",
+        "count": 2,
+        "pct": 25.0
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 6,
+        "pct": 85.7
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 1,
+        "pct": 14.3
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Head on Collision",
+        "count": 4,
+        "pct": 50.0
+      },
+      {
+        "name": "Hit from Back",
+        "count": 3,
+        "pct": 37.5
+      },
+      {
+        "name": "No Collision",
+        "count": 1,
+        "pct": 12.5
+      }
+    ],
+    "total_fatal_all_roads": 122,
+    "total_grievous_all_roads": 142,
+    "total_clusters": 2,
+    "time_distribution": [
+      {
+        "label": "Night (8pm–5am)",
+        "value": 4
+      },
+      {
+        "label": "Evening (4pm–8pm)",
+        "value": 2
+      },
+      {
+        "label": "Morning (5am–10am)",
+        "value": 2
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2023,
+        "value": 6
+      },
+      {
+        "label": 2024,
+        "value": 2
+      }
+    ],
+    "vehicle_pairs": [
+      {
+        "name": "Goods Carriage + Goods Carriage",
+        "count": 2
+      },
+      {
+        "name": "Scooter + Side Car",
+        "count": 1
+      },
+      {
+        "name": "Goods Carriage + Scooter",
+        "count": 1
+      },
+      {
+        "name": "Moped + Taxi",
+        "count": 1
+      },
+      {
+        "name": "Scooter + Scooter",
+        "count": 1
+      }
+    ],
+    "pedestrian_accidents": [
+      {
+        "name": "Auto Rickshaw",
+        "count": 1
+      }
+    ],
+    "pedestrian_deaths": [
+      {
+        "name": "Auto Rickshaw",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "Dadra and Nagar Haveli and Daman and Diu",
+    "fg_covered": 7,
+    "blackspots": 2,
+    "corridors": 2,
+    "total_fatalities": 1,
+    "total_grievous": 5,
+    "total_fg": 7,
+    "total_accidents": 8,
+    "fatal_accidents": 1,
+    "grievous_accidents": 6,
+    "minor_accidents": 1,
+    "no_injury_accidents": 0,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 2
+      },
+      {
+        "label": "25-50",
+        "value": 0
+      },
+      {
+        "label": "50-100",
+        "value": 0
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 5,
+        "pct": 83.3
+      },
+      {
+        "name": "High Speed",
+        "count": 1,
+        "pct": 16.7
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Bicycle",
+        "count": 3,
+        "pct": 50.0
+      },
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 2,
+        "pct": 33.3
+      },
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 1,
+        "pct": 16.7
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Side",
+        "count": 3,
+        "pct": 33.3
+      },
+      {
+        "name": "Run off Road",
+        "count": 2,
+        "pct": 22.2
+      },
+      {
+        "name": "Overturn",
+        "count": 2,
+        "pct": 22.2
+      },
+      {
+        "name": "Hit from Back",
+        "count": 1,
+        "pct": 11.1
+      },
+      {
+        "name": "Sideswipe",
+        "count": 1,
+        "pct": 11.1
+      }
+    ],
+    "total_fatal_all_roads": 223,
+    "total_grievous_all_roads": 175,
+    "total_clusters": 2,
+    "time_distribution": [
+      {
+        "label": "Night (8pm–5am)",
+        "value": 4
+      },
+      {
+        "label": "Morning (5am–10am)",
+        "value": 2
+      },
+      {
+        "label": "Evening (4pm–8pm)",
+        "value": 1
+      },
+      {
+        "label": "Afternoon (10am–4pm)",
+        "value": 1
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2023,
+        "value": 4
+      },
+      {
+        "label": 2024,
+        "value": 4
+      }
+    ],
+    "vehicle_pairs": [
+      {
+        "name": "Scooter + Tourist Motor Cab",
+        "count": 1
+      },
+      {
+        "name": "Goods Carriage + Scooter",
+        "count": 1
+      },
+      {
+        "name": "Scooter + Side Car",
+        "count": 1
+      }
+    ],
+    "pedestrian_accidents": [
+      {
+        "name": "Scooter",
+        "count": 1
+      },
+      {
+        "name": "Goods Carriage",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "MIZORAM",
+    "fg_covered": 4,
+    "blackspots": 1,
+    "corridors": 1,
+    "total_fatalities": 2,
+    "total_grievous": 2,
+    "total_fg": 4,
+    "total_accidents": 7,
+    "fatal_accidents": 2,
+    "grievous_accidents": 2,
+    "minor_accidents": 0,
+    "no_injury_accidents": 3,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 1
+      },
+      {
+        "label": "25-50",
+        "value": 0
+      },
+      {
+        "label": "50-100",
+        "value": 0
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 5,
+        "pct": 83.3
+      },
+      {
+        "name": "Changing lane without care",
+        "count": 1,
+        "pct": 16.7
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 2,
+        "pct": 100.0
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Head on Collision",
+        "count": 2,
+        "pct": 40.0
+      },
+      {
+        "name": "No Collision",
+        "count": 2,
+        "pct": 40.0
+      },
+      {
+        "name": "Vehicle Fell in Gorge/Ditch/Well",
+        "count": 1,
+        "pct": 20.0
+      }
+    ],
+    "total_fatal_all_roads": 135,
+    "total_grievous_all_roads": 28,
+    "total_clusters": 1,
+    "time_distribution": [
+      {
+        "label": "Afternoon (10am–4pm)",
+        "value": 3
+      },
+      {
+        "label": "Night (8pm–5am)",
+        "value": 3
+      },
+      {
+        "label": "Evening (4pm–8pm)",
+        "value": 1
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2024,
+        "value": 7
+      }
+    ],
+    "vehicle_pairs": [
+      {
+        "name": "Auto Rickshaw + Scooter",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "name": "TRIPURA",
+    "fg_covered": 6,
+    "blackspots": 2,
+    "corridors": 2,
+    "total_fatalities": 4,
+    "total_grievous": 3,
+    "total_fg": 6,
+    "total_accidents": 6,
+    "fatal_accidents": 3,
+    "grievous_accidents": 3,
+    "minor_accidents": 0,
+    "no_injury_accidents": 0,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 2
+      },
+      {
+        "label": "25-50",
+        "value": 0
+      },
+      {
+        "label": "50-100",
+        "value": 0
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 4,
+        "pct": 66.7
+      },
+      {
+        "name": "High Speed",
+        "count": 1,
+        "pct": 16.7
+      },
+      {
+        "name": "Rash Driving",
+        "count": 1,
+        "pct": 16.7
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 3,
+        "pct": 60.0
+      },
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 2,
+        "pct": 40.0
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Hit from Side",
+        "count": 4,
+        "pct": 36.4
+      },
+      {
+        "name": "Hit from Back",
+        "count": 3,
+        "pct": 27.3
+      },
+      {
+        "name": "Head on Collision",
+        "count": 2,
+        "pct": 18.2
+      },
+      {
+        "name": "Sideswipe",
+        "count": 2,
+        "pct": 18.2
+      }
+    ],
+    "total_fatal_all_roads": 617,
+    "total_grievous_all_roads": 687,
+    "total_clusters": 2,
+    "time_distribution": [
+      {
+        "label": "Evening (4pm–8pm)",
+        "value": 3
+      },
+      {
+        "label": "Night (8pm–5am)",
+        "value": 2
+      },
+      {
+        "label": "Morning (5am–10am)",
+        "value": 1
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2023,
+        "value": 1
+      },
+      {
+        "label": 2024,
+        "value": 5
+      }
+    ],
+    "vehicle_pairs": [
+      {
+        "name": "Scooter + Scooter",
+        "count": 2
+      }
+    ],
+    "pedestrian_accidents": [
+      {
+        "name": "Side Car",
+        "count": 2
+      },
+      {
+        "name": "Scooter",
+        "count": 1
+      }
+    ],
+    "pedestrian_deaths": [
+      {
+        "name": "Side Car",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "name": "LADAKH",
+    "fg_covered": 2,
+    "blackspots": 1,
+    "corridors": 1,
+    "total_fatalities": 0,
+    "total_grievous": 2,
+    "total_fg": 2,
+    "total_accidents": 6,
+    "fatal_accidents": 0,
+    "grievous_accidents": 2,
+    "minor_accidents": 3,
+    "no_injury_accidents": 1,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 1
+      },
+      {
+        "label": "25-50",
+        "value": 0
+      },
+      {
+        "label": "50-100",
+        "value": 0
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 3,
+        "pct": 75.0
+      },
+      {
+        "name": "High Speed",
+        "count": 1,
+        "pct": 25.0
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Pedestrian",
+        "count": 1,
+        "pct": 100.0
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Head on Collision",
+        "count": 2,
+        "pct": 50.0
+      },
+      {
+        "name": "Hit from Back",
+        "count": 1,
+        "pct": 25.0
+      },
+      {
+        "name": "Run off Road",
+        "count": 1,
+        "pct": 25.0
+      }
+    ],
+    "total_fatal_all_roads": 152,
+    "total_grievous_all_roads": 164,
+    "total_clusters": 1,
+    "time_distribution": [
+      {
+        "label": "Night (8pm–5am)",
+        "value": 5
+      },
+      {
+        "label": "Afternoon (10am–4pm)",
+        "value": 1
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2023,
+        "value": 5
+      },
+      {
+        "label": 2024,
+        "value": 1
+      }
+    ],
+    "pedestrian_accidents": [
+      {
+        "name": "Side Car",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "MANIPUR",
+    "fg_covered": 2,
+    "blackspots": 1,
+    "corridors": 1,
+    "total_fatalities": 0,
+    "total_grievous": 1,
+    "total_fg": 2,
+    "total_accidents": 3,
+    "fatal_accidents": 0,
+    "grievous_accidents": 2,
+    "minor_accidents": 1,
+    "no_injury_accidents": 0,
+    "spot_distribution": [
+      {
+        "label": "0-25",
+        "value": 1
+      },
+      {
+        "label": "25-50",
+        "value": 0
+      },
+      {
+        "label": "50-100",
+        "value": 0
+      },
+      {
+        "label": "100+",
+        "value": 0
+      }
+    ],
+    "violations": [
+      {
+        "name": "No Violation",
+        "count": 2,
+        "pct": 100.0
+      }
+    ],
+    "crash_types": [
+      {
+        "name": "Vehicle to Vehicle",
+        "count": 3,
+        "pct": 100.0
+      }
+    ],
+    "crash_natures": [
+      {
+        "name": "Head on Collision",
+        "count": 3,
+        "pct": 75.0
+      },
+      {
+        "name": "Hit Parked Vehicle",
+        "count": 1,
+        "pct": 25.0
+      }
+    ],
+    "total_fatal_all_roads": 272,
+    "total_grievous_all_roads": 500,
+    "total_clusters": 1,
+    "time_distribution": [
+      {
+        "label": "Evening (4pm–8pm)",
+        "value": 2
+      },
+      {
+        "label": "Afternoon (10am–4pm)",
+        "value": 1
+      }
+    ],
+    "year_wise": [
+      {
+        "label": 2023,
+        "value": 1
+      },
+      {
+        "label": 2024,
+        "value": 2
+      }
+    ],
+    "vehicle_pairs": [
+      {
+        "name": "Scooter + Side Car",
+        "count": 2
+      },
+      {
+        "name": "Scooter + Scooter",
+        "count": 1
+      }
+    ]
+  }
+]

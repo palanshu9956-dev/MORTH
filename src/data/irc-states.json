@@ -1,0 +1,147 @@
+[
+  {
+    "name": "UTTAR PRADESH",
+    "fg_covered": 12640,
+    "blackspots": 2490,
+    "corridors": 970,
+    "total_fatalities": 5110,
+    "total_grievous": 7530,
+    "total_fg": 12640,
+    "spot_distribution": [
+      { "label": "0-25", "value": 812 },
+      { "label": "25-50", "value": 496 },
+      { "label": "50-100", "value": 224 }
+    ],
+    "violations": [
+      { "name": "No Violation", "count": 6840, "pct": 54.1 },
+      { "name": "High Speed", "count": 2620, "pct": 20.7 },
+      { "name": "Changing lane without care", "count": 1468, "pct": 11.6 }
+    ],
+    "crash_types": [
+      { "name": "Vehicle to Vehicle", "count": 6902, "pct": 54.6 },
+      { "name": "Vehicle to Pedestrian", "count": 3218, "pct": 25.5 },
+      { "name": "Vehicle to Bicycle", "count": 1194, "pct": 9.4 }
+    ],
+    "crash_natures": [
+      { "name": "Hit from Back", "count": 3876, "pct": 30.7 },
+      { "name": "Head on Collision", "count": 2571, "pct": 20.3 },
+      { "name": "Hit from Side", "count": 2429, "pct": 19.2 }
+    ]
+  },
+  {
+    "name": "MAHARASHTRA",
+    "fg_covered": 11970,
+    "blackspots": 2234,
+    "corridors": 915,
+    "total_fatalities": 4932,
+    "total_grievous": 7038,
+    "total_fg": 11970,
+    "spot_distribution": [
+      { "label": "0-25", "value": 702 },
+      { "label": "25-50", "value": 458 },
+      { "label": "50-100", "value": 218 }
+    ],
+    "violations": [
+      { "name": "No Violation", "count": 6287, "pct": 52.5 },
+      { "name": "High Speed", "count": 2792, "pct": 23.3 },
+      { "name": "Rash Driving", "count": 1875, "pct": 15.7 }
+    ],
+    "crash_types": [
+      { "name": "Vehicle to Vehicle", "count": 6578, "pct": 54.9 },
+      { "name": "Vehicle to Pedestrian", "count": 3011, "pct": 25.2 },
+      { "name": "Vehicle to Object / Property", "count": 1104, "pct": 9.2 }
+    ],
+    "crash_natures": [
+      { "name": "Hit from Back", "count": 3724, "pct": 31.1 },
+      { "name": "Hit from Side", "count": 2891, "pct": 24.2 },
+      { "name": "Head on Collision", "count": 2108, "pct": 17.6 }
+    ]
+  },
+  {
+    "name": "TAMIL NADU",
+    "fg_covered": 10580,
+    "blackspots": 2012,
+    "corridors": 824,
+    "total_fatalities": 4190,
+    "total_grievous": 6390,
+    "total_fg": 10580,
+    "spot_distribution": [
+      { "label": "0-25", "value": 631 },
+      { "label": "25-50", "value": 411 },
+      { "label": "50-100", "value": 191 }
+    ],
+    "violations": [
+      { "name": "No Violation", "count": 5650, "pct": 53.4 },
+      { "name": "High Speed", "count": 1873, "pct": 17.7 },
+      { "name": "Rash Driving", "count": 1718, "pct": 16.2 }
+    ],
+    "crash_types": [
+      { "name": "Vehicle to Vehicle", "count": 5794, "pct": 54.8 },
+      { "name": "Vehicle to Pedestrian", "count": 2585, "pct": 24.4 },
+      { "name": "No Collision", "count": 972, "pct": 9.2 }
+    ],
+    "crash_natures": [
+      { "name": "Hit from Back", "count": 3049, "pct": 28.8 },
+      { "name": "Head on Collision", "count": 2738, "pct": 25.9 },
+      { "name": "Hit from Side", "count": 2552, "pct": 24.1 }
+    ]
+  },
+  {
+    "name": "RAJASTHAN",
+    "fg_covered": 8460,
+    "blackspots": 1714,
+    "corridors": 743,
+    "total_fatalities": 3722,
+    "total_grievous": 4738,
+    "total_fg": 8460,
+    "spot_distribution": [
+      { "label": "0-25", "value": 518 },
+      { "label": "25-50", "value": 329 },
+      { "label": "50-100", "value": 151 }
+    ],
+    "violations": [
+      { "name": "No Violation", "count": 4240, "pct": 50.1 },
+      { "name": "High Speed", "count": 1930, "pct": 22.8 },
+      { "name": "Rash Driving", "count": 1315, "pct": 15.5 }
+    ],
+    "crash_types": [
+      { "name": "Vehicle to Vehicle", "count": 4389, "pct": 51.9 },
+      { "name": "Vehicle to Pedestrian", "count": 2199, "pct": 26.0 },
+      { "name": "Vehicle to Object / Property", "count": 822, "pct": 9.7 }
+    ],
+    "crash_natures": [
+      { "name": "Hit from Back", "count": 2476, "pct": 29.3 },
+      { "name": "Hit from Side", "count": 1961, "pct": 23.2 },
+      { "name": "Head on Collision", "count": 1656, "pct": 19.6 }
+    ]
+  },
+  {
+    "name": "GUJARAT",
+    "fg_covered": 7990,
+    "blackspots": 1530,
+    "corridors": 668,
+    "total_fatalities": 3314,
+    "total_grievous": 4676,
+    "total_fg": 7990,
+    "spot_distribution": [
+      { "label": "0-25", "value": 493 },
+      { "label": "25-50", "value": 314 },
+      { "label": "50-100", "value": 139 }
+    ],
+    "violations": [
+      { "name": "No Violation", "count": 3982, "pct": 49.8 },
+      { "name": "High Speed", "count": 1738, "pct": 21.8 },
+      { "name": "Rash Driving", "count": 1242, "pct": 15.5 }
+    ],
+    "crash_types": [
+      { "name": "Vehicle to Vehicle", "count": 4207, "pct": 52.7 },
+      { "name": "Vehicle to Pedestrian", "count": 1998, "pct": 25.0 },
+      { "name": "Vehicle to Object / Property", "count": 782, "pct": 9.8 }
+    ],
+    "crash_natures": [
+      { "name": "Hit from Back", "count": 2284, "pct": 28.6 },
+      { "name": "Hit from Side", "count": 1917, "pct": 24.0 },
+      { "name": "Head on Collision", "count": 1488, "pct": 18.6 }
+    ]
+  }
+]

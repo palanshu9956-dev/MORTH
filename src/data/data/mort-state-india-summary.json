@@ -1,0 +1,184 @@
+{
+  "states": {
+    "andaman & nicobar": {
+      "total_accidents_india_three_years": 417,
+      "total_fatal_accidents_india_three_years": 67,
+      "total_grievous_accidents_india_three_years": 198
+    },
+    "andhra pradesh": {
+      "total_accidents_india_three_years": 55741,
+      "total_fatal_accidents_india_three_years": 22371,
+      "total_grievous_accidents_india_three_years": 10802
+    },
+    "arunachal pradesh": {
+      "total_accidents_india_three_years": 406,
+      "total_fatal_accidents_india_three_years": 178,
+      "total_grievous_accidents_india_three_years": 112
+    },
+    "assam": {
+      "total_accidents_india_three_years": 40158,
+      "total_fatal_accidents_india_three_years": 9905,
+      "total_grievous_accidents_india_three_years": 18404
+    },
+    "bihar": {
+      "total_accidents_india_three_years": 35432,
+      "total_fatal_accidents_india_three_years": 26420,
+      "total_grievous_accidents_india_three_years": 5434
+    },
+    "chandigarh": {
+      "total_accidents_india_three_years": 1256,
+      "total_fatal_accidents_india_three_years": 210,
+      "total_grievous_accidents_india_three_years": 315
+    },
+    "chhattisgarh": {
+      "total_accidents_india_three_years": 38837,
+      "total_fatal_accidents_india_three_years": 16348,
+      "total_grievous_accidents_india_three_years": 7089
+    },
+    "dadra and nagar haveli and daman and diu": {
+      "total_accidents_india_three_years": 433,
+      "total_fatal_accidents_india_three_years": 223,
+      "total_grievous_accidents_india_three_years": 166
+    },
+    "delhi": {
+      "total_accidents_india_three_years": 17748,
+      "total_fatal_accidents_india_three_years": 4045,
+      "total_grievous_accidents_india_three_years": 3557
+    },
+    "goa": {
+      "total_accidents_india_three_years": 7884,
+      "total_fatal_accidents_india_three_years": 781,
+      "total_grievous_accidents_india_three_years": 916
+    },
+    "gujarat": {
+      "total_accidents_india_three_years": 58123,
+      "total_fatal_accidents_india_three_years": 22143,
+      "total_grievous_accidents_india_three_years": 16667
+    },
+    "haryana": {
+      "total_accidents_india_three_years": 35276,
+      "total_fatal_accidents_india_three_years": 13663,
+      "total_grievous_accidents_india_three_years": 10896
+    },
+    "himachal pradesh": {
+      "total_accidents_india_three_years": 6331,
+      "total_fatal_accidents_india_three_years": 2136,
+      "total_grievous_accidents_india_three_years": 1359
+    },
+    "jammu & kashmir": {
+      "total_accidents_india_three_years": 17162,
+      "total_fatal_accidents_india_three_years": 2649,
+      "total_grievous_accidents_india_three_years": 5356
+    },
+    "jharkhand": {
+      "total_accidents_india_three_years": 17213,
+      "total_fatal_accidents_india_three_years": 12177,
+      "total_grievous_accidents_india_three_years": 3493
+    },
+    "karnataka": {
+      "total_accidents_india_three_years": 126937,
+      "total_fatal_accidents_india_three_years": 32667,
+      "total_grievous_accidents_india_three_years": 45135
+    },
+    "kerala": {
+      "total_accidents_india_three_years": 153925,
+      "total_fatal_accidents_india_three_years": 11515,
+      "total_grievous_accidents_india_three_years": 108425
+    },
+    "ladakh": {
+      "total_accidents_india_three_years": 835,
+      "total_fatal_accidents_india_three_years": 152,
+      "total_grievous_accidents_india_three_years": 161
+    },
+    "lakshadweep": {
+      "total_accidents_india_three_years": 9,
+      "total_fatal_accidents_india_three_years": 0,
+      "total_grievous_accidents_india_three_years": 6
+    },
+    "madhya pradesh": {
+      "total_accidents_india_three_years": 150990,
+      "total_fatal_accidents_india_three_years": 36568,
+      "total_grievous_accidents_india_three_years": 32400
+    },
+    "maharashtra": {
+      "total_accidents_india_three_years": 97954,
+      "total_fatal_accidents_india_three_years": 44285,
+      "total_grievous_accidents_india_three_years": 36634
+    },
+    "manipur": {
+      "total_accidents_india_three_years": 1005,
+      "total_fatal_accidents_india_three_years": 272,
+      "total_grievous_accidents_india_three_years": 494
+    },
+    "meghalaya": {
+      "total_accidents_india_three_years": 605,
+      "total_fatal_accidents_india_three_years": 333,
+      "total_grievous_accidents_india_three_years": 161
+    },
+    "mizoram": {
+      "total_accidents_india_three_years": 285,
+      "total_fatal_accidents_india_three_years": 135,
+      "total_grievous_accidents_india_three_years": 28
+    },
+    "nagaland": {
+      "total_accidents_india_three_years": 469,
+      "total_fatal_accidents_india_three_years": 122,
+      "total_grievous_accidents_india_three_years": 139
+    },
+    "odisha": {
+      "total_accidents_india_three_years": 30517,
+      "total_fatal_accidents_india_three_years": 16181,
+      "total_grievous_accidents_india_three_years": 9612
+    },
+    "puducherry": {
+      "total_accidents_india_three_years": 4778,
+      "total_fatal_accidents_india_three_years": 668,
+      "total_grievous_accidents_india_three_years": 1042
+    },
+    "punjab": {
+      "total_accidents_india_three_years": 13022,
+      "total_fatal_accidents_india_three_years": 4959,
+      "total_grievous_accidents_india_three_years": 1932
+    },
+    "rajasthan": {
+      "total_accidents_india_three_years": 81995,
+      "total_fatal_accidents_india_three_years": 31318,
+      "total_grievous_accidents_india_three_years": 23984
+    },
+    "sikkim": {
+      "total_accidents_india_three_years": 463,
+      "total_fatal_accidents_india_three_years": 158,
+      "total_grievous_accidents_india_three_years": 218
+    },
+    "tamil nadu": {
+      "total_accidents_india_three_years": 205249,
+      "total_fatal_accidents_india_three_years": 52214,
+      "total_grievous_accidents_india_three_years": 46919
+    },
+    "telangana": {
+      "total_accidents_india_three_years": 67222,
+      "total_fatal_accidents_india_three_years": 20469,
+      "total_grievous_accidents_india_three_years": 12789
+    },
+    "tripura": {
+      "total_accidents_india_three_years": 1442,
+      "total_fatal_accidents_india_three_years": 618,
+      "total_grievous_accidents_india_three_years": 669
+    },
+    "uttar pradesh": {
+      "total_accidents_india_three_years": 132652,
+      "total_fatal_accidents_india_three_years": 65056,
+      "total_grievous_accidents_india_three_years": 47899
+    },
+    "uttarakhand": {
+      "total_accidents_india_three_years": 5541,
+      "total_fatal_accidents_india_three_years": 3020,
+      "total_grievous_accidents_india_three_years": 1761
+    },
+    "west bengal": {
+      "total_accidents_india_three_years": 40740,
+      "total_fatal_accidents_india_three_years": 18161,
+      "total_grievous_accidents_india_three_years": 16934
+    }
+  }
+}
